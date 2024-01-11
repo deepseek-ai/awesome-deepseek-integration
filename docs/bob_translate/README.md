@@ -2,6 +2,8 @@
 
 # [Bob Translate](https://bobtranslate.com/)
 
+Bob Translate is a translation and OCR application on Mac.
+
 ## UI
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/9e2a0ac5-a284-4c82-bcd3-e7aefd9cd5a8)
 

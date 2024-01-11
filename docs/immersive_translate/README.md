@@ -2,6 +2,8 @@
 
 # [Immersive Translate](https://immersivetranslate.com/)
 
+Immersive Translate is a bilingual webpage translation plugin.
+
 ## UI
 
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/adf0f871-3ea6-4523-b892-57305bbe8de0)

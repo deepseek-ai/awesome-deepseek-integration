@@ -2,6 +2,8 @@
 
 # [Siri GPT (Shortcut)](https://www.icloud.com/shortcuts/6889d862918e479693be11fd9a0293b2)
 
+Siri equiped with LLM.
+
 ## UI
 
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/ac074986-51e9-4d97-9a46-ab704746efe6)

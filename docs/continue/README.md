@@ -2,6 +2,8 @@
 
 # [Continue](https://continue.dev/)
 
+Continue is an open-source autopilot in IDE.
+
 ## UI
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/094e9dc8-03d0-493d-95fb-6129a42a35bd)
 
