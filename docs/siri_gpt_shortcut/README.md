@@ -10,7 +10,7 @@ A shortcut to enhance Siri's capabilities with LLMs.
 
 
 ## Integrate with Deepseek API
-
+## After adding the shortcut to the 'Shortcuts' app, find ChatGPT 1.2.5, right-click, and edit.
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/0db6d984-8581-4b78-8391-7b86bd6304b6)
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/ca6425a6-5dad-4f07-83f6-ed68e64f6f96)
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/ab97f74a-8140-4be6-b9c6-190b7c4790ca)
