@@ -2,7 +2,7 @@
 
 # [Chatbox](https://chatboxai.app/)
 
-Chatbox is a desktop client for multiple cutting-edge LLM models, available on Windows, Mac and Linux.
+Chatbox is a desktop client for multiple LLM models, available on Windows, Mac and Linux.
 
 ## UI
 
