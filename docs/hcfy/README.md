@@ -2,7 +2,7 @@
 
 # [hcfy](https://hcfy.app/)
 
-hcfy (划词翻译) is a web browser extension to integrate multiple translation services.
+hcfy (划词翻译) is a browser translation plugin that integrates multiple translation APIs and LLM APIs.
 
 ## UI
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/367a41b6-3277-4897-a53f-aaa17bb9dc53)
