@@ -2,7 +2,7 @@
 
 # [ChatGPT Box](https://github.com/josStorer/chatGPTBox)
 
-ChatGPT Box is a ChatGPT integration in browser, completely for free.
+ChatGPT Box is a deep LLMs integrations in your browser, completely for free.
 
 ## UI
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/583b27ec-474a-4c29-aa93-cae44738b438)
