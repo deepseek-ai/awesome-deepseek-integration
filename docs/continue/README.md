@@ -2,7 +2,8 @@
 
 # [Continue](https://continue.dev/)
 
-Continue is an open-source autopilot in IDE.
+An open-source autopilot in your IDE.
+Continue will generate, refactor, and explain entire sections of code with LLMs.
 
 ## UI
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/094e9dc8-03d0-493d-95fb-6129a42a35bd)
