@@ -27,7 +27,7 @@
 <table>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/9d3f42b8-fcd0-47ab-8b06-1dd0554dd80e" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/josStorer/chatGPTBox](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/immersive_translate/README_cn.md"> 沉浸式翻译 </a> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/immersive_translate/README_cn.md"> 沉浸式翻译 </a> </td>
         <td> 一款双语对照网页翻译插件，简洁，高效 </td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@
 <table>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/e4d082de-6f64-44b9-beaa-0de55d70cfab" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://continue.dev/](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/continue/README_cn.md"> Continue </a> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/continue/README_cn.md"> Continue </a> </td>
         <td> 开源 IDE 插件，使用 LLM 做你的编程助手 </td>
     </tr>
 </table>
