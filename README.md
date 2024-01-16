@@ -27,7 +27,7 @@ Integrate Deepseek LLM into popular softwares.
 <table>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/9d3f42b8-fcd0-47ab-8b06-1dd0554dd80e" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/josStorer/chatGPTBox](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/immersive_translate/README.md"> Immersive Translate </a> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/immersive_translate/README.md"> Immersive Translate </a> </td>
         <td> Immersive Translate is a bilingual webpage translation plugin </td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@ Integrate Deepseek LLM into popular softwares.
 <table>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/e4d082de-6f64-44b9-beaa-0de55d70cfab" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://continue.dev/](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/continue/README.md"> Continue </a> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/continue/README.md"> Continue </a> </td>
         <td> Continue is an open-source autopilot in IDE </td>
     </tr>
 </table>
