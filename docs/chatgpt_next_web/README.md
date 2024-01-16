@@ -2,7 +2,7 @@
 
 # [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
 
-ChatGPT Next Web is a cross-platform ChatGPT web UI, with GPT3, GPT4 & Gemini Pro support.
+One-Click to get a well-designed cross-platform ChatGPT web UI，support multiple LLMs.
 
 ## UI
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/3a827669-e5e4-4fc3-97d7-bcf57efb76d1)
