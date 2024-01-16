@@ -2,7 +2,7 @@
 
 # [Immersive Translate](https://immersivetranslate.com/)
 
-沉浸式翻译是一款双语网页翻译插件.
+沉浸式翻译是一款双语对照网页翻译插件.
 
 ## UI
 
