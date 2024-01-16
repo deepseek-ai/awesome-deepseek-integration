@@ -1,6 +1,6 @@
 <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/9d3f42b8-fcd0-47ab-8b06-1dd0554dd80e" width="64" height="auto" /> 
 
-# [Immersive Translate](https://immersivetranslate.com/)
+# [沉浸式翻译](https://immersivetranslate.com/)
 
 沉浸式翻译是一款双语对照网页翻译插件.
 
