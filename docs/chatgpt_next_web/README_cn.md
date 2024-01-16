@@ -9,4 +9,4 @@
 
 
 ## 配置 deepseek API
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c37e69ba-b66f-4694-a480-98abb67262b8)
+![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/13600976/996363ca-21e3-42f0-8285-071b209f501f)
