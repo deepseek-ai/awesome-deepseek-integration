@@ -10,7 +10,7 @@
 
 
 ## 配置 deepseek API
-
+## 添加该App 后，找到 ChatGPT 1.2.5，右键，编辑
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/0db6d984-8581-4b78-8391-7b86bd6304b6)
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/ca6425a6-5dad-4f07-83f6-ed68e64f6f96)
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/ab97f74a-8140-4be6-b9c6-190b7c4790ca)
