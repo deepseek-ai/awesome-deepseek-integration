@@ -2,7 +2,7 @@
 
 Integrate Deepseek LLM into popular softwares.
 
-### 应用程序
+### Applications
 
 <table>
     <tr>
@@ -22,7 +22,7 @@ Integrate Deepseek LLM into popular softwares.
     </tr>
 </table>
 
-### 浏览器插件
+### Browser Extensions
 
 <table>
     <tr>
@@ -42,7 +42,7 @@ Integrate Deepseek LLM into popular softwares.
     </tr>
 </table>
 
-### VS Code 插件
+### VS Code Extensions
 
 <table>
     <tr>
@@ -52,7 +52,7 @@ Integrate Deepseek LLM into popular softwares.
     </tr>
 </table>
 
-### 其它
+### Others
 
 <table>
     <tr>
