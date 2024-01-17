@@ -57,7 +57,7 @@ Integrate Deepseek LLM into popular softwares.
 <table>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c1e47b01-1766-4f7e-bfe6-ab3cb3991c30" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/siri_gpt_shortcut/README.md"> Siri GPT (Shortcut) </a> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/siri_gpt_shortcut/README.md"> Siri Pro (Shortcut) </a> </td>
         <td> Siri equiped with LLM </td>
     </tr>
 </table>
