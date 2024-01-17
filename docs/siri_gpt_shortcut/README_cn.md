@@ -1,6 +1,6 @@
 <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c1e47b01-1766-4f7e-bfe6-ab3cb3991c30" width="64" height="auto" /> 
 
-# [Siri GPT shortcut](https://www.icloud.com/shortcuts/6889d862918e479693be11fd9a0293b2)
+# [Siri Pro (shortcut)](https://www.icloud.com/shortcuts/6889d862918e479693be11fd9a0293b2)
 
 使用 LLM 来增强 Siri 能力的快捷应用.
 
