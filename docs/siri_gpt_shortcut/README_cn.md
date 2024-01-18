@@ -1,17 +1,19 @@
-<img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c1e47b01-1766-4f7e-bfe6-ab3cb3991c30" width="64" height="auto" /> 
 
-# [Siri Pro (shortcut)](https://www.icloud.com/shortcuts/6889d862918e479693be11fd9a0293b2)
+# [深度求索 (快捷指令)](https://www.icloud.com/shortcuts/b75899492ead45ef9a47cfce89334bf0)
 
-使用 LLM 来增强 Siri 能力的快捷应用.
+使用DeepSeek API 来增强 Siri 能力的快捷指令.
 
 ## UI
 
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/ac074986-51e9-4d97-9a46-ab704746efe6)
+![siri3](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/155953822/657bf7f8-3a2b-4757-9acc-7b6548574a0b)
+
+
 
 
 ## 配置 deepseek API
-## 添加该App 后，找到 ChatGPT 1.2.5，右键，编辑
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/0db6d984-8581-4b78-8391-7b86bd6304b6)
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/ca6425a6-5dad-4f07-83f6-ed68e64f6f96)
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/ab97f74a-8140-4be6-b9c6-190b7c4790ca)
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/000bcf60-2582-4be4-b892-a8cd89a9aedc)
+## 添加该快捷指令后，填入你自己的DeepSeek API Key即可。使用时可以用文本输入，也可以使用Siri唤醒后语音输入。
+![siri1](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/155953822/bfc74639-e85b-4cba-89dc-1a286d17307d)
+
+![siri2](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/155953822/0e483340-858e-424e-9c46-386b6464bfa3)
+
+
