@@ -5,12 +5,13 @@ A shortcut to enhance Siri's capabilities with the DeepSeek API.
 
 ## UI
 
-![siri3](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/155953822/774d7c92-25f5-4014-a619-4a4bce82651f)
+![siri3](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/155953822/c76a1a87-3f0e-49c2-a2a1-2685289ab022)
+
 
 
 ## Integrate with Deepseek API
 ## After adding the shortcut to the 'Shortcuts' app,  fill in your own DeepSeek API key.Then you can use it in text or Siri.
 
-![siri1](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/155953822/dbb7696f-6089-4bb2-81a6-c55b83b42623)
-![siri2](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/155953822/d93c2ab9-048d-42cf-a534-977041ed0ff9)
+![siri1](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/155953822/18bfbf79-e208-4366-8bea-6499096dd819)
 
+![siri2](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/155953822/6d1cca80-de94-4ae4-ae88-c5aa23b8b1fc)
