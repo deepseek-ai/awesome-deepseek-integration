@@ -20,7 +20,7 @@
 <table>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/13600976/224d547a-6fbc-47c8-859f-aa14813e2b0f" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatbox/README_cn.md">ChatGPT Box</a> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatbox/README_cn.md">Chatbox</a> </td>
         <td> 一个支持多种流行LLM模型的桌面客户端，可在 Windows、Mac 和 Linux 上使用 </td>
     </tr>
     <tr>
