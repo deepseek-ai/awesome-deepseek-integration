@@ -1,17 +1,19 @@
+<div align="center">
+
 <p align="center">
 <img width="1000px" alt="Awesome DeepSeek Integrations" src="docs/Awesome DeepSeek Integrations.png">
 </p>
 
 # Awesome DeepSeek Integrations ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-<div align="center">
+Integrate the DeepSeek API into popular softwares. Access [DeepSeek Open Platform](https://platform.deepseek.com/) to get an API key.
     
 English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)
 
 </div>
 
-Integrate the DeepSeek API into popular softwares.
-You can get a DeepSeek API here: https://platform.deepseek.com/
+</br>
+</br>
 
 ### Applications
 
