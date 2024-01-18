@@ -1,5 +1,5 @@
 
-# [Siri Pro (shortcut)](https://www.icloud.com/shortcuts/b75899492ead45ef9a47cfce89334bf0)
+# [深度求索 (shortcut)](https://www.icloud.com/shortcuts/b75899492ead45ef9a47cfce89334bf0)
 
 A shortcut to enhance Siri's capabilities with the DeepSeek API.
 
