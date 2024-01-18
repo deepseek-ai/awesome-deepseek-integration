@@ -20,7 +20,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 <table>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/13600976/224d547a-6fbc-47c8-859f-aa14813e2b0f" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatbox/README.md">ChatGPT Box</a> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatbox/README.md">Chatbox</a> </td>
         <td> Chatbox is a desktop client for multiple cutting-edge LLM models, available on Windows, Mac and Linux </td>
     </tr>
     <tr>
