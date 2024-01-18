@@ -62,7 +62,7 @@
 <table>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c1e47b01-1766-4f7e-bfe6-ab3cb3991c30" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/siri_gpt_shortcut/README_cn.md"> Siri Pro (捷径)<br/>(Apple 系统) </a> </td>
-        <td> 使用 LLM 来增强 Siri 能力的捷径应用 </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main/docs/siri_deepseek_shortcut"> 深度求索（快捷指令） </a> </td>
+        <td> 使用 DeepSeek API 增强Siri能力的快捷指令 </td>
     </tr>
 </table>
