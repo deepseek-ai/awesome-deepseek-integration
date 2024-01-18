@@ -1,11 +1,19 @@
+<div align="center">
+
 <p align="center">
 <img width="1000px" alt="Awesome DeepSeek Integrations" src="docs/Awesome DeepSeek Integrations.png">
 </p>
 
 # Deepseek 实用集成  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
+将 Deepseek 大模型能力轻松接入各类软件。访问 [DeepSeek 开发者平台](https://platform.deepseek.com/)来获取您的 API key。
 
-将 Deepseek 大模型能力轻松接入各类软件。你可以从这里https://platform.deepseek.com/ 获取你的DeepSeek API。
+[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/简体中文
+
+</div>
+
+</br>
+</br>
 
 ### 应用程序
 
