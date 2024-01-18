@@ -1,17 +1,16 @@
-<img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c1e47b01-1766-4f7e-bfe6-ab3cb3991c30" width="64" height="auto" /> 
 
-# [Siri Pro (shortcut)](https://www.icloud.com/shortcuts/6889d862918e479693be11fd9a0293b2)
+# [Siri Pro (shortcut)](https://www.icloud.com/shortcuts/b75899492ead45ef9a47cfce89334bf0)
 
-A shortcut to enhance Siri's capabilities with LLMs.
+A shortcut to enhance Siri's capabilities with the DeepSeek API.
 
 ## UI
 
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/ac074986-51e9-4d97-9a46-ab704746efe6)
+![siri3](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/155953822/774d7c92-25f5-4014-a619-4a4bce82651f)
 
 
 ## Integrate with Deepseek API
-## After adding the shortcut to the 'Shortcuts' app, find ChatGPT 1.2.5, right-click, and edit.
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/0db6d984-8581-4b78-8391-7b86bd6304b6)
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/ca6425a6-5dad-4f07-83f6-ed68e64f6f96)
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/ab97f74a-8140-4be6-b9c6-190b7c4790ca)
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/000bcf60-2582-4be4-b892-a8cd89a9aedc)
+## After adding the shortcut to the 'Shortcuts' app,  fill in your own DeepSeek API key.Then you can use it in text or Siri.
+
+![siri1](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/155953822/dbb7696f-6089-4bb2-81a6-c55b83b42623)
+![siri2](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/155953822/d93c2ab9-048d-42cf-a534-977041ed0ff9)
+
