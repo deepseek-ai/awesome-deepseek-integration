@@ -4,7 +4,8 @@
 
 # Awesome DeepSeek Integrations ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-Integrate Deepseek LLM into popular softwares.
+Integrate the DeepSeek API into popular softwares.
+You can get a DeepSeek API here: https://platform.deepseek.com/
 
 ### Applications
 
