@@ -40,7 +40,7 @@
 <table>
     <tr>
         <td> <img src="https://github.com/InternLM/HuixiangDou/releases/download/v0.1.0rc1/huixiangdou.jpg" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/huixiangdou/README_cn.md">茴香豆</a> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/huixiangdou/README_cn.md">茴香豆<br/>（个人微信/飞书）</a> </td>
         <td> 一个集成到个人微信群/飞书群的领域知识助手，专注解答问题不闲聊</td>
     </tr>
 </table>
