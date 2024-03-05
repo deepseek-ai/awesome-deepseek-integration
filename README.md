@@ -80,7 +80,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 <table>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/unit-mesh/auto-dev/master/plugin/src/main/resources/META-INF/pluginIcon.svg" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://ide.unitmesh.cc/custom/llm-server#deepseek-ai-examples"> Continue </a> </td>
+        <td> <a href="https://ide.unitmesh.cc/quick-start"> AutoDev </a> </td>
         <td>‍AutoDev is an open-source AI coding assistant in JetBrain's IDE </td>
     </tr>
 </table>
