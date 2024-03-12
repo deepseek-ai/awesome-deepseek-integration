@@ -9,6 +9,6 @@ hcfy (划词翻译) is a browser translation plugin that integrates multiple tra
 
 
 ## Integrate with Deepseek API
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c28dad22-9102-4bb1-a32c-549472be5972)
+![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/13600976/b09c8c94-f0ce-4a83-9c97-3aaec58df712)
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/1aecc349-b0d9-46db-9e0f-0034e672cce4)
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/340188ac-617a-45df-a9b5-b1c47a4943a1)
