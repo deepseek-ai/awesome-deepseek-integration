@@ -7,7 +7,7 @@
 # Awesome DeepSeek Integrations ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 Integrate the DeepSeek API into popular softwares. Access [DeepSeek Open Platform](https://platform.deepseek.com/) to get an API key.
-    
+
 English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)
 
 </div>
@@ -32,6 +32,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/1ac9791b-87f7-41d9-9282-a70698344e1d" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/pal/README.md"> Pal - AI Chat Client<br/>(iOS, ipadOS) </a> </td>
         <td> Pal is a customized chat playground on iOS </td>
+    </tr>
+    <tr>
+        <td> <img src="https://www.useunlocked.com/logo/unlocked_dark.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.useunlocked.com/"> Unlocked </a> </td>
+        <td> Chat with over 150 models hosted on Deepseek, Mistral, Groq and many more. </td>
     </tr>
 </table>
 
