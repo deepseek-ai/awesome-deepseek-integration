@@ -33,10 +33,9 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/pal/README_cn.md"> Pal - AI Chat Client<br/>(iOS, ipadOS) </a> </td>
         <td> 一款可以在 iPhone 或 iPad 上使用的 AI 助手 </td>
     </tr>
-
     <tr>
-        <td> <img src="https://docs.enconvo.com/img/logo.svg" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://www.enconvo.com"> Enconvo </a> </td>
+        <td> <img src="https://raw.githubusercontent.com/ysnows/enconvo_media/main/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/enconvo/README_cn.md"> Enconvo </a> </td>
         <td> Enconvo是AI时代的启动器,是所有AI功能的入口,也是一位体贴的智能助理.</td>
     </tr>
 
