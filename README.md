@@ -48,6 +48,12 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/huixiangdou/README_cn.md">HuixiangDou<br/>(wechat,lark)</a> </td>
         <td>Domain knowledge assistant in personal WeChat and Feishu, focusing on answering questions</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/RockChinQ/QChatGPT/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/RockChinQ/QChatGPT">QChatGPT<br/>（QQ）</a> </td>
+        <td> A QQ chatbot with high stability, plugin support, and real-time networking </td>
+        </td>
+    </tr>
 </table>
 
 ### Browser Extensions
