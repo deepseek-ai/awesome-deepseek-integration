@@ -33,6 +33,11 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/pal/README_cn.md"> Pal - AI Chat Client<br/>(iOS, ipadOS) </a> </td>
         <td> 一款可以在 iPhone 或 iPad 上使用的 AI 助手 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/rss-translator/RSS-Translator/main/core/static/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.rsstranslator.com/"> RSS翻译器 </a> </td>
+        <td> 开源、简洁、可自部署的RSS翻译器 </td>
+    </tr>
 </table>
 
 ### 即时通讯插件

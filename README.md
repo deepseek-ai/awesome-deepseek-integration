@@ -38,6 +38,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://www.useunlocked.com/"> Unlocked </a> </td>
         <td> Chat with over 150 models hosted on Deepseek, Mistral, Groq and many more. </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/rss-translator/RSS-Translator/main/core/static/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.rsstranslator.com/"> RSS Translator </a> </td>
+        <td> Translate and Access RSS Feeds in Your Language. </td>
+    </tr>
 </table>
 
 ### IM Application Plugins
