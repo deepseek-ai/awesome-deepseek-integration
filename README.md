@@ -37,6 +37,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://www.useunlocked.com/logo/unlocked_dark.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.useunlocked.com/"> Unlocked </a> </td>
         <td> Chat with over 150 models hosted on Deepseek, Mistral, Groq and many more. </td>
+    </tr> 
+    <tr>
+        <td> <img src="https://docs.enconvo.com/img/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.enconvo.com"> Enconvo </a> </td>
+        <td> Enconvo is the Launcher of the AI era, the entry point for all AI functions, and a thoughtful intelligent assistant.</td>
     </tr>
 </table>
 
