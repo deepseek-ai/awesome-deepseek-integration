@@ -11,7 +11,5 @@ Continue will generate, refactor, and explain entire sections of code with LLMs.
 
 ## Integrate with Deepseek API
 
-![cotinue](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/155953822/23ccd6b3-1741-4f57-9316-fb3fc9141b95)
-
-
+<img width="1462" alt="image" src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/13600976/7114a8ef-c20a-4f06-91b3-2399c6b77b2d">
 
