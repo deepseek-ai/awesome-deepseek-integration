@@ -33,11 +33,6 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/pal/README.md"> Pal - AI Chat Client<br/>(iOS, ipadOS) </a> </td>
         <td> Pal is a customized chat playground on iOS </td>
     </tr>
-    <tr>
-        <td> <img src="https://www.useunlocked.com/logo/unlocked_dark.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://www.useunlocked.com/"> Unlocked </a> </td>
-        <td> Chat with over 150 models hosted on Deepseek, Mistral, Groq and many more. </td>
-    </tr>
 </table>
 
 ### IM Application Plugins
