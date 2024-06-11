@@ -9,6 +9,6 @@
 
 
 ## 配置 deepseek API
-![cotinue](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/155953822/cbe11ac9-32a3-462a-b0ab-123cffaffb24)
+<img width="1462" alt="image" src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/13600976/7114a8ef-c20a-4f06-91b3-2399c6b77b2d">
 
 
