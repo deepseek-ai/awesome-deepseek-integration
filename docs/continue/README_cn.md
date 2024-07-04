@@ -23,7 +23,7 @@
     "model": "deepseek-coder",
     "apiBase": "https://api.deepseek.com",
     "apiType": "openai",
-    "apikey": REDACTED,
+    "apiKey": REDACTED,
     "useLegacyCompletionsEndpoint": false,
     "contextLength": 8192
   }],
