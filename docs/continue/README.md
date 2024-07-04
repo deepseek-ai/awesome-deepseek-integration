@@ -25,7 +25,7 @@ Please use the following config before we release official FIM support:
     "model": "deepseek-coder",
     "apiBase": "https://api.deepseek.com",
     "apiType": "openai",
-    "apikey": REDACTED,
+    "apiKey": REDACTED,
     "useLegacyCompletionsEndpoint": false,
     "contextLength": 8192
   }],
