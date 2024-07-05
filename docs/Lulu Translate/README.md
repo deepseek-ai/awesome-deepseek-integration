@@ -11,4 +11,4 @@ The plugin provides mouse selection translation, paragraph-by-paragraph comparis
 
 ## Configure DeepSeek API
 
-![image](docs/Lulu Translate/assets/ScreenShot-2024-07-05-at-06.21.45.png)
+![image](assets/ScreenShot-2024-07-05-at-06.21.45.png)
