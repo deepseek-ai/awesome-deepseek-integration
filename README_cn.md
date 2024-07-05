@@ -81,6 +81,11 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/hcfy/README_cn.md"> 划词翻译 </a> </td>
         <td> 整合了多家翻译 API 以及 LLM API 的浏览器翻译插件 </td>
     </tr>
+   <tr>
+        <td> <img src="https://static.eudic.net/web/trans/en_trans.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.eudic.net/v4/en/app/plugins"> 欧路翻译 </a> </td>
+        <td> 提供鼠标划词搜索、逐段对照翻译、PDF文献翻译功能。可以使用支持 DeepSeek AI, Bing、GPT、Google等多种翻译引擎。 </td>
+    </tr>
 </table>
 
 ### VS Code 插件

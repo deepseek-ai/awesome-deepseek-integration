@@ -82,6 +82,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/hcfy/README.md"> hcfy (划词翻译) </a> </td>
         <td> hcfy (划词翻译) is a web browser extension to integrate multiple translation services </td>
     </tr>
+    <tr>
+        <td> <img src="https://static.eudic.net/web/trans/en_trans.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.eudic.net/v4/en/app/plugins"> Lulu Translate </a> </td>
+        <td> The plugin provides mouse selection translation, paragraph-by-paragraph comparison translation, and PDF document translation functionalities. It can utilize various translation engines, such as DeepSeek AI, Bing, GPT, Google, etc. </td>
+    </tr>
 </table>
 
 ### VS Code Extensions
