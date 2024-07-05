@@ -83,7 +83,7 @@
     </tr>
    <tr>
         <td> <img src="https://static.eudic.net/web/trans/en_trans.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://www.eudic.net/v4/en/app/plugins"> 欧路翻译 </a> </td>
+        <td> <a href="docs/Lulu Translate/README_cn.md"> 欧路翻译 </a> </td>
         <td> 提供鼠标划词搜索、逐段对照翻译、PDF文献翻译功能。可以使用支持 DeepSeek AI, Bing、GPT、Google等多种翻译引擎。 </td>
     </tr>
 </table>
