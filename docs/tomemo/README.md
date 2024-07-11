@@ -6,13 +6,13 @@ ToMemo is a phrasebook + clipboard history + keyboard iOS app with integrated AI
 
 ## UI
 
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/tomemo/assets/ui.jpg)
+![image](assets/ui.jpg)
 
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/tomemo/assets/ui-keyboard.jpg)
+![image](assets/ui-keyboard.jpg)
 
 ## Integrate with Deepseek API
 
 Go to Settings-Extensions-AI Services-AI Providers to add the Deepseek API Key.
 After adding, you can turn on the 「show in bottom tab」 in the AI service page, so that you can talk to Deepseek directly in the application.
 
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/tomemo/assets/Integrate.jpg)
+![image](assets/integrate.jpg)
