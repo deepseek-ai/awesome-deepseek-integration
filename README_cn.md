@@ -38,9 +38,15 @@
         <td> <a href="hhttps://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/rss_translator/README_cn.md"> RSS翻译器 </a> </td>
         <td> 开源、简洁、可自部署的RSS翻译器 </td>
     </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/ysnows/enconvo_media/main/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/enconvo/README_cn.md"> Enconvo </a> </td>
         <td> Enconvo是AI时代的启动器,是所有AI功能的入口,也是一位体贴的智能助理.</td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/kangfenmao/cherry-studio/blob/main/resources/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
+        <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cherrystudio/README_cn.md">Cherry Studio</a></td>
+        <td>一款为创造者而生的桌面版 AI 助手</td>
     </tr>
 </table>
 
