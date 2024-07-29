@@ -67,6 +67,11 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/huixiangdou/README_cn.md">茴香豆<br/>（个人微信/飞书）</a> </td>
         <td> 一个集成到个人微信群/飞书群的领域知识助手，专注解答问题不闲聊</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/RockChinQ/QChatGPT/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/RockChinQ/QChatGPT">QChatGPT<br/>（QQ）</a> </td>
+        <td> 😎高稳定性、🧩支持插件、🌏实时联网的 LLM QQ / QQ频道 / One Bot 机器人🤖</td>
+    </tr>
 </table>
 
 ### 浏览器插件
