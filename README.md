@@ -39,9 +39,9 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Enconvo is the Launcher of the AI era, the entry point for all AI functions, and a thoughtful intelligent assistant.</td>
     </tr>
     <tr>
-        <td> <img src="https://raw.githubusercontent.com/rss-translator/RSS-Translator/main/core/static/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/rss_translator/README.md"> RSS Translator </a> </td>
-        <td> Translate and Access RSS Feeds in Your Language. </td>
+        <td><img src="https://github.com/kangfenmao/cherry-studio/blob/main/resources/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
+        <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cherrystudio/README.md">Cherry Studio</a></td>
+        <td>A powerful desktop AI assistant for producer</td>
     </tr>
     </tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -68,6 +68,12 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/huixiangdou/README_cn.md">HuixiangDou<br/>(wechat,lark)</a> </td>
         <td>Domain knowledge assistant in personal WeChat and Feishu, focusing on answering questions</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/RockChinQ/QChatGPT/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/RockChinQ/QChatGPT">QChatGPT<br/>（QQ）</a> </td>
+        <td> A QQ chatbot with high stability, plugin support, and real-time networking </td>
+        </td>
+    </tr>
 </table>
 
 ### Browser Extensions
@@ -88,6 +94,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/hcfy/README.md"> hcfy (划词翻译) </a> </td>
         <td> hcfy (划词翻译) is a web browser extension to integrate multiple translation services </td>
     </tr>
+    <tr>
+        <td> <img src="https://static.eudic.net/web/trans/en_trans.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/Lulu Translate/README.md"> Lulu Translate </a> </td>
+        <td> The plugin provides mouse selection translation, paragraph-by-paragraph comparison translation, and PDF document translation functionalities. It can utilize various translation engines, such as DeepSeek AI, Bing, GPT, Google, etc. </td>
+    </tr>
 </table>
 
 ### VS Code Extensions
@@ -107,6 +118,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://raw.githubusercontent.com/unit-mesh/auto-dev/master/plugin/src/main/resources/META-INF/pluginIcon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://ide.unitmesh.cc/quick-start"> AutoDev </a> </td>
         <td>‍AutoDev is an open-source AI coding assistant in JetBrain's IDE </td>
+    </tr>
+    <tr>
+        <td> <img src="https://plugins.jetbrains.com/files/21410/561595/icon/pluginIcon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://plugins.jetbrains.com/plugin/21410-onegai-copilot"> Onegai Copilot </a> </td>
+        <td>Onegai Copilot is an AI coding assistant in JetBrain's IDE </td>
     </tr>
 </table>
 

@@ -38,10 +38,15 @@
         <td> <a href="hhttps://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/rss_translator/README_cn.md"> RSS翻译器 </a> </td>
         <td> 开源、简洁、可自部署的RSS翻译器 </td>
     </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/ysnows/enconvo_media/main/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/enconvo/README_cn.md"> Enconvo </a> </td>
         <td> Enconvo是AI时代的启动器,是所有AI功能的入口,也是一位体贴的智能助理.</td>
     </tr>
+    <tr>
+        <td><img src="https://github.com/kangfenmao/cherry-studio/blob/main/resources/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
+        <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cherrystudio/README_cn.md">Cherry Studio</a></td>
+        <td>一款为创造者而生的桌面版 AI 助手</td>
     </tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/tomemo/README_cn.md"> ToMemo (iOS, ipadOS) </a> </td>
@@ -67,6 +72,11 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/huixiangdou/README_cn.md">茴香豆<br/>（个人微信/飞书）</a> </td>
         <td> 一个集成到个人微信群/飞书群的领域知识助手，专注解答问题不闲聊</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/RockChinQ/QChatGPT/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/RockChinQ/QChatGPT">QChatGPT<br/>（QQ）</a> </td>
+        <td> 😎高稳定性、🧩支持插件、🌏实时联网的 LLM QQ / QQ频道 / One Bot 机器人🤖</td>
+    </tr>
 </table>
 
 ### 浏览器插件
@@ -86,6 +96,11 @@
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c3d9d100-247a-41cc-97c1-10b01ed25e70" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/hcfy/README_cn.md"> 划词翻译 </a> </td>
         <td> 整合了多家翻译 API 以及 LLM API 的浏览器翻译插件 </td>
+    </tr>
+   <tr>
+        <td> <img src="https://static.eudic.net/web/trans/en_trans.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/Lulu Translate/README_cn.md"> 欧路翻译 </a> </td>
+        <td> 提供鼠标划词搜索、逐段对照翻译、PDF文献翻译功能。可以使用支持 DeepSeek AI, Bing、GPT、Google等多种翻译引擎。 </td>
     </tr>
 </table>
 
