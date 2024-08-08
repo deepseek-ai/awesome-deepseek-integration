@@ -43,9 +43,15 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cherrystudio/README.md">Cherry Studio</a></td>
         <td>A powerful desktop AI assistant for producer</td>
     </tr>
+    </tr>
+        <td> <img src="https://tomemo.top/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/tomemo/README.md"> ToMemo (iOS, ipadOS) </a> </td>
+        <td> A phrasebook + clipboard history + keyboard iOS app with integrated AI macromodeling for quick output use in the keyboard.</td>
+    </tr>
 </table>
 
 ### RAG framework
+
 <table>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/33142505/77093e84-9f7c-4716-9168-bac962fa1372" alt="Icon" width="64" height="auto" /> </td>
