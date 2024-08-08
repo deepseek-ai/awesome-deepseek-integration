@@ -11,4 +11,5 @@ Immersive Translate is a bilingual webpage translation plugin.
 
 ## Integrate with Deepseek API
 
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/66d84b17-b420-484a-b814-122813491fd9)
+![20240808-131028](https://github.com/user-attachments/assets/081f00ee-46b8-4227-9d20-e79ce2e68004)
+
