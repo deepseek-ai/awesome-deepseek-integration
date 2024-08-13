@@ -19,27 +19,27 @@ Please use the following config before we release official FIM support:
 
 ```json
 {
+  "completionOptions": {
+    "temperature": 0,
+    "maxTokens": 4096
+  },
   "models": [{
     "title": "DeepSeek",
     "provider": "openai",
     "model": "deepseek-coder",
-    "apiBase": "https://api.deepseek.com",
-    "apiType": "openai",
+    "apiBase": "https://api.deepseek.com/beta",
     "apiKey": REDACTED,
-    "useLegacyCompletionsEndpoint": false,
     "contextLength": 8192
   }],
   "tabAutocompleteOptions": {
-    "template": "Please teach me what I should write in the `hole` tag, but without any further explanation and code backticks, i.e., as if you are directly outputting to a code editor. It can be codes or comments or strings. Don't provide existing & repetitive codes. If the provided prefix and suffix contain incomplete code and statement, your response should be able to be directly concatenated to the provided prefix and suffix. Also note that I may tell you what I'd like to write inside comments. \n{{{prefix}}}<hole></hole>{{{suffix}}}\n\nPlease be aware of the environment the hole is placed, e.g., inside strings or comments or code blocks, and please don't wrap your response in ```. You should always provide non-empty output.\n",
-    "useCache": true,
-    "maxPromptTokens": 2048
+    "maxPromptTokens": 4096
   },
   "tabAutocompleteModel": {
     "title": "DeepSeek-V2",
     "model": "deepseek-coder",
     "apiKey": REDACTED,
     "contextLength": 8192,
-    "apiBase": "https://api.deepseek.com",
+    "apiBase": "https://api.deepseek.com/beta",
     "completionOptions": {
       "maxTokens": 4096,
       "temperature": 0,
@@ -47,8 +47,7 @@ Please use the following config before we release official FIM support:
       "presencePenalty": 0,
       "frequencyPenalty": 0
     },
-    "provider": "openai",
-    "useLegacyCompletionsEndpoint": false
+    "provider": "openai"
   }
 }
 ```
