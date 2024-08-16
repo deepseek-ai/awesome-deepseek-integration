@@ -122,4 +122,9 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main/docs/siri_deepseek_shortcut"> 深度求索（快捷指令） </a> </td>
         <td> 使用 DeepSeek API 增强Siri能力的快捷指令 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/n8n-io/n8n/blob/master/assets/n8n-logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/rubickecho/n8n-deepseek"> n8n-nodes-deepseek </a> </td>
+        <td> 一个 N8N 的社区节点,支持直接使用 DeepSeek API 集成到工作流中 </td>
+    </tr>
 </table>
