@@ -131,6 +131,16 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
+### Cursor
+
+<table>
+    <tr>
+        <td> <img src="https://mintlify.s3-us-west-1.amazonaws.com/cursor/_generated/favicon/apple-touch-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.cursor.com/"> Cursor </a> </td>
+        <td>‍The AI Code Editor</td>
+    </tr>
+</table>
+
 ### Others
 
 <table>
