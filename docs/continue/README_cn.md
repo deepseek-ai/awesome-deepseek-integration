@@ -18,7 +18,7 @@
 ```json
 {
   "completionOptions": {
-    "temperature": 0,
+    "temperature": 1.0,
     "maxTokens": 4096
   },
   "models": [{
@@ -40,7 +40,7 @@
     "apiBase": "https://api.deepseek.com/beta",
     "completionOptions": {
       "maxTokens": 4096,
-      "temperature": 0,
+      "temperature": 1.0,
       "topP": 1,
       "presencePenalty": 0,
       "frequencyPenalty": 0
