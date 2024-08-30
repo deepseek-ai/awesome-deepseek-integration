@@ -13,8 +13,6 @@ Continue will generate, refactor, and explain entire sections of code with LLMs.
 
 ### Tab Completion
 
-Please use the following config before we release official FIM support:
-
     config.json
 
 ```json
