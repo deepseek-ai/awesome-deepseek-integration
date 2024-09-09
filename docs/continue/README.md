@@ -18,38 +18,29 @@ Continue will generate, refactor, and explain entire sections of code with LLMs.
 ```json
 {
   "completionOptions": {
-    "temperature": 1.0,
-    "maxTokens": 4096
+    "BaseCompletionOptions": {
+        "temperature": 0.0,
+        "maxTokens": 256
+    }
   },
-  "models": [{
-    "title": "DeepSeek",
-    "provider": "openai",
-    "model": "deepseek-coder",
-    "apiBase": "https://api.deepseek.com/beta",
-    "apiKey": REDACTED,
-    "contextLength": 8192
-  }],
-  "tabAutocompleteOptions": {
-    "maxPromptTokens": 4096
-  },
+  "models": [
+    {
+      "title": "DeepSeek",
+      "model": "deepseek-chat",
+      "contextLength": 128000,
+      "apiKey": "REDACTED",
+      "provider": "openai",
+      "apiBase": "https://api.deepseek.com/beta"
+    }
+  ],
   "tabAutocompleteModel": {
-    "title": "DeepSeek-V2",
-    "model": "deepseek-coder",
-    "apiKey": REDACTED,
-    "contextLength": 8192,
-    "apiBase": "https://api.deepseek.com/beta",
-    "completionOptions": {
-      "maxTokens": 4096,
-      "temperature": 1.0,
-      "topP": 1,
-      "presencePenalty": 0,
-      "frequencyPenalty": 0
-    },
-    "provider": "openai"
-  }
-}
+    "title": "DeepSeek",
+    "model": "deepseek-chat",
+    "apiKey": "REDACTED",
+    "provider": "openai",
+    "apiBase": "https://api.deepseek.com/beta"
+  },
+...
 ```
 
-### Chat with model
-
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/13600976/7114a8ef-c20a-4f06-91b3-2399c6b77b2d)
+![image](https://github.com/user-attachments/assets/30aca5ee-b1bc-4c01-a007-45bb229283dd)
