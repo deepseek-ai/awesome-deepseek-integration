@@ -11,8 +11,6 @@
 
 ## 接入 DeepSeek API
 
-### Tab 补全
-
     config.json
 
 ```json
