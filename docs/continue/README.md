@@ -11,8 +11,6 @@ Continue will generate, refactor, and explain entire sections of code with LLMs.
 
 ## Integrate with DeepSeek API
 
-### Tab Completion
-
     config.json
 
 ```json
