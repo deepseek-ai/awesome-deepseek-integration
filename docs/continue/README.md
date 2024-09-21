@@ -27,16 +27,14 @@ Continue will generate, refactor, and explain entire sections of code with LLMs.
       "model": "deepseek-chat",
       "contextLength": 128000,
       "apiKey": "REDACTED",
-      "provider": "openai",
-      "apiBase": "https://api.deepseek.com/beta"
+      "provider": "deepseek"
     }
   ],
   "tabAutocompleteModel": {
     "title": "DeepSeek",
     "model": "deepseek-chat",
     "apiKey": "REDACTED",
-    "provider": "openai",
-    "apiBase": "https://api.deepseek.com/beta"
+    "provider": "deepseek"
   },
 ...
 ```
