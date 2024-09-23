@@ -53,6 +53,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/tomemo/README.md"> ToMemo (iOS, ipadOS) </a> </td>
         <td> A phrasebook + clipboard history + keyboard iOS app with integrated AI macromodeling for quick output use in the keyboard.</td>
     </tr>
+    </tr>
+        <td> <img src="https://raw.githubusercontent.com/buxuku/video-subtitle-master/refs/heads/main/resources/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/buxuku/video-subtitle-master">Video Subtitle Master</a></td>
+        <td> Batch generate subtitles for videos, with the ability to translate subtitles into other languages. This is a client-side tool that supports both Mac and Windows platforms and integrates with multiple translation services such as Baidu, Volcengine, DeepLx, OpenAI, DeepSeek, and Ollama.</td>
+    </tr>
 </table>
 
 ### RAG framework
