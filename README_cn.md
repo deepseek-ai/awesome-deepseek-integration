@@ -44,7 +44,7 @@
         <td> Enconvo是AI时代的启动器,是所有AI功能的入口,也是一位体贴的智能助理.</td>
     </tr>
     <tr>
-        <td><img src="https://github.com/kangfenmao/cherry-studio/blob/main/resources/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
+        <td><img src="https://github.com/kangfenmao/cherry-studio/blob/main/src/renderer/src/assets/images/logo.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cherrystudio/README_cn.md">Cherry Studio</a></td>
         <td>一款为创造者而生的桌面版 AI 助手</td>
     </tr>
