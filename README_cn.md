@@ -119,6 +119,16 @@
     </tr>
 </table>
 
+### nvim 插件
+
+<table>
+    <tr>
+        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/e4d082de-6f64-44b9-beaa-0de55d70cfab" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/avante/README_cn.md"> avante </a> </td>
+        <td> 开源 IDE 插件，使用 LLM 做你的编程助手 </td>
+    </tr>
+</table>
+
 ### 其它
 
 <table>
