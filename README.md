@@ -121,6 +121,16 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
+### neovim Extensions
+
+<table>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/avante.nvim/README_cn.md"> avante.nvim </a> </td>
+        <td> avante.nvim is an open-source autopilot in IDE </td>
+    </tr>
+</table>
+
 ### JetBrains Extensions
 
 <table>
