@@ -44,7 +44,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Enconvo is the Launcher of the AI era, the entry point for all AI functions, and a thoughtful intelligent assistant.</td>
     </tr>
     <tr>
-        <td><img src="https://github.com/kangfenmao/cherry-studio/blob/main/resources/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
+        <td><img src="https://github.com/kangfenmao/cherry-studio/blob/main/src/renderer/src/assets/images/logo.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cherrystudio/README.md">Cherry Studio</a></td>
         <td>A powerful desktop AI assistant for producer</td>
     </tr>
