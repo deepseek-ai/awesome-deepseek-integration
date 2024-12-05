@@ -27,16 +27,14 @@
       "model": "deepseek-chat",
       "contextLength": 128000,
       "apiKey": "REDACTED",
-      "provider": "openai",
-      "apiBase": "https://api.deepseek.com/beta"
+      "provider": "deepseek"
     }
   ],
   "tabAutocompleteModel": {
-    "title": "DeepSeek",
-    "model": "deepseek-chat",
+    "title": "DeepSeek Coder",
+    "model": "deepseek-coder",
     "apiKey": "REDACTED",
-    "provider": "openai",
-    "apiBase": "https://api.deepseek.com/beta"
+    "provider": "deepseek",
   },
 ...
 ```
