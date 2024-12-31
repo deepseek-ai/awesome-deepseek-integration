@@ -27,7 +27,8 @@
       "model": "deepseek-chat",
       "contextLength": 128000,
       "apiKey": "REDACTED",
-      "provider": "deepseek"
+      "provider": "deepseek",
+      "apiBase": "https://api.deepseek.com/beta"
     }
   ],
   "tabAutocompleteModel": {
@@ -35,6 +36,7 @@
     "model": "deepseek-coder",
     "apiKey": "REDACTED",
     "provider": "deepseek",
+    "apiBase": "https://api.deepseek.com/beta"
   },
 ...
 ```
