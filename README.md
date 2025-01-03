@@ -149,6 +149,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/continue/README.md"> Continue </a> </td>
         <td> Continue is an open-source autopilot in IDE </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/a18792721831/studyplugin/535b9cab69da0f97b42dcaebb00bb0d4ed15c8a6/translate/src/main/resources/META-INF/pluginIcon.svg" alt="Icon" width="64" height="auto"/> </td>
+        <td> <a href="https://plugins.jetbrains.com/plugin/18336-chinese-english-translate">Chinese-English Translate</a> </td>
+        <td> Chinese-English Translate is a multiple translation services in JetBrain's IDE </td>
+    </tr>
 </table>
 
 ### Cursor
