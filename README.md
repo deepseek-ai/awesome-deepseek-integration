@@ -140,7 +140,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
-        <td> <img src="https://raw.githubusercontent.com/unit-mesh/auto-dev/master/plugin/src/main/resources/META-INF/pluginIcon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://plugins.jetbrains.com/files/21520/412905/icon/pluginIcon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://ide.unitmesh.cc/quick-start"> AutoDev </a> </td>
         <td>‍AutoDev is an open-source AI coding assistant in JetBrain's IDE </td>
     </tr>
@@ -165,7 +165,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
-        <td> <img src="https://mintlify.s3-us-west-1.amazonaws.com/cursor/_generated/favicon/apple-touch-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://global.discourse-cdn.com/flex020/uploads/cursor1/original/2X/a/a4f78589d63edd61a2843306f8e11bad9590f0ca.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.cursor.com/"> Cursor </a> </td>
         <td>‍The AI Code Editor</td>
     </tr>
