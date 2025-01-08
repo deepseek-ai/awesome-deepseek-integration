@@ -68,6 +68,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/UnknownEnergy/chatgpt-api/blob/master/README.md">Chatworm</a> </td>
         <td> Chatworm is a webapp for multiple cutting-edge LLM models, open-source and also available on Android </td>
     </tr>
+    </tr>
+        <td> <img src="https://raw.githubusercontent.com/tisfeng/ImageBed/main/uPic/icon_512x512@2x.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/tisfeng/Easydict">Easydict</a></td>
+        <td> Easydict is a concise and easy-to-use translation dictionary macOS App that allows you to easily and elegantly look up words or translate text. Supports calling large language model APIs for translation.</td>
+    </tr>
 </table>
 
 ### RAG framework
