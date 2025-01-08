@@ -29,6 +29,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> ChatGPT Next Web is a cross-platform ChatGPT web UI, with GPT3, GPT4 & Gemini Pro support </td>
     </tr>
     <tr>
+        <td> <img src="./docs/liubai/assets/liubai-logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/liubai/README.md">Liubai</a> </td>
+        <td> Liubai allows DeepSeek to have arms and legs to manipulate your notes, tasks, calendars, and to-do lists just on WeChat! </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/1ac9791b-87f7-41d9-9282-a70698344e1d" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/pal/README.md"> Pal - AI Chat Client<br/>(iOS, ipadOS) </a> </td>
         <td> Pal is a customized chat playground on iOS </td>
