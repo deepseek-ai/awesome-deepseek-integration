@@ -142,6 +142,11 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/avante.nvim/README_cn.md"> avante.nvim </a> </td>
         <td> 开源 IDE 插件，使用 LLM 做你的编程助手 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/llm.nvim/README.md"> llm.nvim </a> </td>
+        <td> 免费的大语言模型插件，让你在Neovim中与大模型交互，支持任意一款大模型，比如Deepseek，GPT，GLM，kimi或者本地运行的大模型(比如ollama) </td>
+    </tr>
 </table>
 
 ### JetBrains 插件
