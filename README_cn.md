@@ -67,6 +67,11 @@
         <td> <a href="https://github.com/tisfeng/Easydict">Easydict</a></td>
         <td> Easydict 是一个简洁易用的词典翻译 macOS App，能够轻松优雅地查找单词或翻译文本，支持调用大语言模型 API 翻译。</td>
     </tr>
+    </tr>
+        <td> <img src="https://www.raycast.com/favicon-production.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a></td>
+        <td> Raycast 是一款 macOS 生产力工具，它允许你用几个按键来控制你的工具。它支持各种扩展，包括 DeepSeek AI。</td>
+    </tr>
 </table>
 
 ### RAG 框架

@@ -73,6 +73,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/tisfeng/Easydict">Easydict</a></td>
         <td> Easydict is a concise and easy-to-use translation dictionary macOS App that allows you to easily and elegantly look up words or translate text. Supports calling large language model APIs for translation.</td>
     </tr>
+    </tr>
+        <td> <img src="https://www.raycast.com/favicon-production.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a></td>
+        <td> Raycast is a productivity tool for macOS that lets you control your tools with a few keystrokes. It supports various extensions including DeepSeek AI.</td>
+    </tr>
 </table>
 
 ### RAG framework
