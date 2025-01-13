@@ -75,8 +75,8 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
     </tr>
         <td> <img src="https://www.raycast.com/favicon-production.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a></td>
-        <td> Raycast is a productivity tool for macOS that lets you control your tools with a few keystrokes. It supports various extensions including DeepSeek AI.</td>
+        <td> <a href="docs/raycast/README.md">Raycast</a></td>
+        <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a> is a productivity tool for macOS that lets you control your tools with a few keystrokes. It supports various extensions including DeepSeek AI.</td>
     </tr>
 </table>
 
