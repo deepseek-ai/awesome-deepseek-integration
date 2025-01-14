@@ -63,6 +63,16 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/UnknownEnergy/chatgpt-api/blob/master/README.md">Chatworm</a> </td>
         <td> Chatworm is a webapp for multiple cutting-edge LLM models, open-source and also available on Android </td>
     </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/193405629?s=200&v=4" alt="PHP Client" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-php/deepseek-php-client/blob/master/README.md">PHP Client</a> </td>
+        <td> Deepseek PHP Client is a robust and community-driven PHP client library for seamless integration with the Deepseek API </td>
+    </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="Laravel Integration" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-php/deepseek-laravel/blob/master/README.md">Laravel Integration</a> </td>
+        <td> Laravel wrapper for Deepseek PHP client, to seamless deepseek API integration with laravel applications.</td>
+    </tr>
 </table>
 
 ### RAG framework
