@@ -33,3 +33,17 @@ Cline 是一款能够使用您的 CLI 和编辑器的 AI 助手。
 ## 与 DeepSeek API 集成
 
 ![image](./assets/cline-02.png)
+
+## 最佳实践
+
+1. **关闭 Cline 的 Auto Approve 功能**：建议在使用 DeepSeek 时，关闭 Cline 的 Auto Approve 功能，以降低资源消耗，降低多请求因并发带来的卡顿风险。
+
+2. **使用 Cline 改版**：例如 Roo-Cline 或 ALine。这些改版携带的上下文相对短，处理请求时表现更为流畅，且缓存命中率更高，可以帮助节省 API 调用成本。
+
+3. **慎用 DeepSeek 处理大型工程**：对于大型代码工程，不建议使用 DeepSeek + Cline。大型工程通常会携带大量代码上下文，会导致 API 请求处理速度明显变慢。
+
+4. **更换其他 LLM 提供商**：建议您在使用 Cline 时，更换其他 LLM 提供商，以获得更流畅的体验。
+
+## Roo Cline
+
+![image](./assets/roocline-00.png)

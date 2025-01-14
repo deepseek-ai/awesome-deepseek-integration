@@ -33,3 +33,17 @@ Meet Cline, an AI assistant that can use your CLI aNd Editor.
 ## Integrate with DeepSeek API
 
 ![image](./assets/cline-02.png)
+
+## Best practices
+
+1. **Disable Cline's Auto Approve Feature**: It is recommended to disable Cline's Auto Approve feature when using DeepSeek to reduce resource consumption and minimize the risk of lag caused by concurrent multiple requests.
+
+2. **Use Modified Versions of Cline**: For example, Roo-Cline or ALine. These modified versions carry relatively shorter contexts, handle requests more smoothly, and have a higher cache hit rate, which can help save API call costs.
+
+3. **Use DeepSeek with Caution for Large Projects**: For large code projects, it is not recommended to use DeepSeek + Cline. Large projects typically carry a large amount of code context, which can significantly slow down API request processing.
+
+4. **Switch to Other LLM Providers**: It is recommended to switch to other LLM providers when using Cline for a smoother experience.
+
+## Roo Cline
+
+![image](./assets/roocline-00.png)
