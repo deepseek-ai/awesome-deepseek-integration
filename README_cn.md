@@ -29,6 +29,11 @@
         <td> 一键获取跨平台ChatGPT网页用户界面，支持流行的LLM </td>
     </tr>
     <tr>
+        <td> <img src="./docs/liubai/assets/liubai-logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/liubai/README_cn.md">留白记事</a> </td>
+        <td> 留白让你直接在微信上使用 DeepSeek 管理你的笔记、任务、日程和待办清单！ </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/1ac9791b-87f7-41d9-9282-a70698344e1d" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/pal/README_cn.md"> Pal - AI Chat Client<br/>(iOS, ipadOS) </a> </td>
         <td> 一款可以在 iPhone 或 iPad 上使用的 AI 助手 </td>
@@ -56,6 +61,16 @@
         <td> <img src="https://raw.githubusercontent.com/buxuku/video-subtitle-master/refs/heads/main/resources/icon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/buxuku/video-subtitle-master">Video Subtitle Master</a></td>
         <td> 批量为视频生成字幕，并可将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务</td>
+    </tr>
+    </tr>
+        <td> <img src="https://raw.githubusercontent.com/tisfeng/ImageBed/main/uPic/icon_512x512@2x.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/tisfeng/Easydict">Easydict</a></td>
+        <td> Easydict 是一个简洁易用的词典翻译 macOS App，能够轻松优雅地查找单词或翻译文本，支持调用大语言模型 API 翻译。</td>
+    </tr>
+    </tr>
+        <td> <img src="https://www.raycast.com/favicon-production.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/raycast/README_cn.md">Raycast</a></td>
+        <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a> 是一款 macOS 生产力工具，它允许你用几个按键来控制你的工具。它支持各种扩展，包括 DeepSeek AI。</td>
     </tr>
 </table>
 
@@ -126,6 +141,11 @@
         <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/avante.nvim/README_cn.md"> avante.nvim </a> </td>
         <td> 开源 IDE 插件，使用 LLM 做你的编程助手 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/llm.nvim/README.md"> llm.nvim </a> </td>
+        <td> 免费的大语言模型插件，让你在Neovim中与大模型交互，支持任意一款大模型，比如Deepseek，GPT，GLM，kimi或者本地运行的大模型(比如ollama) </td>
     </tr>
 </table>
 
