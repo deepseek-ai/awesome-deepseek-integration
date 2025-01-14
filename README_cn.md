@@ -69,8 +69,8 @@
     </tr>
     </tr>
         <td> <img src="https://www.raycast.com/favicon-production.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a></td>
-        <td> Raycast 是一款 macOS 生产力工具，它允许你用几个按键来控制你的工具。它支持各种扩展，包括 DeepSeek AI。</td>
+        <td> <a href="docs/raycast/README_cn.md">Raycast</a></td>
+        <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a> 是一款 macOS 生产力工具，它允许你用几个按键来控制你的工具。它支持各种扩展，包括 DeepSeek AI。</td>
     </tr>
 </table>
 
