@@ -162,6 +162,11 @@
         <td> <a href="https://plugins.jetbrains.com/plugin/18336-chinese-english-translate">Chinese-English Translate</a> </td>
         <td> 集成了多家国内翻译和ai厂商，将中文翻译到英文的插件。  </td>
     </tr>
+    <tr>
+        <td> <img src="https://plugins.jetbrains.com/files/24851/659002/icon/pluginIcon.svg" alt="Icon" width="64" height="auto"/> </td>
+        <td> <a href="https://plugins.jetbrains.com/plugin/24851-ai-git-commit">AI Git Commit</a> </td>
+        <td> 使用AI生成git commit message的插件。 </td>
+    </tr>
 </table>
 
 ### 其它

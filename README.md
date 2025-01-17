@@ -194,6 +194,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://plugins.jetbrains.com/plugin/18336-chinese-english-translate">Chinese-English Translate</a> </td>
         <td> Chinese-English Translate is a multiple translation services in JetBrain's IDE </td>
     </tr>
+    <tr>
+        <td> <img src="https://plugins.jetbrains.com/files/24851/659002/icon/pluginIcon.svg" alt="Icon" width="64" height="auto"/> </td>
+        <td> <a href="https://plugins.jetbrains.com/plugin/24851-ai-git-commit">AI Git Commit</a> </td>
+        <td> This plugin uses AI to automatically generate commit messages based on the changes in your code. </td>
+    </tr>
 </table>
 
 ### Cursor
