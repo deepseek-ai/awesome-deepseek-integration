@@ -169,6 +169,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="docs/llm.nvim/README.md"> llm.nvim </a> </td>
         <td> A free large language model(LLM) plugin that allows you to interact with LLM in Neovim. Supports any LLM, such as Deepseek, GPT, GLM, Kimi or local LLMs (such as ollama). </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/codecompanion.nvim/README.md"> codecompanion.nvim </a> </td>
+        <td> AI-powered coding, seamlessly in Neovim. </td>
+    </tr>
 </table>
 
 ### JetBrains Extensions
