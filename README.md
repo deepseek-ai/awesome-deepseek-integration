@@ -88,6 +88,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/deepseek-php/deepseek-laravel/blob/master/README.md">Laravel Integration</a> </td>
         <td> Laravel wrapper for Deepseek PHP client, to seamless deepseek API integration with laravel applications.</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/zotero/assets/zotero-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/zotero/README_cn.md">Zotero</a></td>
+        <td> <a href="https://www.zotero.org">Zotero</a>  is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.</td>
+    </tr>
 </table>
 
 ### RAG framework
