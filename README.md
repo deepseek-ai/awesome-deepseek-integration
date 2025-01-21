@@ -95,7 +95,6 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-
 ### RAG framework
 
 <table>
