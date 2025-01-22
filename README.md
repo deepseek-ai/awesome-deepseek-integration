@@ -39,6 +39,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Pal is a customized chat playground on iOS </td>
     </tr>
     <tr>
+        <td> <img src="https://www.librechat.ai/librechat.svg" alt="LibreChat" width="64" height="auto" /> </td>
+        <td> <a href="https://www.librechat.ai/docs/configuration/librechat_yaml/ai_endpoints/deepseek">LibreChat</a> </td>
+        <td> LibreChat is a customizable open-source app that seamlessly integrates DeepSeek for enhanced AI interactions </td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/rss-translator/RSS-Translator/main/core/static/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/rss_translator/README.md"> RSS Translator </a> </td>
         <td> Translate RSS feeds into your language! </td>

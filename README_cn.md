@@ -39,6 +39,11 @@
         <td> 一款可以在 iPhone 或 iPad 上使用的 AI 助手 </td>
     </tr>
     <tr>
+        <td> <img src="https://www.librechat.ai/librechat.svg" alt="LibreChat" width="64" height="auto" /> </td>
+        <td> <a href="https://www.librechat.ai/docs/configuration/librechat_yaml/ai_endpoints/deepseek">LibreChat</a> </td>
+        <td> LibreChat 是一个可定制的开源应用程序，无缝集成了 DeepSeek，以增强人工智能交互体验 </td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/rss-translator/RSS-Translator/main/core/static/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="hhttps://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/rss_translator/README_cn.md"> RSS翻译器 </a> </td>
         <td> 开源、简洁、可自部署的RSS翻译器 </td>
