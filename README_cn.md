@@ -157,6 +157,11 @@
         <td> <a href="docs/llm.nvim/README.md"> llm.nvim </a> </td>
         <td> 免费的大语言模型插件，让你在Neovim中与大模型交互，支持任意一款大模型，比如Deepseek，GPT，GLM，kimi或者本地运行的大模型(比如ollama) </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/codecompanion.nvim/README.md"> codecompanion.nvim </a> </td>
+        <td> AI 驱动的编码，在 Neovim 中无缝集成. </td>
+    </tr>
 </table>
 
 ### JetBrains 插件
