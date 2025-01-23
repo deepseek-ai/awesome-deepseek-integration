@@ -39,6 +39,11 @@
         <td> 一款可以在 iPhone 或 iPad 上使用的 AI 助手 </td>
     </tr>
     <tr>
+        <td> <img src="https://www.librechat.ai/librechat.svg" alt="LibreChat" width="64" height="auto" /> </td>
+        <td> <a href="https://www.librechat.ai/docs/configuration/librechat_yaml/ai_endpoints/deepseek">LibreChat</a> </td>
+        <td> LibreChat 是一个可定制的开源应用程序，无缝集成了 DeepSeek，以增强人工智能交互体验 </td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/rss-translator/RSS-Translator/main/core/static/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="hhttps://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/rss_translator/README_cn.md"> RSS翻译器 </a> </td>
         <td> 开源、简洁、可自部署的RSS翻译器 </td>
@@ -72,7 +77,17 @@
         <td> <a href="docs/raycast/README_cn.md">Raycast</a></td>
         <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a> 是一款 macOS 生产力工具，它允许你用几个按键来控制你的工具。它支持各种扩展，包括 DeepSeek AI。</td>
     </tr>
-        <tr>
+    <tr>
+        <td> <img src="./docs/zotero/assets/zotero-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/zotero/README_cn.md">Zotero</a></td>
+        <td> <a href="https://www.zotero.org">Zotero</a> 是一款免费且易于使用的文献管理工具，旨在帮助您收集、整理、注释、引用和分享研究成果。</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/Siyuan/assets/image-20250122162731-7wkftbw.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/Siyuan/README_cn.md">思源笔记</a> </td>
+        <td> 思源笔记是一款隐私优先的个人知识管理系统，支持完全离线使用，并提供端到端加密的数据同步功能。</td>
+    </tr>
+    <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/102771702?s=200&v=4" alt="Wordware" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-php/deepseek-wordware/blob/master/README.md">Wordware </a> </td>
         <td><a href="https://www.wordware.ai/">Wordware</a> 这是一个工具包，使任何人都可以仅通过自然语言构建、迭代和部署他们的AI堆栈</td>
@@ -156,6 +171,11 @@
         <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/llm.nvim/README.md"> llm.nvim </a> </td>
         <td> 免费的大语言模型插件，让你在Neovim中与大模型交互，支持任意一款大模型，比如Deepseek，GPT，GLM，kimi或者本地运行的大模型(比如ollama) </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/codecompanion.nvim/README.md"> codecompanion.nvim </a> </td>
+        <td> AI 驱动的编码，在 Neovim 中无缝集成. </td>
     </tr>
 </table>
 

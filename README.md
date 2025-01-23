@@ -39,6 +39,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Pal is a customized chat playground on iOS </td>
     </tr>
     <tr>
+        <td> <img src="https://www.librechat.ai/librechat.svg" alt="LibreChat" width="64" height="auto" /> </td>
+        <td> <a href="https://www.librechat.ai/docs/configuration/librechat_yaml/ai_endpoints/deepseek">LibreChat</a> </td>
+        <td> LibreChat is a customizable open-source app that seamlessly integrates DeepSeek for enhanced AI interactions </td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/rss-translator/RSS-Translator/main/core/static/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/rss_translator/README.md"> RSS Translator </a> </td>
         <td> Translate RSS feeds into your language! </td>
@@ -87,6 +92,16 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="Laravel Integration" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-php/deepseek-laravel/blob/master/README.md">Laravel Integration</a> </td>
         <td> Laravel wrapper for Deepseek PHP client, to seamless deepseek API integration with laravel applications.</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/zotero/assets/zotero-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/zotero/README_cn.md">Zotero</a></td>
+        <td> <a href="https://www.zotero.org">Zotero</a> is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/Siyuan/assets/image-20250122162731-7wkftbw.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/Siyuan/README.md">SiYuan</a> </td>
+        <td> SiYuan is a privacy-first personal knowledge management system that supports complete offline usage, as well as end-to-end encrypted data sync.</td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/102771702?s=200&v=4" alt="Wordware" width="64" height="auto" /> </td>
@@ -174,6 +189,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="docs/llm.nvim/README.md"> llm.nvim </a> </td>
         <td> A free large language model(LLM) plugin that allows you to interact with LLM in Neovim. Supports any LLM, such as Deepseek, GPT, GLM, Kimi or local LLMs (such as ollama). </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/codecompanion.nvim/README.md"> codecompanion.nvim </a> </td>
+        <td> AI-powered coding, seamlessly in Neovim. </td>
+    </tr>
 </table>
 
 ### JetBrains Extensions
@@ -228,5 +248,10 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://github.com/n8n-io/n8n/blob/master/assets/n8n-logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/rubickecho/n8n-deepseek"> n8n-nodes-deepseek </a> </td>
         <td> An N8N community node that supports direct integration with the DeepSeek API into workflows. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://framerusercontent.com/images/8rF2JOaZ8l9AvM4H6ezliw44aI.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/BerriAI/litellm"> LiteLLM </a> </td>
+        <td> Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format. Supports DeepSeek AI with cost tracking as well. </td>
     </tr>
 </table>
