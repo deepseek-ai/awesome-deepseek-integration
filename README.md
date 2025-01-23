@@ -105,7 +105,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/102771702?s=200&v=4" alt="Wordware" width="64" height="auto" /> </td>
-        <td> <a href="docs/wordware/README.md">Wordware Integration</a> </td>
+        <td> <a href="docs/wordware/README.md">Wordware</a> </td>
         <td><a href="https://www.wordware.ai/">Wordware</a> is a toolkit that enables anyone to build, iterate, and deploy their AI stack with just natural language.</td>
     </tr>
 </table>
