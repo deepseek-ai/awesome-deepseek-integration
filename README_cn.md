@@ -92,6 +92,11 @@
         <td> <a href="https://github.com/deepseek-php/deepseek-wordware/blob/master/README.md">Wordware </a> </td>
         <td><a href="https://www.wordware.ai/">Wordware</a> 这是一个工具包，使任何人都可以仅通过自然语言构建、迭代和部署他们的AI堆栈</td>
     </tr>
+    </tr>
+        <td> <img src="https://raw.githubusercontent.com/ripperhe/Bob/master/docs/_media/icon_128.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://bobtranslate.com/">Bob</a></td>
+        <td> <a href="https://bobtranslate.com/">Bob</a> 是一款 macOS 平台的翻译和 OCR 软件，您可以在任何应用程序中使用 Bob 进行翻译和 OCR，即用即走！</td>
+    </tr>
 </table>
 
 ### RAG 框架
