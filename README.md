@@ -108,6 +108,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/ArvinLovegood/go-stock/blob/master/README.md">go-stock</a> </td>
         <td>go-stock is a Chinese stock data viewer built by Wails with NativeUI and powered by LLM.</td>
     </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/102771702?s=200&v=4" alt="Wordware" width="64" height="auto" /> </td>
+        <td> <a href="docs/wordware/README.md">Wordware</a> </td>
+        <td><a href="https://www.wordware.ai/">Wordware</a> is a toolkit that enables anyone to build, iterate, and deploy their AI stack with just natural language.</td>
+    </tr>
 </table>
 
 ### RAG framework
@@ -253,5 +258,10 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://framerusercontent.com/images/8rF2JOaZ8l9AvM4H6ezliw44aI.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/BerriAI/litellm"> LiteLLM </a> </td>
         <td> Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format. Supports DeepSeek AI with cost tracking as well. </td>
+    </tr>
+     <tr>
+        <td> <img src="https://framerusercontent.com/images/8rF2JOaZ8l9AvM4H6ezliw44aI.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/mem0ai/mem0"> Mem0 </a> </td>
+        <td> Mem0 enhances AI assistants with an intelligent memory layer, enabling personalized interactions and continuous learning over time. </td>
     </tr>
 </table>
