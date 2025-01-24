@@ -159,6 +159,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="docs/Lulu Translate/README.md"> Lulu Translate </a> </td>
         <td> The plugin provides mouse selection translation, paragraph-by-paragraph comparison translation, and PDF document translation functionalities. It can utilize various translation engines, such as DeepSeek AI, Bing, GPT, Google, etc. </td>
     </tr>
+     <tr>
+        <td> <img src="https://lh3.googleusercontent.com/566yOxLhUIqUVco_XWJ8kbZ4MQSQtYfnq9ByAXlZPrp66VLNY6BP_gcTho_m2WqVEpt9JSj7aG3clAdFgq9P9ohh=s120" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/DeepSeekAI/README.md"> DeepSeekAI </a> </td>
+        <td> DeepSeekAI is an unofficial browser extension based on the DeepSeek API, providing users with an intelligent web interaction experience. By simply selecting text or using a shortcut key to pop up a window, you can get AI-driven real-time responses.</td>
+    </tr>
 </table>
 
 ### VS Code Extensions

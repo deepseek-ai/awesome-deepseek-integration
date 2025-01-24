@@ -142,6 +142,11 @@
         <td> <a href="docs/Lulu Translate/README_cn.md"> 欧路翻译 </a> </td>
         <td> 提供鼠标划词搜索、逐段对照翻译、PDF文献翻译功能。可以使用支持 DeepSeek AI, Bing、GPT、Google等多种翻译引擎。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://lh3.googleusercontent.com/566yOxLhUIqUVco_XWJ8kbZ4MQSQtYfnq9ByAXlZPrp66VLNY6BP_gcTho_m2WqVEpt9JSj7aG3clAdFgq9P9ohh=s120" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/DeepSeekAI/README_cn.md"> DeepSeekAI </a> </td>
+        <td> DeepSeekAI 是一款非官方的浏览器扩展插件，基于 DeepSeek API，为用户提供智能的网页交互体验。通过简单的文本选择或者直接通过快捷键弹出窗口，即可获得 AI 驱动的实时响应</td>
+    </tr>
 </table>
 
 ### VS Code 插件
