@@ -88,6 +88,11 @@
         <td> 思源笔记是一款隐私优先的个人知识管理系统，支持完全离线使用，并提供端到端加密的数据同步功能。</td>
     </tr>
     <tr>
+        <td> <img src="https://github.com/ArvinLovegood/go-stock/raw/master/build/appicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/ArvinLovegood/go-stock/blob/master/README.md">go-stock</a> </td>
+        <td>go-stock 是一个由 Wails 使用 NativeUI 构建并由 LLM 提供支持的股票数据查看分析器。</td>
+    </tr>
+    <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/102771702?s=200&v=4" alt="Wordware" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-php/deepseek-wordware/blob/master/README.md">Wordware </a> </td>
         <td><a href="https://www.wordware.ai/">Wordware</a> 这是一个工具包，使任何人都可以仅通过自然语言构建、迭代和部署他们的AI堆栈</td>

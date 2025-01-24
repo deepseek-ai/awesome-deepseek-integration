@@ -104,6 +104,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> SiYuan is a privacy-first personal knowledge management system that supports complete offline usage, as well as end-to-end encrypted data sync.</td>
     </tr>
     <tr>
+        <td> <img src="https://github.com/ArvinLovegood/go-stock/raw/master/build/appicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/ArvinLovegood/go-stock/blob/master/README.md">go-stock</a> </td>
+        <td>go-stock is a Chinese stock data viewer built by Wails with NativeUI and powered by LLM.</td>
+    </tr>
+    <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/102771702?s=200&v=4" alt="Wordware" width="64" height="auto" /> </td>
         <td> <a href="docs/wordware/README.md">Wordware</a> </td>
         <td><a href="https://www.wordware.ai/">Wordware</a> is a toolkit that enables anyone to build, iterate, and deploy their AI stack with just natural language.</td>
