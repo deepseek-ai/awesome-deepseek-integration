@@ -108,6 +108,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="docs/wordware/README.md">Wordware</a> </td>
         <td><a href="https://www.wordware.ai/">Wordware</a> is a toolkit that enables anyone to build, iterate, and deploy their AI stack with just natural language.</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/LiberSonora/LiberSonora/blob/main/assets/avatar.jpeg?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/LiberSonora/LiberSonora/blob/main/README_en.md">LiberSonora</a> </td>
+        <td> LiberSonora, meaning "Voice of Freedom", is an AI-powered, robust, open-source audiobook toolkit that includes features like intelligent subtitle extraction, AI title generation, multilingual translation, with support for GPU acceleration and batch offline processing</td>
+    </tr>
 </table>
 
 ### RAG framework
