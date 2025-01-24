@@ -87,6 +87,11 @@
         <td> <a href="docs/Siyuan/README_cn.md">思源笔记</a> </td>
         <td> 思源笔记是一款隐私优先的个人知识管理系统，支持完全离线使用，并提供端到端加密的数据同步功能。</td>
     </tr>
+        <tr>
+        <td> <img src="https://github.com/ArvinLovegood/go-stock/raw/master/build/appicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/ArvinLovegood/go-stock/blob/master/README.md">go-stock</a> </td>
+        <td>go-stock 是一个由 Wails 使用 NativeUI 构建并由 LLM 提供支持的中文股票数据查看器。</td>
+    </tr>
 </table>
 
 ### RAG 框架
