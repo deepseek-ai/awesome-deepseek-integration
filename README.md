@@ -108,6 +108,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="docs/wordware/README.md">Wordware</a> </td>
         <td><a href="https://www.wordware.ai/">Wordware</a> is a toolkit that enables anyone to build, iterate, and deploy their AI stack with just natural language.</td>
     </tr>
+    <tr>
+        <td> <img src="https://agenticflow.ai/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
+        <td> AgenticFlow is a platform that helps automate marketing workflows and scale operations with Agentic AI capabilities </td>
+    </tr>
 </table>
 
 ### RAG framework
