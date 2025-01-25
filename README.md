@@ -250,6 +250,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td>Dance with Intelligence in Your Code 💃</td>
     </tr>
 </table>
+
 ### Others
 
 <table>
