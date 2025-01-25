@@ -236,6 +236,20 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
+### Emacs
+
+<table>
+    <tr>
+        <td> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/karthink/gptel"> gptel </a> </td>
+        <td>A simple LLM client for Emacs</td>
+    </tr>
+    <tr>
+        <td> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/milanglacier/minuet-ai.el"> Minuet AI </a> </td>
+        <td>Dance with Intelligence in Your Code 💃</td>
+    </tr>
+</table>
 ### Others
 
 <table>
