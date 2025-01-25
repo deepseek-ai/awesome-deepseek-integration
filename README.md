@@ -259,4 +259,9 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/mem0ai/mem0"> Mem0 </a> </td>
         <td> Mem0 enhances AI assistants with an intelligent memory layer, enabling personalized interactions and continuous learning over time. </td>
     </tr>
+     <tr>
+        <td> <img src="https://framerusercontent.com/images/8rF2JOaZ8l9AvM4H6ezliw44aI.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/mem0ai/mem0"> gptel </a> </td>
+        <td> gptel is a simple Large Language Model chat client for Emacs, with support for multiple models and backends. </td>
+    </tr>
 </table>
