@@ -92,6 +92,11 @@
         <td> <a href="https://github.com/deepseek-php/deepseek-wordware/blob/master/README.md">Wordware </a> </td>
         <td><a href="https://www.wordware.ai/">Wordware</a> 这是一个工具包，使任何人都可以仅通过自然语言构建、迭代和部署他们的AI堆栈</td>
     </tr>
+    <tr>
+        <td> <img src="https://framerusercontent.com/images/xRJ6vNo9mUYeVNxt0KITXCXEuSk.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/langgenius/dify/">Dify</a> </td>
+        <td> <a href="https://dify.ai/">Dify</a> 是一个支持 DeepSeek 模型的 LLM 应用开发平台，可用于创建 AI 助手、工作流、文本生成器等应用。 </td>
+    </tr>
 </table>
 
 ### RAG 框架

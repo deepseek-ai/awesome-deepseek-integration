@@ -108,6 +108,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="docs/wordware/README.md">Wordware</a> </td>
         <td><a href="https://www.wordware.ai/">Wordware</a> is a toolkit that enables anyone to build, iterate, and deploy their AI stack with just natural language.</td>
     </tr>
+    <tr>
+        <td> <img src="https://framerusercontent.com/images/xRJ6vNo9mUYeVNxt0KITXCXEuSk.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/langgenius/dify/">Dify</a> </td>
+        <td> <a href="https://dify.ai/">Dify</a> is an LLM application development platform that supports DeepSeek models for creating assistants, workflows, text generators, and more. </td>
+    </tr>
 </table>
 
 ### RAG framework
