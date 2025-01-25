@@ -128,6 +128,11 @@
         <td> 一款双语对照网页翻译插件，简洁，高效 </td>
     </tr>
     <tr>
+        <td> <img src="https://lh3.googleusercontent.com/K9i0qJb8phasC5wWf5tU68rhnfvX4swsE0hrhJP-WB3WV7MwE5KpMUIJvHKNHHRE6GKNIvIdTNSWoDMl_NggrmUsaw=s120" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/immersive_reading_guide/README_cn.md"> 沉浸式导读 </a> </td>
+        <td> NO Sidebar!!! 沉浸式的 AI 网页摘要，提问... </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/8a301619-a3de-489b-81fd-69aaa7c1c561" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatgpt_box/README_cn.md"> ChatGPT Box </a> </td>
         <td> 将 LLM 作为私人助手，整合到你的浏览器中 </td>
