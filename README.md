@@ -304,4 +304,9 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/mem0ai/mem0"> Mem0 </a> </td>
         <td> Mem0 enhances AI assistants with an intelligent memory layer, enabling personalized interactions and continuous learning over time. </td>
     </tr>
+     <tr>
+        <td> <img src="https://geneplore.com/img/geneplore_color_logo_circular.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://geneplore.com/bot"> Geneplore AI </a> </td>
+        <td> Geneplore AI runs one of the largest AI Discord bots, now with Deepseek v3 and R1. </td>
+    </tr>
 </table>
