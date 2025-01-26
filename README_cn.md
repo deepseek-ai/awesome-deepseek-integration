@@ -109,6 +109,16 @@
     </tr>
 </table>
 
+### AI Agent 框架
+
+<table>
+    <tr>
+        <td> <img src="https://panda.fans/_assets/favicons/apple-touch-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/anda/README_cn.md">Anda</a> </td>
+        <td>一个专为 AI 智能体开发设计的 Rust 语言框架，致力于构建高度可组合、自主运行且具备永久记忆能力的 AI 智能体网络。</td>
+    </tr>
+</table>
+
 ### RAG 框架
 
 <table>
