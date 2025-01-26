@@ -88,9 +88,34 @@
         <td> 思源笔记是一款隐私优先的个人知识管理系统，支持完全离线使用，并提供端到端加密的数据同步功能。</td>
     </tr>
     <tr>
+        <td> <img src="https://github.com/ArvinLovegood/go-stock/raw/master/build/appicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/ArvinLovegood/go-stock/blob/master/README.md">go-stock</a> </td>
+        <td>go-stock 是一个由 Wails 使用 NativeUI 构建并由 LLM 提供支持的股票数据查看分析器。</td>
+    </tr>
+    <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/102771702?s=200&v=4" alt="Wordware" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-php/deepseek-wordware/blob/master/README.md">Wordware </a> </td>
         <td><a href="https://www.wordware.ai/">Wordware</a> 这是一个工具包，使任何人都可以仅通过自然语言构建、迭代和部署他们的AI堆栈</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/LiberSonora/LiberSonora/blob/main/assets/avatar.jpeg?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/LiberSonora/LiberSonora">LiberSonora</a> </td>
+        <td> LiberSonora，寓意“自由的声音”，是一个 AI 赋能的、强大的、开源有声书工具集，包含智能字幕提取、AI标题生成、多语言翻译等功能，支持 GPU 加速、批量离线处理</td>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/ripperhe/Bob/master/docs/_media/icon_128.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://bobtranslate.com/">Bob</a></td>
+        <td> <a href="https://bobtranslate.com/">Bob</a> 是一款 macOS 平台的翻译和 OCR 软件，您可以在任何应用程序中使用 Bob 进行翻译和 OCR，即用即走！</td>
+    </tr>
+</table>
+
+### AI Agent 框架
+
+<table>
+    <tr>
+        <td> <img src="https://panda.fans/_assets/favicons/apple-touch-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/anda/README_cn.md">Anda</a> </td>
+        <td>一个专为 AI 智能体开发设计的 Rust 语言框架，致力于构建高度可组合、自主运行且具备永久记忆能力的 AI 智能体网络。</td>
     </tr>
 </table>
 
@@ -128,6 +153,11 @@
         <td> 一款双语对照网页翻译插件，简洁，高效 </td>
     </tr>
     <tr>
+        <td> <img src="https://lh3.googleusercontent.com/K9i0qJb8phasC5wWf5tU68rhnfvX4swsE0hrhJP-WB3WV7MwE5KpMUIJvHKNHHRE6GKNIvIdTNSWoDMl_NggrmUsaw=s120" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/immersive_reading_guide/README_cn.md"> 沉浸式导读 </a> </td>
+        <td> NO Sidebar!!! 沉浸式的 AI 网页摘要，提问... </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/8a301619-a3de-489b-81fd-69aaa7c1c561" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatgpt_box/README_cn.md"> ChatGPT Box </a> </td>
         <td> 将 LLM 作为私人助手，整合到你的浏览器中 </td>
@@ -141,6 +171,11 @@
         <td> <img src="https://static.eudic.net/web/trans/en_trans.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/Lulu Translate/README_cn.md"> 欧路翻译 </a> </td>
         <td> 提供鼠标划词搜索、逐段对照翻译、PDF文献翻译功能。可以使用支持 DeepSeek AI, Bing、GPT、Google等多种翻译引擎。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/Bistutu/FluentRead/raw/refs/heads/main/public/icon/192.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://fluent.thinkstu.com/"> 流畅阅读 </a> </td>
+        <td> 一款革新性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验 </td>
     </tr>
 </table>
 
