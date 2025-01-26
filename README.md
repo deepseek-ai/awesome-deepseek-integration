@@ -138,6 +138,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> is a no-code platform where marketers build agentic AI workflows for go-to-market automation, powered by hundreds of everyday apps as tools for your AI agents.</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.gptaiflow.tech/logo.png" alt="gpt-ai-flow-logo" width="64" height="auto" /> </td>
+        <td> <a href="https://www.gptaiflow.tech/">GPT AI Flow</a></td>
+        <td> `⌘/Ctrl+Shift+Space` to wake up desktop smart hub | Local encrypted storage | Custom instruction engine | On-demand access without subscription bundling—The ultimate productivity weapon built by engineers for efficiency enthusiasts </td>
+    </tr>
 </table>
 
 ### AI Agent frameworks

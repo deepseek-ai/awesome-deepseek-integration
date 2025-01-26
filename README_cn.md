@@ -112,6 +112,11 @@
         <td> <a href="https://bobtranslate.com/">Bob</a></td>
         <td> <a href="https://bobtranslate.com/">Bob</a> 是一款 macOS 平台的翻译和 OCR 软件，您可以在任何应用程序中使用 Bob 进行翻译和 OCR，即用即走！</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.gptaiflow.tech/logo.png" alt="gpt-ai-flow-logo" width="64" height="auto" /> </td>
+        <td> <a href="https://www.gptaiflow.tech/">GPT AI Flow</a></td>
+        <td> `⌘/Ctrl+Shift+空格` 唤醒桌面智能中枢｜本地加密存储｜自定义指令引擎｜按需调用拒绝订阅捆绑——工程师为效率狂人打造的终极生产力武器 </td>
+    </tr>
 </table>
 
 ### AI Agent 框架
