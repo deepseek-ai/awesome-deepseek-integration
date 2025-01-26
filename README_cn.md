@@ -114,9 +114,18 @@
     </tr>
     <tr>
         <td> <img src="https://www.gptaiflow.tech/logo.png" alt="gpt-ai-flow-logo" width="64" height="auto" /> </td>
-        <td> <a href="https://www.gptaiflow.tech/">GPT AI Flow</a></td>
-        <td> `⌘/Ctrl+Shift+空格` 唤醒桌面智能中枢｜本地加密存储｜自定义指令引擎｜按需调用拒绝订阅捆绑——工程师为效率狂人打造的终极生产力武器 </td>
+        <td> <a href="https://www.gptaiflow.tech/zh/">GPT AI Flow</a></td>
+        <td>
+            工程师为效率狂人（他们自己）打造的终极生产力武器: <a href="https://www.gptaiflow.tech/zh/">GPT AI Flow</a>
+            <ul>
+                <li>`Shift+Alt+空格` 唤醒桌面智能中枢</li>
+                <li>本地加密存储</li>
+                <li>自定义指令引擎</li>
+                <li>按需调用拒绝订阅捆绑</li>
+            </ul>
+        </td>
     </tr>
+
 </table>
 
 ### AI Agent 框架

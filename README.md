@@ -141,7 +141,15 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://www.gptaiflow.tech/logo.png" alt="gpt-ai-flow-logo" width="64" height="auto" /> </td>
         <td> <a href="https://www.gptaiflow.tech/">GPT AI Flow</a></td>
-        <td> `⌘/Ctrl+Shift+Space` to wake up desktop smart hub | Local encrypted storage | Custom instruction engine | On-demand access without subscription bundling—The ultimate productivity weapon built by engineers for efficiency enthusiasts </td>
+        <td> 
+            The ultimate productivity weapon built by engineers for efficiency enthusiasts (themselves): <a href="https://www.gptaiflow.tech/">GPT AI Flow</a>
+            <ul>
+                <li>`Shift+Alt+Space` Wake up desktop intelligent hub</li>
+                <li>Local encrypted storage</li>
+                <li>Custom instruction engine</li>
+                <li>On-demand calling without subscription bundling</li>
+            </ul>
+        </td>
     </tr>
 </table>
 
