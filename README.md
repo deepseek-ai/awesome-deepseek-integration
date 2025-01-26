@@ -128,6 +128,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://bobtranslate.com/">Bob</a></td>
         <td> <a href="https://bobtranslate.com/">Bob</a> is a macOS translation & OCR tool ready to use in any app — right out of the box!</td>
     </tr>
+    <tr>
+        <td> <img src="https://agenticflow.ai/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
+        <td> <a href="https://agenticflow.ai/">AgenticFlow</a> is a no-code platform where marketers build agentic AI workflows for go-to-market automation, powered by hundreds of everyday apps as tools for your AI agents.</td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
