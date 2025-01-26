@@ -323,4 +323,9 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://geneplore.com/bot"> Geneplore AI </a> </td>
         <td> Geneplore AI runs one of the largest AI Discord bots, now with Deepseek v3 and R1. </td>
     </tr>
+    <tr>
+        <td> <img src="https://www.promptfoo.dev/img/logo-panda.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
+        <td> Test and evaluate LLM prompts, including DeepSeek models. Compare different LLM providers, catch regressions, and evaluate responses. </td>
+    </tr>
 </table>

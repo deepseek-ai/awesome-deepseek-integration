@@ -100,7 +100,7 @@
     <tr>
         <td> <img src="https://github.com/LiberSonora/LiberSonora/blob/main/assets/avatar.jpeg?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/LiberSonora/LiberSonora">LiberSonora</a> </td>
-        <td> LiberSonora，寓意“自由的声音”，是一个 AI 赋能的、强大的、开源有声书工具集，包含智能字幕提取、AI标题生成、多语言翻译等功能，支持 GPU 加速、批量离线处理</td>
+        <td> LiberSonora，寓意"自由的声音"，是一个 AI 赋能的、强大的、开源有声书工具集，包含智能字幕提取、AI标题生成、多语言翻译等功能，支持 GPU 加速、批量离线处理</td>
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/ripperhe/Bob/master/docs/_media/icon_128.png" alt="Icon" width="64" height="auto" /> </td>
@@ -241,5 +241,10 @@
         <td> <img src="https://github.com/n8n-io/n8n/blob/master/assets/n8n-logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/rubickecho/n8n-deepseek"> n8n-nodes-deepseek </a> </td>
         <td> 一个 N8N 的社区节点,支持直接使用 DeepSeek API 集成到工作流中 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://www.promptfoo.dev/img/logo-panda.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
+        <td> 测试和评估LLM提示，包括DeepSeek模型。比较不同的LLM提供商，捕获回归，并评估响应。 </td>
     </tr>
 </table>
