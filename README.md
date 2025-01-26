@@ -169,6 +169,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="docs/Lulu Translate/README.md"> Lulu Translate </a> </td>
         <td> The plugin provides mouse selection translation, paragraph-by-paragraph comparison translation, and PDF document translation functionalities. It can utilize various translation engines, such as DeepSeek AI, Bing, GPT, Google, etc. </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/Bistutu/FluentRead/raw/refs/heads/main/public/icon/192.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://fluent.thinkstu.com/"> FluentRead </a> </td>
+        <td> A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience </td>
+    </tr>
 </table>
 
 ### VS Code Extensions
@@ -185,7 +190,6 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Meet Cline, an AI assistant that can use your CLI aNd Editor. </td>
     </tr>
 </table>
-
 ### neovim Extensions
 
 <table>

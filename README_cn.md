@@ -152,6 +152,11 @@
         <td> <a href="docs/Lulu Translate/README_cn.md"> 欧路翻译 </a> </td>
         <td> 提供鼠标划词搜索、逐段对照翻译、PDF文献翻译功能。可以使用支持 DeepSeek AI, Bing、GPT、Google等多种翻译引擎。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/Bistutu/FluentRead/raw/refs/heads/main/public/icon/192.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://fluent.thinkstu.com/"> 流畅阅读 </a> </td>
+        <td> 一款革新性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验 </td>
+    </tr>
 </table>
 
 ### VS Code 插件
