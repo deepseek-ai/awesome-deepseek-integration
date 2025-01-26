@@ -98,6 +98,11 @@
         <td><a href="https://www.wordware.ai/">Wordware</a> 这是一个工具包，使任何人都可以仅通过自然语言构建、迭代和部署他们的AI堆栈</td>
     </tr>
     <tr>
+        <td> <img src="https://framerusercontent.com/images/xRJ6vNo9mUYeVNxt0KITXCXEuSk.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/langgenius/dify/">Dify</a> </td>
+        <td> <a href="https://dify.ai/">Dify</a> 是一个支持 DeepSeek 模型的 LLM 应用开发平台，可用于创建 AI 助手、工作流、文本生成器等应用。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/LiberSonora/LiberSonora/blob/main/assets/avatar.jpeg?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/LiberSonora/LiberSonora">LiberSonora</a> </td>
         <td> LiberSonora，寓意“自由的声音”，是一个 AI 赋能的、强大的、开源有声书工具集，包含智能字幕提取、AI标题生成、多语言翻译等功能，支持 GPU 加速、批量离线处理</td>
