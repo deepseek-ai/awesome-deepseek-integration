@@ -114,11 +114,6 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td><a href="https://www.wordware.ai/">Wordware</a> is a toolkit that enables anyone to build, iterate, and deploy their AI stack with just natural language.</td>
     </tr>
     <tr>
-<<<<<<< HEAD
-        <td> <img src="https://agenticflow.ai/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
-        <td> AgenticFlow is a platform that helps automate marketing workflows and scale operations with Agentic AI capabilities </td>
-=======
         <td> <img src="https://github.com/LiberSonora/LiberSonora/blob/main/assets/avatar.jpeg?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/LiberSonora/LiberSonora/blob/main/README_en.md">LiberSonora</a> </td>
         <td> LiberSonora, meaning "Voice of Freedom", is an AI-powered, robust, open-source audiobook toolkit that includes features like intelligent subtitle extraction, AI title generation, multilingual translation, with support for GPU acceleration and batch offline processing</td>
@@ -127,7 +122,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://raw.githubusercontent.com/ripperhe/Bob/master/docs/_media/icon_128.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://bobtranslate.com/">Bob</a></td>
         <td> <a href="https://bobtranslate.com/">Bob</a> is a macOS translation & OCR tool ready to use in any app — right out of the box!</td>
->>>>>>> 37cce664a1574631281b0066454f8558f87f4789
+    </tr>
+    <tr>
+        <td> <img src="https://agenticflow.ai/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
+        <td> <a href="https://agenticflow.ai/">AgenticFlow</a> is a no-code platform where marketers build agentic AI workflows for go-to-market automation, powered by hundreds of everyday apps as tools for your AI agents.</td>
     </tr>
 </table>
 
