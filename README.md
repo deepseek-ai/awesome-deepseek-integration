@@ -21,12 +21,12 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/13600976/224d547a-6fbc-47c8-859f-aa14813e2b0f" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatbox/README.md">Chatbox</a> </td>
-        <td> Chatbox is a desktop client for multiple cutting-edge LLM models, available on Windows, Mac and Linux </td>
+        <td> Chatbox is a desktop client for multiple cutting-edge LLM models, available on Windows, Mac and Linux. </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/bb65404c-f867-42d8-ae2b-281fe953ab54" alt="Icon" width="64" height="auto"/> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatgpt_next_web/README.md"> ChatGPT-Next-Web </a> </td>
-        <td> ChatGPT Next Web is a cross-platform ChatGPT web UI, with GPT3, GPT4 & Gemini Pro support </td>
+        <td> ChatGPT Next Web is a cross-platform ChatGPT web UI, with GPT3, GPT4 & Gemini Pro support. </td>
     </tr>
     <tr>
         <td> <img src="./docs/liubai/assets/liubai-logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -36,12 +36,12 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/1ac9791b-87f7-41d9-9282-a70698344e1d" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/pal/README.md"> Pal - AI Chat Client<br/>(iOS, ipadOS) </a> </td>
-        <td> Pal is a customized chat playground on iOS </td>
+        <td> Pal is a customized chat playground on iOS. </td>
     </tr>
     <tr>
         <td> <img src="https://www.librechat.ai/librechat.svg" alt="LibreChat" width="64" height="auto" /> </td>
         <td> <a href="https://www.librechat.ai/docs/configuration/librechat_yaml/ai_endpoints/deepseek">LibreChat</a> </td>
-        <td> LibreChat is a customizable open-source app that seamlessly integrates DeepSeek for enhanced AI interactions </td>
+        <td> LibreChat is a customizable open-source app that seamlessly integrates DeepSeek for enhanced AI interactions. </td>
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/rss-translator/RSS-Translator/main/core/static/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
@@ -71,7 +71,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://github.com/UnknownEnergy/chatgpt-api/blob/master/dist/assets/chatworm-72x72.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/UnknownEnergy/chatgpt-api/blob/master/README.md">Chatworm</a> </td>
-        <td> Chatworm is a webapp for multiple cutting-edge LLM models, open-source and also available on Android </td>
+        <td> Chatworm is a webapp for multiple cutting-edge LLM models, open-source and also available on Android. </td>
     </tr>
     </tr>
         <td> <img src="https://raw.githubusercontent.com/tisfeng/ImageBed/main/uPic/icon_512x512@2x.png" alt="Icon" width="64" height="auto" /> </td>
@@ -86,7 +86,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/193405629?s=200&v=4" alt="PHP Client" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-php/deepseek-php-client/blob/master/README.md">PHP Client</a> </td>
-        <td> Deepseek PHP Client is a robust and community-driven PHP client library for seamless integration with the Deepseek API </td>
+        <td> Deepseek PHP Client is a robust and community-driven PHP client library for seamless integration with the Deepseek API. </td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="Laravel Integration" width="64" height="auto" /> </td>
@@ -151,12 +151,12 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://github.com/InternLM/HuixiangDou/releases/download/v0.1.0rc1/huixiangdou.jpg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/huixiangdou/README_cn.md">HuixiangDou<br/>(wechat,lark)</a> </td>
-        <td>Domain knowledge assistant in personal WeChat and Feishu, focusing on answering questions</td>
+        <td>Domain knowledge assistant in personal WeChat and Feishu, focusing on answering questions.</td>
     </tr>
     <tr>
         <td> <img src="https://github.com/RockChinQ/QChatGPT/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/RockChinQ/QChatGPT">QChatGPT<br/>（QQ）</a> </td>
-        <td> A QQ chatbot with high stability, plugin support, and real-time networking </td>
+        <td> A QQ chatbot with high stability, plugin support, and real-time networking. </td>
         </td>
     </tr>
 </table>
@@ -167,7 +167,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/9d3f42b8-fcd0-47ab-8b06-1dd0554dd80e" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/immersive_translate/README.md"> Immersive Translate </a> </td>
-        <td> Immersive Translate is a bilingual webpage translation plugin </td>
+        <td> Immersive Translate is a bilingual webpage translation plugin. </td>
     </tr>
     <tr>
         <td> <img src="https://lh3.googleusercontent.com/K9i0qJb8phasC5wWf5tU68rhnfvX4swsE0hrhJP-WB3WV7MwE5KpMUIJvHKNHHRE6GKNIvIdTNSWoDMl_NggrmUsaw=s120" alt="Icon" width="64" height="auto" /> </td>
@@ -177,12 +177,12 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/8a301619-a3de-489b-81fd-69aaa7c1c561" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatgpt_box/README.md"> ChatGPT Box </a> </td>
-        <td> ChatGPT Box is a ChatGPT integration in browser, completely for free </td>
+        <td> ChatGPT Box is a ChatGPT integration in browser, completely for free. </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c3d9d100-247a-41cc-97c1-10b01ed25e70" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/hcfy/README.md"> hcfy (划词翻译) </a> </td>
-        <td> hcfy (划词翻译) is a web browser extension to integrate multiple translation services </td>
+        <td> hcfy (划词翻译) is a web browser extension to integrate multiple translation services. </td>
     </tr>
     <tr>
         <td> <img src="https://static.eudic.net/web/trans/en_trans.png" alt="Icon" width="64" height="auto" /> </td>
@@ -197,7 +197,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/e4d082de-6f64-44b9-beaa-0de55d70cfab" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/continue/README.md"> Continue </a> </td>
-        <td> Continue is an open-source autopilot in IDE </td>
+        <td> Continue is an open-source autopilot in IDE. </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cline/assets/favicon.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
@@ -212,7 +212,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/avante.nvim/README.md"> avante.nvim </a> </td>
-        <td> avante.nvim is an open-source autopilot in IDE </td>
+        <td> avante.nvim is an open-source autopilot in IDE. </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
@@ -232,22 +232,22 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://plugins.jetbrains.com/files/21520/412905/icon/pluginIcon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://ide.unitmesh.cc/quick-start"> AutoDev </a> </td>
-        <td>‍AutoDev is an open-source AI coding assistant in JetBrain's IDE </td>
+        <td>‍AutoDev is an open-source AI coding assistant in JetBrain's IDE. </td>
     </tr>
     <tr>
         <td> <img src="https://plugins.jetbrains.com/files/21410/561595/icon/pluginIcon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://plugins.jetbrains.com/plugin/21410-onegai-copilot"> Onegai Copilot </a> </td>
-        <td>Onegai Copilot is an AI coding assistant in JetBrain's IDE </td>
+        <td>Onegai Copilot is an AI coding assistant in JetBrain's IDE. </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/e4d082de-6f64-44b9-beaa-0de55d70cfab" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/continue/README.md"> Continue </a> </td>
-        <td> Continue is an open-source autopilot in IDE </td>
+        <td> Continue is an open-source autopilot in IDE. </td>
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/a18792721831/studyplugin/535b9cab69da0f97b42dcaebb00bb0d4ed15c8a6/translate/src/main/resources/META-INF/pluginIcon.svg" alt="Icon" width="64" height="auto"/> </td>
         <td> <a href="https://plugins.jetbrains.com/plugin/18336-chinese-english-translate">Chinese-English Translate</a> </td>
-        <td> Chinese-English Translate is a multiple translation services in JetBrain's IDE </td>
+        <td> Chinese-English Translate is a multiple translation services in JetBrain's IDE. </td>
     </tr>
     <tr>
         <td> <img src="https://plugins.jetbrains.com/files/24851/659002/icon/pluginIcon.svg" alt="Icon" width="64" height="auto"/> </td>
