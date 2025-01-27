@@ -138,6 +138,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> is a no-code platform where marketers build agentic AI workflows for go-to-market automation, powered by hundreds of everyday apps as tools for your AI agents.</td>
     </tr>
+    <tr>
+        <td> <img src="https://agentomat.com/static/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://agentomat.com/">AGENTOMAT</a> </td>
+        <td> <a href="https://agentomat.com/">AGENTOMAT</a> AI Agents for Everyone - the platform to create, share and monitor AI Agents.</td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
