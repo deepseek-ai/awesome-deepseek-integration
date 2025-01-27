@@ -122,6 +122,11 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/anda/README_cn.md">Anda</a> </td>
         <td>一个专为 AI 智能体开发设计的 Rust 语言框架，致力于构建高度可组合、自主运行且具备永久记忆能力的 AI 智能体网络。</td>
     </tr>
+    <tr>
+        <td> <img src="https://alice.fun/alice-logo.png" alt="图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/bob-robert-ai/bob/blob/main/alice/readme.md">Alice</a> </td>
+        <td>一个基于 ICP 的自主 AI 代理，利用 DeepSeek 等大型语言模型进行链上决策。Alice 结合实时数据分析和独特的个性，管理代币、挖掘 BOB 并参与生态系统治理。</td>
+    </tr>
 </table>
 
 ### RAG 框架
