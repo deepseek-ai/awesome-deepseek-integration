@@ -141,7 +141,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://readlecture.cn/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://readlecture.cn/zh">ReadLecture</a> </td>
-        <td> <a href="https://readlecture.cn/zh">叮当好记</a> 是一款音视频总结的AI助手，能够轻松将音、视频转换成精准的图文阅读，支持PPT提取、播客音频概览、思维导图、翻译、会议总结等AI学习方式。</td>
+        <td> <a href="https://readlecture.cn/zh">ReadLecture</a> is an AI assistant designed to summarize audio and video content. It effortlessly transforms audio and video into accurate text and image formats. It also supports a variety of AI-driven learning methods, including PPT extraction, podcast summaries, mind mapping, translation, and meeting notes.</td>
     </tr>
 </table>
 
