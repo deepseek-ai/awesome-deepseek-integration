@@ -138,6 +138,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> is a no-code platform where marketers build agentic AI workflows for go-to-market automation, powered by hundreds of everyday apps as tools for your AI agents.</td>
     </tr>
+    <tr>
+        <td> <img src="https://readlecture.cn/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://readlecture.cn/zh">ReadLecture</a> </td>
+        <td> <a href="https://readlecture.cn/zh">叮当好记</a> 是一款音视频总结的AI助手，能够轻松将音、视频转换成精准的图文阅读，支持PPT提取、播客音频概览、思维导图、翻译、会议总结等AI学习方式。</td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
