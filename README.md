@@ -138,6 +138,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> is a no-code platform where marketers build agentic AI workflows for go-to-market automation, powered by hundreds of everyday apps as tools for your AI agents.</td>
     </tr>
+    <tr>
+        <td> <img src="https://readlecture.cn/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://readlecture.cn/zh">ReadLecture</a> </td>
+        <td> <a href="https://readlecture.cn/zh">ReadLecture</a> is an AI assistant designed to summarize audio and video content. It effortlessly transforms audio and video into accurate text and image formats. It also supports a variety of AI-driven learning methods, including PPT extraction, podcast summaries, mind mapping, translation, and meeting notes.</td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
