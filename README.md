@@ -169,9 +169,9 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td>Domain knowledge assistant in personal WeChat and Feishu, focusing on answering questions.</td>
     </tr>
     <tr>
-        <td> <img src="https://github.com/RockChinQ/QChatGPT/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/RockChinQ/QChatGPT">QChatGPT<br/>（QQ）</a> </td>
-        <td> A QQ chatbot with high stability, plugin support, and real-time networking. </td>
+        <td> <img src="https://github.com/RockChinQ/LangBot/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/RockChinQ/QChatGPT">LangBot<br/>（QQ, WeCom）</a> </td>
+        <td> LLM-based IM bots framework, supports QQ, WeCom, and more platforms.</td>
     </tr>
 </table>
 
