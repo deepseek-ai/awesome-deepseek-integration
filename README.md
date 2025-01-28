@@ -171,7 +171,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://github.com/RockChinQ/LangBot/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/RockChinQ/LangBot">LangBot<br/>（QQ）</a> </td>
-        <td> An IM bot platform of LLM with rich ecology, plugin support and Multimodality. </td>
+        <td> An IM bot platform of LLM with rich ecology, plugin support and multimodality. </td>
     </tr>
 </table>
 
