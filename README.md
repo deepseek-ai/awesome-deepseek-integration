@@ -333,4 +333,9 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
         <td> Test and evaluate LLM prompts, including DeepSeek models. Compare different LLM providers, catch regressions, and evaluate responses. </td>
     </tr>
+    <tr>
+        <td> <img src="https://langfuse.com/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://langfuse.com/docs/integrations/deepseek"> Langfuse </a> </td>
+        <td> Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. </td>
+    </tr>
 </table>
