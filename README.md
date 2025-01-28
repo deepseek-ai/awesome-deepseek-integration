@@ -148,6 +148,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/anda/README.md">Anda</a> </td>
         <td>A Rust framework for AI agent development, designed to build a highly composable, autonomous, and perpetually memorizing network of AI agents.</td>
     </tr>
+    <tr>
+        <td> <img src="https://rig.rs/assets/favicon.png" alt="Icon" width="64" height="auto" alt="Rig (Rust)" /> </td>
+        <td> <a href="https://rig.rs/)](https://rig.rs/">RIG</a> </td>
+        <td>Build modular and scalable LLM Applications in Rust.</td>
+    </tr>
 </table>
 
 ### RAG frameworks
