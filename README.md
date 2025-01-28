@@ -138,6 +138,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> is a no-code platform where marketers build agentic AI workflows for go-to-market automation, powered by hundreds of everyday apps as tools for your AI agents.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/obot-platform/obot/refs/heads/main/docs/static/img/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/obot-platform/obot">Obot</a> </td>
+        <td> Obot is an agent platform for building and deploying AI assistants with built-in RAG, workflow automation, and seamless integration with popular tools and services, powered by LLMs like DeepSeek. </td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
