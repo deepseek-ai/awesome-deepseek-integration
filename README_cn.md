@@ -112,6 +112,11 @@
         <td> <a href="https://bobtranslate.com/">Bob</a></td>
         <td> <a href="https://bobtranslate.com/">Bob</a> 是一款 macOS 平台的翻译和 OCR 软件，您可以在任何应用程序中使用 Bob 进行翻译和 OCR，即用即走！</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/obot-platform/obot/refs/heads/main/docs/static/img/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/obot-platform/obot">Obot</a> </td>
+        <td> Obot 是一个用于构建和部署 AI 助手的智能体平台，内置 RAG、工作流自动化，并可与流行工具和服务无缝集成，支持 DeepSeek 等大语言模型。 </td>
+    </tr>
 </table>
 
 ### AI Agent 框架
