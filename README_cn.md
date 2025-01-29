@@ -144,8 +144,8 @@
     </tr>
     <tr>
         <td> <img src="https://github.com/RockChinQ/LangBot/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/RockChinQ/LangBot">LangBot<br/>（QQ, WeCom）</a> </td>
-        <td> 大模型原生即时通信机器人平台，适配 QQ / QQ频道 / OneBot / 企业微信（wecom） 等多种消息平台 </td>
+        <td> <a href="https://github.com/RockChinQ/LangBot">LangBot<br/>（QQ, 企微, 飞书）</a> </td>
+        <td> 大模型原生即时通信机器人平台，适配 QQ / QQ频道 / 飞书 / OneBot / 企业微信（wecom） 等多种消息平台 </td>
     </tr>
 </table>
 
