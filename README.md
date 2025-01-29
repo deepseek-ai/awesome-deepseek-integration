@@ -170,8 +170,8 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
     <tr>
         <td> <img src="https://github.com/RockChinQ/LangBot/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/RockChinQ/LangBot">LangBot<br/>（QQ, WeCom）</a> </td>
-        <td> LLM-based IM bots framework, supports QQ, WeCom, and more platforms.</td>
+        <td> <a href="https://github.com/RockChinQ/LangBot">LangBot<br/>（QQ, Lark, WeCom）</a> </td>
+        <td> LLM-based IM bots framework, supports QQ, Lark, WeCom, and more platforms.</td>
     </tr>
 </table>
 
