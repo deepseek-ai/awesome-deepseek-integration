@@ -138,6 +138,12 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> is a no-code platform where marketers build agentic AI workflows for go-to-market automation, powered by hundreds of everyday apps as tools for your AI agents.</td>
     </tr>
+    <tr>
+        <td> <img src="https://mindpal.space/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://mindpal.io">MindPal</a> </td>
+        <td> <a href="https://mindpal.io">MindPal</a> is a  platform to build AI Agents and Multi-agent Systems to automate any business processes </td>
+    </tr>
+
 </table>
 
 ### AI Agent frameworks
