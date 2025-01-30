@@ -386,6 +386,6 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> CR </td>
         <td> <a href="https://github.com/hustcer/deepseek-review"> deepseek-review </a> </td>
-        <td> 🚀 Sharpen Your Code, Ship with Confidence! Let's do code review with Deepseek! 🚀 </td>
+        <td> 🚀 Sharpen Your Code, Ship with Confidence – Elevate Your Workflow with Deepseek Code Review 🚀 </td>
     </tr>
 </table>
