@@ -148,6 +148,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/anda/README.md">Anda</a> </td>
         <td>A Rust framework for AI agent development, designed to build a highly composable, autonomous, and perpetually memorizing network of AI agents.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/longevity-genie/chat-ui/11c6647c83f9d2de21180b552474ac5ffcf53980/static/geneticsgenie/icon-128x128.png" alt="Icon" width="64" height="auto"/> </td>
+        <td> <a href="https://github.com/longevity-genie/just-agents">Just-Agents</a> </td>
+        <td>A lightweight, straightforward library for LLM agents - no over-engineering, just simplicity!</td>
+    </tr>
 </table>
 
 ### RAG frameworks
