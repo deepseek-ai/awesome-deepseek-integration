@@ -178,6 +178,18 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
+
+### Synthetic data curation
+
+<table>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/bespokelabsai/curator/main/docs/Bespoke-Labs-Logomark-Red-crop.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/curator/README.md"> Curator </a> </td>
+        <td> An open-source tool to curate large scale datasets for post-training LLMs. </td>
+    </tr>
+</table>
+
+
 ### IM Application Plugins
 
 <table>
