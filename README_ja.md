@@ -6,326 +6,272 @@
 
 # Awesome DeepSeek Integrations ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-Integrate the DeepSeek API into popular softwares. Access [DeepSeek Open Platform](https://platform.deepseek.com/) to get an API key.
+DeepSeek APIを人気のソフトウェアに統合します。APIキーを取得するには、[DeepSeek Open Platform](https://platform.deepseek.com/)にアクセスしてください。
 
-English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)/[日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/README_ja.md)
+[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)/日本語
 
 </div>
 
 </br>
 </br>
 
-### Applications
+### アプリケーション
 
 <table>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/13600976/224d547a-6fbc-47c8-859f-aa14813e2b0f" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatbox/README.md">Chatbox</a> </td>
-        <td> Chatbox is a desktop client for multiple cutting-edge LLM models, available on Windows, Mac and Linux. </td>
+        <td> Chatboxは、Windows、Mac、Linuxで利用可能な複数の最先端LLMモデルのデスクトップクライアントです。 </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/bb65404c-f867-42d8-ae2b-281fe953ab54" alt="Icon" width="64" height="auto"/> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatgpt_next_web/README.md"> ChatGPT-Next-Web </a> </td>
-        <td> ChatGPT Next Web is a cross-platform ChatGPT web UI, with GPT3, GPT4 & Gemini Pro support. </td>
+        <td> ChatGPT Next Webは、GPT3、GPT4、Gemini ProをサポートするクロスプラットフォームのChatGPTウェブUIです。 </td>
     </tr>
     <tr>
         <td> <img src="./docs/liubai/assets/liubai-logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/liubai/README.md">Liubai</a> </td>
-        <td> Liubai allows DeepSeek to have arms and legs to manipulate your notes, tasks, calendars, and to-do lists just on WeChat! </td>
+        <td> Liubaiは、WeChat上でDeepSeekを使用してノート、タスク、カレンダー、ToDoリストを操作できるようにします！ </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/1ac9791b-87f7-41d9-9282-a70698344e1d" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/pal/README.md"> Pal - AI Chat Client<br/>(iOS, ipadOS) </a> </td>
-        <td> Pal is a customized chat playground on iOS. </td>
+        <td> Palは、iOS上でカスタマイズされたチャットプレイグラウンドです。 </td>
     </tr>
     <tr>
         <td> <img src="https://www.librechat.ai/librechat.svg" alt="LibreChat" width="64" height="auto" /> </td>
         <td> <a href="https://www.librechat.ai/docs/configuration/librechat_yaml/ai_endpoints/deepseek">LibreChat</a> </td>
-        <td> LibreChat is a customizable open-source app that seamlessly integrates DeepSeek for enhanced AI interactions. </td>
-    </tr>
-    <tr>
-        <td> <img src="https://www.papersgpt.com/images/logo/favicon.ico" alt="PapersGPT" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/papersgpt/papersgpt-for-zotero">PapersGPT</a> </td>
-        <td> PapersGPT is a Zotero plugin that seamlessly with DeepSeek and other multiple AI models for quickly reading papers in Zotero. </td>
+        <td> LibreChatは、DeepSeekをシームレスに統合してAIインタラクションを強化するカスタマイズ可能なオープンソースアプリです。 </td>
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/rss-translator/RSS-Translator/main/core/static/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/rss_translator/README.md"> RSS Translator </a> </td>
-        <td> Translate RSS feeds into your language! </td>
+        <td> RSSフィードをあなたの言語に翻訳します！ </td>
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/ysnows/enconvo_media/main/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/enconvo/README.md"> Enconvo </a> </td>
-        <td> Enconvo is the Launcher of the AI era, the entry point for all AI functions, and a thoughtful intelligent assistant.</td>
+        <td> Enconvoは、AI時代のランチャーであり、すべてのAI機能のエントリーポイントであり、思いやりのあるインテリジェントアシスタントです。</td>
     </tr>
     <tr>
         <td><img src="https://github.com/kangfenmao/cherry-studio/blob/main/src/renderer/src/assets/images/logo.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cherrystudio/README.md">Cherry Studio</a></td>
-        <td>A powerful desktop AI assistant for producer</td>
+        <td>プロデューサーのための強力なデスクトップAIアシスタント</td>
     </tr>
     <tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/tomemo/README.md"> ToMemo (iOS, ipadOS) </a> </td>
-        <td> A phrasebook + clipboard history + keyboard iOS app with integrated AI macromodeling for quick output use in the keyboard.</td>
+        <td> フレーズブック+クリップボード履歴+キーボードiOSアプリで、キーボードでの迅速な出力にAIマクロモデリングを統合しています。</td>
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/buxuku/video-subtitle-master/refs/heads/main/resources/icon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/buxuku/video-subtitle-master">Video Subtitle Master</a></td>
-        <td> Batch generate subtitles for videos, with the ability to translate subtitles into other languages. This is a client-side tool that supports both Mac and Windows platforms and integrates with multiple translation services such as Baidu, Volcengine, DeepLx, OpenAI, DeepSeek, and Ollama.</td>
+        <td> ビデオの字幕を一括生成し、字幕を他の言語に翻訳することができます。これはクライアントサイドのツールで、MacとWindowsの両方のプラットフォームをサポートし、Baidu、Volcengine、DeepLx、OpenAI、DeepSeek、Ollamaなどの複数の翻訳サービスと統合されています。</td>
     </tr>
     <tr>
         <td> <img src="https://github.com/UnknownEnergy/chatgpt-api/blob/master/dist/assets/chatworm-72x72.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/UnknownEnergy/chatgpt-api/blob/master/README.md">Chatworm</a> </td>
-        <td> Chatworm is a webapp for multiple cutting-edge LLM models, open-source and also available on Android. </td>
+        <td> Chatwormは、複数の最先端LLMモデルのためのウェブアプリで、オープンソースであり、Androidでも利用可能です。 </td>
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/tisfeng/ImageBed/main/uPic/icon_512x512@2x.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/tisfeng/Easydict">Easydict</a></td>
-        <td> Easydict is a concise and easy-to-use translation dictionary macOS App that allows you to easily and elegantly look up words or translate text. Supports calling large language model APIs for translation.</td>
+        <td> Easydictは、単語の検索やテキストの翻訳を簡単かつエレガントに行うことができる、簡潔で使いやすい翻訳辞書macOSアプリです。大規模言語モデルAPIを呼び出して翻訳を行うことができます。</td>
     </tr>
     <tr>
         <td> <img src="https://www.raycast.com/favicon-production.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/raycast/README.md">Raycast</a></td>
-        <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a> is a productivity tool for macOS that lets you control your tools with a few keystrokes. It supports various extensions including DeepSeek AI.</td>
+        <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a>は、macOSの生産性ツールで、いくつかのキーストロークでツールを制御できます。DeepSeek AIを含むさまざまな拡張機能をサポートしています。</td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/193405629?s=200&v=4" alt="PHP Client" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-php/deepseek-php-client/blob/master/README.md">PHP Client</a> </td>
-        <td> Deepseek PHP Client is a robust and community-driven PHP client library for seamless integration with the Deepseek API. </td>
+        <td> Deepseek PHP Clientは、Deepseek APIとのシームレスな統合のための堅牢でコミュニティ主導のPHPクライアントライブラリです。 </td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="Laravel Integration" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-php/deepseek-laravel/blob/master/README.md">Laravel Integration</a> </td>
-        <td> Laravel wrapper for Deepseek PHP client, to seamless deepseek API integration with laravel applications.</td>
+        <td> LaravelアプリケーションとのシームレスなDeepseek API統合のためのLaravelラッパー。</td>
     </tr>
     <tr>
         <td> <img src="./docs/zotero/assets/zotero-icon.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/zotero/README_cn.md">Zotero</a></td>
-        <td> <a href="https://www.zotero.org">Zotero</a> is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.</td>
+        <td> <a href="docs/zotero/README.md">Zotero</a></td>
+        <td> <a href="https://www.zotero.org">Zotero</a>は、研究成果を収集、整理、注釈、引用、共有するのに役立つ無料で使いやすいツールです。</td>
     </tr>
     <tr>
         <td> <img src="./docs/Siyuan/assets/image-20250122162731-7wkftbw.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/Siyuan/README.md">SiYuan</a> </td>
-        <td> SiYuan is a privacy-first personal knowledge management system that supports complete offline usage, as well as end-to-end encrypted data sync.</td>
+        <td> SiYuanは、完全にオフラインで使用できるプライバシー優先の個人知識管理システムであり、エンドツーエンドの暗号化データ同期を提供します。</td>
     </tr>
     <tr>
         <td> <img src="https://github.com/ArvinLovegood/go-stock/raw/master/build/appicon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/ArvinLovegood/go-stock/blob/master/README.md">go-stock</a> </td>
-        <td>go-stock is a Chinese stock data viewer built by Wails with NativeUI and powered by LLM.</td>
+        <td>go-stockは、Wailsを使用してNativeUIで構築され、LLMによって強化された中国株データビューアです。</td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/102771702?s=200&v=4" alt="Wordware" width="64" height="auto" /> </td>
         <td> <a href="docs/wordware/README.md">Wordware</a> </td>
-        <td><a href="https://www.wordware.ai/">Wordware</a> is a toolkit that enables anyone to build, iterate, and deploy their AI stack with just natural language.</td>
+        <td><a href="https://www.wordware.ai/">Wordware</a>は、誰でも自然言語だけでAIスタックを構築、反復、デプロイできるツールキットです。</td>
     </tr>
     <tr>
         <td> <img src="https://framerusercontent.com/images/xRJ6vNo9mUYeVNxt0KITXCXEuSk.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/langgenius/dify/">Dify</a> </td>
-        <td> <a href="https://dify.ai/">Dify</a> is an LLM application development platform that supports DeepSeek models for creating assistants, workflows, text generators, and more. </td>
+        <td> <a href="https://dify.ai/">Dify</a>は、アシスタント、ワークフロー、テキストジェネレーターなどのアプリケーションを作成するためのDeepSeekモデルをサポートするLLMアプリケーション開発プラットフォームです。 </td>
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/enricoros/big-AGI/refs/heads/v2-dev/public/favicon.ico" alt="Big-AGI" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/enricoros/big-AGI/blob/v2-dev/README.md">Big-AGI</a> </td>
-        <td><a href="https://big-agi.com/">Big-AGI</a> is a groundbreaking AI suite designed to democratize access to advanced artificial intelligence for everyone.</td>
+        <td><a href="https://big-agi.com/">Big-AGI</a>は、誰もが高度な人工知能にアクセスできるようにするための画期的なAIスイートです。</td>
     </tr>
     <tr>
         <td> <img src="https://github.com/LiberSonora/LiberSonora/blob/main/assets/avatar.jpeg?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/LiberSonora/LiberSonora/blob/main/README_en.md">LiberSonora</a> </td>
-        <td> LiberSonora, meaning "Voice of Freedom", is an AI-powered, robust, open-source audiobook toolkit that includes features like intelligent subtitle extraction, AI title generation, multilingual translation, with support for GPU acceleration and batch offline processing.</td>
+        <td> LiberSonoraは、「自由の声」を意味し、AIによって強化された強力なオープンソースのオーディオブックツールキットであり、インテリジェントな字幕抽出、AIタイトル生成、多言語翻訳などの機能を備え、GPUアクセラレーションとバッチオフライン処理をサポートしています。</td>
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/ripperhe/Bob/master/docs/_media/icon_128.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://bobtranslate.com/">Bob</a></td>
-        <td> <a href="https://bobtranslate.com/">Bob</a> is a macOS translation & OCR tool ready to use in any app — right out of the box!</td>
+        <td> <a href="https://bobtranslate.com/">Bob</a>は、任意のアプリで使用できるmacOSの翻訳およびOCRツールです。</td>
     </tr>
     <tr>
         <td> <img src="https://agenticflow.ai/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
-        <td> <a href="https://agenticflow.ai/">AgenticFlow</a> is a no-code platform where marketers build agentic AI workflows for go-to-market automation, powered by hundreds of everyday apps as tools for your AI agents.</td>
-    </tr>
-    <tr>
-        <td> <img src="https://www.gptaiflow.tech/logo.png" alt="gpt-ai-flow-logo" width="64" height="auto" /> </td>
-        <td> <a href="https://www.gptaiflow.tech/docs/product/api-keys-setup#setup-deepseek-api-keys">GPT AI Flow</a></td>
-        <td> 
-            The ultimate productivity weapon built by engineers for efficiency enthusiasts (themselves): <a href="https://www.gptaiflow.tech/">GPT AI Flow</a>
-            <ul>
-                <li>`Shift+Alt+Space` Wake up desktop intelligent hub</li>
-                <li>Local encrypted storage</li>
-                <li>Custom instruction engine</li>
-                <li>On-demand calling without subscription bundling</li>
-            </ul>
-        </td>
+        <td> <a href="https://agenticflow.ai/">AgenticFlow</a>は、マーケターがAIエージェントのためのエージェンティックAIワークフローを構築するためのノーコードプラットフォームであり、数百の毎日のアプリをツールとして使用します。</td>
     </tr>
 </table>
 
-### AI Agent frameworks
+### AIエージェントフレームワーク
 
 <table>
     <tr>
-        <td> <img src="https://raw.githubusercontent.com/superagentxai/superagentX/refs/heads/master/docs/logo/icononly_transparent_nobuffer.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/superagentx/README.md">SuperAgentX</a> </td>
-        <td>SuperAgentX: A Lightweight Open Source AI Framework Built for Autonomous Multi-Agent Applications with Artificial General Intelligence (AGI) Capabilities.</td>
-    </tr>
-    <tr>
         <td> <img src="https://panda.fans/_assets/favicons/apple-touch-icon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/anda/README.md">Anda</a> </td>
-        <td>A Rust framework for AI agent development, designed to build a highly composable, autonomous, and perpetually memorizing network of AI agents.</td>
-    </tr>
-    <tr>
-        <td> <img src="https://raw.githubusercontent.com/longevity-genie/chat-ui/11c6647c83f9d2de21180b552474ac5ffcf53980/static/geneticsgenie/icon-128x128.png" alt="Icon" width="64" height="auto"/> </td>
-        <td> <a href="https://github.com/longevity-genie/just-agents">Just-Agents</a> </td>
-        <td>A lightweight, straightforward library for LLM agents - no over-engineering, just simplicity!</td>
-     </tr>
-        <td> <img src="https://alice.fun/alice-logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/bob-robert-ai/bob/blob/main/alice/readme.md">Alice</a> </td>
-        <td>An autonomous AI agent on ICP, leveraging LLMs like DeepSeek for on-chain decision-making. Alice combines real-time data analysis with a playful personality to manage tokens, mine BOB, and govern ecosystems.</td>
+        <td>高度にコンポーザブルで自律的かつ永続的な記憶を持つAIエージェントネットワークを構築するために設計されたRustフレームワーク。</td>
     </tr>
 </table>
 
-### RAG frameworks
+### RAGフレームワーク
 
 <table>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/33142505/77093e84-9f7c-4716-9168-bac962fa1372" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> RAGFlow </a> </td>
-        <td> An open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. It offers a streamlined RAG workflow for businesses of any scale, combining LLM (Large Language Models) to provide truthful question-answering capabilities, backed by well-founded citations from various complex formatted data. </td>
+        <td> 深い文書理解に基づいたオープンソースのRAG（Retrieval-Augmented Generation）エンジン。RAGFlowは、あらゆる規模の企業や個人に対して、ユーザーのさまざまな複雑な形式のデータに対して信頼性のある質問応答と根拠のある引用を提供するための簡素化されたRAGワークフローを提供します。 </td>
     </tr>
 </table>
 
-
-### Synthetic data curation
-
-<table>
-    <tr>
-        <td> <img src="https://raw.githubusercontent.com/bespokelabsai/curator/main/docs/Bespoke-Labs-Logomark-Red-crop.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/curator/README.md"> Curator </a> </td>
-        <td> An open-source tool to curate large scale datasets for post-training LLMs. </td>
-    </tr>
-</table>
-
-
-### IM Application Plugins
+### IMアプリケーションプラグイン
 
 <table>
     <tr>
         <td> <img src="https://github.com/InternLM/HuixiangDou/releases/download/v0.1.0rc1/huixiangdou.jpg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/huixiangdou/README_cn.md">HuixiangDou<br/>(wechat,lark)</a> </td>
-        <td>Domain knowledge assistant in personal WeChat and Feishu, focusing on answering questions.</td>
+        <td>個人のWeChatおよびFeishuでのドメイン知識アシスタントで、質問に答えることに焦点を当てています。</td>
     </tr>
     <tr>
-        <td> <img src="https://github.com/RockChinQ/LangBot/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/RockChinQ/LangBot">LangBot<br/>（QQ, Lark, WeCom）</a> </td>
-        <td> LLM-based IM bots framework, supports QQ, Lark, WeCom, and more platforms.</td>
+        <td> <img src="https://github.com/RockChinQ/QChatGPT/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/RockChinQ/QChatGPT">QChatGPT<br/>（QQ）</a> </td>
+        <td> 高い安定性、プラグインサポート、リアルタイムネットワーキングを備えたQQチャットボット。 </td>
     </tr>
 </table>
 
-### Browser Extensions
+### ブラウザ拡張機能
 
 <table>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/9d3f42b8-fcd0-47ab-8b06-1dd0554dd80e" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/immersive_translate/README.md"> Immersive Translate </a> </td>
-        <td> Immersive Translate is a bilingual webpage translation plugin. </td>
+        <td> Immersive Translateは、バイリンガルのウェブページ翻訳プラグインです。 </td>
     </tr>
     <tr>
-        <td> <img src="https://lh3.googleusercontent.com/K9i0qJb8phasC5wWf5tU68rhnfvX4swsE0hrhJP-WB3WV7MwE5KpMUIJvHKNHHRE6GKNIvIdTNSWoDMl_NggrmUsaw=s120" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://lh3.googleusercontent.com/K9i0qJb8phasC5wWf5T68rhnfvX4swsE0hrhJP-WB3WV7MwE5KpMUIJvHKNHHRE6GKNIvIdTNSWoDMl_NggrmUsaw=s120" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/immersive_reading_guide/README.md"> Immersive Reading Guide </a> </td>
-        <td> NO Sidebar!!! Immersive AI web summarization, ask questions... </td>
+        <td> サイドバーなし!!! 没入型のAIウェブ要約、質問をする... </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/8a301619-a3de-489b-81fd-69aaa7c1c561" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatgpt_box/README.md"> ChatGPT Box </a> </td>
-        <td> ChatGPT Box is a ChatGPT integration in browser, completely for free. </td>
+        <td> ChatGPT Boxは、ブラウザに統合されたChatGPTで、完全に無料です。 </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c3d9d100-247a-41cc-97c1-10b01ed25e70" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/hcfy/README.md"> hcfy (划词翻译) </a> </td>
-        <td> hcfy (划词翻译) is a web browser extension to integrate multiple translation services. </td>
+        <td> hcfy (划词翻译)は、複数の翻訳サービスを統合するウェブブラウザ拡張機能です。 </td>
     </tr>
     <tr>
         <td> <img src="https://static.eudic.net/web/trans/en_trans.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/Lulu Translate/README.md"> Lulu Translate </a> </td>
-        <td> The plugin provides mouse selection translation, paragraph-by-paragraph comparison translation, and PDF document translation functionalities. It can utilize various translation engines, such as DeepSeek AI, Bing, GPT, Google, etc. </td>
+        <td> このプラグインは、マウス選択翻訳、段落ごとの比較翻訳、およびPDF文書���訳機能を提供します。DeepSeek AI、Bing、GPT、Googleなどのさまざまな翻訳エンジンを利用できます。 </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/Bistutu/FluentRead/raw/refs/heads/main/public/icon/192.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://fluent.thinkstu.com/"> FluentRead </a> </td>
-        <td> A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience </td>
+        <td> 誰もが母国語のような読書体験を持つことができる革新的なオープンソースのブラウザ翻訳プラグイン </td>
     </tr>
 </table>
 
-### VS Code Extensions
+### VS Code拡張機能
 
 <table>
     <tr>
-        <td> <img src="https://github.com/continuedev/continue/blob/main/docs/static/img/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/e4d082de-6f64-44b9-beaa-0de55d70cfab" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/continue/README.md"> Continue </a> </td>
-        <td> Continue is an open-source autopilot in IDE. </td>
+        <td> Continueは、IDEのオープンソースの自動操縦です。 </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cline/assets/favicon.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cline/README.md"> Cline </a> </td>
-        <td> Meet Cline, an AI assistant that can use your CLI aNd Editor. </td>
+        <td> Clineは、CLIとエディタを使用できるAIアシスタントです。 </td>
     </tr>
 </table>
 
-### neovim Extensions
+### neovim拡張機能
 
 <table>
     <tr>
-        <td> <img src="https://github.com/user-attachments/assets/c316f70a-0a3c-4a32-b148-4df15e609acc" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/avante.nvim/README.md"> avante.nvim </a> </td>
-        <td> avante.nvim is an open-source autopilot in IDE. </td>
+        <td> avante.nvimは、IDEのオープンソースの自動操縦です。 </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/llm.nvim/README.md"> llm.nvim </a> </td>
-        <td> A free large language model (LLM) plugin that allows you to interact with LLM in Neovim. Supports any LLM, such as Deepseek, GPT, GLM, Kimi or local LLMs (such as ollama). </td>
+        <td> NeovimでLLMと対話できる無料の大規模言語モデル（LLM）プラグイン。Deepseek、GPT、GLM、Kimi、またはローカルLLM（ollamaなど）など、任意のLLMをサポートします。 </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/codecompanion.nvim/README.md"> codecompanion.nvim </a> </td>
-        <td> AI-powered coding, seamlessly in Neovim. </td>
+        <td> Neovimでシームレスに統合されたAI駆動のコーディング。 </td>
     </tr>
 </table>
 
-### JetBrains Extensions
+### JetBrains拡張機能
 
 <table>
     <tr>
         <td> <img src="https://plugins.jetbrains.com/files/21520/412905/icon/pluginIcon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://ide.unitmesh.cc/quick-start"> AutoDev </a> </td>
-        <td>‍AutoDev is an open-source AI coding assistant in JetBrain's IDE. </td>
+        <td>‍AutoDevは、JetBrainのIDEでのオープンソースのAIコーディングアシスタントです。 </td>
     </tr>
     <tr>
         <td> <img src="https://plugins.jetbrains.com/files/21410/561595/icon/pluginIcon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://plugins.jetbrains.com/plugin/21410-onegai-copilot"> Onegai Copilot </a> </td>
-        <td>Onegai Copilot is an AI coding assistant in JetBrain's IDE. </td>
+        <td>Onegai Copilotは、JetBrainのIDEでのAIコーディングアシスタントです。 </td>
     </tr>
     <tr>
-        <td> <img src="https://github.com/continuedev/continue/blob/main/docs/static/img/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/e4d082de-6f64-44b9-beaa-0de55d70cfab" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/continue/README.md"> Continue </a> </td>
-        <td> Continue is an open-source autopilot in IDE. </td>
+        <td> Continueは、IDEのオープンソースの自動操縦です。 </td>
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/a18792721831/studyplugin/535b9cab69da0f97b42dcaebb00bb0d4ed15c8a6/translate/src/main/resources/META-INF/pluginIcon.svg" alt="Icon" width="64" height="auto"/> </td>
         <td> <a href="https://plugins.jetbrains.com/plugin/18336-chinese-english-translate">Chinese-English Translate</a> </td>
-        <td> Chinese-English Translate is a multiple translation services in JetBrain's IDE. </td>
+        <td> JetBrainのIDEでの複数の翻訳サービス。 </td>
     </tr>
     <tr>
         <td> <img src="https://plugins.jetbrains.com/files/24851/659002/icon/pluginIcon.svg" alt="Icon" width="64" height="auto"/> </td>
         <td> <a href="https://plugins.jetbrains.com/plugin/24851-ai-git-commit">AI Git Commit</a> </td>
-        <td> This plugin uses AI to automatically generate commit messages based on the changes in your code. </td>
-    </tr>
-</table>
-
-### Discord Bots
-
-<table>
-    <tr>
-        <td> <img src="https://geneplore.com/img/geneplore_color_logo_circular.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/Geneplore AI/README.md"> Geneplore AI </a> </td>
-        <td> Geneplore AI runs one of the largest AI Discord bots, now with Deepseek v3 and R1. </td>
+        <td> このプラグインは、コードの変更に基づいてコミットメッセージを自動生成するためにAIを使用します。 </td>
     </tr>
 </table>
 
@@ -335,7 +281,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://global.discourse-cdn.com/flex020/uploads/cursor1/original/2X/a/a4f78589d63edd61a2843306f8e11bad9590f0ca.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.cursor.com/"> Cursor </a> </td>
-        <td>‍The AI Code Editor</td>
+        <td>‍AIコードエディタ</td>
     </tr>
 </table>
 
@@ -345,46 +291,46 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/karthink/gptel"> gptel </a> </td>
-        <td>A simple LLM client for Emacs</td>
+        <td>EmacsのためのシンプルなLLMクライアント</td>
     </tr>
     <tr>
         <td> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/milanglacier/minuet-ai.el"> Minuet AI </a> </td>
-        <td>Dance with Intelligence in Your Code 💃</td>
+        <td>コードでインテリジェンスとダンス💃</td>
     </tr>
 </table>
 
-### Others
+### その他
 
 <table>
     <tr>
-        <td> <img src="https://i.imgur.com/IsQYInJ.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/djcopley/ShellOracle/"> ShellOracle </a> </td>
-        <td> A terminal utility for intelligent shell command generation. </td>
-    </tr>
-    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c1e47b01-1766-4f7e-bfe6-ab3cb3991c30" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main/docs/siri_deepseek_shortcut"> siri_deepseek_shortcut </a> </td>
-        <td> Siri equiped with the DeepSeek API </td>
+        <td> DeepSeek APIを装備したSiri </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/n8n-io/n8n/blob/master/assets/n8n-logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/rubickecho/n8n-deepseek"> n8n-nodes-deepseek </a> </td>
-        <td> An N8N community node that supports direct integration with the DeepSeek API into workflows. </td>
+        <td> DeepSeek APIをワークフローに直接統合するためのN8Nコミュニティノード。 </td>
     </tr>
     <tr>
         <td> <img src="https://framerusercontent.com/images/8rF2JOaZ8l9AvM4H6ezliw44aI.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/BerriAI/litellm"> LiteLLM </a> </td>
-        <td> Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format. Supports DeepSeek AI with cost tracking as well. </td>
+        <td> 100以上のLLM APIをOpenAI形式で呼び出すためのPython SDK、プロキシサーバー（LLMゲートウェイ）。DeepSeek AIもサポートし、コスト追跡も可能です。 </td>
     </tr>
     <tr>
         <td> <img src="https://i.postimg.cc/k5Z4YWjt/Screenshot-2025-01-23-at-6-08-01-PM.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/mem0ai/mem0"> Mem0 </a> </td>
-        <td> Mem0 enhances AI assistants with an intelligent memory layer, enabling personalized interactions and continuous learning over time. </td>
+        <td> Mem0は、AIアシスタントにインテリジェントなメモリレイヤーを追加し、パーソナライズされたインタラクションと継続的な学習を可能にします。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://geneplore.com/img/geneplore_color_logo_circular.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://geneplore.com/bot"> Geneplore AI </a> </td>
+        <td> Geneplore AIは、Deepseek v3およびR1を搭載した最大のAI Discordボットの1つを運営しています。 </td>
     </tr>
     <tr>
         <td> <img src="https://www.promptfoo.dev/img/logo-panda.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
-        <td> Test and evaluate LLM prompts, including DeepSeek models. Compare different LLM providers, catch regressions, and evaluate responses. </td>
+        <td> LLMプロンプトをテストおよび評価し、DeepSeekモデルを含む。さまざまなLLMプロバイダーを比較し、回帰をキャッチし、応答を評価します。 </td>
     </tr>
 </table>
