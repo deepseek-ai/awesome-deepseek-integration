@@ -34,9 +34,8 @@ return {
     require("codecompanion").setup({
       adapters = {
         deepseek = function()
-          return require("codecompanion.adapters").extend("openai_compatible", {
+          return require("codecompanion.adapters").extend("deepseek", {
             env = {
-              url = "https://api.deepseek.com",
               api_key = "YOUR_API_KEY",
             },
           })
@@ -71,9 +70,8 @@ later(function()
   require("codecompanion").setup({
     adapters = {
       deepseek = function()
-        return require("codecompanion.adapters").extend("openai_compatible", {
+        return require("codecompanion.adapters").extend("deepseek", {
           env = {
-            url = "https://api.deepseek.com",
               api_key = "YOUR_API_KEY",
           },
         })
