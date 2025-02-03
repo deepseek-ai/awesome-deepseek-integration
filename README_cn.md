@@ -182,6 +182,11 @@
         <td> <a href="https://fluent.thinkstu.com/"> 流畅阅读 </a> </td>
         <td> 一款革新性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验 </td>
     </tr>
+    <tr>
+        <td> <img src="https://www.ncurator.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://fluent.thinkstu.com/"> 馆长 </a> </td>
+        <td> 知识库AI问答助手 - 让AI帮助你整理与分析知识</td>
+    </tr>
 </table>
 
 ### VS Code 插件
