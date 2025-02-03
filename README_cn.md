@@ -262,6 +262,11 @@
 
 <table>
     <tr>
+        <td> <img src="https://i.imgur.com/IsQYInJ.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/djcopley/ShellOracle/"> ShellOracle </a> </td>
+        <td> 一种用于智能 shell 命令生成的终端工具。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c1e47b01-1766-4f7e-bfe6-ab3cb3991c30" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main/docs/siri_deepseek_shortcut"> 深度求索（快捷指令） </a> </td>
         <td> 使用 DeepSeek API 增强Siri能力的快捷指令 </td>
