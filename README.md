@@ -156,6 +156,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
             </ul>
         </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/b09f17a8-936d-4dac-8b24-1682d52c9a3c" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
+        <td>With just one sentence, you can quickly generate high-definition story short videos, supporting models such as DeepSeek.</td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
