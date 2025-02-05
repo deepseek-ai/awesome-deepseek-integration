@@ -269,7 +269,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
     <tr>
         <td> <img src="https://www.ncurator.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://fluent.thinkstu.com/"> Ncurator </a> </td>
+        <td> <a href="https://www.ncurator.com/"> Ncurator </a> </td>
         <td> Knowledge Base AI Q&A Assistant - Let AI help you organize and analyze knowledge</td>
     </tr>
 </table>
