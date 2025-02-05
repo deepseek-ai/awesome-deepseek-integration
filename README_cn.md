@@ -8,7 +8,7 @@
 
 将 DeepSeek 大模型能力轻松接入各类软件。访问 [DeepSeek 开放平台](https://platform.deepseek.com/)来获取您的 API key。
 
-[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/简体中文
+[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/简体中文/[日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md)
 
 </div>
 
@@ -44,6 +44,11 @@
         <td> LibreChat 是一个可定制的开源应用程序，无缝集成了 DeepSeek，以增强人工智能交互体验 </td>
     </tr>
     <tr>
+        <td> <img src="https://www.papersgpt.com/images/logo/favicon.ico" alt="PapersGPT" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/papersgpt/papersgpt-for-zotero">PapersGPT</a> </td>
+        <td> PapersGPT是一款集成了DeepSeek及其他多种AI模型的辅助论文阅读的Zotero插件. </td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/rss-translator/RSS-Translator/main/core/static/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="hhttps://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/rss_translator/README_cn.md"> RSS翻译器 </a> </td>
         <td> 开源、简洁、可自部署的RSS翻译器 </td>
@@ -77,6 +82,7 @@
         <td> <a href="docs/raycast/README_cn.md">Raycast</a></td>
         <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a> 是一款 macOS 生产力工具，它允许你用几个按键来控制你的工具。它支持各种扩展，包括 DeepSeek AI。</td>
     </tr>
+</tr> <td> <img src="https://niceprompt.app/favicon.ico" alt="Icon" width="64" height="auto" /> </td> <td> <a href="https://niceprompt.app">Nice Prompt</a></td> <td> <a href="https://niceprompt.app">Nice Prompt</a> 是一个结合提示工程与社交功能的平台，支持用户高效创建、分享和协作开发AI提示词。</td> </tr>
     <tr>
         <td> <img src="./docs/zotero/assets/zotero-icon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/zotero/README_cn.md">Zotero</a></td>
@@ -112,6 +118,25 @@
         <td> <a href="https://bobtranslate.com/">Bob</a></td>
         <td> <a href="https://bobtranslate.com/">Bob</a> 是一款 macOS 平台的翻译和 OCR 软件，您可以在任何应用程序中使用 Bob 进行翻译和 OCR，即用即走！</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.gptaiflow.tech/logo.png" alt="gpt-ai-flow-logo" width="64" height="auto" /> </td>
+        <td> <a href="https://www.gptaiflow.tech/zh/docs/product/api-keys-setup#setup-deepseek-api-keys">GPT AI Flow</a></td>
+        <td>
+            工程师为效率狂人（他们自己）打造的终极生产力武器: <a href="https://www.gptaiflow.tech/zh/">GPT AI Flow</a>
+            <ul>
+                <li>`Shift+Alt+空格` 唤醒桌面智能中枢</li>
+                <li>本地加密存储</li>
+                <li>自定义指令引擎</li>
+                <li>按需调用拒绝订阅捆绑</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/b09f17a8-936d-4dac-8b24-1682d52c9a3c" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
+        <td>通过一句话即可快速生成高清故事短视频，支持 DeepSeek 等模型。</td>
+    </tr>
+
 </table>
 
 ### AI Agent 框架
@@ -121,6 +146,11 @@
         <td> <img src="https://panda.fans/_assets/favicons/apple-touch-icon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/anda/README_cn.md">Anda</a> </td>
         <td>一个专为 AI 智能体开发设计的 Rust 语言框架，致力于构建高度可组合、自主运行且具备永久记忆能力的 AI 智能体网络。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://alice.fun/alice-logo.png" alt="图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/bob-robert-ai/bob/blob/main/alice/readme.md">Alice</a> </td>
+        <td>一个基于 ICP 的自主 AI 代理，利用 DeepSeek 等大型语言模型进行链上决策。Alice 结合实时数据分析和独特的个性，管理代币、挖掘 BOB 并参与生态系统治理。</td>
     </tr>
 </table>
 
@@ -143,9 +173,9 @@
         <td> 一个集成到个人微信群/飞书群的领域知识助手，专注解答问题不闲聊</td>
     </tr>
     <tr>
-        <td> <img src="https://github.com/RockChinQ/QChatGPT/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/RockChinQ/QChatGPT">QChatGPT<br/>（QQ）</a> </td>
-        <td> 😎高稳定性、🧩支持插件、🌏实时联网的 LLM QQ / QQ频道 / One Bot 机器人🤖</td>
+        <td> <img src="https://github.com/RockChinQ/LangBot/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/RockChinQ/LangBot">LangBot<br/>（QQ, 企微, 飞书）</a> </td>
+        <td> 大模型原生即时通信机器人平台，适配 QQ / QQ频道 / 飞书 / OneBot / 企业微信（wecom） 等多种消息平台 </td>
     </tr>
 </table>
 
@@ -182,13 +212,18 @@
         <td> <a href="https://fluent.thinkstu.com/"> 流畅阅读 </a> </td>
         <td> 一款革新性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验 </td>
     </tr>
+    <tr>
+        <td> <img src="https://www.ncurator.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.ncurator.com/"> 馆长 </a> </td>
+        <td> 知识库AI问答助手 - 让AI帮助你整理与分析知识</td>
+    </tr>
 </table>
 
 ### VS Code 插件
 
 <table>
     <tr>
-        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/e4d082de-6f64-44b9-beaa-0de55d70cfab" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://github.com/continuedev/continue/blob/main/docs/static/img/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/continue/README_cn.md"> Continue </a> </td>
         <td> 开源 IDE 插件，使用 LLM 做你的编程助手 </td>
     </tr>
@@ -203,7 +238,7 @@
 
 <table>
     <tr>
-        <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://github.com/user-attachments/assets/c316f70a-0a3c-4a32-b148-4df15e609acc" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/avante.nvim/README_cn.md"> avante.nvim </a> </td>
         <td> 开源 IDE 插件，使用 LLM 做你的编程助手 </td>
     </tr>
@@ -238,6 +273,11 @@
 
 <table>
     <tr>
+        <td> <img src="https://i.imgur.com/IsQYInJ.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/djcopley/ShellOracle/"> ShellOracle </a> </td>
+        <td> 一种用于智能 shell 命令生成的终端工具。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c1e47b01-1766-4f7e-bfe6-ab3cb3991c30" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main/docs/siri_deepseek_shortcut"> 深度求索（快捷指令） </a> </td>
         <td> 使用 DeepSeek API 增强Siri能力的快捷指令 </td>
@@ -251,5 +291,10 @@
         <td> <img src="https://www.promptfoo.dev/img/logo-panda.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
         <td> 测试和评估LLM提示，包括DeepSeek模型。比较不同的LLM提供商，捕获回归，并评估响应。 </td>
+    </tr>
+    <tr>
+        <td> CR </td>
+        <td> <a href="https://github.com/hustcer/deepseek-review"> deepseek-review </a> </td>
+        <td> 🚀 使用 Deepseek 进行代码审核，支持 GitHub Action 和本地 🚀 </td>
     </tr>
 </table>
