@@ -136,6 +136,11 @@
         <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
         <td>通过一句话即可快速生成高清故事短视频，支持 DeepSeek 等模型。</td>
     </tr>
+    <tr>
+        <td> <img src="https://5ire.app/favicon.ico" alt="5ire-logo" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/nanbingxyz/5ire">5ire</a> </td>
+        <td> <a href="https://github.com/nanbingxyz/5ire">5ire</a>是一款设计友好的跨平台开源桌面智能助手，兼容市面主流的大模型，支持 MCP Servers，本地知识库、提示词库及众多实用功能。 </td>
+    </tr>
 
 </table>
 
