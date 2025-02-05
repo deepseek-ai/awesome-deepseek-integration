@@ -156,6 +156,19 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://stranslate.zggsong.com/en/">STranslate</a>（Windows） is a ready-to-go translation ocr tool developed by WPF </td>
     </tr>
     <tr>
+        <td> <img src="https://3min.top/imgs/logo.svg" alt="3MinTop" width="64" height="auto" /> </td>
+        <td> <a href="https://3min.top/en">3MinTop</a> </td>
+        <td>
+            <a href="https://3min.top/en">3MinTop</a> is an AI-powered reading assistant that helps users master core content in 3 minutes. Supports DeepSeek and other models.
+            <ul>
+                <li>AI-powered summarization and easy-to-understand explanations</li>
+                <li>Visual notes for better comprehension</li>
+                <li>Structured mind mapping output</li>
+                <li>Reading statistics and habit building</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/user-attachments/assets/5e16beb0-993e-47bf-807e-7c8804b313a2" alt="Asp Client" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Anwar-alhitar/Deepseek.Asp.Client/blob/master/README.md">ASP Client</a> </td>
         <td><a href="https://github.com/Anwar-alhitar/Deepseek.Asp.Client/blob/master/README.md">Deepseek.ASPClient</a>  is a lightweight ASP.NET wrapper for the Deepseek AI API, designed to simplify AI-driven text processing in .NET applications.. </td>

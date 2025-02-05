@@ -138,6 +138,19 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a>は、マーケターがAIエージェントのためのエージェンティックAIワークフローを構築するためのノーコードプラットフォームであり、数百の毎日のアプリをツールとして使用します。</td>
     </tr>
+    <tr>
+        <td> <img src="https://3min.top/imgs/logo.svg" alt="3MinTop" width="64" height="auto" /> </td>
+        <td> <a href="https://3min.top/en">3MinTop</a> </td>
+        <td>
+            <a href="https://3min.top/en">3MinTop</a> は、AIを活用した読書アシスタントで、3分以内にコンテンツの核心を把握できます。DeepSeekなどのモデルをサポートしています。
+            <ul>
+                <li>AIによる要約と分かりやすい説明</li>
+                <li>理解を深める視覚的なノート</li>
+                <li>構造化されたマインドマップ出力</li>
+                <li>読書統計と習慣づくり</li>
+            </ul>
+        </td>
+    </tr>
 </table>
 
 ### AIエージェントフレームワーク
