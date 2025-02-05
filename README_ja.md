@@ -138,6 +138,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a>は、マーケターがAIエージェントのためのエージェンティックAIワークフローを構築するためのノーコードプラットフォームであり、数百の毎日のアプリをツールとして使用します。</td>
     </tr>
+    <tr>
+        <td> <img src="https://5ire.app/favicon.ico" alt="5ire-logo" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/nanbingxyz/5ire">5ire</a> </td>
+        <td> <a href="https://github.com/nanbingxyz/5ire">5ire</a>はデザインが優れたクロスプラットフォームのオープンソース大型モデルデスクトップインテリジェントアシスタントで、市場に出回っている主流の大型モデルと互換性があり、MCPサーバー、ローカルの知識ベース、プロンプトライブラリ、さらに多くの実用的な機能をサポートしています。</td>
+    </tr>
 </table>
 
 ### AIエージェントフレームワーク
