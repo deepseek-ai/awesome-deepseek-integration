@@ -282,4 +282,9 @@
         <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
         <td> 测试和评估LLM提示，包括DeepSeek模型。比较不同的LLM提供商，捕获回归，并评估响应。 </td>
     </tr>
+    <tr>
+        <td> CR </td>
+        <td> <a href="https://github.com/hustcer/deepseek-review"> deepseek-review </a> </td>
+        <td> 🚀 使用 Deepseek 进行代码审核，支持 GitHub Action 和本地 🚀 </td>
+    </tr>
 </table>

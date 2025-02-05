@@ -146,7 +146,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://www.gptaiflow.tech/logo.png" alt="gpt-ai-flow-logo" width="64" height="auto" /> </td>
         <td> <a href="https://www.gptaiflow.tech/docs/product/api-keys-setup#setup-deepseek-api-keys">GPT AI Flow</a></td>
-        <td> 
+        <td>
             The ultimate productivity weapon built by engineers for efficiency enthusiasts (themselves): <a href="https://www.gptaiflow.tech/">GPT AI Flow</a>
             <ul>
                 <li>`Shift+Alt+Space` Wake up desktop intelligent hub</li>
@@ -382,5 +382,10 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://www.promptfoo.dev/img/logo-panda.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
         <td> Test and evaluate LLM prompts, including DeepSeek models. Compare different LLM providers, catch regressions, and evaluate responses. </td>
+    </tr>
+    <tr>
+        <td> CR </td>
+        <td> <a href="https://github.com/hustcer/deepseek-review"> deepseek-review </a> </td>
+        <td> 🚀 Sharpen Your Code, Ship with Confidence – Elevate Your Workflow with Deepseek Code Review 🚀 </td>
     </tr>
 </table>
