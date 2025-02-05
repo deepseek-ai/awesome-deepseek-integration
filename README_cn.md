@@ -131,6 +131,11 @@
             </ul>
         </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/b09f17a8-936d-4dac-8b24-1682d52c9a3c" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
+        <td>通过一句话即可快速生成高清故事短视频，支持 DeepSeek 等模型。</td>
+    </tr>
 
 </table>
 
