@@ -208,6 +208,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://fluent.thinkstu.com/"> FluentRead </a> </td>
         <td> 誰もが母国語のような読書体験を持つことができる革新的なオープンソースのブラウザ翻訳プラグイン </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/oinzen/RSSFlow-doc/blob/main/docs/images/en/icon64.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
+        <td>AIを活用したRSS要約と多次元フィードビューを備えたインテリジェントなRSSリーダーブラウザ拡張機能。コンテンツ理解を強化するためのDeepSeekモデル設定をサポートしています。</td>
+    </tr>
 </table>
 
 ### VS Code拡張機能
