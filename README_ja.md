@@ -173,6 +173,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://github.com/RockChinQ/QChatGPT">QChatGPT<br/>（QQ）</a> </td>
         <td> 高い安定性、プラグインサポート、リアルタイムネットワーキングを備えたQQチャットボット。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://nonebot.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/KomoriDev/nonebot-plugin-deepseek"">NoneBot<br/>（QQ, Lark, Discord, TG, etc.）</a> </td>
+        <td> NoneBotフレームワークを基に、インテリジェントな会話と深い思考機能をサポートします。QQ/飛書/Discord/Telegram等多种多様なメッセージプラットフォームに対応しています </td>
+    </tr>
 </table>
 
 ### ブラウザ拡張機能

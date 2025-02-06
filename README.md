@@ -246,6 +246,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/RockChinQ/LangBot">LangBot<br/>（QQ, Lark, WeCom）</a> </td>
         <td> LLM-based IM bots framework, supports QQ, Lark, WeCom, and more platforms.</td>
     </tr>
+    <tr>
+        <td> <img src="https://nonebot.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/KomoriDev/nonebot-plugin-deepseek">NoneBot<br/>（QQ, Lark, Discord, TG, etc.）</a> </td>
+        <td> Based on NoneBot framework, provide intelligent chat and deep thinking functions, supports QQ, Lark, Discord, TG, and more platforms.</td>
+    </tr>
 </table>
 
 ### Browser Extensions
