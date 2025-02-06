@@ -129,7 +129,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://framerusercontent.com/images/xRJ6vNo9mUYeVNxt0KITXCXEuSk.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/langgenius/dify/">Dify</a> </td>
         <td> <a href="https://dify.ai/">Dify</a> is an LLM application development platform that supports DeepSeek models for creating assistants, workflows, text generators, and more. </td>
-    </tr>
+    </tr>   
     <tr>
         <td> <img src="https://raw.githubusercontent.com/enricoros/big-AGI/refs/heads/v2-dev/public/favicon.ico" alt="Big-AGI" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/enricoros/big-AGI/blob/v2-dev/README.md">Big-AGI</a> </td>
@@ -155,7 +155,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://bobtranslate.com/">STranslate</a></td>
         <td> <a href="https://bobtranslate.com/">STranslate</a>（Windows） is a ready-to-go translation ocr tool developed by WPF </td>
     </tr>
-
+    <tr>
+        <td> <img src="https://maxkb.cn/images/favicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/1Panel-dev/MaxKB">MaxKB</a> </td>
+        <td> <a href="https://maxkb.cn/">MaxKB</a> is a ready-to-use, flexible RAG Chatbot. </td>
+    </tr> 
      <tr>
         <td> <img src="https://github.com/user-attachments/assets/5e16beb0-993e-47bf-807e-7c8804b313a2" alt="Asp Client" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Anwar-alhitar/Deepseek.Asp.Client/blob/master/README.md">ASP Client</a> </td>
@@ -184,7 +188,8 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://prompt.16x.engineer/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/16x_prompt/README.md">16x Prompt</a> </td>
         <td> <a href="https://prompt.16x.engineer/">16x Prompt</a> is an AI coding tool with context management. It helps developers manage source code context and craft prompts for complex coding tasks on existing codebases.</td>
-    </tr>
+    </tr> 
+    
 </table>
 
 ### AI Agent frameworks
