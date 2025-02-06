@@ -145,6 +145,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> is a no-code platform where marketers build agentic AI workflows for go-to-market automation, powered by hundreds of everyday apps as tools for your AI agents.</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/ZGGSONG/STranslate/raw/main/img/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://bobtranslate.com/">STranslate</a></td>
+        <td> <a href="https://bobtranslate.com/">STranslate</a>（Windows） is a ready-to-go translation ocr tool developed by WPF </td>
+    </tr>
 
      <tr>
         <td> <img src="https://github.com/user-attachments/assets/5e16beb0-993e-47bf-807e-7c8804b313a2" alt="Asp Client" width="64" height="auto" /> </td>
@@ -164,7 +169,6 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
                 <li>On-demand calling without subscription bundling</li>
             </ul>
         </td>
-
     </tr>
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/b09f17a8-936d-4dac-8b24-1682d52c9a3c" alt="Icon" width="64" height="auto" /> </td>
