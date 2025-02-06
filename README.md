@@ -421,4 +421,9 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/hustcer/deepseek-review"> deepseek-review </a> </td>
         <td> 🚀 Sharpen Your Code, Ship with Confidence – Elevate Your Workflow with Deepseek Code Review 🚀 </td>
     </tr>
+    <tr>
+        <td> <img src="http://gptlocalhost.com/wp-content/uploads/2025/01/icon_1024.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://youtu.be/T1my2gqi-7Q"> GPTLocalost </a> </td>
+        <td> Use DeepSeek-R1 in Microsoft Word Locally. No inference costs. </td>
+    </tr>
 </table>
