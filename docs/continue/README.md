@@ -1,4 +1,4 @@
-<img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/e4d082de-6f64-44b9-beaa-0de55d70cfab" width="64" height="auto" /> 
+<img src="https://github.com/continuedev/continue/blob/main/docs/static/img/logo.png?raw=true" width="64" height="auto" />
 
 # [Continue](https://continue.dev/)
 

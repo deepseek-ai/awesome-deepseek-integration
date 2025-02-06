@@ -8,7 +8,7 @@
 
 Integrate the DeepSeek API into popular softwares. Access [DeepSeek Open Platform](https://platform.deepseek.com/) to get an API key.
 
-English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)
+English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)/[日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md)
 
 </div>
 
@@ -42,6 +42,16 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://www.librechat.ai/librechat.svg" alt="LibreChat" width="64" height="auto" /> </td>
         <td> <a href="https://www.librechat.ai/docs/configuration/librechat_yaml/ai_endpoints/deepseek">LibreChat</a> </td>
         <td> LibreChat is a customizable open-source app that seamlessly integrates DeepSeek for enhanced AI interactions. </td>
+    </tr>
+     <tr>
+        <td> <img src="https://raw.githubusercontent.com/longevity-genie/chat-ui/11c6647c83f9d2de21180b552474ac5ffcf53980/static/geneticsgenie/icon-128x128.png" alt="Icon" width="64" height="auto"/> </td>
+        <td> <a href="https://github.com/longevity-genie/just-chat">Just-Chat</a> </td>
+        <td> Make your LLM agent and chat with it simple and fast!</td>
+     </tr>
+    <tr>
+        <td> <img src="https://www.papersgpt.com/images/logo/favicon.ico" alt="PapersGPT" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/papersgpt/papersgpt-for-zotero">PapersGPT</a> </td>
+        <td> PapersGPT is a Zotero plugin that seamlessly with DeepSeek and other multiple AI models for quickly reading papers in Zotero. </td>
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/rss-translator/RSS-Translator/main/core/static/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
@@ -82,6 +92,8 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://www.raycast.com/favicon-production.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/raycast/README.md">Raycast</a></td>
         <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a> is a productivity tool for macOS that lets you control your tools with a few keystrokes. It supports various extensions including DeepSeek AI.</td>
+    </tr>
+    </tr> <td> <img src="https://niceprompt.app/favicon.ico" alt="Icon" width="64" height="auto" /> </td> <td> <a href="https://niceprompt.app">Nice Prompt</a></td> <td> <a href="https://niceprompt.app">Nice Prompt</a> Organize, share and use your prompts in your code editor, with Cursor and VSCode。</td> 
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/193405629?s=200&v=4" alt="PHP Client" width="64" height="auto" /> </td>
@@ -138,6 +150,41 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> is a no-code platform where marketers build agentic AI workflows for go-to-market automation, powered by hundreds of everyday apps as tools for your AI agents.</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/ZGGSONG/STranslate/raw/main/img/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://bobtranslate.com/">STranslate</a></td>
+        <td> <a href="https://bobtranslate.com/">STranslate</a>（Windows） is a ready-to-go translation ocr tool developed by WPF </td>
+    </tr>
+
+     <tr>
+        <td> <img src="https://github.com/user-attachments/assets/5e16beb0-993e-47bf-807e-7c8804b313a2" alt="Asp Client" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Anwar-alhitar/Deepseek.Asp.Client/blob/master/README.md">ASP Client</a> </td>
+        <td><a href="https://github.com/Anwar-alhitar/Deepseek.Asp.Client/blob/master/README.md">Deepseek.ASPClient</a>  is a lightweight ASP.NET wrapper for the Deepseek AI API, designed to simplify AI-driven text processing in .NET applications.. </td>
+
+    </tr>
+    <tr>
+        <td> <img src="https://www.gptaiflow.tech/logo.png" alt="gpt-ai-flow-logo" width="64" height="auto" /> </td>
+        <td> <a href="https://www.gptaiflow.tech/docs/product/api-keys-setup#setup-deepseek-api-keys">GPT AI Flow</a></td>
+        <td>
+            The ultimate productivity weapon built by engineers for efficiency enthusiasts (themselves): <a href="https://www.gptaiflow.tech/">GPT AI Flow</a>
+            <ul>
+                <li>`Shift+Alt+Space` Wake up desktop intelligent hub</li>
+                <li>Local encrypted storage</li>
+                <li>Custom instruction engine</li>
+                <li>On-demand calling without subscription bundling</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/b09f17a8-936d-4dac-8b24-1682d52c9a3c" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
+        <td>With just one sentence, you can quickly generate high-definition story short videos, supporting models such as DeepSeek.</td>
+    </tr>
+    <tr>
+        <td> <img src="https://prompt.16x.engineer/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/16x_prompt/README.md">16x Prompt</a> </td>
+        <td> <a href="https://prompt.16x.engineer/">16x Prompt</a> is an AI coding tool with context management. It helps developers manage source code context and craft prompts for complex coding tasks on existing codebases.</td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
@@ -147,11 +194,26 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/DMontgomery40/deepseek-mcp-server/blob/main/README.md">DeepSeek MCP Server</a> </td>
         <td> Model Context Protocol server for DeepSeek's advanced language models.</td>
+  </tr>
+     <tr>
+        <td> <img src="https://raw.githubusercontent.com/superagentxai/superagentX/refs/heads/master/docs/logo/icononly_transparent_nobuffer.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/superagentx/README.md">SuperAgentX</a> </td>
+        <td>SuperAgentX: A Lightweight Open Source AI Framework Built for Autonomous Multi-Agent Applications with Artificial General Intelligence (AGI) Capabilities.</td>
+
     </tr>
     <tr>
         <td> <img src="https://panda.fans/_assets/favicons/apple-touch-icon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/anda/README.md">Anda</a> </td>
         <td>A Rust framework for AI agent development, designed to build a highly composable, autonomous, and perpetually memorizing network of AI agents.</td>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/longevity-genie/chat-ui/11c6647c83f9d2de21180b552474ac5ffcf53980/static/geneticsgenie/icon-128x128.png" alt="Icon" width="64" height="auto"/> </td>
+        <td> <a href="https://github.com/longevity-genie/just-agents">Just-Agents</a> </td>
+        <td>A lightweight, straightforward library for LLM agents - no over-engineering, just simplicity!</td>
+     </tr>
+        <td> <img src="https://alice.fun/alice-logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/bob-robert-ai/bob/blob/main/alice/readme.md">Alice</a> </td>
+        <td>An autonomous AI agent on ICP, leveraging LLMs like DeepSeek for on-chain decision-making. Alice combines real-time data analysis with a playful personality to manage tokens, mine BOB, and govern ecosystems.</td>
     </tr>
 </table>
 
@@ -165,6 +227,18 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
+
+### Synthetic data curation
+
+<table>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/bespokelabsai/curator/main/docs/Bespoke-Labs-Logomark-Red-crop.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/curator/README.md"> Curator </a> </td>
+        <td> An open-source tool to curate large scale datasets for post-training LLMs. </td>
+    </tr>
+</table>
+
+
 ### IM Application Plugins
 
 <table>
@@ -174,9 +248,9 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td>Domain knowledge assistant in personal WeChat and Feishu, focusing on answering questions.</td>
     </tr>
     <tr>
-        <td> <img src="https://github.com/RockChinQ/QChatGPT/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/RockChinQ/QChatGPT">QChatGPT<br/>（QQ）</a> </td>
-        <td> A QQ chatbot with high stability, plugin support, and real-time networking. </td>
+        <td> <img src="https://github.com/RockChinQ/LangBot/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/RockChinQ/LangBot">LangBot<br/>（QQ, Lark, WeCom）</a> </td>
+        <td> LLM-based IM bots framework, supports QQ, Lark, WeCom, and more platforms.</td>
     </tr>
 </table>
 
@@ -213,13 +287,18 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://fluent.thinkstu.com/"> FluentRead </a> </td>
         <td> A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience </td>
     </tr>
+    <tr>
+        <td> <img src="https://www.ncurator.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.ncurator.com/"> Ncurator </a> </td>
+        <td> Knowledge Base AI Q&A Assistant - Let AI help you organize and analyze knowledge</td>
+    </tr>
 </table>
 
 ### VS Code Extensions
 
 <table>
     <tr>
-        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/e4d082de-6f64-44b9-beaa-0de55d70cfab" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://github.com/continuedev/continue/blob/main/docs/static/img/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/continue/README.md"> Continue </a> </td>
         <td> Continue is an open-source autopilot in IDE. </td>
     </tr>
@@ -234,14 +313,14 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
-        <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://github.com/user-attachments/assets/c316f70a-0a3c-4a32-b148-4df15e609acc" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/avante.nvim/README.md"> avante.nvim </a> </td>
         <td> avante.nvim is an open-source autopilot in IDE. </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/llm.nvim/README.md"> llm.nvim </a> </td>
-        <td> A free large language model(LLM) plugin that allows you to interact with LLM in Neovim. Supports any LLM, such as Deepseek, GPT, GLM, Kimi or local LLMs (such as ollama). </td>
+        <td> A free large language model (LLM) plugin that allows you to interact with LLM in Neovim. Supports any LLM, such as Deepseek, GPT, GLM, Kimi or local LLMs (such as ollama). </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
@@ -264,7 +343,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td>Onegai Copilot is an AI coding assistant in JetBrain's IDE. </td>
     </tr>
     <tr>
-        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/e4d082de-6f64-44b9-beaa-0de55d70cfab" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://github.com/continuedev/continue/blob/main/docs/static/img/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/continue/README.md"> Continue </a> </td>
         <td> Continue is an open-source autopilot in IDE. </td>
     </tr>
@@ -277,6 +356,16 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://plugins.jetbrains.com/files/24851/659002/icon/pluginIcon.svg" alt="Icon" width="64" height="auto"/> </td>
         <td> <a href="https://plugins.jetbrains.com/plugin/24851-ai-git-commit">AI Git Commit</a> </td>
         <td> This plugin uses AI to automatically generate commit messages based on the changes in your code. </td>
+    </tr>
+</table>
+
+### Discord Bots
+
+<table>
+    <tr>
+        <td> <img src="https://geneplore.com/img/geneplore_color_logo_circular.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/Geneplore AI/README.md"> Geneplore AI </a> </td>
+        <td> Geneplore AI runs one of the largest AI Discord bots, now with Deepseek v3 and R1. </td>
     </tr>
 </table>
 
@@ -309,6 +398,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
+        <td> <img src="https://i.imgur.com/IsQYInJ.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/djcopley/ShellOracle/"> ShellOracle </a> </td>
+        <td> A terminal utility for intelligent shell command generation. </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c1e47b01-1766-4f7e-bfe6-ab3cb3991c30" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main/docs/siri_deepseek_shortcut"> siri_deepseek_shortcut </a> </td>
         <td> Siri equiped with the DeepSeek API </td>
@@ -329,13 +423,23 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Mem0 enhances AI assistants with an intelligent memory layer, enabling personalized interactions and continuous learning over time. </td>
     </tr>
     <tr>
-        <td> <img src="https://geneplore.com/img/geneplore_color_logo_circular.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://geneplore.com/bot"> Geneplore AI </a> </td>
-        <td> Geneplore AI runs one of the largest AI Discord bots, now with Deepseek v3 and R1. </td>
-    </tr>
-    <tr>
         <td> <img src="https://www.promptfoo.dev/img/logo-panda.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
         <td> Test and evaluate LLM prompts, including DeepSeek models. Compare different LLM providers, catch regressions, and evaluate responses. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://langfuse.com/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://langfuse.com/docs/integrations/deepseek"> Langfuse </a> </td>
+        <td> Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their DeepSeek applications. </td>
+    </tr>
+    <tr>
+        <td> CR </td>
+        <td> <a href="https://github.com/hustcer/deepseek-review"> deepseek-review </a> </td>
+        <td> 🚀 Sharpen Your Code, Ship with Confidence – Elevate Your Workflow with Deepseek Code Review 🚀 </td>
+    </tr>
+    <tr>
+        <td> <img src="http://gptlocalhost.com/wp-content/uploads/2025/01/icon_1024.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://youtu.be/T1my2gqi-7Q"> GPTLocalost </a> </td>
+        <td> Use DeepSeek-R1 in Microsoft Word Locally. No inference costs. </td>
     </tr>
 </table>
