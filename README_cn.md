@@ -120,8 +120,8 @@
     </tr>
     <tr>
         <td> <img src="https://github.com/ZGGSONG/STranslate/raw/main/img/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://bobtranslate.com/">STranslate</a></td>
-        <td> <a href="https://bobtranslate.com/">STranslate</a>（Windows） 是 WPF 开发的一款即用即走的翻译、OCR工具 </td>
+        <td> <a href="https://stranslate.zggsong.com/">STranslate</a></td>
+        <td> <a href="https://stranslate.zggsong.com/">STranslate</a>（Windows） 是 WPF 开发的一款即用即走的翻译、OCR工具 </td>
     </tr>
     <tr>
         <td> <img src="https://www.gptaiflow.tech/logo.png" alt="gpt-ai-flow-logo" width="64" height="auto" /> </td>
