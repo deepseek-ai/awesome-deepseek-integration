@@ -412,6 +412,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Test and evaluate LLM prompts, including DeepSeek models. Compare different LLM providers, catch regressions, and evaluate responses. </td>
     </tr>
     <tr>
+        <td> <img src="https://langfuse.com/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://langfuse.com/docs/integrations/deepseek"> Langfuse </a> </td>
+        <td> Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their DeepSeek applications. </td>
+    </tr>
+    <tr>
         <td> CR </td>
         <td> <a href="https://github.com/hustcer/deepseek-review"> deepseek-review </a> </td>
         <td> 🚀 Sharpen Your Code, Ship with Confidence – Elevate Your Workflow with Deepseek Code Review 🚀 </td>
