@@ -221,6 +221,11 @@
         <td> <a href="https://www.ncurator.com/"> 馆长 </a> </td>
         <td> 知识库AI问答助手 - 让AI帮助你整理与分析知识</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/oinzen/RSSFlow-doc/blob/main/docs/images/en/icon64.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
+        <td>一款智能的RSS阅读器浏览器扩展，具有AI驱动的RSS摘要和多维度订阅视图功能。支持配置DeepSeek模型以增强内容理解能力。</td>
+    </tr>
 </table>
 
 ### VS Code 插件
