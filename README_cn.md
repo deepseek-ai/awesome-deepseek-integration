@@ -181,6 +181,11 @@
         <td> <a href="https://github.com/RockChinQ/LangBot">LangBot<br/>（QQ, 企微, 飞书）</a> </td>
         <td> 大模型原生即时通信机器人平台，适配 QQ / QQ频道 / 飞书 / OneBot / 企业微信（wecom） 等多种消息平台 </td>
     </tr>
+    <tr>
+        <td> <img src="https://www.lanyingim.com/img/header/dock_lanying.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.lanyingim.com">蓝莺IM<br/></a> </td>
+        <td> <b>AI Chatbot SDK 和云服务</b>，<br>包括一个跨平台（iOS、安卓、网页、PC、Linux等）的<a href="https://github.com/maxim-top/maxim-bistro">聊天SDK</a>和一个AI Agent平台。<br/> 可嵌入应用APP，支持对接微信、公众号。<br/> 原生支持DeepSeek，无需单独配置API-Key。</td>
+    </tr>
 </table>
 
 ### 浏览器插件
