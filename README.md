@@ -43,6 +43,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://www.librechat.ai/docs/configuration/librechat_yaml/ai_endpoints/deepseek">LibreChat</a> </td>
         <td> LibreChat is a customizable open-source app that seamlessly integrates DeepSeek for enhanced AI interactions. </td>
     </tr>
+     <tr>
+        <td> <img src="https://raw.githubusercontent.com/longevity-genie/chat-ui/11c6647c83f9d2de21180b552474ac5ffcf53980/static/geneticsgenie/icon-128x128.png" alt="Icon" width="64" height="auto"/> </td>
+        <td> <a href="https://github.com/longevity-genie/just-chat">Just-Chat</a> </td>
+        <td> Make your LLM agent and chat with it simple and fast!</td>
+     </tr>
     <tr>
         <td> <img src="https://www.papersgpt.com/images/logo/favicon.ico" alt="PapersGPT" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/papersgpt/papersgpt-for-zotero">PapersGPT</a> </td>
@@ -89,7 +94,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a> is a productivity tool for macOS that lets you control your tools with a few keystrokes. It supports various extensions including DeepSeek AI.</td>
     </tr>
     </tr> <td> <img src="https://niceprompt.app/favicon.ico" alt="Icon" width="64" height="auto" /> </td> <td> <a href="https://niceprompt.app">Nice Prompt</a></td> <td> <a href="https://niceprompt.app">Nice Prompt</a> Organize, share and use your prompts in your code editor, with Cursor and VSCode。</td> 
-</tr>
+    </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/193405629?s=200&v=4" alt="PHP Client" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-php/deepseek-php-client/blob/master/README.md">PHP Client</a> </td>
@@ -145,6 +150,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> is a no-code platform where marketers build agentic AI workflows for go-to-market automation, powered by hundreds of everyday apps as tools for your AI agents.</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/ZGGSONG/STranslate/raw/main/img/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://bobtranslate.com/">STranslate</a></td>
+        <td> <a href="https://bobtranslate.com/">STranslate</a>（Windows） is a ready-to-go translation ocr tool developed by WPF </td>
+    </tr>
 
      <tr>
         <td> <img src="https://github.com/user-attachments/assets/5e16beb0-993e-47bf-807e-7c8804b313a2" alt="Asp Client" width="64" height="auto" /> </td>
@@ -164,12 +174,16 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
                 <li>On-demand calling without subscription bundling</li>
             </ul>
         </td>
-
     </tr>
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/b09f17a8-936d-4dac-8b24-1682d52c9a3c" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
         <td>With just one sentence, you can quickly generate high-definition story short videos, supporting models such as DeepSeek.</td>
+    </tr>
+    <tr>
+        <td> <img src="https://prompt.16x.engineer/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/16x_prompt/README.md">16x Prompt</a> </td>
+        <td> <a href="https://prompt.16x.engineer/">16x Prompt</a> is an AI coding tool with context management. It helps developers manage source code context and craft prompts for complex coding tasks on existing codebases.</td>
     </tr>
 </table>
 
@@ -413,8 +427,18 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> An efficient and lightweight tokenization library for DeepSeek models, relying solely on the `tokenizers` library without heavy dependencies like `transformers`. </td>
     </tr>
     <tr>
+        <td> <img src="https://langfuse.com/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://langfuse.com/docs/integrations/deepseek"> Langfuse </a> </td>
+        <td> Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their DeepSeek applications. </td>
+    </tr>
+    <tr>
         <td> CR </td>
         <td> <a href="https://github.com/hustcer/deepseek-review"> deepseek-review </a> </td>
         <td> 🚀 Sharpen Your Code, Ship with Confidence – Elevate Your Workflow with Deepseek Code Review 🚀 </td>
+    </tr>
+    <tr>
+        <td> <img src="http://gptlocalhost.com/wp-content/uploads/2025/01/icon_1024.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://youtu.be/T1my2gqi-7Q"> GPTLocalost </a> </td>
+        <td> Use DeepSeek-R1 in Microsoft Word Locally. No inference costs. </td>
     </tr>
 </table>

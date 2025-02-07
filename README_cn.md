@@ -119,6 +119,11 @@
         <td> <a href="https://bobtranslate.com/">Bob</a> 是一款 macOS 平台的翻译和 OCR 软件，您可以在任何应用程序中使用 Bob 进行翻译和 OCR，即用即走！</td>
     </tr>
     <tr>
+        <td> <img src="https://github.com/ZGGSONG/STranslate/raw/main/img/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://bobtranslate.com/">STranslate</a></td>
+        <td> <a href="https://bobtranslate.com/">STranslate</a>（Windows） 是 WPF 开发的一款即用即走的翻译、OCR工具 </td>
+    </tr>
+    <tr>
         <td> <img src="https://www.gptaiflow.tech/logo.png" alt="gpt-ai-flow-logo" width="64" height="auto" /> </td>
         <td> <a href="https://www.gptaiflow.tech/zh/docs/product/api-keys-setup#setup-deepseek-api-keys">GPT AI Flow</a></td>
         <td>
@@ -136,7 +141,6 @@
         <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
         <td>通过一句话即可快速生成高清故事短视频，支持 DeepSeek 等模型。</td>
     </tr>
-
 </table>
 
 ### AI Agent 框架
