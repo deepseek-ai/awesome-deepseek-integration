@@ -301,4 +301,9 @@
         <td> <a href="https://github.com/hustcer/deepseek-review"> deepseek-review </a> </td>
         <td> 🚀 使用 Deepseek 进行代码审核，支持 GitHub Action 和本地 🚀 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/suqicloud/wp-ai-chat/raw/main/ic_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/suqicloud/wp-ai-chat"> WordPress ai助手 </a> </td>
+        <td> 对接Deepseek api用于WordPress站点的ai对话助手、ai文章生成、ai文章总结插件。 </td>
+    </tr> 
 </table>
