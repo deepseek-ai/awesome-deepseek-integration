@@ -101,6 +101,23 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Deepseek PHP Client is a robust and community-driven PHP client library for seamless integration with the Deepseek API. </td>
     </tr>
     <tr>
+        <tr>
+  <td>
+    <img
+      src="https://github.com/tornikegomareli/DeepSwiftSeek/blob/main/logo.webp"
+      alt="DeepSwiftSeek Logo"
+      width="64"
+      height="auto"
+    />
+  </td>
+  <td>
+    <a href="https://github.com/tornikegomareli/DeepSwiftSeek/blob/main/README.md">DeepSwiftSeek</a>
+  </td>
+  <td>
+    DeepSwiftSeek is a lightweight yet powerful Swift client library, pretty good integration with the DeepSeek API. 
+    It provides easy-to-use Swift concurrency for chat, streaming, FIM (Fill-in-the-Middle) completions, and more.
+  </td>
+</tr>
         <td> <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="Laravel Integration" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-php/deepseek-laravel/blob/master/README.md">Laravel Integration</a> </td>
         <td> Laravel wrapper for Deepseek PHP client, to seamless deepseek API integration with laravel applications.</td>
