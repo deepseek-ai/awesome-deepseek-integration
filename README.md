@@ -426,6 +426,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Test and evaluate LLM prompts, including DeepSeek models. Compare different LLM providers, catch regressions, and evaluate responses. </td>
     </tr>
     <tr>
+        <td>  </td>
+        <td> <a href="https://github.com/AndersonBY/deepseek-tokenizer"> deepseek-tokenizer </a> </td>
+        <td> An efficient and lightweight tokenization library for DeepSeek models, relying solely on the `tokenizers` library without heavy dependencies like `transformers`. </td>
+    </tr>
+    <tr>
         <td> <img src="https://langfuse.com/icon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://langfuse.com/docs/integrations/deepseek"> Langfuse </a> </td>
         <td> Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their DeepSeek applications. </td>
