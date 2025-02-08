@@ -50,7 +50,7 @@
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/rss-translator/RSS-Translator/main/core/static/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="hhttps://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/rss_translator/README_cn.md"> RSS翻译器 </a> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/rss_translator/README_cn.md"> RSS翻译器 </a> </td>
         <td> 开源、简洁、可自部署的RSS翻译器 </td>
     </tr>
     <tr>
