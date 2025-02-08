@@ -141,6 +141,11 @@
         <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
         <td>通过一句话即可快速生成高清故事短视频，支持 DeepSeek 等模型。</td>
     </tr>
+    <tr>
+        <td> <img src="https://3min.top/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://3min.top/zh">3mintop</a> </td>
+        <td> 一个强大的AI驱动工具，帮助您在3分钟内快速总结和理解任何内容，支持DeepSeek模型以增强理解能力。 </td>
+    </tr>
 </table>
 
 ### AI Agent 框架
