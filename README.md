@@ -480,4 +480,9 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://youtu.be/T1my2gqi-7Q"> GPTLocalost </a> </td>
         <td> Use DeepSeek-R1 in Microsoft Word Locally. No inference costs. </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/suqicloud/wp-ai-chat/raw/main/ic_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/suqicloud/wp-ai-chat"> WordPress ai助手 </a> </td>
+        <td> Docking Deepseek api for WordPress site ai conversation assistant, post generation, post summary plugin. </td>
+    </tr>   
 </table>
