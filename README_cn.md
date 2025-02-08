@@ -246,6 +246,11 @@
         <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
         <td>一款智能的RSS阅读器浏览器扩展，具有AI驱动的RSS摘要和多维度订阅视图功能。支持配置DeepSeek模型以增强内容理解能力。</td>
     </tr>
+    <tr>
+        <td> <img src="https://lh3.googleusercontent.com/siCa4oBxyYOlenxiWq6X48USwg6WXCecM902Gvexw3bBPZReGk5DQeHjS9NYvnKuBRK6WCEDwvLjBsJTOvvgWIh9Jw=s60" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://rssflow.oinchain.com"> Youtube翻過去 </a> </td>
+        <td>不怕看不懂外語影片了！免費應用「YouTube翻過去」提供即時翻譯、逐句口譯等功能</td>
+    </tr>
 </table>
 
 ### VS Code 插件
