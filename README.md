@@ -245,6 +245,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/RockChinQ/LangBot">LangBot<br/>（QQ, Lark, WeCom）</a> </td>
         <td> LLM-based IM bots framework, supports QQ, Lark, WeCom, and more platforms.</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.lanyingim.com/img/header/dock_lanying.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.lanyingim.com">蓝莺IM<br/></a> </td>
+        <td> <b>AI Chatbot SDK with IM cloud service</b>, <br/> Cross-platform (iOS, Android, Web, PC, Linux) <a href="https://github.com/maxim-top/maxim-bistro">chat SDK</a> and AI Agent platform. <br/> Easily integrates into apps, and supports WeChat and official accounts. <br/> Native DeepSeek support, no API-Key needed.</td>
+    </tr>
 </table>
 
 ### Browser Extensions
