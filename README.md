@@ -179,6 +179,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td>With just one sentence, you can quickly generate high-definition story short videos, supporting models such as DeepSeek.</td>
     </tr>
     <tr>
+        <td> <img src="https://3min.top/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://3min.top/en">3mintop</a> </td>
+        <td> A powerful AI-powered tool that helps you quickly summarize and understand any content in just 3 minutes, supporting DeepSeek models for enhanced comprehension. </td>
+    </tr>
+    <tr>
         <td> <img src="https://prompt.16x.engineer/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/16x_prompt/README.md">16x Prompt</a> </td>
         <td> <a href="https://prompt.16x.engineer/">16x Prompt</a> is an AI coding tool with context management. It helps developers manage source code context and craft prompts for complex coding tasks on existing codebases.</td>
