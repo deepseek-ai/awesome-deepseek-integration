@@ -285,6 +285,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://www.ncurator.com/"> Ncurator </a> </td>
         <td> Knowledge Base AI Q&A Assistant - Let AI help you organize and analyze knowledge</td>
     </tr>
+    <tr>
+        <td> <img src="https://chathub.gg/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://chathub.gg"> ChatHub </a> </td>
+        <td> All-in-one AI client </td>
+    </tr>
 </table>
 
 ### VS Code Extensions
