@@ -138,6 +138,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a>は、マーケターがAIエージェントのためのエージェンティックAIワークフローを構築するためのノーコードプラットフォームであり、数百の毎日のアプリをツールとして使用します。</td>
     </tr>
+    <tr>
+        <td> <img src="https://obsidian.md/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/TarsLab/obsidian-tars">Obsidian Tars</a></td>
+        <td> Obsidianのノート編集にLLMの会話を統合し、deepseek-reasonerのチェーン・オブ・ソート(CoT)出力をコールアウト形式で表示します。 </td>
+    </tr>
 </table>
 
 ### AIエージェントフレームワーク
