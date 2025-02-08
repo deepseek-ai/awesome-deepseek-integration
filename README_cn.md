@@ -124,6 +124,19 @@
         <td> <a href="https://stranslate.zggsong.com/">STranslate</a>（Windows） 是 WPF 开发的一款即用即走的翻译、OCR工具 </td>
     </tr>
     <tr>
+        <td> <img src="https://3min.top/imgs/logo.svg" alt="3MinTop" width="64" height="auto" /> </td>
+        <td> <a href="https://3min.top/zh">3MinTop</a> </td>
+        <td>
+            <a href="https://3min.top/zh">3MinTop</a> 是一款AI驱动的阅读助手，帮助用户在3分钟内掌握文章核心内容。支持DeepSeek等模型。
+            <ul>
+                <li>AI智能总结和通俗易懂解释</li>
+                <li>提供可视化笔记帮助理解</li>
+                <li>结构化思维导图输出</li>
+                <li>阅读统计和习惯养成</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <td> <img src="https://www.gptaiflow.tech/logo.png" alt="gpt-ai-flow-logo" width="64" height="auto" /> </td>
         <td> <a href="https://www.gptaiflow.tech/zh/docs/product/api-keys-setup#setup-deepseek-api-keys">GPT AI Flow</a></td>
         <td>
