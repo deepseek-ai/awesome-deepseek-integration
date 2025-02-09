@@ -138,6 +138,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a>は、マーケターがAIエージェントのためのエージェンティックAIワークフローを構築するためのノーコードプラットフォームであり、数百の毎日のアプリをツールとして使用します。</td>
     </tr>
+    <tr>
+        <td> <img src="https://cantian.ai/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://cantian.ai/">Cantian AI</a></td>
+        <td>伝統的な東洋文化に基づく深く構造化された知識ベースを活用する、AIネイティブの専用八字占いサービスです。</td>
+    </tr>
 </table>
 
 ### AIエージェントフレームワーク
