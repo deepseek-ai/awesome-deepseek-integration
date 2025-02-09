@@ -67,7 +67,7 @@ the following configuration:
 Just use Continue as normal, and you know longer have to worry about security
 or privacy concerns!
 
-![continue-image](continue-screen.png)
+![continue-image](https://github.com/deepseek/awesome-deepseek-integration/blob/codegate/docs/codegate/assets/continue-screen.png)
 
 
 ### Using CodeGate and 🐋 Deepseek with Cline
@@ -75,12 +75,12 @@ or privacy concerns!
 To use Cline with CodeGate, open the Cline settings and add
 the following configuration:
 
-![cline-settings](cline-settings.png)
+![cline-settings](https://github.com/deepseek/awesome-deepseek-integration/blob/codegate/docs/codegate/assets/cline-settings.png)
 
 Just use Cline as normal, and you know longer have to worry about security
 or privacy concerns!
 
-![cline-image](cline-screen.png)
+![cline-image](https://github.com/deepseek/awesome-deepseek-integration/blob/codegate/docs/codegate/assets/cline-screen.png)
 
 ---
 ## 🖥️ Dashboard
