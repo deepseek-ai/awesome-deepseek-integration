@@ -302,6 +302,11 @@
 
 <table>
     <tr>
+        <td style="font-size: 64px">&#128032;</td>
+        <td> <a href="https://github.com/lunary-ai/abso/blob/main/README.md"> Abso </a>
+        <td> TypeScript SDK 使用 OpenAI 格式与任何 LLM 提供商进行交互。</td>
+    </tr>
+    <tr>
         <td> <img src="https://i.imgur.com/IsQYInJ.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/djcopley/ShellOracle/"> ShellOracle </a> </td>
         <td> 一种用于智能 shell 命令生成的终端工具。 </td>
