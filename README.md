@@ -421,6 +421,10 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
+        <td style="font-size: 64px">&#128032;</td>
+        <td> <a href="https://github.com/lunary-ai/abso/blob/main/README.md#ollama"> Abso </a></td>
+        <td>TypeScript SDK to interact with any LLM provider using the OpenAI format.</td>
+    <tr>
         <td> <img src="https://i.imgur.com/IsQYInJ.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/djcopley/ShellOracle/"> ShellOracle </a> </td>
         <td> A terminal utility for intelligent shell command generation. </td>
