@@ -302,7 +302,7 @@
 
 <table>
     <tr>
-        <td style="font-size: 64px">&#128032;</td>
+        <td style="font-size: 84px">&#128032;</td>
         <td> <a href="https://github.com/lunary-ai/abso/blob/main/README.md"> Abso </a>
         <td> TypeScript SDK 使用 OpenAI 格式与任何 LLM 提供商进行交互。</td>
     </tr>
