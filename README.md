@@ -417,6 +417,16 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
+### Security
+
+<table>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/stacklok/codegate/refs/heads/main/assets/codegate.png"  alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/stacklok/codegate/"> CodeGate </a> </td>
+        <td> CodeGate: secure AI code generation</td>
+    </tr>
+</table>
+
 ### Others
 
 <table>
