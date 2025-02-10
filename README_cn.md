@@ -144,7 +144,7 @@
     <tr>
         <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
-        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> 是一个开源的基于大模型的自动算法设计平台。</td>
+        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> 是一个开源、简洁、模块化的基于大模型的自动算法设计平台。</td>
     </tr>
 </table>
 
