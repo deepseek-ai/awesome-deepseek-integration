@@ -19,6 +19,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
 
 <table>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/quantalogic/quantalogic">Quantalogic</a> </td>
+        <td> QuantaLogicは、高度なAIエージェントを構築するためのReAct（推論と行動）フレームワークです。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/13600976/224d547a-6fbc-47c8-859f-aa14813e2b0f" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatbox/README.md">Chatbox</a> </td>
         <td> Chatboxは、Windows、Mac、Linuxで利用可能な複数の最先端LLMモデルのデスクトップクライアントです。 </td>
