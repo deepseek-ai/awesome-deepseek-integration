@@ -138,6 +138,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a>は、マーケターがAIエージェントのためのエージェンティックAIワークフローを構築するためのノーコードプラットフォームであり、数百の毎日のアプリをツールとして使用します。</td>
     </tr>
+    <tr>
+        <td> <img src="https://bibigpt.co/icons/lucid/icon_32x32@2x.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://bibigpt.co">BibiGPT</a> </td>
+        <td> YouTubeやBilibili等のプラットフォームのコンテンツを素早く要約・分析できるAI動画アシスタント。DeepSeek R1とV3モデルを活用し、より深い理解と分析を提供します。 </td>
+    </tr>
 </table>
 
 ### AIエージェントフレームワーク
@@ -216,7 +221,7 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
     <tr>
         <td> <img src="https://static.eudic.net/web/trans/en_trans.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/Lulu Translate/README.md"> Lulu Translate </a> </td>
-        <td> このプラグインは、マウス選択翻訳、段落ごとの比較翻訳、およびPDF文書���訳機能を提供します。DeepSeek AI、Bing、GPT、Googleなどのさまざまな翻訳エンジンを利用できます。 </td>
+        <td> このプラグインは、マウス選択翻訳、段落ごとの比較翻訳、およびPDF文書訳機能を提供します。DeepSeek AI、Bing、GPT、Googleなどのさまざまな翻訳エンジンを利用できます。 </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/Bistutu/FluentRead/raw/refs/heads/main/public/icon/192.png" alt="Icon" width="64" height="auto" /> </td>
