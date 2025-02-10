@@ -152,8 +152,8 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
     <tr>
         <td> <img src="https://github.com/ZGGSONG/STranslate/raw/main/img/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://bobtranslate.com/">STranslate</a></td>
-        <td> <a href="https://bobtranslate.com/">STranslate</a>（Windows） is a ready-to-go translation ocr tool developed by WPF </td>
+        <td> <a href="https://stranslate.zggsong.com/en/">STranslate</a></td>
+        <td> <a href="https://stranslate.zggsong.com/en/">STranslate</a>（Windows） is a ready-to-go translation ocr tool developed by WPF </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/5e16beb0-993e-47bf-807e-7c8804b313a2" alt="Asp Client" width="64" height="auto" /> </td>
@@ -195,6 +195,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
+        <td><img src="https://yomo.run/yomo-logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/yomo/README.md">YoMo</a></td>
+        <td>Stateful Serverless LLM Function Calling Framework with Strongly-typed Language Support</td>
+     </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/superagentxai/superagentX/refs/heads/master/docs/logo/icononly_transparent_nobuffer.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/superagentx/README.md">SuperAgentX</a> </td>
         <td>SuperAgentX: A Lightweight Open Source AI Framework Built for Autonomous Multi-Agent Applications with Artificial General Intelligence (AGI) Capabilities.</td>
@@ -204,7 +209,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/anda/README.md">Anda</a> </td>
         <td>A Rust framework for AI agent development, designed to build a highly composable, autonomous, and perpetually memorizing network of AI agents.</td>
     </tr>
-    <tr>
+     <tr>
         <td> <img src="https://raw.githubusercontent.com/longevity-genie/chat-ui/11c6647c83f9d2de21180b552474ac5ffcf53980/static/geneticsgenie/icon-128x128.png" alt="Icon" width="64" height="auto"/> </td>
         <td> <a href="https://github.com/longevity-genie/just-agents">Just-Agents</a> </td>
         <td>A lightweight, straightforward library for LLM agents - no over-engineering, just simplicity!</td>
@@ -212,6 +217,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://alice.fun/alice-logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/bob-robert-ai/bob/blob/main/alice/readme.md">Alice</a> </td>
         <td>An autonomous AI agent on ICP, leveraging LLMs like DeepSeek for on-chain decision-making. Alice combines real-time data analysis with a playful personality to manage tokens, mine BOB, and govern ecosystems.</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/Upsonic/Upsonic/blob/9d2e6d43b44defc6744817330625661ca3a2184e/Upsonic%20pp.png" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <a href="https://github.com/Upsonic/Upsonic">Upsonic</a> </td>
+        <td>Upsonic offers a cutting-edge enterprise-ready agent framework where you can orchestrate LLM calls, agents, and computer use to complete tasks cost-effectively.</td>
     </tr>
 </table>
 
@@ -222,6 +232,16 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/33142505/77093e84-9f7c-4716-9168-bac962fa1372" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> RAGFlow </a> </td>
         <td> An open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. It offers a streamlined RAG workflow for businesses of any scale, combining LLM (Large Language Models) to provide truthful question-answering capabilities, backed by well-founded citations from various complex formatted data. </td>
+    </tr>
+</table>
+
+### Solana frameworks
+
+<table>
+    <tr>
+        <td> <img src="./docs/solana-agent-kit/assets/sendai-logo.png" alt="Icon" width="128" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> Solana Agent Kit </a> </td>
+        <td>An open-source toolkit for connecting AI agents to Solana protocols. Now, any agent, using any Deepseek LLM, can autonomously perform 60+ Solana actions: </td>
     </tr>
 </table>
 
@@ -249,6 +269,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://github.com/RockChinQ/LangBot/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/RockChinQ/LangBot">LangBot<br/>（QQ, Lark, WeCom）</a> </td>
         <td> LLM-based IM bots framework, supports QQ, Lark, WeCom, and more platforms.</td>
+    </tr>
+    <tr>
+        <td> <img src="https://nonebot.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/KomoriDev/nonebot-plugin-deepseek">NoneBot<br/>（QQ, Lark, Discord, TG, etc.）</a> </td>
+        <td> Based on NoneBot framework, provide intelligent chat and deep thinking functions, supports QQ, Lark, Discord, TG, and more platforms.</td>
     </tr>
 </table>
 
@@ -289,6 +314,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://www.ncurator.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.ncurator.com/"> Ncurator </a> </td>
         <td> Knowledge Base AI Q&A Assistant - Let AI help you organize and analyze knowledge</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/oinzen/RSSFlow-doc/blob/main/docs/images/en/icon64.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
+        <td>An intelligent RSS reader browser extension with AI-powered RSS summarization and multi-dimensional feed views. Supports DeepSeek model configuration for enhanced content understanding. </td>
     </tr>
 </table>
 
@@ -401,6 +431,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> A terminal utility for intelligent shell command generation. </td>
     </tr>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/178783630?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/bolna-ai/bolna/"> Bolna </a> </td>
+        <td> Use DeepSeek as the LLM for conversational voice AI agents</td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c1e47b01-1766-4f7e-bfe6-ab3cb3991c30" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main/docs/siri_deepseek_shortcut"> siri_deepseek_shortcut </a> </td>
         <td> Siri equiped with the DeepSeek API </td>
@@ -409,6 +444,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://github.com/n8n-io/n8n/blob/master/assets/n8n-logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/rubickecho/n8n-deepseek"> n8n-nodes-deepseek </a> </td>
         <td> An N8N community node that supports direct integration with the DeepSeek API into workflows. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://framerusercontent.com/images/TSKshn2UFdTyvUi85EDMIXrXgs.png?scale-down-to=512" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Portkey-AI/gateway"> Portkey AI </a> </td>
+        <td> Portkey is a unified API for interacting with over 1600+ LLM models, offering advanced tools for control, visibility, and security in your DeepSeek apps. Python & Node SDK available. </td>
     </tr>
     <tr>
         <td> <img src="https://framerusercontent.com/images/8rF2JOaZ8l9AvM4H6ezliw44aI.png" alt="Icon" width="64" height="auto" /> </td>
@@ -426,6 +466,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Test and evaluate LLM prompts, including DeepSeek models. Compare different LLM providers, catch regressions, and evaluate responses. </td>
     </tr>
     <tr>
+        <td>  </td>
+        <td> <a href="https://github.com/AndersonBY/deepseek-tokenizer"> deepseek-tokenizer </a> </td>
+        <td> An efficient and lightweight tokenization library for DeepSeek models, relying solely on the `tokenizers` library without heavy dependencies like `transformers`. </td>
+    </tr>
+    <tr>
         <td> <img src="https://langfuse.com/icon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://langfuse.com/docs/integrations/deepseek"> Langfuse </a> </td>
         <td> Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their DeepSeek applications. </td>
@@ -440,4 +485,9 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://youtu.be/T1my2gqi-7Q"> GPTLocalost </a> </td>
         <td> Use DeepSeek-R1 in Microsoft Word Locally. No inference costs. </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/suqicloud/wp-ai-chat/raw/main/ic_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/suqicloud/wp-ai-chat"> WordPress ai助手 </a> </td>
+        <td> Docking Deepseek api for WordPress site ai conversation assistant, post generation, post summary plugin. </td>
+    </tr>   
 </table>

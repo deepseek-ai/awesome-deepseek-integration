@@ -165,6 +165,16 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
     </tr>
 </table>
 
+### Solanaフレームワーク
+
+<table>
+    <tr>
+        <td> <img src="./docs/solana-agent-kit/assets/sendai-logo.png" alt="Icon" width="128" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> Solana Agent Kit </a> </td>
+        <td>AIエージェントをSolanaプロトコルに接続するためのオープンソースツールキット。DeepSeek LLMを使用する任意のエージェントが、60以上のSolanaアクションを自律的に実行できます。</td>
+    </tr>
+</table>
+
 ### IMアプリケーションプラグイン
 
 <table>
@@ -177,6 +187,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <img src="https://github.com/RockChinQ/QChatGPT/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/RockChinQ/QChatGPT">QChatGPT<br/>（QQ）</a> </td>
         <td> 高い安定性、プラグインサポート、リアルタイムネットワーキングを備えたQQチャットボット。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://nonebot.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/KomoriDev/nonebot-plugin-deepseek"">NoneBot<br/>（QQ, Lark, Discord, TG, etc.）</a> </td>
+        <td> NoneBotフレームワークを基に、インテリジェントな会話と深い思考機能をサポートします。QQ/飛書/Discord/Telegram等多种多様なメッセージプラットフォームに対応しています </td>
     </tr>
 </table>
 
@@ -212,6 +227,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <img src="https://github.com/Bistutu/FluentRead/raw/refs/heads/main/public/icon/192.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://fluent.thinkstu.com/"> FluentRead </a> </td>
         <td> 誰もが母国語のような読書体験を持つことができる革新的なオープンソースのブラウザ翻訳プラグイン </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/oinzen/RSSFlow-doc/blob/main/docs/images/en/icon64.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
+        <td>AIを活用したRSS要約と多次元フィードビューを備えたインテリジェントなRSSリーダーブラウザ拡張機能。コンテンツ理解を強化するためのDeepSeekモデル設定をサポートしています。</td>
     </tr>
 </table>
 

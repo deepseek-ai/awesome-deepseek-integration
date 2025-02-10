@@ -50,7 +50,7 @@
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/rss-translator/RSS-Translator/main/core/static/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="hhttps://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/rss_translator/README_cn.md"> RSS翻译器 </a> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/rss_translator/README_cn.md"> RSS翻译器 </a> </td>
         <td> 开源、简洁、可自部署的RSS翻译器 </td>
     </tr>
     <tr>
@@ -120,8 +120,8 @@
     </tr>
     <tr>
         <td> <img src="https://github.com/ZGGSONG/STranslate/raw/main/img/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://bobtranslate.com/">STranslate</a></td>
-        <td> <a href="https://bobtranslate.com/">STranslate</a>（Windows） 是 WPF 开发的一款即用即走的翻译、OCR工具 </td>
+        <td> <a href="https://stranslate.zggsong.com/">STranslate</a></td>
+        <td> <a href="https://stranslate.zggsong.com/">STranslate</a>（Windows） 是 WPF 开发的一款即用即走的翻译、OCR工具 </td>
     </tr>
     <tr>
         <td> <img src="https://www.gptaiflow.tech/logo.png" alt="gpt-ai-flow-logo" width="64" height="auto" /> </td>
@@ -157,6 +157,11 @@
         <td>一个专为 AI 智能体开发设计的 Rust 语言框架，致力于构建高度可组合、自主运行且具备永久记忆能力的 AI 智能体网络。</td>
     </tr>
     <tr>
+        <td><img src="https://yomo.run/yomo-logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/yomo/README.md">YoMo</a></td>
+        <td>Stateful Serverless LLM Function Calling Framework with Strongly-typed Language Support</td>
+  </tr>
+  <tr>
         <td> <img src="https://alice.fun/alice-logo.png" alt="图标" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/bob-robert-ai/bob/blob/main/alice/readme.md">Alice</a> </td>
         <td>一个基于 ICP 的自主 AI 代理，利用 DeepSeek 等大型语言模型进行链上决策。Alice 结合实时数据分析和独特的个性，管理代币、挖掘 BOB 并参与生态系统治理。</td>
@@ -173,6 +178,16 @@
     </tr>
 </table>
 
+### Solana 框架
+
+<table>
+    <tr>
+        <td> <img src="./docs/solana-agent-kit/assets/sendai-logo.png" alt="Icon" width="128" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> Solana Agent Kit </a> </td>
+        <td>一个用于连接 AI 智能体到 Solana 协议的开源工具包。现在，任何使用 Deepseek LLM 的智能体都可以自主执行 60+ 种 Solana 操作：</td>
+    </tr>
+</table>
+
 ### 即时通讯插件
 
 <table>
@@ -185,6 +200,11 @@
         <td> <img src="https://github.com/RockChinQ/LangBot/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/RockChinQ/LangBot">LangBot<br/>（QQ, 企微, 飞书）</a> </td>
         <td> 大模型原生即时通信机器人平台，适配 QQ / QQ频道 / 飞书 / OneBot / 企业微信（wecom） 等多种消息平台 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://nonebot.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/KomoriDev/nonebot-plugin-deepseek"">NoneBot<br/>（QQ, 飞书, Discord, TG, etc.）</a> </td>
+        <td> 基于 NoneBot 框架，支持智能对话与深度思考功能。适配 QQ / 飞书 / Discord, TG 等多种消息平台 </td>
     </tr>
 </table>
 
@@ -225,6 +245,11 @@
         <td> <img src="https://www.ncurator.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.ncurator.com/"> 馆长 </a> </td>
         <td> 知识库AI问答助手 - 让AI帮助你整理与分析知识</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/oinzen/RSSFlow-doc/blob/main/docs/images/en/icon64.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
+        <td>一款智能的RSS阅读器浏览器扩展，具有AI驱动的RSS摘要和多维度订阅视图功能。支持配置DeepSeek模型以增强内容理解能力。</td>
     </tr>
 </table>
 
@@ -302,8 +327,17 @@
         <td> 测试和评估LLM提示，包括DeepSeek模型。比较不同的LLM提供商，捕获回归，并评估响应。 </td>
     </tr>
     <tr>
+        <td>  </td>
+        <td> <a href="https://github.com/AndersonBY/deepseek-tokenizer"> deepseek-tokenizer </a> </td>
+        <td> 一个高效的轻量级tokenization库，仅依赖`tokenizers`库，不依赖`transformers`等重量级依赖。 </td>
+    </tr>
         <td> CR </td>
         <td> <a href="https://github.com/hustcer/deepseek-review"> deepseek-review </a> </td>
         <td> 🚀 使用 Deepseek 进行代码审核，支持 GitHub Action 和本地 🚀 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/suqicloud/wp-ai-chat/raw/main/ic_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/suqicloud/wp-ai-chat"> WordPress ai助手 </a> </td>
+        <td> 对接Deepseek api用于WordPress站点的ai对话助手、ai文章生成、ai文章总结插件。 </td>
+    </tr> 
 </table>
