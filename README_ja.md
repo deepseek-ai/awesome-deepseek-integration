@@ -99,8 +99,8 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://www.zotero.org">Zotero</a>は、研究成果を収集、整理、注釈、引用、共有するのに役立つ無料で使いやすいツールです。</td>
     </tr>
     <tr>
-        <td> <img src="./docs/Siyuan/assets/image-20250122162731-7wkftbw.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/Siyuan/README.md">SiYuan</a> </td>
+        <td> <img src="https://b3log.org/images/brand/siyuan-128.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/SiYuan/README.md">SiYuan</a> </td>
         <td> SiYuanは、完全にオフラインで使用できるプライバシー優先の個人知識管理システムであり、エンドツーエンドの暗号化データ同期を提供します。</td>
     </tr>
     <tr>
