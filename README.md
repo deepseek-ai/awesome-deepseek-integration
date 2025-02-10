@@ -112,7 +112,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
     <tr>
         <td> <img src="https://b3log.org/images/brand/siyuan-128.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/Siyuan/README.md">SiYuan</a> </td>
+        <td> <a href="docs/SiYuan/README.md">SiYuan</a> </td>
         <td> SiYuan is a privacy-first personal knowledge management system that supports complete offline usage, as well as end-to-end encrypted data sync.</td>
     </tr>
     <tr>

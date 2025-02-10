@@ -90,7 +90,7 @@
     </tr>
     <tr>
         <td> <img src="https://b3log.org/images/brand/siyuan-128.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/Siyuan/README_cn.md">思源笔记</a> </td>
+        <td> <a href="docs/SiYuan/README_cn.md">思源笔记</a> </td>
         <td> 思源笔记是一款隐私优先的个人知识管理系统，支持完全离线使用，并提供端到端加密的数据同步功能。</td>
     </tr>
     <tr>

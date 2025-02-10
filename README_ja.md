@@ -100,7 +100,7 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
     </tr>
     <tr>
         <td> <img src="https://b3log.org/images/brand/siyuan-128.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/Siyuan/README.md">SiYuan</a> </td>
+        <td> <a href="docs/SiYuan/README.md">SiYuan</a> </td>
         <td> SiYuanは、完全にオフラインで使用できるプライバシー優先の個人知識管理システムであり、エンドツーエンドの暗号化データ同期を提供します。</td>
     </tr>
     <tr>
