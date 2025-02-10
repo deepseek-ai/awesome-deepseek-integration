@@ -138,6 +138,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a>は、マーケターがAIエージェントのためのエージェンティックAIワークフローを構築するためのノーコードプラットフォームであり、数百の毎日のアプリをツールとして使用します。</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
+        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> は、大規模言語モデル（LLM）を活用した自動アルゴリズム設計のための統一されたオープンソースのPythonベースのプラットフォームです。</td>
+    </tr>
 </table>
 
 ### AIエージェントフレームワーク
