@@ -141,6 +141,11 @@
         <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
         <td>通过一句话即可快速生成高清故事短视频，支持 DeepSeek 等模型。</td>
     </tr>
+    <tr>
+        <td> <img src="https://obsidian.md/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/TarsLab/obsidian-tars">Obsidian Tars</a></td>
+        <td> 把大模型对话融入到 Obsidian 的笔记编辑, deepseek-reasoner 的思维链以 callout 格式输出。 </td>
+    </tr>
 </table>
 
 ### AI Agent 框架
