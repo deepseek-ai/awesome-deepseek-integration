@@ -190,6 +190,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
+        <td> <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/mascot_smol.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/huggingface/smolagents/tree/main"> smolagents </a> </td>
+        <td> The simplest way to build great agents. Agents write python code to call tools and orchestrate other agents. Priority support for open models like DeepSeek-R1!  </td>
+    </tr>
+    <tr>
         <td><img src="https://yomo.run/yomo-logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/yomo/README.md">YoMo</a></td>
         <td>Stateful Serverless LLM Function Calling Framework with Strongly-typed Language Support</td>
