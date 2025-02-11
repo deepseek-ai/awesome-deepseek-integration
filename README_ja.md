@@ -228,6 +228,16 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
         <td>AIを活用したRSS要約と多次元フィードビューを備えたインテリジェントなRSSリーダーブラウザ拡張機能。コンテンツ理解を強化するためのDeepSeekモデル設定をサポートしています。</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.ncurator.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.ncurator.com/"> Ncurator </a> </td>
+        <td> ナレッジベース AI Q&Aアシスタント – AIがあなたの知識の整理と分析をお手伝いします</td>
+    </tr>
+    <tr>
+        <td> <img src="https://www.typral.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.typral.com/"> Typral </a> </td>
+        <td>超高速AIライティングアシスタント - AIがあなたの日報、記事、テキストなどを素早く最適化します</td>
+    </tr>
 </table>
 
 ### VS Code拡張機能
