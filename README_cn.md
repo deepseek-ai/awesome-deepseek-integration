@@ -141,6 +141,11 @@
         <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
         <td>通过一句话即可快速生成高清故事短视频，支持 DeepSeek 等模型。</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.chatbotbuilder.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/bobbylkchao/chatbotBuilder">AI Chatbot Builder</a> </td>
+        <td> <a href="www.chatbotbuilder.dev/">Chatbot Builder</a> 是一个开源平台，集成了 DeepSeek 和 OpenAI模型，允许用户为不同的对话场景创建定制化的聊天机器人。通过低代码和可配置的方式，轻松构建智能对话体验。</td>
+    </tr>
 </table>
 
 ### AI Agent 框架

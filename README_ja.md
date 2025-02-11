@@ -138,6 +138,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a>は、マーケターがAIエージェントのためのエージェンティックAIワークフローを構築するためのノーコードプラットフォームであり、数百の毎日のアプリをツールとして使用します。</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.chatbotbuilder.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/bobbylkchao/chatbotBuilder">AI Chatbot Builder</a> </td>
+        <td> <a href="www.chatbotbuilder.dev/">Chatbot Builder</a> はオープンソースのプラットフォームで、DeepSeekとOpenAIモデルを統合し、さまざまな対話シナリオに対応したカスタマイズ可能なチャットボットを作成できます。ローコードかつ設定可能な方法で、簡単にインテリジェントな対話体験を構築できます。</td>
+    </tr>
 </table>
 
 ### AIエージェントフレームワーク
