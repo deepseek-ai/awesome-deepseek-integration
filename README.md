@@ -243,11 +243,17 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 ### Synthetic data curation
 
+
 <table>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/bespokelabsai/curator/main/docs/Bespoke-Labs-Logomark-Red-crop.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/curator/README.md"> Curator </a> </td>
         <td> An open-source tool to curate large scale datasets for post-training LLMs. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/8455694b-c52e-40ec-847e-adf6a5ac064f" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Kiln-AI/Kiln"> Kiln </a> </td>
+        <td>Generate synthetic datasets and distill R1 models into custom fine-tunes. </td>
     </tr>
 </table>
 
