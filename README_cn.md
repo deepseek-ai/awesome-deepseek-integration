@@ -141,6 +141,11 @@
         <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
         <td>通过一句话即可快速生成高清故事短视频，支持 DeepSeek 等模型。</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/chatpdflocal/assets/chatpdflocal-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.chatpdflocal.com">ChatPDFLocal</a> </td>
+        <td> ChatPDFLocal是一款基于AI的可以让您与PDF对话的MacOS App，它集成了DeepSeek及其他多种AI模型旨在提高您的阅读效率。</td>
+    </tr>
 </table>
 
 ### AI Agent 框架
