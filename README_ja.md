@@ -6,7 +6,7 @@
 
 # Awesome DeepSeek Integrations ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-DeepSeek APIを人気のソフトウェアに統合します。APIキーを取得するには、[DeepSeek Open Platform](https://platform.deepseek.com/)にアクセスしてください。
+DeepSeek API を人気のソフトウェアに統合します。API キーを取得するには、[DeepSeek Open Platform](https://platform.deepseek.com/)にアクセスしてください。
 
 [English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)/日本語
 
@@ -140,7 +140,7 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
     </tr>
 </table>
 
-### AIエージェントフレームワーク
+### AI エージェントフレームワーク
 
 <table>
     <tr>
@@ -150,7 +150,7 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
     </tr>
 </table>
 
-### RAGフレームワーク
+### RAG フレームワーク
 
 <table>
     <tr>
@@ -160,7 +160,7 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
     </tr>
 </table>
 
-### Solanaフレームワーク
+### Solana フレームワーク
 
 <table>
     <tr>
@@ -170,7 +170,7 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
     </tr>
 </table>
 
-### IMアプリケーションプラグイン
+### IM アプリケーションプラグイン
 
 <table>
     <tr>
@@ -230,7 +230,7 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
     </tr>
 </table>
 
-### VS Code拡張機能
+### VS Code 拡張機能
 
 <table>
     <tr>
@@ -243,9 +243,14 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cline/README.md"> Cline </a> </td>
         <td> Clineは、CLIとエディタを使用できるAIアシスタントです。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/Sitoi/ai-commit/refs/heads/main/images/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Sitoi/ai-commit/blob/main/README.md"> AI Commit </a> </td>
+        <td> VS Code で AI を使用して git commit message を生成するプラグイン。 </td>
+    </tr>
 </table>
 
-### neovim拡張機能
+### neovim 拡張機能
 
 <table>
     <tr>
@@ -265,7 +270,7 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
     </tr>
 </table>
 
-### JetBrains拡張機能
+### JetBrains 拡張機能
 
 <table>
     <tr>
