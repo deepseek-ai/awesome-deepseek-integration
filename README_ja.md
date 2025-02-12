@@ -268,6 +268,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://www.trancy.org/"> Trancy </a> </td>
         <td>イマーシブな二か国語対照翻訳、動画の二か国語字幕、文/単語の選択翻訳プラグイン</td>
     </tr>
+    <tr>
+        <td> <img src="https://ziziyi.com/svg/anything_copilot.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/baotlake/anything-copilot"> Anything Copilot </a> </td>
+        <td> Anything Copilotは、サイドバーから直接主要なAIツールにシームレスにアクセスできるようにするブラウザ拡張機能です。 </td>
+    </tr>
 </table>
 
 ### VS Code 拡張機能

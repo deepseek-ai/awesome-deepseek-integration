@@ -281,6 +281,11 @@
         <td> <a href="https://www.trancy.org/"> Trancy </a> </td>
         <td>沉浸双语对照翻译、视频双语字幕、划句/划词翻译插件</td>
     </tr>
+    <tr>
+        <td> <img src="https://ziziyi.com/svg/anything_copilot.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/baotlake/anything-copilot"> Anything Copilot </a> </td>
+        <td> Anything Copilot 是一款可以让你在侧边栏无缝使用任意主流AI工具的浏览器插件。 </td>
+    </tr>
 </table>
 
 ### VS Code 插件
