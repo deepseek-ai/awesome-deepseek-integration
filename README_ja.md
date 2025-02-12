@@ -139,9 +139,9 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a>は、マーケターがAIエージェントのためのエージェンティックAIワークフローを構築するためのノーコードプラットフォームであり、数百の毎日のアプリをツールとして使用します。</td>
     </tr>
     <tr>
-        <td> <img src="https://bibigpt.co/icons/lucid/icon_32x32@2x.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://bibigpt.co">BibiGPT</a> </td>
-        <td> YouTubeやBilibili等のプラットフォームのコンテンツを素早く要約・分析できるAI動画アシスタント。DeepSeek R1とV3モデルを活用し、より深い理解と分析を提供します。 </td>
+        <td> <img src="https://mintlify.s3.us-west-1.amazonaws.com/aitodo/logo/bibigpt-logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> は、ビリビリ動画、YouTube、小紅書、ポッドキャストなどの主要プラットフォームのコンテンツ分析と要約をサポートするAI音声・動画アシスタントで、音声・動画コンテンツの素早い視聴、簡単な検索、効果的な活用を実現します。コンテンツの要約、インタラクティブなQ&A、記事生成などの機能を提供。動画ファイルのアップロード、メモアプリの連携、DeepSeek R1とV3モデルをサポート。 </td>
     </tr>
 </table>
 

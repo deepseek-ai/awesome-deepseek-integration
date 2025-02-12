@@ -185,8 +185,8 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
     <tr>
         <td> <img src="https://mintlify.s3.us-west-1.amazonaws.com/aitodo/logo/bibigpt-logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <img src="https://bibigpt.co/icons/lucid/icon_32x32@2x.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> AI-driven video summarizer that supports DeepSeek R1 and DeepSeek V3 models for video content analysis and summarization. </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> is an AI audio/video assistant that supports content analysis and summarization from major platforms like Bilibili, YouTube, Xiaohongshu, and podcast platforms, making audio/video content faster to consume, easier to find, and better to use. Features include content summarization, interactive Q&A, and article generation. Supports video file uploads, note-taking app integration, and DeepSeek R1 and V3 models. </td>
     </tr>
 </table>
 
