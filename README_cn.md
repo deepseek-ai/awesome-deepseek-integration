@@ -246,6 +246,11 @@
         <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
         <td>一款智能的RSS阅读器浏览器扩展，具有AI驱动的RSS摘要和多维度订阅视图功能。支持配置DeepSeek模型以增强内容理解能力。</td>
     </tr>
+    <tr>
+        <td> <img src="https://ziziyi.com/svg/anything_copilot.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/baotlake/anything-copilot"> Anything Copilot </a> </td>
+        <td> Anything Copilot 是一款可以让你在侧边栏无缝使用任意主流AI工具的浏览器插件。 </td>
+    </tr>
 </table>
 
 ### VS Code 插件
