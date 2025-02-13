@@ -141,6 +141,11 @@
         <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
         <td>通过一句话即可快速生成高清故事短视频，支持 DeepSeek 等模型。</td>
     </tr>
+    <tr>
+        <td> <img src="https://bibigpt.co/icons/lucid/icon_32x32@2x.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> 是一款AI音视频助理，支持B站、油管、小红书、小宇宙播客等主流平台的内容分析和总结，让音视频看得快、搜得到、用得好。提供内容摘要、智能问答和文章生成等功能。支持视频文件上传、笔记应用集成和DeepSeek R1及V3模型。 </td>
+    </tr>
 </table>
 
 ### AI Agent 框架

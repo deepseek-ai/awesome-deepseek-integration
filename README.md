@@ -183,7 +183,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="docs/16x_prompt/README.md">16x Prompt</a> </td>
         <td> <a href="https://prompt.16x.engineer/">16x Prompt</a> is an AI coding tool with context management. It helps developers manage source code context and craft prompts for complex coding tasks on existing codebases.</td>
     </tr>
-    
+    <tr>
+        <td> <img src="https://bibigpt.co/icons/lucid/icon_32x32@2x.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> is an AI audio/video assistant that supports content analysis and summarization from major platforms like Bilibili, YouTube, Xiaohongshu, and podcast platforms, making audio/video content faster to consume, easier to find, and better to use. Features include content summarization, interactive Q&A, and article generation. Supports video file uploads, note-taking app integration, and DeepSeek R1 and V3 models. </td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
