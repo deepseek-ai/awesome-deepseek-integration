@@ -315,6 +315,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
         <td>An intelligent RSS reader browser extension with AI-powered RSS summarization and multi-dimensional feed views. Supports DeepSeek model configuration for enhanced content understanding. </td>
     </tr>
+    <tr>
+        <td> <img src="https://lh3.googleusercontent.com/dXuThUr_4odH8PyJWu66hUjRlcG1f3IJ7hbzEkREu_x_7Qo7-nDfylZLrk-gbfKbdpngvM_C5c2KJhSmy7YATtLj=s120" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ollamazing/README.md"> Ollamazing </a> </td>
+        <td> An Open Source Web extension for using Ollama models, including DeepSeek models. Supporting chat, translate, and more. </td>
+    </tr>
 </table>
 
 ### VS Code Extensions
