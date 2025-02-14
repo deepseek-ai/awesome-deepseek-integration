@@ -295,13 +295,18 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
     </tr>
 </table>
 
-### Cursor
+### AI コードエディタ
 
 <table>
     <tr>
         <td> <img src="https://global.discourse-cdn.com/flex020/uploads/cursor1/original/2X/a/a4f78589d63edd61a2843306f8e11bad9590f0ca.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.cursor.com/"> Cursor </a> </td>
         <td>‍AIコードエディタ</td>
+    </tr>
+    <tr>
+        <td> <img src="https://exafunction.github.io/public/images/windsurf/windsurf-app-icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://codeium.com/windsurf"> WindSurf </a> </td>
+        <td>CodeiumによるVS CodeをベースにしたのAIコードエディタ</td>
     </tr>
 </table>
 
