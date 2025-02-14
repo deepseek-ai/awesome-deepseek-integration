@@ -218,6 +218,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/Upsonic/Upsonic">Upsonic</a> </td>
         <td>Upsonic offers a cutting-edge enterprise-ready agent framework where you can orchestrate LLM calls, agents, and computer use to complete tasks cost-effectively.</td>
     </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
+        <td>A foundation framework that enables advanced agent based on DeepSeek to interactions with each other, data verification, and data queries with [ATTPs Protocol](https://docs.apro.com/attps) .</td>
+    </tr>
 </table>
 
 ### RAG frameworks
