@@ -228,6 +228,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
         <td>AIを活用したRSS要約と多次元フィードビューを備えたインテリジェントなRSSリーダーブラウザ拡張機能。コンテンツ理解を強化するためのDeepSeekモデル設定をサポートしています。</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.chatgot.io/chat/assets/imgs/logo@2x.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.chatgot.io/"> ChatGOT </a> </td>
+        <td> 生産性を向上させるための無料のAIチャットボットアシスタント </td>
+    </tr>
 </table>
 
 ### VS Code拡張機能
