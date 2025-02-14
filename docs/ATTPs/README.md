@@ -228,17 +228,19 @@ const tx = await autoHashAgent.verify({ payload, agent: '', digest: '' })
 ```
 
 For more examples, see the [test](https://github.com/APRO-com/ai-agent-sdk-js/tree/main/test) cases.
-```
+
 
 
 # Usage with Python
 
 ## Installation
+
 ```bash
 $ pip3 install ai-agent-sdk
+
 ```
 
-## Usage
+## Usage with Python SDK
 
 ### Initialize AgentSDK
 
