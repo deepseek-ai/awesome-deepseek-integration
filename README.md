@@ -221,7 +221,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td> 
         <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
-        <td>A foundation framework that enables advanced agent based on DeepSeek to interactions with each other, data verification, and data queries with [ATTPs Protocol](https://docs.apro.com/attps) .</td>
+        <td>A foundation framework that enables advanced agent based on DeepSeek to interactions with each other, data verification, and data queries with <a href="https://docs.apro.com/attps">ATTPs Protocol</a> .</td>
     </tr>
 </table>
 
