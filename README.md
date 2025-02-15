@@ -221,7 +221,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td> 
         <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
-        <td>A foundation framework that enables advanced agent based on DeepSeek to interactions with each other, data verification, and data queries with <a href="https://docs.apro.com/attps">ATTPs Protocol</a> .</td>
+        <td>A foundational protocol framework for trusted communication between agents. Any agents based on DeepSeek, By integrating with the <a href="https://docs.apro.com/attps">ATTPs</a> SDK, can access features such as agent registration, sending verifiable data, and retrieving verifiable data. So that it can make trusted communication with agents from other platforms.</a> .</td>
     </tr>
 </table>
 
