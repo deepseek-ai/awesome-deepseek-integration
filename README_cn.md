@@ -164,7 +164,7 @@
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="图标" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
-        <td>一个用于Agent之间可信通信的基础协议框架，基于DeekSeek的Agent,可以接入<a href="https://docs.apro.com/attps">ATTPs</a>的SDK，获得注册Agent，发送可验证数据，获取可验证数据等功能,从而与其他平台的Agent进行可信通信。</td>
+        <td>一个用于Agent之间可信通信的基础协议框架，基于DeekSeek的Agent,可以接入<a href="https://docs.apro.com/attps">ATTPs</a>的SDK，获得注册Agent，发送可验证数据，获取可验证数据等功能，从而与其他平台的Agent进行可信通信。</td>
     </tr>
 </table>
 
