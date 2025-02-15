@@ -141,6 +141,11 @@
         <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
         <td>通过一句话即可快速生成高清故事短视频，支持 DeepSeek 等模型。</td>
     </tr>
+    <tr>
+        <td> <img src="https://lobehub.com/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://lobehub.com/zh/docs/usage/providers/deepseek">LobeChat</a> </td>
+        <td> <a href="https://lobehub.com">LobeChat</a> - 一款开源的现代化 AI 对话框架。支持 DeepSeek R1、知识库（文件上传/知识管理/RAG）、多模态能力（视觉/语音合成/插件/创作）。一键免费部署专属 DeepSeek 应用，打造您的私人 AI 助手。</td>
+    </tr>
 </table>
 
 ### AI Agent 框架
