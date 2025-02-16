@@ -353,4 +353,9 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
         <td> LLMプロンプトをテストおよび評価し、DeepSeekモデルを含む。さまざまなLLMプロバイダーを比較し、回帰をキャッチし、応答を評価します。 </td>
     </tr>
+    <tr>
+        <td> <img src="./docs/labby/assets/labby-logo-animation-small.gif" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/labby/README.md"> Labby by LabEx </a> </td>
+        <td> [LabEx](https://labex.io/) は、Deepseek R1 ドライブの学習助手（Labby）を提供します。学生や教師のために、自動検証をサポートし、即時フィードバック、デバッグ、コード生成を提供します。</td>
+    </tr>
 </table>
