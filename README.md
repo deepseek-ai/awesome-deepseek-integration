@@ -240,7 +240,6 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-
 ### Synthetic data curation
 
 <table>
@@ -250,7 +249,6 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> An open-source tool to curate large scale datasets for post-training LLMs. </td>
     </tr>
 </table>
-
 
 ### IM Application Plugins
 
@@ -485,4 +483,12 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/suqicloud/wp-ai-chat"> WordPress ai助手 </a> </td>
         <td> Docking Deepseek api for WordPress site ai conversation assistant, post generation, post summary plugin. </td>
     </tr>   
+    <tr>
+         <td> <img src="https://github.com/user-attachments/assets/cbf6193b-fd66-4b88-bcf7-98699becf046" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/sally-suite/open-office-copilot">Open Office Copilot </a> </td>
+        <td>
+             Open Office Copilot is an open-source Office copilot that supports Microsoft Office and Google Workspace, based on AI-Agent. It can help you with writing in Word, generating slides in PowerPoint, analyzing data in Excel, and generating emails in Outlook, among other tasks. It has now integrated with DeepSeek.
+        </td>
+     </tr>
+
 </table>
