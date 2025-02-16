@@ -334,5 +334,10 @@
         <td> <img src="https://github.com/suqicloud/wp-ai-chat/raw/main/ic_logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/suqicloud/wp-ai-chat"> WordPress ai助手 </a> </td>
         <td> 对接Deepseek api用于WordPress站点的ai对话助手、ai文章生成、ai文章总结插件。 </td>
-    </tr> 
+    </tr>
+    <tr>
+        <td> <img src="https://file.labex.io/static/images/new-labby-logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://labex.io/"> Labby 学习助手 </a> </td>
+        <td> LabEx 提供了一个 Deepseek R1 驱动的学习助手（Labby），支持自动验证学生的实践代码并提供即时反馈、调试和代码生成。</td>
+    </tr>
 </table>
