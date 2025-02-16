@@ -138,6 +138,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a>は、マーケターがAIエージェントのためのエージェンティックAIワークフローを構築するためのノーコードプラットフォームであり、数百の毎日のアプリをツールとして使用します。</td>
     </tr>
+     <tr>
+        <td> <img src="https://github.com/guyoung/AIMatrices/raw/main/docs/assets/logo/ai-matrices1.png" alt="AIMatrices 图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>  
+		<td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
+    </tr>
 </table>
 
 ### AIエージェントフレームワーク
