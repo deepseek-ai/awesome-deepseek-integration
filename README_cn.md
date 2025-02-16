@@ -337,7 +337,7 @@
     </tr>
     <tr>
         <td> <img src="./docs/labby/assets/labby-logo-animation-small.gif" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://labex.io/"> Labby 学习助手 </a> </td>
-        <td> LabEx 提供了一个 Deepseek R1 驱动的学习助手（Labby），支持自动验证学生的实践代码并提供即时反馈、调试和代码生成。</td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/labby/README_cn.md"> Labby 学习助手 </a> </td>
+        <td> [LabEx](https://labex.io/) 提供了一个 Deepseek R1 驱动的学习助手（Labby），支持自动验证学生的实践代码并提供即时反馈、调试和代码生成。</td>
     </tr>
 </table>

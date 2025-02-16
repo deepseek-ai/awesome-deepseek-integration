@@ -485,7 +485,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
     <tr>
         <td> <img src="./docs/labby/assets/labby-logo-animation-small.gif" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://labex.io/"> Labby by LabEx </a> </td>
-        <td> LabEx provides a Deepseek R1-powered learning assistant (Labby) for students and teachers. It supports automatic verification of student's practice code and provides instant feedback, debugging, and code generation.</td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/labby/README.md"> Labby by LabEx </a> </td>
+        <td> [LabEx](https://labex.io/) provides a Deepseek R1-powered learning assistant (Labby) for students and teachers. It supports automatic verification of student's practice code and provides instant feedback, debugging, and code generation.</td>
     </tr>
 </table>
