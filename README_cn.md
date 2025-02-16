@@ -171,6 +171,11 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README_cn.md"> RAGFlow </a> </td>
         <td> 一款基于深度文档理解构建的开源 RAG（Retrieval-Augmented Generation）引擎。RAGFlow 可以为各种规模的企业及个人提供一套精简的 RAG 工作流程，结合大语言模型（LLM）针对用户各类不同的复杂格式数据提供可靠的问答以及有理有据的引用。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/pingcap/tidb.ai/main/frontend/app/public/nextra/icon-dark.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/autoflow/README_cn.md"> Autoflow </a> </td>
+        <td> <a href="https://github.com/pingcap/autoflow">AutoFlow</a> 是一个开源的基于 GraphRAG 的知识库工具，构建于 <a href="https://www.pingcap.com/ai?utm_source=tidb.ai&utm_medium=community">TiDB</a> Vector、LlamaIndex 和 DSPy 之上。提供类 Perplexity 的搜索页面，并可以嵌入简单的 JavaScript 代码片段，轻松将 Autoflow 的对话式搜索窗口集成到您的网站。 </td>
+    </tr>
 </table>
 
 ### Solana 框架

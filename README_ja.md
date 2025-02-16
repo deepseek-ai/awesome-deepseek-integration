@@ -158,6 +158,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> RAGFlow </a> </td>
         <td> 深い文書理解に基づいたオープンソースのRAG（Retrieval-Augmented Generation）エンジン。RAGFlowは、あらゆる規模の企業や個人に対して、ユーザーのさまざまな複雑な形式のデータに対して信頼性のある質問応答と根拠のある引用を提供するための簡素化されたRAGワークフローを提供します。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/pingcap/tidb.ai/main/frontend/app/public/nextra/icon-dark.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/autoflow/README.md"> Autoflow </a> </td>
+        <td> <a href="https://github.com/pingcap/autoflow">AutoFlow</a> は、GraphRAGに基づくオープンソースのナレッジベースツールであり、<a href="https://www.pingcap.com/ai?utm_source=tidb.ai&utm_medium=community">TiDB</a> Vector、LlamaIndex、DSPy の上に構築されています。Perplexity のような検索インターフェースを提供し、シンプルな JavaScript スニペットを埋め込むことで、AutoFlow の対話型検索ウィンドウを簡単にウェブサイトに統合できます。 </td>
+    </tr>
 </table>
 
 ### Solanaフレームワーク
