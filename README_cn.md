@@ -246,6 +246,14 @@
         <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
         <td>一款智能的RSS阅读器浏览器扩展，具有AI驱动的RSS摘要和多维度订阅视图功能。支持配置DeepSeek模型以增强内容理解能力。</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/refinereader/assets/refinereader-128.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://refinereader.cuihuaer.com"> Refine Reader </a> </td>
+        <td> 一款基于 AI （DeepSeek、OpenAI等） 的智能阅读助手，致力于帮助用户快速理解和提炼文章精华，支持阅读互动。</td>
+    </tr>
+
+
+
 </table>
 
 ### VS Code 插件
