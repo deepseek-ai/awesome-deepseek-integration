@@ -484,7 +484,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Docking Deepseek api for WordPress site ai conversation assistant, post generation, post summary plugin. </td>
     </tr>
     <tr>
-        <td> <img src="https://file.labex.io/static/images/new-labby-logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="./docs/labby/assets/labby-logo-animation-small.gif" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://labex.io/"> Labby by LabEx </a> </td>
         <td> LabEx provides a Deepseek R1-powered learning assistant (Labby) for students and teachers. It supports automatic verification of student's practice code and provides instant feedback, debugging, and code generation.</td>
     </tr>
