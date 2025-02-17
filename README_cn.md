@@ -308,6 +308,11 @@
     </tr>
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/minuet-ai.nvim/README_cn.md"> minuet-ai.nvim </a> </td>
+        <td> Minuet 提供实时代码补全功能，支持多个主流大语言模型，包括 Deepseek、OpenAI、Gemini、Claude、Ollama、Codestral 等。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/codecompanion.nvim/README.md"> codecompanion.nvim </a> </td>
         <td> AI 驱动的编码，在 Neovim 中无缝集成. </td>
     </tr>

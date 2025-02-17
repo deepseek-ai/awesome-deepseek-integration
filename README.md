@@ -427,6 +427,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="docs/codecompanion.nvim/README.md"> codecompanion.nvim </a> </td>
         <td> AI-powered coding, seamlessly in Neovim. </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/minuet-ai.nvim/README.md"> minuet-ai.nvim </a> </td>
+        <td> Minuet offers code completion as-you-type from popular LLMs including Deepseek, OpenAI, Gemini, Claude, Ollama, Codestral, and more. </td>
+    </tr>
 </table>
 
 ### JetBrains Extensions
