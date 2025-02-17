@@ -271,6 +271,11 @@
         <td> <a href="https://www.typral.com/"> Typral </a> </td>
         <td>超快的AI写作助手 - 让AI帮你快速优化日报,文章,文本等等...</td>
     </tr>
+    <tr>
+        <td> <img src="https://static.trancy.org/assets/trancy_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.typral.com/"> Trancy </a> </td>
+        <td>沉浸双语对照翻译、视频双语字幕、划句/划词翻译插件</td>
+    </tr>
 </table>
 
 ### VS Code 插件

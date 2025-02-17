@@ -367,6 +367,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://www.typral.com/"> Typral </a> </td>
         <td> Fast AI writer assistant - Let AI help you quickly improve article, paper, text...</td>
     </tr>
+    <tr>
+        <td> <img src="https://static.trancy.org/assets/trancy_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.typral.com/"> Trancy </a> </td>
+        <td>Immersive bilingual translation, video bilingual subtitles, sentence/word selection translation extension</td>
+    </tr>
 </table>
 
 ### VS Code Extensions

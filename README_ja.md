@@ -258,6 +258,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://www.typral.com/"> Typral </a> </td>
         <td>超高速AIライティングアシスタント - AIがあなたの日報、記事、テキストなどを素早く最適化します</td>
     </tr>
+    <tr>
+        <td> <img src="https://static.trancy.org/assets/trancy_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.typral.com/"> Trancy </a> </td>
+        <td>イマーシブな二か国語対照翻訳、動画の二か国語字幕、文/単語の選択翻訳プラグイン</td>
+    </tr>
 </table>
 
 ### VS Code 拡張機能
