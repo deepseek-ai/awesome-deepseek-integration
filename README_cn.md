@@ -261,6 +261,11 @@
         <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
         <td>一款智能的RSS阅读器浏览器扩展，具有AI驱动的RSS摘要和多维度订阅视图功能。支持配置DeepSeek模型以增强内容理解能力。</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.typral.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.typral.com/"> Typral </a> </td>
+        <td>超快的AI写作助手 - 让AI帮你快速优化日报,文章,文本等等...</td>
+    </tr>
 </table>
 
 ### VS Code 插件
