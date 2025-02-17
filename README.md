@@ -384,6 +384,26 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
+### Visual Studio Extensions
+
+<table>
+    <tr>
+        <td> <img src="https://merryyellow.gallerycdn.vsassets.io/extensions/merryyellow/comment2gpt/2.0.5/1739475434185/Microsoft.VisualStudio.Services.Icons.Default" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=MerryYellow.Comment2GPT"> Comment2GPT </a> </td>
+        <td> Use OpenAI ChatGPT, Google Gemini, Anthropic Claude, DeepSeek and Ollama through your comments </td>
+    </tr>
+    <tr>
+        <td> <img src="https://merryyellow.gallerycdn.vsassets.io/extensions/merryyellow/codelens2gpt/2.0.5/1739475875714/Microsoft.VisualStudio.Services.Icons.Default" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=MerryYellow.CodeLens2GPT"> CodeLens2GPT </a> </td>
+        <td> Use OpenAI ChatGPT, Google Gemini, Anthropic Claude, DeepSeek and Ollama through the CodeLens </td>
+    </tr>
+    <tr>
+        <td> <img src="https://merryyellow.gallerycdn.vsassets.io/extensions/merryyellow/uca-lite/1.4.2/1739392928984/Microsoft.VisualStudio.Services.Icons.Default" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=MerryYellow.UCA-Lite"> Unity Code Assist Lite </a> </td>
+        <td> Code assistance for Unity scripts </td>
+    </tr>
+</table>
+
 ### neovim Extensions
 
 <table>
