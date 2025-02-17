@@ -329,6 +329,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
 
 <table>
     <tr>
+        <td style="font-size: 64px">&#128032;</td>
+        <td> <a href="https://github.com/lunary-ai/abso/blob/main/README.md"> Abso </a></td>
+        <td> OpenAIフォーマットを使用するあらゆるLLMプロバイダと対話するためのTypeScript SDK.</td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c1e47b01-1766-4f7e-bfe6-ab3cb3991c30" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main/docs/siri_deepseek_shortcut"> siri_deepseek_shortcut </a> </td>
         <td> DeepSeek APIを装備したSiri </td>
