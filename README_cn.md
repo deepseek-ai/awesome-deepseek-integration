@@ -281,6 +281,11 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cline/README.md"> Cline </a> </td>
         <td> Cline 是一款能够使用您的 CLI 和编辑器的 AI 助手。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/Sitoi/ai-commit/refs/heads/main/images/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Sitoi/ai-commit/blob/main/README.md"> AI Commit </a> </td>
+        <td> 使用 AI 生成 git commit message 的 VS Code 插件。 </td>
+    </tr>
 </table>
 
 ### neovim 插件

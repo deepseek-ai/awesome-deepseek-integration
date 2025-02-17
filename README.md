@@ -278,7 +278,6 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-
 ### Synthetic data curation
 
 <table>
@@ -288,7 +287,6 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> An open-source tool to curate large scale datasets for post-training LLMs. </td>
     </tr>
 </table>
-
 
 ### IM Application Plugins
 
@@ -372,6 +370,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cline/assets/favicon.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cline/README.md"> Cline </a> </td>
         <td> Meet Cline, an AI assistant that can use your CLI aNd Editor. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/Sitoi/ai-commit/refs/heads/main/images/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Sitoi/ai-commit/blob/main/README.md"> AI Commit </a> </td>
+        <td> Use AI to generate git commit messages in VS Code. </td>
     </tr>
 </table>
 
