@@ -141,6 +141,11 @@
         <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
         <td>通过一句话即可快速生成高清故事短视频，支持 DeepSeek 等模型。</td>
     </tr>
+    <tr>
+        <td> <img src="https://gw.alicdn.com/imgextra/i3/O1CN01FsWbkz1fJBJRblshp_!!6000000003985-2-tps-51-78.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.dingtalk.com/">DingTalk</a> </td>
+        <td> <a href="https://www.dingtalk.com/">钉钉（DingTalk）</a>是阿里巴巴集团打造的企业级智能移动办公平台，引领未来新一代工作方式，将陪伴每一个企业成长，是数字经济时代的企业组织协同办公和应用开发平台，是新生产力工具。</td>
+    </tr>
 </table>
 
 ### AI Agent 框架

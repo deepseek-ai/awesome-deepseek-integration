@@ -138,6 +138,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a>は、マーケターがAIエージェントのためのエージェンティックAIワークフローを構築するためのノーコードプラットフォームであり、数百の毎日のアプリをツールとして使用します。</td>
     </tr>
+    <tr>
+        <td> <img src="https://gw.alicdn.com/imgextra/i3/O1CN01FsWbkz1fJBJRblshp_!!6000000003985-2-tps-51-78.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.dingtalk.com/ja-jp">DingTalk</a> </td>
+        <td> <a href="https://www.dingtalk.com/ja-jp">DingTalk</a>、新たな進歩を引き起こそう</td>
+    </tr>
 </table>
 
 ### AIエージェントフレームワーク
