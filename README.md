@@ -474,13 +474,18 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-### Cursor
+### Native AI Code Editor
 
 <table>
     <tr>
         <td> <img src="https://global.discourse-cdn.com/flex020/uploads/cursor1/original/2X/a/a4f78589d63edd61a2843306f8e11bad9590f0ca.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.cursor.com/"> Cursor </a> </td>
-        <td>‍The AI Code Editor</td>
+        <td>‍The AI Code Editor based on VS Code</td>
+    </tr>
+    <tr>
+        <td> <img src="https://exafunction.github.io/public/images/windsurf/windsurf-app-icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://codeium.com/windsurf"> WindSurf </a> </td>
+        <td>Another AI Code Editor based on VS Code by Codeium</td>
     </tr>
 </table>
 
