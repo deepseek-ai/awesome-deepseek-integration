@@ -278,7 +278,7 @@
     </tr>
     <tr>
         <td> <img src="https://static.trancy.org/assets/trancy_logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://www.typral.com/"> Trancy </a> </td>
+        <td> <a href="https://www.trancy.org/"> Trancy </a> </td>
         <td>沉浸双语对照翻译、视频双语字幕、划句/划词翻译插件</td>
     </tr>
 </table>
