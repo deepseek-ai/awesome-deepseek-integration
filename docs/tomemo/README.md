@@ -12,7 +12,19 @@ ToMemo is a phrasebook + clipboard history + keyboard iOS app with integrated AI
 
 ## Integrate with Deepseek API
 
-Go to Settings-Extensions-AI Services-AI Providers to add the Deepseek API Key.
-After adding, you can turn on the 「show in bottom tab」 in the AI service page, so that you can talk to Deepseek directly in the application.
+- Go to "Settings-Extensions-AI Services-AI Providers", click "Add" in the top right corner, and select "DeepSeek" in the **Provider** field.
+- Enter your API Key in the **API Key** field.
+- Click the "Test" button to verify if the input is valid.
+- Click "Load Models" to select the model you want to use
+- Turn on "Enable" and click "Save"
 
-![image](assets/Integrate.jpg)
+![image](assets/app-provider.png)
+
+## Use
+
+- Go to "Settings-Extensions-AI Services"
+- Click "AI Assistant" to enter the AI Assistant page
+- Add an AI Assistant in the top right corner, you can select "Deepseek" in the models
+- Start chatting with Deepseek
+
+![image](assets/use-deepseek.png)
