@@ -1,6 +1,6 @@
 # README_cn
 
-​![image](assets/image-20250122162731-7wkftbw.png)​
+​![image](https://b3log.org/images/brand/siyuan-128.png)​
 
 ---
 
