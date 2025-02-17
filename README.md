@@ -249,6 +249,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/Upsonic/Upsonic">Upsonic</a> </td>
         <td>Upsonic offers a cutting-edge enterprise-ready agent framework where you can orchestrate LLM calls, agents, and computer use to complete tasks cost-effectively.</td>
     </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/195133782?s=200&v=4" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <a href="https://github.com/Levia-is-us/Levia-us">Levia</a> </td>
+        <td>Levia is an Open Source AI Metacognition & Tooling infrastructure enabling agents to recursively self-learn & optimize execution pathways.</td>
+    </tr>
 </table>
 
 ### RAG frameworks
