@@ -243,6 +243,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
         <td>AIを活用したRSS要約と多次元フィードビューを備えたインテリジェントなRSSリーダーブラウザ拡張機能。コンテンツ理解を強化するためのDeepSeekモデル設定をサポートしています。</td>
     </tr>
+    <tr>
+        <td> <img src="https://lh3.googleusercontent.com/siCa4oBxyYOlenxiWq6X48USwg6WXCecM902Gvexw3bBPZReGk5DQeHjS9NYvnKuBRK6WCEDwvLjBsJTOvvgWIh9Jw=s60" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://rssflow.oinchain.com"> YouTubeほんやく </a> </td>
+        <td>YouTube動画をリアルタイム翻訳・逐語訳できる無料アプリ「YouTubeほんやく」</td>
+    </tr>
 </table>
 
 ### VS Code拡張機能
