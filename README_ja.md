@@ -260,7 +260,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
     <tr>
         <td> <img src="https://static.trancy.org/assets/trancy_logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://www.typral.com/"> Trancy </a> </td>
+        <td> <a href="https://www.trancy.org/"> Trancy </a> </td>
         <td>イマーシブな二か国語対照翻訳、動画の二か国語字幕、文/単語の選択翻訳プラグイン</td>
     </tr>
 </table>

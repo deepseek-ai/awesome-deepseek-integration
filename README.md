@@ -369,7 +369,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
     <tr>
         <td> <img src="https://static.trancy.org/assets/trancy_logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://www.typral.com/"> Trancy </a> </td>
+        <td> <a href="https://www.trancy.org/"> Trancy </a> </td>
         <td>Immersive bilingual translation, video bilingual subtitles, sentence/word selection translation extension</td>
     </tr>
 </table>
