@@ -19,6 +19,11 @@
 
 <table>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/quantalogic/quantalogic">Quantalogic</a> </td>
+        <td> QuantaLogic 是一个 ReAct（推理和行动）框架，用于构建高级 AI 代理。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/13600976/224d547a-6fbc-47c8-859f-aa14813e2b0f" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatbox/README_cn.md">Chatbox</a> </td>
         <td> 一个支持多种流行LLM模型的桌面客户端，可在 Windows、Mac 和 Linux 上使用 </td>
@@ -89,8 +94,8 @@
         <td> <a href="https://www.zotero.org">Zotero</a> 是一款免费且易于使用的文献管理工具，旨在帮助您收集、整理、注释、引用和分享研究成果。</td>
     </tr>
     <tr>
-        <td> <img src="./docs/Siyuan/assets/image-20250122162731-7wkftbw.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/Siyuan/README_cn.md">思源笔记</a> </td>
+        <td> <img src="https://b3log.org/images/brand/siyuan-128.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/SiYuan/README_cn.md">思源笔记</a> </td>
         <td> 思源笔记是一款隐私优先的个人知识管理系统，支持完全离线使用，并提供端到端加密的数据同步功能。</td>
     </tr>
     <tr>
@@ -141,6 +146,11 @@
         <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
         <td>通过一句话即可快速生成高清故事短视频，支持 DeepSeek 等模型。</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.petercat.ai/images/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.petercat.ai">PeterCat</a> </td>
+        <td> 我们提供对话式答疑 Agent 配置系统、自托管部署方案和便捷的一体化应用 SDK，让您能够为自己的 GitHub 仓库一键创建智能答疑机器人，并快速集成到各类官网或项目中， 为社区提供更高效的技术支持生态。</td>
+    </tr>
 </table>
 
 ### AI Agent 框架
@@ -161,6 +171,11 @@
         <td> <a href="https://github.com/bob-robert-ai/bob/blob/main/alice/readme.md">Alice</a> </td>
         <td>一个基于 ICP 的自主 AI 代理，利用 DeepSeek 等大型语言模型进行链上决策。Alice 结合实时数据分析和独特的个性，管理代币、挖掘 BOB 并参与生态系统治理。</td>
     </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
+        <td>一个用于Agent之间可信通信的基础协议框架，基于DeekSeek的Agent，可以接入<a href="https://docs.apro.com/attps">ATTPs</a>的SDK，获得注册Agent，发送可验证数据，获取可验证数据等功能，从而与其他平台的Agent进行可信通信。</td>
+    </tr>
 </table>
 
 ### RAG 框架
@@ -170,6 +185,11 @@
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/33142505/77093e84-9f7c-4716-9168-bac962fa1372" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README_cn.md"> RAGFlow </a> </td>
         <td> 一款基于深度文档理解构建的开源 RAG（Retrieval-Augmented Generation）引擎。RAGFlow 可以为各种规模的企业及个人提供一套精简的 RAG 工作流程，结合大语言模型（LLM）针对用户各类不同的复杂格式数据提供可靠的问答以及有理有据的引用。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://assets.zilliz.com/Zilliz_Logo_Mark_White_20230223_041013_86057436cc.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/zilliztech/deep-searcher"> DeepSearcher </a> </td>
+        <td> DeepSearcher 结合强大的 LLM（DeepSeek、OpenAI 等）和向量数据库（Milvus 等），根据私有数据进行搜索、评估和推理，提供高度准确的答案和全面的报告。</td>
     </tr>
 </table>
 
@@ -246,6 +266,11 @@
         <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
         <td>一款智能的RSS阅读器浏览器扩展，具有AI驱动的RSS摘要和多维度订阅视图功能。支持配置DeepSeek模型以增强内容理解能力。</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.typral.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.typral.com/"> Typral </a> </td>
+        <td>超快的AI写作助手 - 让AI帮你快速优化日报,文章,文本等等...</td>
+    </tr>
 </table>
 
 ### VS Code 插件
@@ -261,6 +286,11 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cline/README.md"> Cline </a> </td>
         <td> Cline 是一款能够使用您的 CLI 和编辑器的 AI 助手。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/Sitoi/ai-commit/refs/heads/main/images/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Sitoi/ai-commit/blob/main/README.md"> AI Commit </a> </td>
+        <td> 使用 AI 生成 git commit message 的 VS Code 插件。 </td>
+    </tr>
 </table>
 
 ### neovim 插件
@@ -275,6 +305,11 @@
         <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/llm.nvim/README.md"> llm.nvim </a> </td>
         <td> 免费的大语言模型插件，让你在Neovim中与大模型交互，支持任意一款大模型，比如Deepseek，GPT，GLM，kimi或者本地运行的大模型(比如ollama) </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/minuet-ai.nvim/README_cn.md"> minuet-ai.nvim </a> </td>
+        <td> Minuet 提供实时代码补全功能，支持多个主流大语言模型，包括 Deepseek、OpenAI、Gemini、Claude、Ollama、Codestral 等。 </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
@@ -298,9 +333,29 @@
     </tr>
 </table>
 
+### AI Code编辑器
+
+<table>
+    <tr>
+        <td> <img src="https://global.discourse-cdn.com/flex020/uploads/cursor1/original/2X/a/a4f78589d63edd61a2843306f8e11bad9590f0ca.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.cursor.com/"> Cursor </a> </td>
+        <td>基于VS Code进行扩展的AI Code编辑器</td>
+    </tr>
+    <tr>
+        <td> <img src="https://exafunction.github.io/public/images/windsurf/windsurf-app-icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://codeium.com/windsurf"> WindSurf </a> </td>
+        <td>另一个基于VS Code的AI Code编辑器，由Codeium出品</td>
+    </tr>
+</table>
+
 ### 其它
 
 <table>
+    <tr>
+        <td><p style="font-size: 84px">&#128032;</p></td>
+        <td> <a href="https://github.com/lunary-ai/abso/blob/main/README.md"> Abso </a>
+        <td> TypeScript SDK 使用 OpenAI 格式与任何 LLM 提供商进行交互。</td>
+    </tr>
     <tr>
         <td> <img src="https://i.imgur.com/IsQYInJ.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/djcopley/ShellOracle/"> ShellOracle </a> </td>
@@ -339,6 +394,5 @@
         <td> <img src="https://avatars.githubusercontent.com/u/89342560?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Jeff2Ma/AlfredWorkflow-DeepSeek">DeepSeek Alfred WorkFlow</a> </td>
         <td> 在 Mac Alfred App 中快速调用 DeekSeek 的 workflow。 </td>
-    </tr> 
-
+    </tr>
 </table>

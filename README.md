@@ -19,6 +19,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/quantalogic/quantalogic">Quantalogic</a> </td>
+        <td> QuantaLogic is a ReAct (Reasoning & Action) framework for building advanced AI agents. </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/13600976/224d547a-6fbc-47c8-859f-aa14813e2b0f" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatbox/README.md">Chatbox</a> </td>
         <td> Chatbox is a desktop client for multiple cutting-edge LLM models, available on Windows, Mac and Linux. </td>
@@ -93,7 +98,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="docs/raycast/README.md">Raycast</a></td>
         <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a> is a productivity tool for macOS that lets you control your tools with a few keystrokes. It supports various extensions including DeepSeek AI.</td>
     </tr>
-    </tr> <td> <img src="https://niceprompt.app/favicon.ico" alt="Icon" width="64" height="auto" /> </td> <td> <a href="https://niceprompt.app">Nice Prompt</a></td> <td> <a href="https://niceprompt.app">Nice Prompt</a> Organize, share and use your prompts in your code editor, with Cursor and VSCode。</td> 
+    </tr> <td> <img src="https://niceprompt.app/favicon.ico" alt="Icon" width="64" height="auto" /> </td> <td> <a href="https://niceprompt.app">Nice Prompt</a></td> <td> <a href="https://niceprompt.app">Nice Prompt</a> Organize, share and use your prompts in your code editor, with Cursor and VSCode。</td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/193405629?s=200&v=4" alt="PHP Client" width="64" height="auto" /> </td>
@@ -101,6 +106,23 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Deepseek PHP Client is a robust and community-driven PHP client library for seamless integration with the Deepseek API. </td>
     </tr>
     <tr>
+        <tr>
+  <td>
+    <img
+      src="https://github.com/tornikegomareli/DeepSwiftSeek/blob/main/logo.webp"
+      alt="DeepSwiftSeek Logo"
+      width="64"
+      height="auto"
+    />
+  </td>
+  <td>
+    <a href="https://github.com/tornikegomareli/DeepSwiftSeek/blob/main/README.md">DeepSwiftSeek</a>
+  </td>
+  <td>
+    DeepSwiftSeek is a lightweight yet powerful Swift client library, pretty good integration with the DeepSeek API. 
+    It provides easy-to-use Swift concurrency for chat, streaming, FIM (Fill-in-the-Middle) completions, and more.
+  </td>
+</tr>
         <td> <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="Laravel Integration" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-php/deepseek-laravel/blob/master/README.md">Laravel Integration</a> </td>
         <td> Laravel wrapper for Deepseek PHP client, to seamless deepseek API integration with laravel applications.</td>
@@ -111,8 +133,8 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://www.zotero.org">Zotero</a> is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.</td>
     </tr>
     <tr>
-        <td> <img src="./docs/Siyuan/assets/image-20250122162731-7wkftbw.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/Siyuan/README.md">SiYuan</a> </td>
+        <td> <img src="https://b3log.org/images/brand/siyuan-128.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/SiYuan/README.md">SiYuan</a> </td>
         <td> SiYuan is a privacy-first personal knowledge management system that supports complete offline usage, as well as end-to-end encrypted data sync.</td>
     </tr>
     <tr>
@@ -183,12 +205,21 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="docs/16x_prompt/README.md">16x Prompt</a> </td>
         <td> <a href="https://prompt.16x.engineer/">16x Prompt</a> is an AI coding tool with context management. It helps developers manage source code context and craft prompts for complex coding tasks on existing codebases.</td>
     </tr>
-    
+    <tr>
+        <td> <img src="https://www.petercat.ai/images/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.petercat.ai">PeterCat</a> </td>
+        <td> A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories.</td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
 
 <table>
+    <tr>
+        <td> <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/mascot_smol.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/huggingface/smolagents/tree/main"> smolagents </a> </td>
+        <td> The simplest way to build great agents. Agents write python code to call tools and orchestrate other agents. Priority support for open models like DeepSeek-R1!  </td>
+    </tr>
     <tr>
         <td><img src="https://yomo.run/yomo-logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/yomo/README.md">YoMo</a></td>
@@ -214,9 +245,14 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td>An autonomous AI agent on ICP, leveraging LLMs like DeepSeek for on-chain decision-making. Alice combines real-time data analysis with a playful personality to manage tokens, mine BOB, and govern ecosystems.</td>
     </tr>
     <tr>
-        <td> <img src="https://github.com/Upsonic/Upsonic/blob/9d2e6d43b44defc6744817330625661ca3a2184e/Upsonic%20pp.png" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <img src="https://github.com/Upsonic/Upsonic/blob/9d2e6d43b44defc6744817330625661ca3a2184e/Upsonic%20pp.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Upsonic/Upsonic">Upsonic</a> </td>
         <td>Upsonic offers a cutting-edge enterprise-ready agent framework where you can orchestrate LLM calls, agents, and computer use to complete tasks cost-effectively.</td>
+    </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
+        <td>A foundational protocol framework for trusted communication between agents. Any agents based on DeepSeek, By integrating with the <a href="https://docs.apro.com/attps">ATTPs</a> SDK, can access features such as agent registration, sending verifiable data, and retrieving verifiable data. So that it can make trusted communication with agents from other platforms. </td>
     </tr>
 </table>
 
@@ -228,6 +264,13 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> RAGFlow </a> </td>
         <td> An open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. It offers a streamlined RAG workflow for businesses of any scale, combining LLM (Large Language Models) to provide truthful question-answering capabilities, backed by well-founded citations from various complex formatted data. </td>
     </tr>
+    <tr>
+        <td> <img src="https://assets.zilliz.com/Zilliz_Logo_Mark_White_20230223_041013_86057436cc.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/zilliztech/deep-searcher"> DeepSearcher </a> </td>
+        <td> DeepSearcher combines powerful LLMs (DeepSeek, OpenAI, etc.) and Vector Databases (Milvus, etc.) to perform search, evaluation, and reasoning based on private data, providing highly accurate answer and comprehensive report.  </td>
+    </tr>
+
+    
 </table>
 
 ### Solana frameworks
@@ -235,13 +278,13 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 <table>
     <tr>
         <td> <img src="./docs/solana-agent-kit/assets/sendai-logo.png" alt="Icon" width="128" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> Solana Agent Kit </a> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/solana-agent-kit/README.md"> Solana Agent Kit </a> </td>
         <td>An open-source toolkit for connecting AI agents to Solana protocols. Now, any agent, using any Deepseek LLM, can autonomously perform 60+ Solana actions: </td>
     </tr>
 </table>
 
-
 ### Synthetic data curation
+
 
 <table>
     <tr>
@@ -249,8 +292,12 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/curator/README.md"> Curator </a> </td>
         <td> An open-source tool to curate large scale datasets for post-training LLMs. </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/8455694b-c52e-40ec-847e-adf6a5ac064f" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Kiln-AI/Kiln"> Kiln </a> </td>
+        <td>Generate synthetic datasets and distill R1 models into custom fine-tunes. </td>
+    </tr>
 </table>
-
 
 ### IM Application Plugins
 
@@ -315,6 +362,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
         <td>An intelligent RSS reader browser extension with AI-powered RSS summarization and multi-dimensional feed views. Supports DeepSeek model configuration for enhanced content understanding. </td>
     </tr>
+    <tr>
+        <td> <img src="https://www.typral.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.typral.com/"> Typral </a> </td>
+        <td> Fast AI writer assistant - Let AI help you quickly improve article, paper, text...</td>
+    </tr>
 </table>
 
 ### VS Code Extensions
@@ -329,6 +381,31 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cline/assets/favicon.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cline/README.md"> Cline </a> </td>
         <td> Meet Cline, an AI assistant that can use your CLI aNd Editor. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/Sitoi/ai-commit/refs/heads/main/images/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Sitoi/ai-commit/blob/main/README.md"> AI Commit </a> </td>
+        <td> Use AI to generate git commit messages in VS Code. </td>
+    </tr>
+</table>
+
+### Visual Studio Extensions
+
+<table>
+    <tr>
+        <td> <img src="https://merryyellow.gallerycdn.vsassets.io/extensions/merryyellow/comment2gpt/2.0.5/1739475434185/Microsoft.VisualStudio.Services.Icons.Default" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=MerryYellow.Comment2GPT"> Comment2GPT </a> </td>
+        <td> Use OpenAI ChatGPT, Google Gemini, Anthropic Claude, DeepSeek and Ollama through your comments </td>
+    </tr>
+    <tr>
+        <td> <img src="https://merryyellow.gallerycdn.vsassets.io/extensions/merryyellow/codelens2gpt/2.0.5/1739475875714/Microsoft.VisualStudio.Services.Icons.Default" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=MerryYellow.CodeLens2GPT"> CodeLens2GPT </a> </td>
+        <td> Use OpenAI ChatGPT, Google Gemini, Anthropic Claude, DeepSeek and Ollama through the CodeLens </td>
+    </tr>
+    <tr>
+        <td> <img src="https://merryyellow.gallerycdn.vsassets.io/extensions/merryyellow/uca-lite/1.4.2/1739392928984/Microsoft.VisualStudio.Services.Icons.Default" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=MerryYellow.UCA-Lite"> Unity Code Assist Lite </a> </td>
+        <td> Code assistance for Unity scripts </td>
     </tr>
 </table>
 
@@ -349,6 +426,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/codecompanion.nvim/README.md"> codecompanion.nvim </a> </td>
         <td> AI-powered coding, seamlessly in Neovim. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/d66dfc62-8e69-4b00-8549-d0158e48e2e0" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/minuet-ai.nvim/README.md"> minuet-ai.nvim </a> </td>
+        <td> Minuet offers code completion as-you-type from popular LLMs including Deepseek, OpenAI, Gemini, Claude, Ollama, Codestral, and more. </td>
     </tr>
 </table>
 
@@ -392,13 +474,18 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-### Cursor
+### Native AI Code Editor
 
 <table>
     <tr>
         <td> <img src="https://global.discourse-cdn.com/flex020/uploads/cursor1/original/2X/a/a4f78589d63edd61a2843306f8e11bad9590f0ca.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.cursor.com/"> Cursor </a> </td>
-        <td>‍The AI Code Editor</td>
+        <td>‍The AI Code Editor based on VS Code</td>
+    </tr>
+    <tr>
+        <td> <img src="https://exafunction.github.io/public/images/windsurf/windsurf-app-icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://codeium.com/windsurf"> WindSurf </a> </td>
+        <td>Another AI Code Editor based on VS Code by Codeium</td>
     </tr>
 </table>
 
@@ -417,9 +504,24 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
+### Security
+
+<table>
+    <tr>
+        <td> <img src="https://github.com/lukehinds/awesome-deepseek-integration/blob/codegate/docs/codegate/assets/codegate.png"  alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/stacklok/codegate/"> CodeGate </a> </td>
+        <td> CodeGate: secure AI code generation</td>
+    </tr>
+</table>
+
 ### Others
 
 <table>
+    <tr>
+        <td style="font-size: 64px">&#128032;</td>
+        <td> <a href="https://github.com/lunary-ai/abso/blob/main/README.md"> Abso </a></td>
+        <td>TypeScript SDK to interact with any LLM provider using the OpenAI format.</td>
+    </tr>
     <tr>
         <td> <img src="https://i.imgur.com/IsQYInJ.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/djcopley/ShellOracle/"> ShellOracle </a> </td>
@@ -490,5 +592,4 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/Jeff2Ma/AlfredWorkflow-DeepSeek">DeepSeek Alfred WorkFlow</a> </td>
         <td> DeekSeek integrations in Alfred. </td>
     </tr> 
- 
 </table>
