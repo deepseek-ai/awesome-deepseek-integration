@@ -607,3 +607,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Docking Deepseek api for WordPress site ai conversation assistant, post generation, post summary plugin. </td>
     </tr>
 </table>
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=deepseek-ai/awesome-deepseek-integration&type=Date)](https://star-history.com/#deepseek-ai/awesome-deepseek-integration&Date)
