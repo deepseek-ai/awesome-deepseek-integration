@@ -34,6 +34,11 @@
         <td> 一键获取跨平台ChatGPT网页用户界面，支持流行的LLM </td>
     </tr>
     <tr>
+        <td> <img src="./docs/Coco AI/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/Coco AI/README_cn.md">Coco AI</a></td>
+        <td> <a href="https://coco.rs">Coco AI</a> 是一个完全开源、跨平台的统一搜索与效率工具，能够连接并搜索多种数据源，包括应用程序、文件、谷歌网盘、Notion、语雀、Hugo 等本地与云端数据。通过接入 DeepSeek 等大模型，Coco AI 实现了智能化的个人知识库管理，注重隐私，支持私有部署，帮助用户快速、智能地访问信息。 </td>
+    </tr>
+    <tr>
         <td> <img src="./docs/liubai/assets/liubai-logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/liubai/README_cn.md">留白记事</a> </td>
         <td> 留白让你直接在微信上使用 DeepSeek 管理你的笔记、任务、日程和待办清单！ </td>
@@ -152,6 +157,8 @@
         <td> 我们提供对话式答疑 Agent 配置系统、自托管部署方案和便捷的一体化应用 SDK，让您能够为自己的 GitHub 仓库一键创建智能答疑机器人，并快速集成到各类官网或项目中， 为社区提供更高效的技术支持生态。</td>
     </tr>
 </table>
+
+
 
 ### AI Agent 框架
 
