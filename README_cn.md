@@ -19,6 +19,11 @@
 
 <table>
     <tr>
+        <td style="font-size: 64px">🤖</td>
+        <td> <a href="https://github.com/wangrongding/wechat-bot/blob/main/README.md"> Wechat-Bot </a></td>
+        <td> 基于 wechaty 实现的微信机器人，结合了 DeepSeek 和其他 Ai 服务。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/quantalogic/quantalogic">Quantalogic</a> </td>
         <td> QuantaLogic 是一个 ReAct（推理和行动）框架，用于构建高级 AI 代理。 </td>
@@ -32,6 +37,11 @@
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/bb65404c-f867-42d8-ae2b-281fe953ab54" alt="Icon" width="64" height="auto"/> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatgpt_next_web/README_cn.md"> ChatGPT-Next-Web </a> </td>
         <td> 一键获取跨平台ChatGPT网页用户界面，支持流行的LLM </td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/Coco AI/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/Coco AI/README_cn.md">Coco AI</a></td>
+        <td> <a href="https://coco.rs">Coco AI</a> 是一个完全开源、跨平台的统一搜索与效率工具，能够连接并搜索多种数据源，包括应用程序、文件、谷歌网盘、Notion、语雀、Hugo 等本地与云端数据。通过接入 DeepSeek 等大模型，Coco AI 实现了智能化的个人知识库管理，注重隐私，支持私有部署，帮助用户快速、智能地访问信息。 </td>
     </tr>
     <tr>
         <td> <img src="./docs/liubai/assets/liubai-logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -87,7 +97,9 @@
         <td> <a href="docs/raycast/README_cn.md">Raycast</a></td>
         <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a> 是一款 macOS 生产力工具，它允许你用几个按键来控制你的工具。它支持各种扩展，包括 DeepSeek AI。</td>
     </tr>
-</tr> <td> <img src="https://niceprompt.app/favicon.ico" alt="Icon" width="64" height="auto" /> </td> <td> <a href="https://niceprompt.app">Nice Prompt</a></td> <td> <a href="https://niceprompt.app">Nice Prompt</a> 是一个结合提示工程与社交功能的平台，支持用户高效创建、分享和协作开发AI提示词。</td> </tr>
+</tr> 
+  
+</tr>
     <tr>
         <td> <img src="./docs/zotero/assets/zotero-icon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/zotero/README_cn.md">Zotero</a></td>
@@ -158,6 +170,8 @@
     </tr>
 </table>
 
+
+
 ### AI Agent 框架
 
 <table>
@@ -190,6 +204,11 @@
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/33142505/77093e84-9f7c-4716-9168-bac962fa1372" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README_cn.md"> RAGFlow </a> </td>
         <td> 一款基于深度文档理解构建的开源 RAG（Retrieval-Augmented Generation）引擎。RAGFlow 可以为各种规模的企业及个人提供一套精简的 RAG 工作流程，结合大语言模型（LLM）针对用户各类不同的复杂格式数据提供可靠的问答以及有理有据的引用。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/pingcap/tidb.ai/main/frontend/app/public/nextra/icon-dark.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/autoflow/README_cn.md"> Autoflow </a> </td>
+        <td> <a href="https://github.com/pingcap/autoflow">AutoFlow</a> 是一个开源的基于 GraphRAG 的知识库工具，构建于 <a href="https://www.pingcap.com/ai?utm_source=tidb.ai&utm_medium=community">TiDB</a> Vector、LlamaIndex 和 DSPy 之上。提供类 Perplexity 的搜索页面，并可以嵌入简单的 JavaScript 代码片段，轻松将 Autoflow 的对话式搜索窗口集成到您的网站。 </td>
     </tr>
     <tr>
         <td> <img src="https://assets.zilliz.com/Zilliz_Logo_Mark_White_20230223_041013_86057436cc.png" alt="Icon" width="64" height="auto" /> </td>
@@ -275,6 +294,16 @@
         <td> <img src="https://www.typral.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.typral.com/"> Typral </a> </td>
         <td>超快的AI写作助手 - 让AI帮你快速优化日报,文章,文本等等...</td>
+    </tr>
+    <tr>
+        <td> <img src="https://static.trancy.org/assets/trancy_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.trancy.org/"> Trancy </a> </td>
+        <td>沉浸双语对照翻译、视频双语字幕、划句/划词翻译插件</td>
+    </tr>
+    <tr>
+        <td> <img src="https://ziziyi.com/svg/anything_copilot.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/baotlake/anything-copilot"> Anything Copilot </a> </td>
+        <td> Anything Copilot 是一款可以让你在侧边栏无缝使用任意主流AI工具的浏览器插件。 </td>
     </tr>
 </table>
 

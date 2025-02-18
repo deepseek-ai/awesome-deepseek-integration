@@ -34,6 +34,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> ChatGPT Next Webは、GPT3、GPT4、Gemini ProをサポートするクロスプラットフォームのChatGPTウェブUIです。 </td>
     </tr>
     <tr>
+        <td> <img src="./docs/Coco AI/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/Coco AI/README.md">Coco AI</a></td>
+        <td> <a href="https://coco.rs">Coco AI</a> は、完全にオープンソースでクロスプラットフォーム対応の統合検索および生産性向上ツールで、アプリケーション、ファイル、Google Drive、Notion、Yuque、Hugoなど、ローカルおよびクラウドのさまざまなデータソースを接続して検索できます。DeepSeekなどの大規模モデルと連携することにより、Coco AIはインテリジェントな個人のナレッジ管理を実現し、プライバシーを重視し、プライベートなデプロイにも対応。ユーザーが情報に迅速かつインテリジェントにアクセスできるようサポートします。 </td>
+    </tr>  
+    <tr>
         <td> <img src="./docs/liubai/assets/liubai-logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/liubai/README.md">Liubai</a> </td>
         <td> Liubaiは、WeChat上でDeepSeekを使用してノート、タスク、カレンダー、ToDoリストを操作できるようにします！ </td>
@@ -179,6 +184,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> 深い文書理解に基づいたオープンソースのRAG（Retrieval-Augmented Generation）エンジン。RAGFlowは、あらゆる規模の企業や個人に対して、ユーザーのさまざまな複雑な形式のデータに対して信頼性のある質問応答と根拠のある引用を提供するための簡素化されたRAGワークフローを提供します。 </td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/pingcap/tidb.ai/main/frontend/app/public/nextra/icon-dark.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/autoflow/README.md"> Autoflow </a> </td>
+        <td> <a href="https://github.com/pingcap/autoflow">AutoFlow</a> は、GraphRAGに基づくオープンソースのナレッジベースツールであり、<a href="https://www.pingcap.com/ai?utm_source=tidb.ai&utm_medium=community">TiDB</a> Vector、LlamaIndex、DSPy の上に構築されています。Perplexity のような検索インターフェースを提供し、シンプルな JavaScript スニペットを埋め込むことで、AutoFlow の対話型検索ウィンドウを簡単にウェブサイトに統合できます。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://assets.zilliz.com/Zilliz_Logo_Mark_White_20230223_041013_86057436cc.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/zilliztech/deep-searcher"> DeepSearcher </a> </td>
         <td> DeepSearcher は、強力な大規模言語モデル（DeepSeek、OpenAI など）とベクトルデータベース（Milvus など）を組み合わせて、私有データに基づく検索、評価、推論を行い、高精度な回答と包括的なレポートを提供します。</td>
@@ -262,6 +272,16 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://www.typral.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.typral.com/"> Typral </a> </td>
         <td>超高速AIライティングアシスタント - AIがあなたの日報、記事、テキストなどを素早く最適化します</td>
+    </tr>
+    <tr>
+        <td> <img src="https://static.trancy.org/assets/trancy_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.trancy.org/"> Trancy </a> </td>
+        <td>イマーシブな二か国語対照翻訳、動画の二か国語字幕、文/単語の選択翻訳プラグイン</td>
+    </tr>
+    <tr>
+        <td> <img src="https://ziziyi.com/svg/anything_copilot.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/baotlake/anything-copilot"> Anything Copilot </a> </td>
+        <td> Anything Copilotは、サイドバーから直接主要なAIツールにシームレスにアクセスできるようにするブラウザ拡張機能です。 </td>
     </tr>
 </table>
 
@@ -368,6 +388,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 ### その他
 
 <table>
+    <tr>
+        <td style="font-size: 64px">🤖</td>
+        <td> <a href="https://github.com/wangrongding/wechat-bot/blob/main/README.md"> Wechat-Bot </a></td>
+        <td> WeChaty をベースに、DeepSeek とその他の AI サービスを組み合わせた WeChat ボットです。 </td>
+    </tr>
     <tr>
         <td style="font-size: 64px">&#128032;</td>
         <td> <a href="https://github.com/lunary-ai/abso/blob/main/README.md"> Abso </a></td>

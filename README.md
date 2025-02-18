@@ -34,6 +34,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> ChatGPT Next Web is a cross-platform ChatGPT web UI, with GPT3, GPT4 & Gemini Pro support. </td>
     </tr>
     <tr>
+        <td> <img src="./docs/Coco AI/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/Coco AI/README.md">Coco AI</a></td>
+        <td> <a href="https://coco.rs">Coco AI</a> is a fully open-source, cross-platform unified search and productivity tool that connects and searches across various data sources, including applications, files, Google Drive, Notion, Yuque, Hugo, and more, both local and cloud-based. By integrating with large models like DeepSeek, Coco AI enables intelligent personal knowledge management, emphasizing privacy and supporting private deployment, helping users quickly and intelligently access their information. </td>
+    </tr>
+    <tr>
         <td> <img src="./docs/liubai/assets/liubai-logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/liubai/README.md">Liubai</a> </td>
         <td> Liubai allows DeepSeek to have arms and legs to manipulate your notes, tasks, calendars, and to-do lists just on WeChat! </td>
@@ -240,11 +245,17 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/anda/README.md">Anda</a> </td>
         <td>A Rust framework for AI agent development, designed to build a highly composable, autonomous, and perpetually memorizing network of AI agents.</td>
     </tr>
-     <tr>
+    <tr>
+        <td> <img src="https://rig.rs/assets/favicon.png" alt="Icon" width="64" height="auto" alt="Rig (Rust)" /> </td>
+        <td> <a href="https://rig.rs/)](https://rig.rs/">RIG</a> </td>
+        <td>Build modular and scalable LLM Applications in Rust.</td>
+    </tr> 
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/longevity-genie/chat-ui/11c6647c83f9d2de21180b552474ac5ffcf53980/static/geneticsgenie/icon-128x128.png" alt="Icon" width="64" height="auto"/> </td>
         <td> <a href="https://github.com/longevity-genie/just-agents">Just-Agents</a> </td>
         <td>A lightweight, straightforward library for LLM agents - no over-engineering, just simplicity!</td>
-     </tr>
+    </tr>
+    <tr>
         <td> <img src="https://alice.fun/alice-logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/bob-robert-ai/bob/blob/main/alice/readme.md">Alice</a> </td>
         <td>An autonomous AI agent on ICP, leveraging LLMs like DeepSeek for on-chain decision-making. Alice combines real-time data analysis with a playful personality to manage tokens, mine BOB, and govern ecosystems.</td>
@@ -270,12 +281,15 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> An open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. It offers a streamlined RAG workflow for businesses of any scale, combining LLM (Large Language Models) to provide truthful question-answering capabilities, backed by well-founded citations from various complex formatted data. </td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/pingcap/tidb.ai/main/frontend/app/public/nextra/icon-dark.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/autoflow/README.md"> Autoflow </a> </td>
+        <td> <a href="https://github.com/pingcap/autoflow">AutoFlow</a> is an open-source knowledge base tool based on GraphRAG (Graph-based Retrieval-Augmented Generation), built on <a href="https://www.pingcap.com/ai?utm_source=tidb.ai&utm_medium=community">TiDB</a> Vector, LlamaIndex, and DSPy. It provides a Perplexity-like search interface and allows easy integration of AutoFlow's conversational search window into your website by embedding a simple JavaScript snippet. </td>
+    </tr>
+    <tr>
         <td> <img src="https://assets.zilliz.com/Zilliz_Logo_Mark_White_20230223_041013_86057436cc.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/zilliztech/deep-searcher"> DeepSearcher </a> </td>
         <td> DeepSearcher combines powerful LLMs (DeepSeek, OpenAI, etc.) and Vector Databases (Milvus, etc.) to perform search, evaluation, and reasoning based on private data, providing highly accurate answer and comprehensive report.  </td>
     </tr>
-
-    
 </table>
 
 ### Solana frameworks
@@ -371,6 +385,16 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://www.typral.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.typral.com/"> Typral </a> </td>
         <td> Fast AI writer assistant - Let AI help you quickly improve article, paper, text...</td>
+    </tr>
+    <tr>
+        <td> <img src="https://static.trancy.org/assets/trancy_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.trancy.org/"> Trancy </a> </td>
+        <td>Immersive bilingual translation, video bilingual subtitles, sentence/word selection translation extension</td>
+    </tr>
+    <tr>
+        <td> <img src="https://ziziyi.com/svg/anything_copilot.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/baotlake/anything-copilot"> Anything Copilot </a> </td>
+        <td> Anything Copilot is a browser extension that enables seamless access to mainstream AI tools directly from your sidebar. </td>
     </tr>
 </table>
 
@@ -523,9 +547,14 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
+        <td style="font-size: 64px">🤖</td>
+        <td> <a href="https://github.com/wangrongding/wechat-bot/blob/main/README.md"> Wechat-Bot </a></td>
+        <td> A wechat robot based on WeChaty combined with DeepSeek and other Ai services. </td>
+    </tr>
+    <tr>
         <td style="font-size: 64px">&#128032;</td>
         <td> <a href="https://github.com/lunary-ai/abso/blob/main/README.md"> Abso </a></td>
-        <td>TypeScript SDK to interact with any LLM provider using the OpenAI format.</td>
+        <td> TypeScript SDK to interact with any LLM provider using the OpenAI format. </td>
     </tr>
     <tr>
         <td> <img src="https://i.imgur.com/IsQYInJ.png" alt="Icon" width="64" height="auto" /> </td>
@@ -593,3 +622,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Docking Deepseek api for WordPress site ai conversation assistant, post generation, post summary plugin. </td>
     </tr>
 </table>
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=deepseek-ai/awesome-deepseek-integration&type=Date)](https://star-history.com/#deepseek-ai/awesome-deepseek-integration&Date)
