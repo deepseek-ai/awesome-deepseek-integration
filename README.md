@@ -210,6 +210,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://www.petercat.ai">PeterCat</a> </td>
         <td> A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories.</td>
     </tr>
+    <tr>
+        <td> <img src="https://staticgw.fangcloud.com/uploads/20220726/6ef84ddb9912f132243d225366588e8f.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.fangcloud.com">360 FangCloud</a> </td>
+        <td> A cloud-based file management and collaboration platform for enterprises, providing features such as large-capacity storage, team sharing and collaboration, security and permission management, AI-powered knowledge Q&A, and intelligent knowledge assistants. It helps businesses consolidate knowledge and turn it into productivity.</td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
