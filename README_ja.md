@@ -149,7 +149,13 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a>は、マーケターがAIエージェントのためのエージェンティックAIワークフローを構築するためのノーコードプラットフォームであり、数百の毎日のアプリをツールとして使用します。</td>
     </tr>
     <tr>
-        <td> <img src="https://www.petercat.ai/images/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+
+        <td> <img src="https://5ire.app/favicon.ico" alt="5ire-logo" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/nanbingxyz/5ire">5ire</a> </td>
+        <td> <a href="https://github.com/nanbingxyz/5ire">5ire</a>はデザインが優れたクロスプラットフォームのオープンソース大型モデルデスクトップインテリジェントアシスタントで、市場に出回っている主流の大型モデルと互換性があり、MCPサーバー、ローカルの知識ベース、プロンプトライブラリ、さらに多くの実用的な機能をサポートしています。</td>
+  </tr>
+  <tr>
+      <td> <img src="https://www.petercat.ai/images/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.petercat.ai">PeterCat</a> </td>
         <td> 会話型Q&Aエージェントの構成システム、自ホスト型デプロイメントソリューション、および便利なオールインワンアプリケーションSDKを提供し、GitHubリポジトリのためのインテリジェントQ&Aボットをワンクリックで作成し、さまざまな公式ウェブサイトやプロジェクトに迅速に統合し、コミュニティのためのより効率的な技術サポートエコシステムを提供します。</td>
     </tr>
