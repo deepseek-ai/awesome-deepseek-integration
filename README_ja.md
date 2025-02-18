@@ -384,6 +384,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
+        <td style="font-size: 64px">🤖</td>
+        <td> <a href="https://github.com/wangrongding/wechat-bot/blob/main/README.md"> Wechat-Bot </a></td>
+        <td> WeChaty をベースに、DeepSeek とその他の AI サービスを組み合わせた WeChat ボットです。 </td>
+    </tr>
+    <tr>
         <td style="font-size: 64px">&#128032;</td>
         <td> <a href="https://github.com/lunary-ai/abso/blob/main/README.md"> Abso </a></td>
         <td> OpenAIフォーマットを使用するあらゆるLLMプロバイダと対話するためのTypeScript SDK.</td>
