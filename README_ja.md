@@ -195,7 +195,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 <table>
     <tr>
         <td> <img src="./docs/solana-agent-kit/assets/sendai-logo.png" alt="Icon" width="128" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> Solana Agent Kit </a> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/solana-agent-kit/README.md"> Solana Agent Kit </a> </td>
         <td>AIエージェントをSolanaプロトコルに接続するためのオープンソースツールキット。DeepSeek LLMを使用する任意のエージェントが、60以上のSolanaアクションを自律的に実行できます。</td>
     </tr>
 </table>
