@@ -151,6 +151,11 @@
         <td> <a href="https://www.petercat.ai">PeterCat</a> </td>
         <td> 我们提供对话式答疑 Agent 配置系统、自托管部署方案和便捷的一体化应用 SDK，让您能够为自己的 GitHub 仓库一键创建智能答疑机器人，并快速集成到各类官网或项目中， 为社区提供更高效的技术支持生态。</td>
     </tr>
+    <tr>
+        <td> <img src="https://staticgw.fangcloud.com/uploads/20220726/6ef84ddb9912f132243d225366588e8f.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.fangcloud.com">360亿方云</a> </td>
+        <td> 面向企业的文件管理与协同云平台，提供大容量存储、团队共享协作、安全与权限管理、AI知识问答、智能知识助手等能力，助力企业汇聚知识并转化为生产力。</td>
+    </tr>
 </table>
 
 ### AI Agent 框架
