@@ -168,6 +168,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
         <td>エージェント間の信頼できる通信のための基本プロトコルフレームワークです。利用者は<a href="https://docs.apro.com/attps">ATTPs</a>のSDKを導入することで、エージェントの登録、検証可能なデータの送信、検証可能なデータの取得などの機能を利用することができます。</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/ruzhiai_note/README_cn.md">如知AIノート</a> </td>
+        <td>如知AIノートは、AIを活用したインテリジェントな知識管理ツールで、AI検索・探索、AI結果のノート変換、ノート管理・整理、知識の表示・共有など、ワンストップの知識管理・応用サービスを提供します。DeepSeek深層思考モデルを統合し、より安定した、より高品質な出力を提供します。</td>
+    </tr>
 </table>
 
 ### RAG フレームワーク

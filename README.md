@@ -215,6 +215,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://www.petercat.ai">PeterCat</a> </td>
         <td> A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories.</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/ruzhiai_note/README.md">RuZhi AI Notes</a> </td>
+        <td>RuZhi AI Notes is an intelligent knowledge management tool powered by AI, providing one-stop knowledge management and application services including AI search & exploration, AI results to notes conversion, note management & organization, knowledge presentation & sharing. Integrated with DeepSeek model to provide more stable and higher quality outputs.</td>
+    </tr>
 
 </table>
 
@@ -286,6 +291,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/zilliztech/deep-searcher"> DeepSearcher </a> </td>
         <td> DeepSearcher combines powerful LLMs (DeepSeek, OpenAI, etc.) and Vector Databases (Milvus, etc.) to perform search, evaluation, and reasoning based on private data, providing highly accurate answer and comprehensive report.  </td>
     </tr>
+   
 </table>
 
 ### Solana frameworks
