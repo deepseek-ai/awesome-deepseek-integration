@@ -153,6 +153,14 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://www.petercat.ai">PeterCat</a> </td>
         <td> 会話型Q&Aエージェントの構成システム、自ホスト型デプロイメントソリューション、および便利なオールインワンアプリケーションSDKを提供し、GitHubリポジトリのためのインテリジェントQ&Aボットをワンクリックで作成し、さまざまな公式ウェブサイトやプロジェクトに迅速に統合し、コミュニティのためのより効率的な技術サポートエコシステムを提供します。</td>
     </tr>
+    <tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/labring/FastGPT/refs/heads/main/.github/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://fastgpt.cn/ja">FastGPT</a> </td>
+        <td> 
+            FastGPT は大規模言語モデル（LLM）を基盤としたオープンソースAIナレッジベース構築プラットフォームで、DeepSeekやOpenAIなど様々なモデルをサポートしています。データ処理、モデル呼び出し、RAG検索、ビジュアルAIワークフロー設計などの導入即使用可能な機能を提供し、複雑なAIアプリケーションの構築を容易に実現します。
+        </td>
+    </tr>
 </table>
 
 ### AI エージェントフレームワーク

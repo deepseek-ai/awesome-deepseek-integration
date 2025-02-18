@@ -78,28 +78,26 @@
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cherrystudio/README_cn.md">Cherry Studio</a></td>
         <td>一款为创造者而生的桌面版 AI 助手</td>
     </tr>
+    <tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/tomemo/README_cn.md"> ToMemo (iOS, ipadOS) </a> </td>
         <td> 一款短语合集 + 剪切板历史 + 键盘输出的iOS应用，集成了AI大模型，可以在键盘中快速输出使用。</td>
     </tr>
-    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/buxuku/video-subtitle-master/refs/heads/main/resources/icon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/buxuku/video-subtitle-master">Video Subtitle Master</a></td>
         <td> 批量为视频生成字幕，并可将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务</td>
     </tr>
-    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/tisfeng/ImageBed/main/uPic/icon_512x512@2x.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/tisfeng/Easydict">Easydict</a></td>
         <td> Easydict 是一个简洁易用的词典翻译 macOS App，能够轻松优雅地查找单词或翻译文本，支持调用大语言模型 API 翻译。</td>
     </tr>
-    </tr>
+    <tr>
         <td> <img src="https://www.raycast.com/favicon-production.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/raycast/README_cn.md">Raycast</a></td>
         <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a> 是一款 macOS 生产力工具，它允许你用几个按键来控制你的工具。它支持各种扩展，包括 DeepSeek AI。</td>
     </tr>
-</tr> 
-  
-</tr>
     <tr>
         <td> <img src="./docs/zotero/assets/zotero-icon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/zotero/README_cn.md">Zotero</a></td>
@@ -163,6 +161,14 @@
         <td> <a href="https://www.petercat.ai">PeterCat</a> </td>
         <td> 我们提供对话式答疑 Agent 配置系统、自托管部署方案和便捷的一体化应用 SDK，让您能够为自己的 GitHub 仓库一键创建智能答疑机器人，并快速集成到各类官网或项目中， 为社区提供更高效的技术支持生态。</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/labring/FastGPT/refs/heads/main/.github/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://fastgpt.cn/zh">FastGPT</a> </td>
+        <td> 
+            FastGPT 基于 LLM 大模型的开源 AI 知识库构建平台，支持 DeepSeek、OpenAI 等多种模型。我们提供了开箱即用的数据处理、模型调用、RAG 检索、可视化 AI 工作流编排等能力，帮助您轻松构建复杂的 AI 应用。
+        </td>
+    </tr>
+
 </table>
 
 
