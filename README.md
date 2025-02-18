@@ -211,14 +211,25 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://prompt.16x.engineer/">16x Prompt</a> is an AI coding tool with context management. It helps developers manage source code context and craft prompts for complex coding tasks on existing codebases.</td>
     </tr>
     <tr>
+        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <a href="https://www.xark-argo.com">argo</a> </td>
+        <td>Locally download and run Ollama and Huggingface models with RAG on Mac/Windows/Linux. Support LLM API too.</td>
+    </tr>
+    <tr>
         <td> <img src="https://www.petercat.ai/images/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.petercat.ai">PeterCat</a> </td>
         <td> A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories.</td>
     </tr>
     <tr>
+
         <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/ruzhiai_note/README.md">RuZhi AI Notes</a> </td>
         <td>RuZhi AI Notes is an intelligent knowledge management tool powered by AI, providing one-stop knowledge management and application services including AI search & exploration, AI results to notes conversion, note management & organization, knowledge presentation & sharing. Integrated with DeepSeek model to provide more stable and higher quality outputs.</td>
+    </tr>
+
+        <td> <img src="https://cdn.link-ai.tech/doc/CoW%20logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/zhayujie/chatgpt-on-wechat">Chatgpt-on-Wechat</a> </td>
+        <td> Chatgpt-on-Wechat(CoW) is a flexible chatbot framework that supports seamless integration of multiple LLMs, including DeepSeek, OpenAI, Claude, Qwen, and others, into commonly used platforms or office software such as WeChat Official Accounts, WeCom, Feishu, DingTalk, and websites. It also supports a wide range of custom plugins. </td>
     </tr>
 
 </table>
