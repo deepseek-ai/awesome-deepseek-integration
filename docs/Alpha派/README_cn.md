@@ -1,4 +1,4 @@
-<img src="./assets/favicon.png" width="64" height="auto" /> 
+<img src="./assets/favicon1.png" width="64" height="auto" /> 
 
 # Alpha派
 
