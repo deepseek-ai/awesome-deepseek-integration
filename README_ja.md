@@ -6,7 +6,7 @@
 
 # Awesome DeepSeek Integrations ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-DeepSeek APIを人気のソフトウェアに統合します。APIキーを取得するには、[DeepSeek Open Platform](https://platform.deepseek.com/)にアクセスしてください。
+DeepSeek API を人気のソフトウェアに統合します。API キーを取得するには、[DeepSeek Open Platform](https://platform.deepseek.com/)にアクセスしてください。
 
 [English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)/日本語
 
@@ -19,6 +19,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
 
 <table>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/quantalogic/quantalogic">Quantalogic</a> </td>
+        <td> QuantaLogicは、高度なAIエージェントを構築するためのReAct（推論と行動）フレームワークです。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/13600976/224d547a-6fbc-47c8-859f-aa14813e2b0f" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatbox/README.md">Chatbox</a> </td>
         <td> Chatboxは、Windows、Mac、Linuxで利用可能な複数の最先端LLMモデルのデスクトップクライアントです。 </td>
@@ -28,6 +33,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatgpt_next_web/README.md"> ChatGPT-Next-Web </a> </td>
         <td> ChatGPT Next Webは、GPT3、GPT4、Gemini ProをサポートするクロスプラットフォームのChatGPTウェブUIです。 </td>
     </tr>
+    <tr>
+        <td> <img src="./docs/Coco AI/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/Coco AI/README.md">Coco AI</a></td>
+        <td> <a href="https://coco.rs">Coco AI</a> は、完全にオープンソースでクロスプラットフォーム対応の統合検索および生産性向上ツールで、アプリケーション、ファイル、Google Drive、Notion、Yuque、Hugoなど、ローカルおよびクラウドのさまざまなデータソースを接続して検索できます。DeepSeekなどの大規模モデルと連携することにより、Coco AIはインテリジェントな個人のナレッジ管理を実現し、プライバシーを重視し、プライベートなデプロイにも対応。ユーザーが情報に迅速かつインテリジェントにアクセスできるようサポートします。 </td>
+    </tr>  
     <tr>
         <td> <img src="./docs/liubai/assets/liubai-logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/liubai/README.md">Liubai</a> </td>
@@ -99,8 +109,8 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://www.zotero.org">Zotero</a>は、研究成果を収集、整理、注釈、引用、共有するのに役立つ無料で使いやすいツールです。</td>
     </tr>
     <tr>
-        <td> <img src="./docs/Siyuan/assets/image-20250122162731-7wkftbw.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/Siyuan/README.md">SiYuan</a> </td>
+        <td> <img src="https://b3log.org/images/brand/siyuan-128.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/SiYuan/README.md">SiYuan</a> </td>
         <td> SiYuanは、完全にオフラインで使用できるプライバシー優先の個人知識管理システムであり、エンドツーエンドの暗号化データ同期を提供します。</td>
     </tr>
     <tr>
@@ -143,9 +153,25 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/README_ja.md"> Alphaパイ </a> </td>
         <td> AI投資研究エージェント/次世代の金融情報エントリーポイント。投資家を代理して会議に出席し、AI議事録を取るほか、金融投資情報の検索・質問応答やエージェント駆使した定量分析など、投資研究業務を支援します。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <a href="https://www.xark-argo.com">argo</a> </td>
+        <td>ローカルでダウンロードし、Mac、Windows、Linux 上でOllamaとHuggingfaceモデルをRAGで実行します。LLM APIもサポートしています。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://www.petercat.ai/images/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.petercat.ai">PeterCat</a> </td>
+        <td> 会話型Q&Aエージェントの構成システム、自ホスト型デプロイメントソリューション、および便利なオールインワンアプリケーションSDKを提供し、GitHubリポジトリのためのインテリジェントQ&Aボットをワンクリックで作成し、さまざまな公式ウェブサイトやプロジェクトに迅速に統合し、コミュニティのためのより効率的な技術サポートエコシステムを提供します。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://cdn.link-ai.tech/doc/CoW%20logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/zhayujie/chatgpt-on-wechat">Chatgpt-on-Wechat</a> </td>
+        <td> ChatGPT-on-WeChat (CoW) プロジェクトは、DeepSeek、OpenAI、Claude、Qwen など複数の LLM を、WeChat 公式アカウント、企業微信、飛書、DingTalk、ウェブサイトなどの一般的なプラットフォームやオフィスソフトにシームレスに統合できる柔軟なチャットボットフレームワークです。また、豊富なカスタムプラグインもサポートしています。 </td>
+>>>>>>> 220a3bb932e6b5b80c6ad86a7af484b6cb820176
+    </tr>
 </table>
 
-### AIエージェントフレームワーク
+### AI エージェントフレームワーク
 
 <table>
     <tr>
@@ -153,9 +179,19 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/anda/README.md">Anda</a> </td>
         <td>高度にコンポーザブルで自律的かつ永続的な記憶を持つAIエージェントネットワークを構築するために設計されたRustフレームワーク。</td>
     </tr>
+     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
+        <td>エージェント間の信頼できる通信のための基本プロトコルフレームワークです。利用者は<a href="https://docs.apro.com/attps">ATTPs</a>のSDKを導入することで、エージェントの登録、検証可能なデータの送信、検証可能なデータの取得などの機能を利用することができます。</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/ruzhiai_note/README_cn.md">如知AIノート</a> </td>
+        <td>如知AIノートは、AIを活用したインテリジェントな知識管理ツールで、AI検索・探索、AI結果のノート変換、ノート管理・整理、知識の表示・共有など、ワンストップの知識管理・応用サービスを提供します。DeepSeek深層思考モデルを統合し、より安定した、より高品質な出力を提供します。</td>
+    </tr>
 </table>
 
-### RAGフレームワーク
+### RAG フレームワーク
 
 <table>
     <tr>
@@ -163,9 +199,19 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> RAGFlow </a> </td>
         <td> 深い文書理解に基づいたオープンソースのRAG（Retrieval-Augmented Generation）エンジン。RAGFlowは、あらゆる規模の企業や個人に対して、ユーザーのさまざまな複雑な形式のデータに対して信頼性のある質問応答と根拠のある引用を提供するための簡素化されたRAGワークフローを提供します。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/pingcap/tidb.ai/main/frontend/app/public/nextra/icon-dark.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/autoflow/README.md"> Autoflow </a> </td>
+        <td> <a href="https://github.com/pingcap/autoflow">AutoFlow</a> は、GraphRAGに基づくオープンソースのナレッジベースツールであり、<a href="https://www.pingcap.com/ai?utm_source=tidb.ai&utm_medium=community">TiDB</a> Vector、LlamaIndex、DSPy の上に構築されています。Perplexity のような検索インターフェースを提供し、シンプルな JavaScript スニペットを埋め込むことで、AutoFlow の対話型検索ウィンドウを簡単にウェブサイトに統合できます。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://assets.zilliz.com/Zilliz_Logo_Mark_White_20230223_041013_86057436cc.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/zilliztech/deep-searcher"> DeepSearcher </a> </td>
+        <td> DeepSearcher は、強力な大規模言語モデル（DeepSeek、OpenAI など）とベクトルデータベース（Milvus など）を組み合わせて、私有データに基づく検索、評価、推論を行い、高精度な回答と包括的なレポートを提供します。</td>
+    </tr>
 </table>
 
-### Solanaフレームワーク
+### Solana フレームワーク
 
 <table>
     <tr>
@@ -175,7 +221,7 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
     </tr>
 </table>
 
-### IMアプリケーションプラグイン
+### IM アプリケーションプラグイン
 
 <table>
     <tr>
@@ -233,9 +279,29 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
         <td>AIを活用したRSS要約と多次元フィードビューを備えたインテリジェントなRSSリーダーブラウザ拡張機能。コンテンツ理解を強化するためのDeepSeekモデル設定をサポートしています。</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.ncurator.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.ncurator.com/"> Ncurator </a> </td>
+        <td> ナレッジベース AI Q&Aアシスタント – AIがあなたの知識の整理と分析をお手伝いします</td>
+    </tr>
+    <tr>
+        <td> <img src="https://www.typral.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.typral.com/"> Typral </a> </td>
+        <td>超高速AIライティングアシスタント - AIがあなたの日報、記事、テキストなどを素早く最適化します</td>
+    </tr>
+    <tr>
+        <td> <img src="https://static.trancy.org/assets/trancy_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.trancy.org/"> Trancy </a> </td>
+        <td>イマーシブな二か国語対照翻訳、動画の二か国語字幕、文/単語の選択翻訳プラグイン</td>
+    </tr>
+    <tr>
+        <td> <img src="https://ziziyi.com/svg/anything_copilot.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/baotlake/anything-copilot"> Anything Copilot </a> </td>
+        <td> Anything Copilotは、サイドバーから直接主要なAIツールにシームレスにアクセスできるようにするブラウザ拡張機能です。 </td>
+    </tr>
 </table>
 
-### VS Code拡張機能
+### VS Code 拡張機能
 
 <table>
     <tr>
@@ -248,9 +314,14 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cline/README.md"> Cline </a> </td>
         <td> Clineは、CLIとエディタを使用できるAIアシスタントです。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/Sitoi/ai-commit/refs/heads/main/images/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Sitoi/ai-commit/blob/main/README.md"> AI Commit </a> </td>
+        <td> VS Code で AI を使用して git commit message を生成するプラグイン。 </td>
+    </tr>
 </table>
 
-### neovim拡張機能
+### neovim 拡張機能
 
 <table>
     <tr>
@@ -270,7 +341,7 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
     </tr>
 </table>
 
-### JetBrains拡張機能
+### JetBrains 拡張機能
 
 <table>
     <tr>
@@ -300,13 +371,18 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
     </tr>
 </table>
 
-### Cursor
+### AI コードエディタ
 
 <table>
     <tr>
         <td> <img src="https://global.discourse-cdn.com/flex020/uploads/cursor1/original/2X/a/a4f78589d63edd61a2843306f8e11bad9590f0ca.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.cursor.com/"> Cursor </a> </td>
         <td>‍AIコードエディタ</td>
+    </tr>
+    <tr>
+        <td> <img src="https://exafunction.github.io/public/images/windsurf/windsurf-app-icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://codeium.com/windsurf"> WindSurf </a> </td>
+        <td>CodeiumによるVS CodeをベースにしたのAIコードエディタ</td>
     </tr>
 </table>
 
@@ -328,6 +404,16 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
 ### その他
 
 <table>
+    <tr>
+        <td style="font-size: 64px">🤖</td>
+        <td> <a href="https://github.com/wangrongding/wechat-bot/blob/main/README.md"> Wechat-Bot </a></td>
+        <td> WeChaty をベースに、DeepSeek とその他の AI サービスを組み合わせた WeChat ボットです。 </td>
+    </tr>
+    <tr>
+        <td style="font-size: 64px">&#128032;</td>
+        <td> <a href="https://github.com/lunary-ai/abso/blob/main/README.md"> Abso </a></td>
+        <td> OpenAIフォーマットを使用するあらゆるLLMプロバイダと対話するためのTypeScript SDK.</td>
+    </tr>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c1e47b01-1766-4f7e-bfe6-ab3cb3991c30" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main/docs/siri_deepseek_shortcut"> siri_deepseek_shortcut </a> </td>
