@@ -134,7 +134,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/cohesion-org/deepseek-go/refs/heads/main/internal/images/deepseek-go.png" alt="Go Client" width="64" height="auto"> </td>
-        <td> <a href="https://github.com/cohesion-org/deepseek-go/blob/main/README.md">Go Integration </a> </td>
+        <td> <a href="https://github.com/cohesion-org/deepseek-go/blob/main/README.md">Deepseek Go</a> </td>
         <td>  A Deepseek client written for Go supporting Chat and Reasoning Models. Also supports external providers like Azure, OpenRouter and others. </td>
     </tr>
     <tr>
