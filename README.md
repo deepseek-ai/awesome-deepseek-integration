@@ -213,7 +213,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/assets/favicon.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/README.md"> Alpha Pai </a> </td>
-        <td> A new generation of financial information portal driven by AI Investment Research Assistant/AI. Investment research work such as investor proxy hearings notes, search Quantitative analysis for financial investment information. </td>
+        <td> AI Research Assistant / The Next-Generation Financial Information Portal Driven by AI.<br>Proxy for investors to attend meetings and take notes, as well as providing search and Q&A services for financial information and quantitative analysis for investment research.</td>
     </tr>
         <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td> 
         <td> <a href="https://www.xark-argo.com">argo</a> </td>

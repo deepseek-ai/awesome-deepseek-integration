@@ -9,3 +9,5 @@ AI投資研究エージェント/次世代の金融情報エントリーポイ�
 <img src="./assets/Alpha派-0.png" width="360" height="auto" />
 
 <img src="./assets/Alpha派-1.png" width="360" height="auto" />
+
+<img src="./assets/Alpha派-2.png" width="360" height="auto" />
