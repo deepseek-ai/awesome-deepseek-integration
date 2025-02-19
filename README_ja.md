@@ -443,4 +443,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
         <td> LLMプロンプトをテストおよび評価し、DeepSeekモデルを含む。さまざまなLLMプロバイダーを比較し、回帰をキャッチし、応答を評価します。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/ComfyUI-Copilot/assets/logo 2.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/AIDC-AI/ComfyUI-Copilot"> ComfyUI-Copilot </a> </td>
+        <td> Comfy-UIフレームワーク上に構築されたインテリジェントアシスタント。自然言語による対話を通じて、AIアルゴリズムのデバッグおよびデプロイプロセスを簡素化し、効率化します。 </td>
+    </tr>
 </table>

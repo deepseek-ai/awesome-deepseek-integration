@@ -456,4 +456,9 @@
         <td> <a href="https://github.com/suqicloud/wp-ai-chat"> WordPress ai助手 </a> </td>
         <td> 对接DeepSeek API用于WordPress站点的AI对话助手、AI文章生成、AI文章总结插件。 </td>
     </tr>
+        <tr>
+        <td> <img src="docs/ComfyUI-Copilot/assets/logo 2.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/AIDC-AI/ComfyUI-Copilot"> ComfyUI-Copilot </a> </td>
+        <td> 基于Comfy-UI框架构建的智能助手，通过自然语言交互简化和增强AI算法调试和部署过程。 </td>
+    </tr>
 </table>
