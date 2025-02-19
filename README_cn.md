@@ -176,6 +176,11 @@
         <td> <a href="https://github.com/zhayujie/chatgpt-on-wechat">Chatgpt-on-Wechat</a> </td>
         <td> Chatgpt-on-Wechat（CoW）项目是一个灵活的聊天机器人框架，支持将DeepSeek、OpenAI、Claude、Qwen等多种LLM 一键接入到微信公众号、企业微信、飞书、钉钉、网站等常用平台或办公软件，并支持丰富的自定义插件。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://athenalab.ai/assets/favicon/favicon.svg" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <a href="https://athenalab.ai/">Athena</a> </td>
+        <td>世界上首个具有先进认知架构和类人推理能力的自主通用人工智能，旨在解决复杂的现实世界挑战。</td>
+    </tr>
 </table>
 
 
