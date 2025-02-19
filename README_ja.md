@@ -279,6 +279,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td>AIを活用したRSS要約と多次元フィードビューを備えたインテリジェントなRSSリーダーブラウザ拡張機能。コンテンツ理解を強化するためのDeepSeekモデル設定をサポートしています。</td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/Hedwi/deepchat/refs/heads/main/images/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://chromewebstore.google.com/detail/deepchat-power-of-deepsee/femhcibnncinlabdboehojdhfcihpkpl?hl=en"> DeepChat </a> </td>
+        <td>任意のウェブサイト上でサイドバーを開いてDeepSeekとチャットできるChrome拡張機能です。さらに、任意のウェブサイト上の選択したテキストの下にフローティングメニューを表示し、テキストの要約生成、文法チェック、コンテンツの翻訳を行うことができます。</td>
+    </tr>
+    <tr>
         <td> <img src="https://www.ncurator.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.ncurator.com/"> Ncurator </a> </td>
         <td> ナレッジベース AI Q&Aアシスタント – AIがあなたの知識の整理と分析をお手伝いします</td>
