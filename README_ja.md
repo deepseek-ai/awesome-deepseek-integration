@@ -149,6 +149,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a>は、マーケターがAIエージェントのためのエージェンティックAIワークフローを構築するためのノーコードプラットフォームであり、数百の毎日のアプリをツールとして使用します。</td>
     </tr>
     <tr>
+        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/assets/favicon.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/README_ja.md"> Alphaパイ </a> </td>
+        <td> AI投資研究エージェント/次世代の金融情報エントリーポイント。投資家を代理して会議に出席し、AI議事録を取るほか、金融投資情報の検索・質問応答やエージェント駆使した定量分析など、投資研究業務を支援します。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td> 
         <td> <a href="https://www.xark-argo.com">argo</a> </td>
         <td>ローカルでダウンロードし、Mac、Windows、Linux 上でOllamaとHuggingfaceモデルをRAGで実行します。LLM APIもサポートしています。</td>

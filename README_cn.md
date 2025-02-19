@@ -157,6 +157,11 @@
         <td> 通过一句话即可快速生成高清故事短视频，支持 DeepSeek 等模型。 </td>
     </tr>
     <tr>
+        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/assets/favicon.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/README_cn.md"> Alpha派 </a> </td>
+        <td> AI投研助理/AI驱动的新一代金融信息入口。代理投资者听会/记纪要，金融投资信息的搜索问答/定量分析等投资研究工作。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td> 
         <td> <a href="https://www.xark-argo.com">argo</a> </td>
         <td> 本地下载并运行Huggingface及Ollama模型，支持RAG、LLM API、工具接入等，支持Mac/Windows/Linux。 </td>
@@ -166,6 +171,11 @@
         <td> <a href="https://www.petercat.ai">PeterCat</a> </td>
         <td> 我们提供对话式答疑 Agent 配置系统、自托管部署方案和便捷的一体化应用 SDK，让您能够为自己的 GitHub 仓库一键创建智能答疑机器人，并快速集成到各类官网或项目中， 为社区提供更高效的技术支持生态。 </td>
     </tr>
+    <tr>
+        <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/ruzhiai_note/README_cn.md">如知AI笔记</a> </td>
+        <td>如知AI笔记是一款智能化的AI知识管理工具，致力于为用户提供一站式的知识管理和应用服务，包括AI搜索探索、AI结果转笔记、笔记管理与整理、知识演示与分享等。集成了DeepSeek深度思考模型，提供更稳定、更高质量的输出。</td>
+    </tr>  
     <tr>
         <td> <img src="docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/ruzhiai_note/README_cn.md">如知AI笔记</a> </td>
