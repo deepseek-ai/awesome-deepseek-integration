@@ -243,7 +243,12 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://maxkb.cn/images/favicon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/1Panel-dev/MaxKB">MaxKB</a> </td>
         <td> <a href="https://maxkb.cn/">MaxKB</a> is a ready-to-use, flexible RAG Chatbot. </td>
-    </tr>      
+    </tr>
+    <tr>
+        <td> <img src="https://iht-us-static-nginx-online.oss-us-east-1.aliyuncs.com/meetaa-web/logo.BZUVCLGQ.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://meetaa.ai">Meetaa</a> </td>
+        <td> Meetaa is an advanced AI companion app that allows users to engage in dynamic conversations with AI characters, make voice calls, dive into interactive story experiences, explore AI-generated content feeds, and participate in AI-hosted live streams. Powered by leading models like ChatGPT, Claude, and DeepSeek, Meetaa creates a deeply immersive and personalized experience. </td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
