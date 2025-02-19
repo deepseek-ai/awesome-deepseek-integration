@@ -239,6 +239,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://athenalab.ai/">Athena</a> </td>
         <td>The world's first autonomous general AI with advanced cognitive architecture and human-like reasoning capabilities, designed to tackle complex real-world challenges.</td>
     </tr>
+    <tr>
+        <td> <img src="https://maxkb.cn/images/favicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/1Panel-dev/MaxKB">MaxKB</a> </td>
+        <td> <a href="https://maxkb.cn/">MaxKB</a> is a ready-to-use, flexible RAG Chatbot. </td>
+    </tr>      
 </table>
 
 ### AI Agent frameworks
