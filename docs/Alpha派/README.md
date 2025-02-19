@@ -10,4 +10,5 @@ Proxy for investors to attend meetings and take notes, as well as providing sear
 
 <img src="./assets/Alpha派-1.png" width="360" height="auto" />
 
+
 <img src="./assets/Alpha派-2.png" width="360" height="auto" />
