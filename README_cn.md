@@ -434,5 +434,10 @@
         <td> <img src="https://github.com/suqicloud/wp-ai-chat/raw/main/ic_logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/suqicloud/wp-ai-chat"> WordPress ai助手 </a> </td>
         <td> 对接Deepseek api用于WordPress站点的ai对话助手、ai文章生成、ai文章总结插件。 </td>
+    </tr> 
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/89342560?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Jeff2Ma/AlfredWorkflow-DeepSeek">DeepSeek Alfred WorkFlow</a> </td>
+        <td> 在 Mac Alfred App 中快速调用 DeekSeek 的 workflow。 </td>
     </tr>
 </table>
