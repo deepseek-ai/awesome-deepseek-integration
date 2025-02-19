@@ -230,7 +230,7 @@
 
 <table>
     <tr>
-        <td> <img src="docs/solana-agent-kit/assets/sendai-logo.png" alt="Icon" width="64" height="auto" style="color: black" /> </td>
+        <td> <img src="docs/solana-agent-kit/assets/sendai-logo.png" alt="Icon" width="64" height="auto" style="background-color: black" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> Solana Agent Kit </a> </td>
         <td> 一个用于连接 AI 智能体到 Solana 协议的开源工具包。现在，任何使用 DeepSeek LLM 的智能体都可以自主执行 60+ 种 Solana 操作。 </td>
     </tr>
