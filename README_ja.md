@@ -167,7 +167,6 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://cdn.link-ai.tech/doc/CoW%20logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/zhayujie/chatgpt-on-wechat">Chatgpt-on-Wechat</a> </td>
         <td> ChatGPT-on-WeChat (CoW) プロジェクトは、DeepSeek、OpenAI、Claude、Qwen など複数の LLM を、WeChat 公式アカウント、企業微信、飛書、DingTalk、ウェブサイトなどの一般的なプラットフォームやオフィスソフトにシームレスに統合できる柔軟なチャットボットフレームワークです。また、豊富なカスタムプラグインもサポートしています。 </td>
->>>>>>> 220a3bb932e6b5b80c6ad86a7af484b6cb820176
     </tr>
 </table>
 
