@@ -10,6 +10,8 @@
 
 [English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/简体中文/[日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md)
 
+</div>
+
 
 ### 应用程序
 
