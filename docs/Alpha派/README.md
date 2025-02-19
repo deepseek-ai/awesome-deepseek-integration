@@ -8,4 +8,4 @@ A new generation of financial information portal driven by AI Investment Researc
 
 <img src="./assets/Alpha派-0.png" width="360" height="auto" />
 
-<img src="./assets/Alpha派-1.png.jpg" width="360" height="auto" />
+<img src="./assets/Alpha派-1.png" width="360" height="auto" />
