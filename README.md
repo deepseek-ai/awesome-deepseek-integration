@@ -426,6 +426,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/baotlake/anything-copilot"> Anything Copilot </a> </td>
         <td> Anything Copilot is a browser extension that enables seamless access to mainstream AI tools directly from your sidebar. </td>
     </tr>
+    <tr>
+        <td> <img src="https://cliprun.com/apple-touch-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://cliprun.com/"> Cliprun </a> </td>
+        <td> Python code runner & playground. Right-click Python code on DeepSeek to run it instantly in your browser. </td>
+    </tr>
 </table>
 
 ### VS Code Extensions
