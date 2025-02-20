@@ -455,4 +455,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
         <td> LLMプロンプトをテストおよび評価し、DeepSeekモデルを含む。さまざまなLLMプロバイダーを比較し、回帰をキャッチし、応答を評価します。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
+        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> は、大規模言語モデル（LLM）を活用した自動アルゴリズム設計のための統一されたオープンソースのPythonベースのプラットフォームです。</td>
+    </tr>
 </table>

@@ -463,4 +463,9 @@
         <td> <a href="https://github.com/suqicloud/wp-ai-chat"> WordPress ai助手 </a> </td>
         <td> 对接DeepSeek API用于WordPress站点的AI对话助手、AI文章生成、AI文章总结插件。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
+        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> 是一个开源、简洁、模块化的基于大模型的自动算法设计平台，使用DeepSeek API进行算法设计。</td>
+    </tr>
 </table>
