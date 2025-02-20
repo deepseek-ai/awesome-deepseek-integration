@@ -188,11 +188,6 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="docs/ruzhiai_note/README_cn.md">如知AIノート</a> </td>
         <td>如知AIノートは、AIを活用したインテリジェントな知識管理ツールで、AI検索・探索、AI結果のノート変換、ノート管理・整理、知識の表示・共有など、ワンストップの知識管理・応用サービスを提供します。DeepSeek深層思考モデルを統合し、より安定した、より高品質な出力を提供します。</td>
     </tr>
-    <tr>
-        <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
-        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> は、大規模言語モデル（LLM）を活用した自動アルゴリズム設計のための統一されたオープンソースのPythonベースのプラットフォームです。</td>
-    </tr>
 </table>
 
 ### RAG フレームワーク
@@ -452,5 +447,10 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://www.promptfoo.dev/img/logo-panda.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
         <td> LLMプロンプトをテストおよび評価し、DeepSeekモデルを含む。さまざまなLLMプロバイダーを比較し、回帰をキャッチし、応答を評価します。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
+        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> は、大規模言語モデル（LLM）を活用した自動アルゴリズム設計のための統一されたオープンソースのPythonベースのプラットフォームです。</td>
     </tr>
 </table>
