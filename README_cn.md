@@ -357,6 +357,11 @@
         <td> <a href="https://github.com/Sitoi/ai-commit/blob/main/README.md"> AI Commit </a> </td>
         <td> 使用 AI 生成 git commit message 的 VS Code 插件 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/titusTong/seekCodeCopilot/blob/main/assets/SeekCodeCopilotLogo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/titusTong/seekCodeCopilot/blob/main/README.md"> SeekCode Copilot </a> </td>
+        <td> vscode智能编码助手，支持配置本地部署的DeepSeek模型 </td>
+    </tr>
 </table>
 
 
