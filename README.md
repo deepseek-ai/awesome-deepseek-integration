@@ -306,6 +306,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
         <td>A foundational protocol framework for trusted communication between agents. Any agents based on DeepSeek, By integrating with the <a href="https://docs.apro.com/attps">ATTPs</a> SDK, can access features such as agent registration, sending verifiable data, and retrieving verifiable data. So that it can make trusted communication with agents from other platforms. </td>
     </tr>
+    <tr>
+        <td> <img src="docs/Coco AI/assets/icon.png" alt="图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/xnx3/translate">translate.js</a> </td>
+        <td> AI i18n for front-end developers. It can achieve fully automatic HTML translation with just two lines of JavaScript. You can switch among dozens of languages with a single click. There is no need to modify the page, no language configuration files are required, and it supports dozens of fine-tuning extension instructions. It is SEO-friendly. Moreover, it opens up a standard text translation API interface.  </td>
+    </tr>
 </table>
 
 ### RAG frameworks

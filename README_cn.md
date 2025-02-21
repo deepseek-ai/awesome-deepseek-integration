@@ -224,6 +224,11 @@
         <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
         <td> 一个用于Agent之间可信通信的基础协议框架，基于DeepSeek的Agent，可以接入<a href="https://docs.apro.com/attps">ATTPs</a>的SDK，获得注册Agent，发送可验证数据，获取可验证数据等功能，从而与其他平台的Agent进行可信通信。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/Coco AI/assets/icon.png" alt="图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/xnx3/translate">translate.js</a> </td>
+        <td> 面向前端开发者的 AI i18n, 两行js实现html全自动翻译，几十语种一键切换，无需改动页面、无语言配置文件、支持几十个微调扩展指令、对SEO友好。并且开放标准文本翻译API接口</td>
+    </tr>
 </table>
 
 
