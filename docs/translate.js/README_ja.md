@@ -6,7 +6,7 @@
     AIに任せて、ページの変更なし、言語設定ファイルなし、APIキーなし、SEOに優しい！
 </h4> 
 
-![image](assets/demo.gif)  
+![image](assets/html_demo.gif)  
 
 # 使用方法
 ### 1. テキスト翻訳APIの展開
