@@ -6,7 +6,7 @@
     交给AI，无需改动页面、无语言配置文件、无API Key、对SEO友好！
 </h4> 
 
-![image](assets/demo.gif)  
+![image](assets/html_demo.gif)  
 
 
 # 使用方式

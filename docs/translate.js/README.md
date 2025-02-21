@@ -6,7 +6,7 @@
     Leave it to the AI. There is no need to modify the page, no language configuration file is required, no API Key is needed, and it is SEO-friendly! 
 </h4> 
 
-![image](assets/demo.gif)  
+![image](assets/html_demo.gif)  
 
 
 # Usage method
