@@ -193,6 +193,11 @@
         <td> <a href="https://athenalab.ai/">Athena</a> </td>
         <td>世界上首个具有先进认知架构和类人推理能力的自主通用人工智能，旨在解决复杂的现实世界挑战。</td>
     </tr>
+    <tr>
+        <td> <img src="https://maxkb.cn/images/favicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/1Panel-dev/MaxKB">MaxKB</a> </td>
+        <td> 基于大模型和 RAG 的开源知识库问答系统。 </td>
+    </tr>    
 </table>
 
 
