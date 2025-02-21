@@ -6,11 +6,7 @@
     交给AI，无需改动页面、无语言配置文件、无API Key、对SEO友好！
 </h4> 
 
-<div style="width:100%; text-align:center;">
-    <video style=" width: 80%;" controls="" >
-    	<source src="assets/demo.mp4" type="video/mp4">
-    </video>
-</div>
+![image](assets/demo.gif)  
 
 
 # 使用方式
