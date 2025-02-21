@@ -330,6 +330,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/Sitoi/ai-commit/blob/main/README.md"> AI Commit </a> </td>
         <td> VS Code で AI を使用して git commit message を生成するプラグイン。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/titusTong/seekCodeCopilot/blob/main/assets/SeekCodeCopilotLogo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/titusTong/seekCodeCopilot/blob/main/README.md"> SeekCode Copilot </a> </td>
+        <td> vscode インテリジェント コーディング アシスタントは、ローカルにデプロイされた DeepSeek モデルの構成をサポートします </td>
+    </tr>
 </table>
 
 ### neovim 拡張機能
