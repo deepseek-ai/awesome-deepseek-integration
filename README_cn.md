@@ -473,4 +473,9 @@
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> 是一个开源、简洁、模块化的基于大模型的自动算法设计平台，使用DeepSeek API进行算法设计。</td>
     </tr>
+    <tr>
+        <td> <img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*A-lcQbVTpjwAAAAAAAAAAAAADmJ7AQ/original" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://editor.antv.antgroup.com">Editor</a> </td>
+        <td> <a href="https://editor.antv.antgroup.com">Editor</a> AI 驱动的可视化创作工具.</td>
+    </tr>
 </table>

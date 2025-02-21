@@ -673,6 +673,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> is a unified open-source Python-based Platform using Large Language Models (LLMs) for Automatic Algorithm Design (AD).</td>
     </tr>
+    <tr>
+        <td> <img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*A-lcQbVTpjwAAAAAAAAAAAAADmJ7AQ/original" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://editor.antv.antgroup.com">Editor</a> </td>
+        <td> <a href="https://editor.antv.antgroup.com">Editor</a> AI driven community for visualization creation.</td>
+    </tr>
 </table>
 
 ### Star History

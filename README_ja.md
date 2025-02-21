@@ -465,4 +465,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> は、大規模言語モデル（LLM）を活用した自動アルゴリズム設計のための統一されたオープンソースのPythonベースのプラットフォームです。</td>
     </tr>
+    <tr>
+        <td> <img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*A-lcQbVTpjwAAAAAAAAAAAAADmJ7AQ/original" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://editor.antv.antgroup.com">Editor</a> </td>
+        <td> <a href="https://editor.antv.antgroup.com">Editor</a> AI によって駆動されるビジュアル化クリエイティブツール.</td>
+    </tr>
 </table>
