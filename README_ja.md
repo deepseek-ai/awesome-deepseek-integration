@@ -164,9 +164,21 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> 会話型Q&Aエージェントの構成システム、自ホスト型デプロイメントソリューション、および便利なオールインワンアプリケーションSDKを提供し、GitHubリポジトリのためのインテリジェントQ&Aボットをワンクリックで作成し、さまざまな公式ウェブサイトやプロジェクトに迅速に統合し、コミュニティのためのより効率的な技術サポートエコシステムを提供します。</td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/labring/FastGPT/refs/heads/main/.github/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://fastgpt.cn/ja">FastGPT</a> </td>
+        <td> 
+            FastGPT は大規模言語モデル（LLM）を基盤としたオープンソースAIナレッジベース構築プラットフォームで、DeepSeekやOpenAIなど様々なモデルをサポートしています。データ処理、モデル呼び出し、RAG検索、ビジュアルAIワークフロー設計などの導入即使用可能な機能を提供し、複雑なAIアプリケーションの構築を容易に実現します。
+        </td>
+   </tr>
+   <tr>
         <td> <img src="https://cdn.link-ai.tech/doc/CoW%20logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/zhayujie/chatgpt-on-wechat">Chatgpt-on-Wechat</a> </td>
         <td> ChatGPT-on-WeChat (CoW) プロジェクトは、DeepSeek、OpenAI、Claude、Qwen など複数の LLM を、WeChat 公式アカウント、企業微信、飛書、DingTalk、ウェブサイトなどの一般的なプラットフォームやオフィスソフトにシームレスに統合できる柔軟なチャットボットフレームワークです。また、豊富なカスタムプラグインもサポートしています。 </td>
+    </tr>
+        <tr>
+        <td> <img src="./docs/TigerGPT/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://ttm.financial/gpt">TigerGPT</a> </td>
+        <td>TigerGPT は、OpenAI に基づく最初の金融 AI 投資アシスタントで、虎のグループによって開発されています。TigerGPT は、投資家に対して、深い推理をサポートするオンライン Q&A サービスを提供することを目的としています。2025年2月18日、TigerGPT は DeepSeek-R1 モデルを正式に統合し、ユーザーにオンライン Q&A サービスを提供することで、深い推理をサポートします。 </td>
     </tr>
 </table>
 
@@ -277,6 +289,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://github.com/oinzen/RSSFlow-doc/blob/main/docs/images/en/icon64.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://rssflow.oinchain.com"> RssFlow </a> </td>
         <td>AIを活用したRSS要約と多次元フィードビューを備えたインテリジェントなRSSリーダーブラウザ拡張機能。コンテンツ理解を強化するためのDeepSeekモデル設定をサポートしています。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/Hedwi/deepchat/refs/heads/main/images/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://chromewebstore.google.com/detail/deepchat-power-of-deepsee/femhcibnncinlabdboehojdhfcihpkpl?hl=en"> DeepChat </a> </td>
+        <td>任意のウェブサイト上でサイドバーを開いてDeepSeekとチャットできるChrome拡張機能です。さらに、任意のウェブサイト上の選択したテキストの下にフローティングメニューを表示し、テキストの要約生成、文法チェック、コンテンツの翻訳を行うことができます。</td>
     </tr>
     <tr>
         <td> <img src="https://www.ncurator.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
@@ -442,5 +459,10 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://www.promptfoo.dev/img/logo-panda.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
         <td> LLMプロンプトをテストおよび評価し、DeepSeekモデルを含む。さまざまなLLMプロバイダーを比較し、回帰をキャッチし、応答を評価します。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
+        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> は、大規模言語モデル（LLM）を活用した自動アルゴリズム設計のための統一されたオープンソースのPythonベースのプラットフォームです。</td>
     </tr>
 </table>

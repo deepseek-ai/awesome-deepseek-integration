@@ -19,7 +19,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
-        <td> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td width=80> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/quantalogic/quantalogic">Quantalogic</a> </td>
         <td> QuantaLogic is a ReAct (Reasoning & Action) framework for building advanced AI agents. </td>
     </tr>
@@ -103,14 +103,14 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="docs/raycast/README.md">Raycast</a></td>
         <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a> is a productivity tool for macOS that lets you control your tools with a few keystrokes. It supports various extensions including DeepSeek AI.</td>
     </tr>
-    </tr> <td> <img src="https://niceprompt.app/favicon.ico" alt="Icon" width="64" height="auto" /> </td> <td> <a href="https://niceprompt.app">Nice Prompt</a></td> <td> <a href="https://niceprompt.app">Nice Prompt</a> Organize, share and use your prompts in your code editor, with Cursor and VSCode。</td>
+    <tr>
+        <td> <img src="https://niceprompt.app/favicon.ico" alt="Icon" width="64" height="auto" /> </td> <td> <a href="https://niceprompt.app">Nice Prompt</a></td> <td> <a href="https://niceprompt.app">Nice Prompt</a> Organize, share and use your prompts in your code editor, with Cursor and VSCode。</td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/193405629?s=200&v=4" alt="PHP Client" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-php/deepseek-php-client/blob/master/README.md">PHP Client</a> </td>
         <td> Deepseek PHP Client is a robust and community-driven PHP client library for seamless integration with the Deepseek API. </td>
     </tr>
-    <tr>
         <tr>
   <td>
     <img
@@ -225,6 +225,13 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories.</td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/labring/FastGPT/refs/heads/main/.github/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://fastgpt.cn/en">FastGPT</a> </td>
+        <td> 
+            FastGPT is an open-source AI knowledge base platform built on large language models (LLMs), supporting various models including DeepSeek and OpenAI. We provide out-of-the-box capabilities for data processing, model invocation, RAG retrieval, and visual AI workflow orchestration, enabling you to effortlessly build sophisticated AI applications.
+        </td>
+   </tr>
+   <tr>
         <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/ruzhiai_note/README.md">RuZhi AI Notes</a> </td>
         <td>RuZhi AI Notes is an intelligent knowledge management tool powered by AI, providing one-stop knowledge management and application services including AI search & exploration, AI results to notes conversion, note management & organization, knowledge presentation & sharing. Integrated with DeepSeek model to provide more stable and higher quality outputs.</td>
@@ -249,13 +256,18 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://meetaa.ai">Meetaa</a> </td>
         <td> Meetaa is an advanced AI companion app that allows users to engage in dynamic conversations with AI characters, make voice calls, dive into interactive story experiences, explore AI-generated content feeds, and participate in AI-hosted live streams. Powered by leading models like ChatGPT, Claude, and DeepSeek, Meetaa creates a deeply immersive and personalized experience. </td>
     </tr>
+    <tr>
+        <td> <img src="./docs/TigerGPT/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://ttm.financial/gpt">TigerGPT</a> </td>
+        <td>TigerGPT is the first financial AI investment assistant of its kind based on OpenAI, developed by Tiger Group. TigerGPT aims to provide intelligent investment decision-making support for investors. On February 18, 2025, TigerGPT officially integrated the DeepSeek-R1 model to provide users with online Q&A services that support deep reasoning. </td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
 
 <table>
     <tr>
-        <td> <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/mascot_smol.png" alt="Icon" width="64" height="auto" /> </td>
+        <td width=80> <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/mascot_smol.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/huggingface/smolagents/tree/main"> smolagents </a> </td>
         <td> The simplest way to build great agents. Agents write python code to call tools and orchestrate other agents. Priority support for open models like DeepSeek-R1!  </td>
     </tr>
@@ -305,17 +317,17 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
-        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/33142505/77093e84-9f7c-4716-9168-bac962fa1372" alt="Icon" width="64" height="auto" /> </td>
+        <td width="80"> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/33142505/77093e84-9f7c-4716-9168-bac962fa1372" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> RAGFlow </a> </td>
         <td> An open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. It offers a streamlined RAG workflow for businesses of any scale, combining LLM (Large Language Models) to provide truthful question-answering capabilities, backed by well-founded citations from various complex formatted data. </td>
     </tr>
     <tr>
-        <td> <img src="https://raw.githubusercontent.com/pingcap/tidb.ai/main/frontend/app/public/nextra/icon-dark.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td width="80"> <img src="https://raw.githubusercontent.com/pingcap/tidb.ai/main/frontend/app/public/nextra/icon-dark.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/autoflow/README.md"> Autoflow </a> </td>
         <td> <a href="https://github.com/pingcap/autoflow">AutoFlow</a> is an open-source knowledge base tool based on GraphRAG (Graph-based Retrieval-Augmented Generation), built on <a href="https://www.pingcap.com/ai?utm_source=tidb.ai&utm_medium=community">TiDB</a> Vector, LlamaIndex, and DSPy. It provides a Perplexity-like search interface and allows easy integration of AutoFlow's conversational search window into your website by embedding a simple JavaScript snippet. </td>
     </tr>
     <tr>
-        <td> <img src="https://assets.zilliz.com/Zilliz_Logo_Mark_White_20230223_041013_86057436cc.png" alt="Icon" width="64" height="auto" /> </td>
+        <td width="80"> <img src="https://assets.zilliz.com/Zilliz_Logo_Mark_White_20230223_041013_86057436cc.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/zilliztech/deep-searcher"> DeepSearcher </a> </td>
         <td> DeepSearcher combines powerful LLMs (DeepSeek, OpenAI, etc.) and Vector Databases (Milvus, etc.) to perform search, evaluation, and reasoning based on private data, providing highly accurate answer and comprehensive report.  </td>
     </tr>
@@ -412,6 +424,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td>An intelligent RSS reader browser extension with AI-powered RSS summarization and multi-dimensional feed views. Supports DeepSeek model configuration for enhanced content understanding. </td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/Hedwi/deepchat/refs/heads/main/images/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://chromewebstore.google.com/detail/deepchat-power-of-deepsee/femhcibnncinlabdboehojdhfcihpkpl?hl=en"> DeepChat </a> </td>
+        <td>A Chrome extension that enables users to chat with DeepSeek by opening a sidebar on any website. In addition, it provides a floating menu underneath any selected text on any website that allows users to generate text summaries, check grammar issues, and translate content.</td>
+    </tr>
+     <tr>
         <td> <img src="https://www.typral.com/_next/image?url=%2Ffavicon.ico&w=96&q=75" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.typral.com/"> Typral </a> </td>
         <td> Fast AI writer assistant - Let AI help you quickly improve article, paper, text...</td>
@@ -425,6 +442,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://ziziyi.com/svg/anything_copilot.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/baotlake/anything-copilot"> Anything Copilot </a> </td>
         <td> Anything Copilot is a browser extension that enables seamless access to mainstream AI tools directly from your sidebar. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://cliprun.com/apple-touch-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://cliprun.com/"> Cliprun </a> </td>
+        <td> Python code runner & playground. Right-click Python code on DeepSeek to run it instantly in your browser. </td>
     </tr>
 </table>
 
@@ -650,6 +672,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://github.com/suqicloud/wp-ai-chat/raw/main/ic_logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/suqicloud/wp-ai-chat"> WordPress ai助手 </a> </td>
         <td> Docking Deepseek api for WordPress site ai conversation assistant, post generation, post summary plugin. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
+        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> is a unified open-source Python-based Platform using Large Language Models (LLMs) for Automatic Algorithm Design (AD).</td>
     </tr>
 </table>
 
