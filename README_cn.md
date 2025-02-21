@@ -193,6 +193,11 @@
         <td> <a href="https://athenalab.ai/">Athena</a> </td>
         <td>世界上首个具有先进认知架构和类人推理能力的自主通用人工智能，旨在解决复杂的现实世界挑战。</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/TigerGPT/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.laohu8.com/gpt">TigerGPT</a> </td>
+        <td>TigerGPT 是老虎集团开发的，业内首个基于 OpenAI 的金融 AI 投资助理。TigerGPT 旨在为投资者提供智能化的投资决策支持。2025年2月18日，TigerGPT 正式接入 DeepSeek-R1 模型，为用户提供支持深度推理的在线问答服务。 </td>
+    </tr>
 </table>
 
 

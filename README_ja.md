@@ -175,6 +175,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/zhayujie/chatgpt-on-wechat">Chatgpt-on-Wechat</a> </td>
         <td> ChatGPT-on-WeChat (CoW) プロジェクトは、DeepSeek、OpenAI、Claude、Qwen など複数の LLM を、WeChat 公式アカウント、企業微信、飛書、DingTalk、ウェブサイトなどの一般的なプラットフォームやオフィスソフトにシームレスに統合できる柔軟なチャットボットフレームワークです。また、豊富なカスタムプラグインもサポートしています。 </td>
     </tr>
+        <tr>
+        <td> <img src="./docs/TigerGPT/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://ttm.financial/gpt">TigerGPT</a> </td>
+        <td>TigerGPT は、OpenAI に基づく最初の金融 AI 投資アシスタントで、虎のグループによって開発されています。TigerGPT は、投資家に対して、深い推理をサポートするオンライン Q&A サービスを提供することを目的としています。2025年2月18日、TigerGPT は DeepSeek-R1 モデルを正式に統合し、ユーザーにオンライン Q&A サービスを提供することで、深い推理をサポートします。 </td>
+    </tr>
 </table>
 
 ### AI エージェントフレームワーク
