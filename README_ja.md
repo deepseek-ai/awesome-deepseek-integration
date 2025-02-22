@@ -19,6 +19,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
+        <td> <img src="https://huohuaai.com/aiclient-logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/aiclient/README.md">AI Client</a> </td>
+        <td> DeepSeek APIのためのiPhone用クライアントで、DeepSeek公式API、第三者のDeepSeek API（例：阿里云）、および自分でデプロイしたDeepSeek APIをサポートします。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/quantalogic/quantalogic">Quantalogic</a> </td>
         <td> QuantaLogicは、高度なAIエージェントを構築するためのReAct（推論と行動）フレームワークです。 </td>

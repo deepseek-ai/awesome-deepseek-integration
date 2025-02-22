@@ -19,6 +19,11 @@
 
 <table>
     <tr>
+        <td> <img src="https://huohuaai.com/aiclient-logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/aiclient/README_cn.md">AI Client</a> </td>
+        <td> 专为拥有DeepSeek官方API、第三方如阿里云提供的DeepSeek API、自部署DeepSeek API，以及注重隐私安全的用户打造的iPhone手机客户端 </td>
+    </tr>
+    <tr>
         <td style="font-size: 64px" align="center"> 🤖</td>
         <td> <a href="https://github.com/wangrongding/wechat-bot/blob/main/README.md"> Wechat-Bot </a></td>
         <td> 基于 wechaty 实现的微信机器人，结合了 DeepSeek 和其他 Ai 服务。 </td>

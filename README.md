@@ -19,6 +19,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
+        <td> <img src="https://huohuaai.com/aiclient-logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/aiclient/README.md">AI Client</a> </td>
+        <td> A client for DeepSeek API, supports DeepSeek official API, third-party like Aliyun DeepSeek API, and self-deployed DeepSeek API. </td>
+    </tr>
+    <tr>
         <td width=80> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/quantalogic/quantalogic">Quantalogic</a> </td>
         <td> QuantaLogic is a ReAct (Reasoning & Action) framework for building advanced AI agents. </td>
