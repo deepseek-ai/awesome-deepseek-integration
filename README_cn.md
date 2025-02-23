@@ -247,6 +247,16 @@
     </tr>
 </table>
 
+### FHE (全同态加密) frameworks
+
+<table>
+    <tr>
+        <td> <img src="./docs/fhe.mind-network/mind-network-log.png" alt="Icon" width="200" height="auto" /> </td>
+        <td> <a href="https://github.com/mind-network/mind-sdk-deepseek-rust"> Mind FHE Rust SDK </a> </td>
+        <td> <p>一个开源 SDK，可使用**全同态加密（FHE）**对 AI 进行加密，实现代理共识。FHE被誉为密码学的圣杯，能够在无需解密的情况下直接对加密数据进行计算。借助FHE，代理在使用Deepseek时可以保护隐私，同时确保模型的完整性和计算结果的一致性，无需暴露任何数据。该SDK的<a href="https://github.com/mind-network/mind-sdk-deepseek-rust">源代码</a>采用纯Rust实现，并可在<a href="https://crates.io/crates/mind_sdk_deepseek">crates.io</a>获取</p> </td>
+    </tr>
+</table>
+
 
 ### Solana 框架
 
