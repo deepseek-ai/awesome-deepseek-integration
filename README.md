@@ -288,7 +288,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
     <tr>
         <td> <img src="https://rig.rs/assets/favicon.png" alt="Icon" width="64" height="auto" alt="Rig (Rust)" /> </td>
-        <td> <a href="https://rig.rs/)](https://rig.rs/">RIG</a> </td>
+        <td> <a href="https://rig.rs">RIG</a> </td>
         <td>Build modular and scalable LLM Applications in Rust.</td>
     </tr> 
     <tr>
