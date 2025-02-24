@@ -19,6 +19,11 @@
 
 <table>
     <tr>
+        <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
+        <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
+        <td>DeepChat 是一款完全免费的桌面端智能助手，内置强大的 DeepSeek 大模型，支持多轮对话、联网搜索、文件上传、知识库等多种功能。</td>
+    </tr>
+    <tr>
         <td style="font-size: 64px" align="center"> 🤖</td>
         <td> <a href="https://github.com/wangrongding/wechat-bot/blob/main/README.md"> Wechat-Bot </a></td>
         <td> 基于 wechaty 实现的微信机器人，结合了 DeepSeek 和其他 Ai 服务。 </td>
@@ -262,6 +267,16 @@
     </tr>
 </table>
 
+### FHE (全同态加密) frameworks
+
+<table>
+    <tr>
+        <td> <img src="./docs/fhe.mind-network/mind-network-log.png" alt="Icon" width="200" height="auto" /> </td>
+        <td> <a href="https://github.com/mind-network/mind-sdk-deepseek-rust"> Mind FHE Rust SDK </a> </td>
+        <td> <p>一个开源 SDK，可使用**全同态加密（FHE）**对 AI 进行加密，实现代理共识。FHE被誉为密码学的圣杯，能够在无需解密的情况下直接对加密数据进行计算。借助FHE，代理在使用Deepseek时可以保护隐私，同时确保模型的完整性和计算结果的一致性，无需暴露任何数据。该SDK的<a href="https://github.com/mind-network/mind-sdk-deepseek-rust">源代码</a>采用纯Rust实现，并可在<a href="https://crates.io/crates/mind_sdk_deepseek">crates.io</a>获取</p> </td>
+    </tr>
+</table>
+
 
 ### Solana 框架
 
@@ -487,6 +502,11 @@
         <td> <img src="https://github.com/suqicloud/wp-ai-chat/raw/main/ic_logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/suqicloud/wp-ai-chat"> WordPress ai助手 </a> </td>
         <td> 对接DeepSeek API用于WordPress站点的AI对话助手、AI文章生成、AI文章总结插件。 </td>
+    </tr>
+    <tr>
+        <td> <img src="docs/ComfyUI-Copilot/assets/logo 2.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/AIDC-AI/ComfyUI-Copilot"> ComfyUI-Copilot </a> </td>
+        <td> 基于Comfy-UI框架构建的智能助手，通过自然语言交互简化和增强AI算法调试和部署过程。 </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>

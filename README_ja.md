@@ -18,6 +18,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 ### アプリケーション
 
 <table>
+    <tr>    
+        <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
+        <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
+        <td>DeepChat は、強力な DeepSeek モデルを内蔵した完全に無料のデスクトップ インテリジェント アシスタントです。複数ラウンドの会話、オンライン検索、ファイルのアップロード、ナレッジ ベースなどの複数の機能をサポートします。</td>
+    </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/quantalogic/quantalogic">Quantalogic</a> </td>
@@ -234,6 +239,16 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://assets.zilliz.com/Zilliz_Logo_Mark_White_20230223_041013_86057436cc.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/zilliztech/deep-searcher"> DeepSearcher </a> </td>
         <td> DeepSearcher は、強力な大規模言語モデル（DeepSeek、OpenAI など）とベクトルデータベース（Milvus など）を組み合わせて、私有データに基づく検索、評価、推論を行い、高精度な回答と包括的なレポートを提供します。</td>
+    </tr>
+</table>
+
+### FHE フレームワーク
+
+<table>
+    <tr>
+        <td> <img src="./docs/fhe.mind-network/mind-network-log.png" alt="Icon" width="200" height="auto" /> </td>
+        <td> <a href="https://github.com/mind-network/mind-sdk-deepseek-rust"> Mind FHE Rust SDK </a> </td>
+        <td> <p>AI を<b>完全準同型暗号（FHE）</b>で暗号化し、<b>Mind Network</b> と統合してエージェントのコンセンサスを実現するオープンソース SDK。FHE は<b>暗号学の聖杯</b>とされており、<b>復号せずに</b>暗号化データ上で直接計算を実行できます。FHE を活用することで、エージェントは <b>Deepseek</b> を使用しながらプライバシーを保護し、モデルの整合性と計算結果の合意を確保できます。さらに、<b>データを一切公開することなく</b> <b>Mind Network</b> に接続することで、このプロセスが実現されます。この SDK の<a href="https://github.com/mind-network/mind-sdk-deepseek-rust">ソースコード</a> は<b>純 Rust</b> で実装されており、<a href="https://crates.io/crates/mind_sdk_deepseek">crates.io</a> からも入手可能です。</p></td>
     </tr>
 </table>
 
@@ -479,6 +494,12 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://www.promptfoo.dev/img/logo-panda.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
         <td> LLMプロンプトをテストおよび評価し、DeepSeekモデルを含む。さまざまなLLMプロバイダーを比較し、回帰をキャッチし、応答を評価します。 </td>
+    </tr>
+    <tr>
+
+        <td> <img src="docs/ComfyUI-Copilot/assets/logo 2.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/AIDC-AI/ComfyUI-Copilot"> ComfyUI-Copilot </a> </td>
+        <td> Comfy-UIフレームワーク上に構築されたインテリジェントアシスタント。自然言語による対話を通じて、AIアルゴリズムのデバッグおよびデプロイプロセスを簡素化し、効率化します。 </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>

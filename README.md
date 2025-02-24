@@ -18,6 +18,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 ### Applications
 
 <table>
+    <tr>    
+        <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
+        <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
+        <td>DeepChat is a fully free desktop smart assistant, with a powerful DeepSeek large model, supporting multi-round conversations, internet search, file uploads, knowledge bases, and more.</td>
+    </tr>
     <tr>
         <td width=80> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/quantalogic/quantalogic">Quantalogic</a> </td>
@@ -288,7 +293,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
     <tr>
         <td> <img src="https://rig.rs/assets/favicon.png" alt="Icon" width="64" height="auto" alt="Rig (Rust)" /> </td>
-        <td> <a href="https://rig.rs/)](https://rig.rs/">RIG</a> </td>
+        <td> <a href="https://rig.rs">RIG</a> </td>
         <td>Build modular and scalable LLM Applications in Rust.</td>
     </tr> 
     <tr>
@@ -342,6 +347,16 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> DeepSearcher combines powerful LLMs (DeepSeek, OpenAI, etc.) and Vector Databases (Milvus, etc.) to perform search, evaluation, and reasoning based on private data, providing highly accurate answer and comprehensive report.  </td>
     </tr>
    
+</table>
+
+### FHE (Fully Homomorphic Encryption) frameworks
+
+<table>
+    <tr>
+        <td> <img src="./docs/fhe.mind-network/mind-network-log.png" alt="Icon" width="200" height="auto" /> </td>
+        <td> <a href="https://github.com/mind-network/mind-sdk-deepseek-rust"> Mind FHE Rust SDK </a> </td>
+        <td> <p>An open-source SDK for encrypting AI with Fully Homomorphic Encryption (FHE) and integrating with Mind Network for agent consensus. FHE is considered the <b>holy grail of cryptography</b>, enabling computations directly on encrypted data without the need for decryption. With FHE, agents can safeguard their privacy while using Deepseek, ensuring both model integrity and result consensus -<b> all without exposing their data </b>- by connecting to Mind Network. The SDK <a href="https://github.com/mind-network/mind-sdk-deepseek-rust"> source code </a> is implemented in pure <b>Rust</b>> and the package also available on <a href="https://crates.io/crates/mind_sdk_deepseek"> crates.io </a>. </p> </td>
+    </tr>
 </table>
 
 ### Solana frameworks
@@ -689,9 +704,15 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Docking Deepseek api for WordPress site ai conversation assistant, post generation, post summary plugin. </td>
     </tr>
     <tr>
+        <td> <img src="docs/ComfyUI-Copilot/assets/logo 2.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/AIDC-AI/ComfyUI-Copilot"> ComfyUI-Copilot </a> </td>
+        <td> An intelligent assistant built on the Comfy-UI framework that simplifies and enhances the AI algorithm debugging and deployment process through natural language interactions. </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> is a unified open-source Python-based Platform using Large Language Models (LLMs) for Automatic Algorithm Design (AD).</td>
+
     </tr>
 </table>
 
