@@ -339,6 +339,16 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
    
 </table>
 
+### FHE (Fully Homomorphic Encryption) frameworks
+
+<table>
+    <tr>
+        <td> <img src="./docs/fhe.mind-network/mind-network-log.png" alt="Icon" width="200" height="auto" /> </td>
+        <td> <a href="https://github.com/mind-network/mind-sdk-deepseek-rust"> Mind FHE Rust SDK </a> </td>
+        <td> <p>An open-source SDK for encrypting AI with Fully Homomorphic Encryption (FHE) and integrating with Mind Network for agent consensus. FHE is considered the <b>holy grail of cryptography</b>, enabling computations directly on encrypted data without the need for decryption. With FHE, agents can safeguard their privacy while using Deepseek, ensuring both model integrity and result consensus -<b> all without exposing their data </b>- by connecting to Mind Network. The SDK <a href="https://github.com/mind-network/mind-sdk-deepseek-rust"> source code </a> is implemented in pure <b>Rust</b>> and the package also available on <a href="https://crates.io/crates/mind_sdk_deepseek"> crates.io </a>. </p> </td>
+    </tr>
+</table>
+
 ### Solana frameworks
 
 <table>

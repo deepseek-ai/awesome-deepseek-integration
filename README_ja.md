@@ -232,6 +232,16 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
+### FHE フレームワーク
+
+<table>
+    <tr>
+        <td> <img src="./docs/fhe.mind-network/mind-network-log.png" alt="Icon" width="200" height="auto" /> </td>
+        <td> <a href="https://github.com/mind-network/mind-sdk-deepseek-rust"> Mind FHE Rust SDK </a> </td>
+        <td> <p>AI を<b>完全準同型暗号（FHE）</b>で暗号化し、<b>Mind Network</b> と統合してエージェントのコンセンサスを実現するオープンソース SDK。FHE は<b>暗号学の聖杯</b>とされており、<b>復号せずに</b>暗号化データ上で直接計算を実行できます。FHE を活用することで、エージェントは <b>Deepseek</b> を使用しながらプライバシーを保護し、モデルの整合性と計算結果の合意を確保できます。さらに、<b>データを一切公開することなく</b> <b>Mind Network</b> に接続することで、このプロセスが実現されます。この SDK の<a href="https://github.com/mind-network/mind-sdk-deepseek-rust">ソースコード</a> は<b>純 Rust</b> で実装されており、<a href="https://crates.io/crates/mind_sdk_deepseek">crates.io</a> からも入手可能です。</p></td>
+    </tr>
+</table>
+
 ### Solana フレームワーク
 
 <table>
