@@ -18,6 +18,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 ### アプリケーション
 
 <table>
+    <tr>    
+        <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
+        <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
+        <td>DeepChat は、強力な DeepSeek モデルを内蔵した完全に無料のデスクトップ インテリジェント アシスタントです。複数ラウンドの会話、オンライン検索、ファイルのアップロード、ナレッジ ベースなどの複数の機能をサポートします。</td>
+    </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/quantalogic/quantalogic">Quantalogic</a> </td>
