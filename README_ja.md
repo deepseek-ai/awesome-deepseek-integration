@@ -210,6 +210,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="docs/translate.js/README_ja.md">translate.js</a> </td>
         <td>フロントエンド開発者向けのAI i 18 n、2行のjsはhtmlの全自動翻訳を実現し、数十言語のワンクリック切り替えで、ページを変更する必要がなく、言語プロファイルがなく、数十個の微調整拡張命令をサポートし、SEOに友好的である。また、標準テキスト翻訳APIインタフェースを開放する</td>
     </tr>
+    <tr>
+        <td width=80> <img src="docs/agentUniverse/assets/agentUniverse_logo_s.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/antgroup/agentUniverse"> agentUniverse </a> </td>
+        <td> agentUniverseは、複雑なビジネスシーン向けに設計されたマルチエージェント協調フレームワークです。迅速で使いやすい大規模モデルのインテリジェントエージェントアプリケーション構築能力を提供し、特にエージェント間の協調スケジューリング、自律的な意思決定、動的なフィードバックなどのメカニズムに重点を置いています。これは、Ant Groupの金融業界における実践的なビジネス経験に基づいて開発されました。agentUniverseは、2024年6月にDeepSeekシリーズモデルのサポートを全面的に統合しました。  </td>
+    </tr>
 </table>
 
 ### RAG フレームワーク

@@ -234,6 +234,11 @@
         <td> <a href="docs/translate.js/README_cn.md">translate.js</a> </td>
         <td> 面向前端开发者的 AI i18n, 两行js实现html全自动翻译，几十语种一键切换，无需改动页面、无语言配置文件、支持几十个微调扩展指令、对SEO友好。并且开放标准文本翻译API接口</td>
     </tr>
+    <tr>
+        <td width=80> <img src="docs/agentUniverse/assets/agentUniverse_logo_s.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/antgroup/agentUniverse"> agentUniverse </a> </td>
+        <td> agentUniverse 是一个面向复杂业务场景设计的多智能体协作框架。其提供了快速易用的大模型智能体应用搭建能力，并着重于提供智能体协同调度、自主决策与动态反馈等机制，其源自蚂蚁集团在金融领域的真实业务实践沉淀。agentUniverse于2024年6月全面接入支持deepseek系列模型。  </td>
+    </tr>
 </table>
 
 

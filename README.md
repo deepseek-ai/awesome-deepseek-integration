@@ -316,6 +316,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="docs/translate.js/README.md">translate.js</a> </td>
         <td> AI i18n for front-end developers. It can achieve fully automatic HTML translation with just two lines of JavaScript. You can switch among dozens of languages with a single click. There is no need to modify the page, no language configuration files are required, and it supports dozens of fine-tuning extension instructions. It is SEO-friendly. Moreover, it opens up a standard text translation API interface.  </td>
     </tr>
+    <tr>
+        <td width=80> <img src="docs/agentUniverse/assets/agentUniverse_logo_s.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/antgroup/agentUniverse"> agentUniverse </a> </td>
+        <td> agentUniverse is a multi-agent collaboration framework designed for complex business scenarios. It offers rapid and user-friendly development capabilities for LLM agent applications, with a focus on mechanisms such as agent collaborative scheduling, autonomous decision-making, and dynamic feedback. The framework originates from Ant Group's real-world business practices in the financial industry. In June 2024, agentUniverse achieved full integration support for the DeepSeek series of models.  </td>
+    </tr>
 </table>
 
 ### RAG frameworks
