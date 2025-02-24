@@ -671,7 +671,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://simplismart-public-assets.s3.ap-south-1.amazonaws.com/logos/Logo+Icon+Light.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://simplismart.ai/"> Simplismart AI </a> </td>
-        <td> Simplismart helps deploy GenAI models including LLMs, DIffusion and Speech models. Deploy Deepseek using the Simplismart cloud or your VPC. </td>
+        <td> Simplismart enables seamless GenAI deployments with the fastest inference for LLMs, Diffusion, and Speech models. Deploy Deepseek effortlessly on the Simplismart Cloud or with your own Cloud. </td>
     </tr>
     <tr>
         <td> <img src="https://www.promptfoo.dev/img/logo-panda.svg" alt="Icon" width="64" height="auto" /> </td>
