@@ -263,7 +263,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
     <tr>
         <td> <img src="./docs/HIX.AI/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https:/hix.ai">HIX.AI</a> </td>
+        <td> <a href="https://hix.ai">HIX.AI</a> </td>
         <td>Try DeepSeek for free and enjoy unlimited AI chat on HIX.AI. Use DeepSeek R1 for AI chat, writing, coding & more. Experience next-gen AI chat now!</td>
     </tr>
 </table>

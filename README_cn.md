@@ -205,7 +205,7 @@
     </tr>
     <tr>
         <td> <img src="./docs/HIX.AI/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https:/hix.ai">HIX.AI</a> </td>
+        <td> <a href="https://hix.ai">HIX.AI</a> </td>
         <td>免费试用 DeepSeek，在 HIX.AI 上享受无限量的 AI 聊天。使用 DeepSeek R1 进行 AI 聊天、写作、编码等。立即体验下一代 AI 聊天！</td>
     </tr>
 </table>
