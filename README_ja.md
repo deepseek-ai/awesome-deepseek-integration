@@ -491,6 +491,12 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> LLMプロンプトをテストおよび評価し、DeepSeekモデルを含む。さまざまなLLMプロバイダーを比較し、回帰をキャッチし、応答を評価します。 </td>
     </tr>
     <tr>
+
+        <td> <img src="docs/ComfyUI-Copilot/assets/logo 2.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/AIDC-AI/ComfyUI-Copilot"> ComfyUI-Copilot </a> </td>
+        <td> Comfy-UIフレームワーク上に構築されたインテリジェントアシスタント。自然言語による対話を通じて、AIアルゴリズムのデバッグおよびデプロイプロセスを簡素化し、効率化します。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> は、大規模言語モデル（LLM）を活用した自動アルゴリズム設計のための統一されたオープンソースのPythonベースのプラットフォームです。</td>

@@ -499,6 +499,11 @@
         <td> 对接DeepSeek API用于WordPress站点的AI对话助手、AI文章生成、AI文章总结插件。 </td>
     </tr>
     <tr>
+        <td> <img src="docs/ComfyUI-Copilot/assets/logo 2.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/AIDC-AI/ComfyUI-Copilot"> ComfyUI-Copilot </a> </td>
+        <td> 基于Comfy-UI框架构建的智能助手，通过自然语言交互简化和增强AI算法调试和部署过程。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> 是一个开源、简洁、模块化的基于大模型的自动算法设计平台，使用DeepSeek API进行算法设计。</td>
