@@ -200,6 +200,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="docs/ruzhiai_note/README_cn.md">如知AIノート</a> </td>
         <td>如知AIノートは、AIを活用したインテリジェントな知識管理ツールで、AI検索・探索、AI結果のノート変換、ノート管理・整理、知識の表示・共有など、ワンストップの知識管理・応用サービスを提供します。DeepSeek深層思考モデルを統合し、より安定した、より高品質な出力を提供します。</td>
     </tr>
+    <tr>
+        <td> <img src="docs/translate.js/assets/icon.png" alt="图标" width="64" height="auto" /> </td>
+        <td> <a href="docs/translate.js/README_ja.md">translate.js</a> </td>
+        <td>フロントエンド開発者向けのAI i 18 n、2行のjsはhtmlの全自動翻訳を実現し、数十言語のワンクリック切り替えで、ページを変更する必要がなく、言語プロファイルがなく、数十個の微調整拡張命令をサポートし、SEOに友好的である。また、標準テキスト翻訳APIインタフェースを開放する</td>
+    </tr>
 </table>
 
 ### RAG フレームワーク
