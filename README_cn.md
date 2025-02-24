@@ -19,6 +19,11 @@
 
 <table>
     <tr>
+        <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
+        <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
+        <td>DeepChat 是一款完全免费的桌面端智能助手，内置强大的 DeepSeek 大模型，支持多轮对话、联网搜索、文件上传、知识库等多种功能。</td>
+    </tr>
+    <tr>
         <td style="font-size: 64px" align="center"> 🤖</td>
         <td> <a href="https://github.com/wangrongding/wechat-bot/blob/main/README.md"> Wechat-Bot </a></td>
         <td> 基于 wechaty 实现的微信机器人，结合了 DeepSeek 和其他 Ai 服务。 </td>
@@ -198,6 +203,11 @@
         <td> <a href="https://www.laohu8.com/gpt">TigerGPT</a> </td>
         <td>TigerGPT 是老虎集团开发的，业内首个基于 OpenAI 的金融 AI 投资助理。TigerGPT 旨在为投资者提供智能化的投资决策支持。2025年2月18日，TigerGPT 正式接入 DeepSeek-R1 模型，为用户提供支持深度推理的在线问答服务。 </td>
     </tr>
+    <tr>
+        <td> <img src="./docs/HIX.AI/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https:/hix.ai">HIX.AI</a> </td>
+        <td>免费试用 DeepSeek，在 HIX.AI 上享受无限量的 AI 聊天。使用 DeepSeek R1 进行 AI 聊天、写作、编码等。立即体验下一代 AI 聊天！</td>
+    </tr>
 </table>
 
 
@@ -223,6 +233,11 @@
         <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="图标" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
         <td> 一个用于Agent之间可信通信的基础协议框架，基于DeepSeek的Agent，可以接入<a href="https://docs.apro.com/attps">ATTPs</a>的SDK，获得注册Agent，发送可验证数据，获取可验证数据等功能，从而与其他平台的Agent进行可信通信。 </td>
+    </tr>
+    <tr>
+        <td> <img src="docs/translate.js/assets/icon.png" alt="图标" width="64" height="auto" /> </td>
+        <td> <a href="docs/translate.js/README_cn.md">translate.js</a> </td>
+        <td> 面向前端开发者的 AI i18n, 两行js实现html全自动翻译，几十语种一键切换，无需改动页面、无语言配置文件、支持几十个微调扩展指令、对SEO友好。并且开放标准文本翻译API接口</td>
     </tr>
 </table>
 
@@ -374,6 +389,11 @@
         <td> <a href="https://github.com/Sitoi/ai-commit/blob/main/README.md"> AI Commit </a> </td>
         <td> 使用 AI 生成 git commit message 的 VS Code 插件 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/titusTong/seekCodeCopilot/blob/main/assets/SeekCodeCopilotLogo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/titusTong/seekCodeCopilot/blob/main/README.md"> SeekCode Copilot </a> </td>
+        <td> vscode智能编码助手，支持配置本地部署的DeepSeek模型 </td>
+    </tr>
 </table>
 
 
@@ -477,6 +497,11 @@
         <td> <img src="https://github.com/suqicloud/wp-ai-chat/raw/main/ic_logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/suqicloud/wp-ai-chat"> WordPress ai助手 </a> </td>
         <td> 对接DeepSeek API用于WordPress站点的AI对话助手、AI文章生成、AI文章总结插件。 </td>
+    </tr>
+    <tr>
+        <td> <img src="docs/ComfyUI-Copilot/assets/logo 2.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/AIDC-AI/ComfyUI-Copilot"> ComfyUI-Copilot </a> </td>
+        <td> 基于Comfy-UI框架构建的智能助手，通过自然语言交互简化和增强AI算法调试和部署过程。 </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>

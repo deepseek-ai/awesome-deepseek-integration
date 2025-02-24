@@ -18,6 +18,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 ### Applications
 
 <table>
+    <tr>    
+        <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
+        <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
+        <td>DeepChat is a fully free desktop smart assistant, with a powerful DeepSeek large model, supporting multi-round conversations, internet search, file uploads, knowledge bases, and more.</td>
+    </tr>
     <tr>
         <td width=80> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/quantalogic/quantalogic">Quantalogic</a> </td>
@@ -256,6 +261,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://ttm.financial/gpt">TigerGPT</a> </td>
         <td>TigerGPT is the first financial AI investment assistant of its kind based on OpenAI, developed by Tiger Group. TigerGPT aims to provide intelligent investment decision-making support for investors. On February 18, 2025, TigerGPT officially integrated the DeepSeek-R1 model to provide users with online Q&A services that support deep reasoning. </td>
     </tr>
+    <tr>
+        <td> <img src="./docs/HIX.AI/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https:/hix.ai">HIX.AI</a> </td>
+        <td>Try DeepSeek for free and enjoy unlimited AI chat on HIX.AI. Use DeepSeek R1 for AI chat, writing, coding & more. Experience next-gen AI chat now!</td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
@@ -283,7 +293,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
     <tr>
         <td> <img src="https://rig.rs/assets/favicon.png" alt="Icon" width="64" height="auto" alt="Rig (Rust)" /> </td>
-        <td> <a href="https://rig.rs/)](https://rig.rs/">RIG</a> </td>
+        <td> <a href="https://rig.rs">RIG</a> </td>
         <td>Build modular and scalable LLM Applications in Rust.</td>
     </tr> 
     <tr>
@@ -305,6 +315,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td> 
         <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
         <td>A foundational protocol framework for trusted communication between agents. Any agents based on DeepSeek, By integrating with the <a href="https://docs.apro.com/attps">ATTPs</a> SDK, can access features such as agent registration, sending verifiable data, and retrieving verifiable data. So that it can make trusted communication with agents from other platforms. </td>
+    </tr>
+    <tr>
+        <td> <img src="docs/translate.js/assets/icon.png" alt="图标" width="64" height="auto" /> </td>
+        <td> <a href="docs/translate.js/README.md">translate.js</a> </td>
+        <td> AI i18n for front-end developers. It can achieve fully automatic HTML translation with just two lines of JavaScript. You can switch among dozens of languages with a single click. There is no need to modify the page, no language configuration files are required, and it supports dozens of fine-tuning extension instructions. It is SEO-friendly. Moreover, it opens up a standard text translation API interface.  </td>
     </tr>
 </table>
 
@@ -472,6 +487,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://raw.githubusercontent.com/Sitoi/ai-commit/refs/heads/main/images/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Sitoi/ai-commit/blob/main/README.md"> AI Commit </a> </td>
         <td> Use AI to generate git commit messages in VS Code. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/titusTong/seekCodeCopilot/blob/main/assets/SeekCodeCopilotLogo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/titusTong/seekCodeCopilot/blob/main/README.md"> SeekCode Copilot </a> </td>
+        <td> vscode intelligent coding assistant supports configuring locally deployed DeepSeek models </td>
     </tr>
 </table>
 
@@ -679,9 +699,15 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Docking Deepseek api for WordPress site ai conversation assistant, post generation, post summary plugin. </td>
     </tr>
     <tr>
+        <td> <img src="docs/ComfyUI-Copilot/assets/logo 2.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/AIDC-AI/ComfyUI-Copilot"> ComfyUI-Copilot </a> </td>
+        <td> An intelligent assistant built on the Comfy-UI framework that simplifies and enhances the AI algorithm debugging and deployment process through natural language interactions. </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> is a unified open-source Python-based Platform using Large Language Models (LLMs) for Automatic Algorithm Design (AD).</td>
+
     </tr>
 </table>
 
