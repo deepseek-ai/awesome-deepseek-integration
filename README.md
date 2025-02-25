@@ -257,6 +257,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://maxkb.cn/">MaxKB</a> is a ready-to-use, flexible RAG Chatbot. </td>
     </tr>
     <tr>
+        <td> <img src="https://iht-us-static-nginx-online.oss-us-east-1.aliyuncs.com/meetaa-web/logo.BZUVCLGQ.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://meetaa.ai">Meetaa</a> </td>
+        <td> Meetaa is an advanced AI companion app that allows users to engage in dynamic conversations with AI characters, make voice calls, dive into interactive story experiences, explore AI-generated content feeds, and participate in AI-hosted live streams. Powered by leading models like ChatGPT, Claude, and DeepSeek, Meetaa creates a deeply immersive and personalized experience. </td>
+    </tr>
+    <tr>
         <td> <img src="./docs/TigerGPT/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://ttm.financial/gpt">TigerGPT</a> </td>
         <td>TigerGPT is the first financial AI investment assistant of its kind based on OpenAI, developed by Tiger Group. TigerGPT aims to provide intelligent investment decision-making support for investors. On February 18, 2025, TigerGPT officially integrated the DeepSeek-R1 model to provide users with online Q&A services that support deep reasoning. </td>
