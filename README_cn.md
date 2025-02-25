@@ -260,6 +260,11 @@
         <td> <a href="https://github.com/zilliztech/deep-searcher"> DeepSearcher </a> </td>
         <td> DeepSearcher 结合强大的 LLM（DeepSeek、OpenAI 等）和向量数据库（Milvus 等），根据私有数据进行搜索、评估和推理，提供高度准确的答案和全面的报告。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/OpenSPG/openspg/089188f3e7b0392221f5a8e8f1a3629b6352a6f9/LOGO.png" alt="Icon" width="64" height="auto"/> </td>
+        <td> <a href="https://github.com/OpenSPG/KAG/blob/master/README_cn.md"> KAG </a> </td>
+        <td> KAG 是基于 <a href="https://github.com/OpenSPG/openspg">OpenSPG</a> 引擎和大型语言模型的逻辑推理问答框架，用于构建垂直领域知识库的逻辑推理问答解决方案。KAG 可以有效克服传统 RAG 向量相似度计算的歧义性和 OpenIE 引入的 GraphRAG 的噪声问题。KAG 支持逻辑推理、多跳事实问答等。 </td>
+    </tr>
 </table>
 
 ### FHE (全同态加密) frameworks
