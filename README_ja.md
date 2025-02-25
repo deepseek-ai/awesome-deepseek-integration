@@ -471,6 +471,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> OpenAIフォーマットを使用するあらゆるLLMプロバイダと対話するためのTypeScript SDK.</td>
     </tr>
     <tr>
+        <td> <img src="https://pics.fatwang2.com/56912e614b35093426c515860f9f2234.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/fatwang2/siri-ultra"> Siri Ultra </a> </td>
+        <td> GitHubで1000以上のスターを獲得した、インターネット接続、マルチターン会話、DeepSeekシリーズモデルをサポートするプロジェクト </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c1e47b01-1766-4f7e-bfe6-ab3cb3991c30" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main/docs/siri_deepseek_shortcut"> siri_deepseek_shortcut </a> </td>
         <td> DeepSeek APIを装備したSiri </td>

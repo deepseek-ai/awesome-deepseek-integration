@@ -653,6 +653,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> Use DeepSeek as the LLM for conversational voice AI agents</td>
     </tr>
     <tr>
+        <td> <img src="https://pics.fatwang2.com/56912e614b35093426c515860f9f2234.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/fatwang2/siri-ultra"> Siri Ultra </a> </td>
+        <td> A GitHub project with 1000 stars, supporting internet connectivity, multi-turn conversations, and DeepSeek series models </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c1e47b01-1766-4f7e-bfe6-ab3cb3991c30" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main/docs/siri_deepseek_shortcut"> siri_deepseek_shortcut </a> </td>
         <td> Siri equiped with the DeepSeek API </td>
