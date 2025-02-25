@@ -190,6 +190,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://hix.ai">HIX.AI</a> </td>
         <td>DeepSeek を無料でお試しいただき、 HIX.AI で AI チャットを無制限にお楽しみください。AI チャット、ライティング、コーディングなどに DeepSeek R1 をご利用ください。今すぐ次世代の AI チャットを体験してください!</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/sharmt1411/askanywhere/blob/main/icon/Depth_8,_Frame_0explore-%E8%A7%92%E6%A0%87.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/sharmt1411/askanywhere">Askanywhere</a> </td>
+        <td>どこでも単語を選択して、Deepseekとの会話を素早く開くことができる単語選択AIアシスタント！</td>
+    </tr>
 </table>
 
 ### AI エージェントフレームワーク
