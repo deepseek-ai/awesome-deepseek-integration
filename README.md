@@ -140,7 +140,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="./docs/zotero/assets/zotero-icon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/zotero/README_cn.md">Zotero</a></td>
-        <td> <a href="https://www.zotero.org">Zotero</a> is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.</td>
+        <td> <a href="https://www.zotero.org">Zotero</a> is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. It can use deepseek as translation service.</td>
     </tr>
     <tr>
         <td> <img src="https://b3log.org/images/brand/siyuan-128.png" alt="Icon" width="64" height="auto" /> </td>
