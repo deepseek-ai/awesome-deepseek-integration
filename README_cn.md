@@ -208,6 +208,11 @@
         <td> <a href="https://hix.ai">HIX.AI</a> </td>
         <td>免费试用 DeepSeek，在 HIX.AI 上享受无限量的 AI 聊天。使用 DeepSeek R1 进行 AI 聊天、写作、编码等。立即体验下一代 AI 聊天！</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/sharmt1411/askanywhere/blob/main/icon/Depth_8,_Frame_0explore-%E8%A7%92%E6%A0%87.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/sharmt1411/askanywhere">划词AI助手</a> </td>
+        <td>一个划词ai助手，在任何地方划词，快速打开与Deepseek的对话！</td>
+    </tr>
 </table>
 
 
