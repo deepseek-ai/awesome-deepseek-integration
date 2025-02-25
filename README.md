@@ -268,7 +268,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
     <tr>
         <td> <img src="./docs/Askanywhere/图片展示picture/Depth_8,_Frame_0explore-角标.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/sharmt1411/askanywhere</a> </td>
+        <td> <a href="https://github.com/sharmt1411/askanywhere">Askanywhere</a> </td>
         <td>Smart Select text anywhere and start a conversation with Deepseek</td>
     </tr>
 </table>
