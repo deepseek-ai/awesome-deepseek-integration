@@ -240,6 +240,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/zilliztech/deep-searcher"> DeepSearcher </a> </td>
         <td> DeepSearcher は、強力な大規模言語モデル（DeepSeek、OpenAI など）とベクトルデータベース（Milvus など）を組み合わせて、私有データに基づく検索、評価、推論を行い、高精度な回答と包括的なレポートを提供します。</td>
     </tr>
+    <tr>
+        <td width="80"> <img src="https://raw.githubusercontent.com/OpenSPG/openspg/089188f3e7b0392221f5a8e8f1a3629b6352a6f9/LOGO.png" alt="Icon" width="64" height="auto"/> </td>
+        <td> <a href="https://github.com/OpenSPG/KAG/blob/master/README_ja.md"> KAG </a> </td>
+        <td>KAG は、<a href="https://github.com/OpenSPG/openspg">OpenSPG</a> エンジンと大規模言語モデルに基づく論理的推論質問応答フレームワークです。垂直ドメイン知識ベース用の論理的推論質問応答ソリューションを構築するために使用されます。 KAG は、従来の RAG ベクトル類似度計算の曖昧さと、OpenIE によって導入された GraphRAG のノイズ問題を効果的に克服できます。 KAG は、論理的推論、マルチホップの事実に基づく質問への回答などをサポートします。</td>
+    </tr>
 </table>
 
 ### FHE フレームワーク
