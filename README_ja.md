@@ -190,6 +190,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://hix.ai">HIX.AI</a> </td>
         <td>DeepSeek を無料でお試しいただき、 HIX.AI で AI チャットを無制限にお楽しみください。AI チャット、ライティング、コーディングなどに DeepSeek R1 をご利用ください。今すぐ次世代の AI チャットを体験してください!</td>
     </tr>
+    <tr>
+        <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI チャットボット" width="64" height="auto" /> </td>
+        <td> <a href="https://chatlabsai.com">1つのアプリで250以上のテキスト、画像の大規模モデルにアクセス</a> </td>
+        <td> 1AI iOSチャットボットは250以上のテキスト、画像、音声モデルと統合されており、OpenRouterやReplicateの任意のモデル、Deepseek推論およびDeepseek V3モデルと話すことができます。</td>
+    </tr>
 </table>
 
 ### AI エージェントフレームワーク

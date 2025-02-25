@@ -208,6 +208,11 @@
         <td> <a href="https://hix.ai">HIX.AI</a> </td>
         <td>免费试用 DeepSeek，在 HIX.AI 上享受无限量的 AI 聊天。使用 DeepSeek R1 进行 AI 聊天、写作、编码等。立即体验下一代 AI 聊天！</td>
     </tr>
+    <tr>
+        <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI 聊天机器人" width="64" height="auto" /> </td>
+        <td> <a href="https://chatlabsai.com">在一个应用中访问250多个文本、图像大模型</a> </td>
+        <td> 1AI iOS聊天机器人集成了250多个文本、图像、语音模型，让用户可以与OpenRouter、Replicate上的任何模型对话，包括Deepseek推理和Deepseek V3模型。</td>
+    </tr>
 </table>
 
 

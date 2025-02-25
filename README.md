@@ -266,6 +266,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://hix.ai">HIX.AI</a> </td>
         <td>Try DeepSeek for free and enjoy unlimited AI chat on HIX.AI. Use DeepSeek R1 for AI chat, writing, coding & more. Experience next-gen AI chat now!</td>
     </tr>
+    <tr>
+        <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI Chatbot" width="64" height="auto" /> </td>
+        <td> <a href="https://chatlabsai.com">Access 250+ text, image LLMs in one app</a> </td>
+        <td> 1AI iOS Chatbot integrates with 250+ text, image, voice models allowing users chat with any model in the world including Deepseek R1 and Deepseek V3 models.</td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
