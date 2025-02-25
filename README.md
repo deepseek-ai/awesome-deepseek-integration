@@ -266,6 +266,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://hix.ai">HIX.AI</a> </td>
         <td>Try DeepSeek for free and enjoy unlimited AI chat on HIX.AI. Use DeepSeek R1 for AI chat, writing, coding & more. Experience next-gen AI chat now!</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/Askanywhere/图片展示picture/Depth_8,_Frame_0explore-角标.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/sharmt1411/askanywhere</a> </td>
+        <td>Smart Select text anywhere and start a conversation with Deepseek</td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
