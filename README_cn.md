@@ -213,6 +213,11 @@
         <td> <a href="https://github.com/sharmt1411/askanywhere">划词AI助手</a> </td>
         <td>一个划词ai助手，在任何地方划词，快速打开与Deepseek的对话！</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/OJZen/1chat/raw/refs/heads/main/doc/assets/icon.ico?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/OJZen/1chat">1查</a> </td>
+        <td>一款能让你在本地运行 DeepSeek 的 iOS 应用</td>
+    </tr>
 </table>
 
 

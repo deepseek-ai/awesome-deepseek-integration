@@ -195,6 +195,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/sharmt1411/askanywhere">Askanywhere</a> </td>
         <td>どこでも単語を選択して、Deepseekとの会話を素早く開くことができる単語選択AIアシスタント！</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/OJZen/1chat/raw/refs/heads/main/doc/assets/icon.ico?raw=true" alt="アイコン" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/OJZen/1chat">1chat</a> </td>
+        <td>DeepSeek-R1モデルとローカルでチャットできるiOSアプリです。</td>
+    </tr>
 </table>
 
 ### AI エージェントフレームワーク
