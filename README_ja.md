@@ -277,6 +277,17 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
+### 合成データのカテゴリ化
+
+<table>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/192579850?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/DataEval/dingo"> Dingo </a> </td>
+        <td> 総合的なデータ品質評価ツール。 </td>
+    </tr>
+</table>
+
+
 ### IM アプリケーションプラグイン
 
 <table>

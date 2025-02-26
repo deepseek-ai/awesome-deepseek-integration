@@ -303,6 +303,16 @@
     </tr>
 </table>
 
+### 综合数据管理
+
+<table>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/192579850?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/DataEval/dingo"> Dingo </a> </td>
+        <td> 一个综合性的数据质量评估工具。 </td>
+    </tr>
+</table>
+
 
 ### 即时通讯插件
 
