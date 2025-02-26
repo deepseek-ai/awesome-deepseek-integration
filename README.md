@@ -397,6 +397,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/Kiln-AI/Kiln"> Kiln </a> </td>
         <td>Generate synthetic datasets and distill R1 models into custom fine-tunes. </td>
     </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/192579850?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/DataEval/dingo"> Dingo </a> </td>
+        <td>Dingo: A Comprehensive Data Quality Evaluation Tool. </td>
+    </tr>
 </table>
 
 ### IM Application Plugins
