@@ -19,6 +19,11 @@
 
 <table>
     <tr>
+        <td><img src="https://4everlogo.4everland.store/icons/1024.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://chat.4everland.org/">4EVERChat</a></td>
+        <td>4EVERChat 是由4EVERLAND AI RPC驱动的智能模型选型平台，集成数百款主流大语言模型，支持直接对比不同模型的实时响应差异，通过统一API端点实现零成本模型切换，自动选择响应快、成本低的模型组合。</td>
+    </tr>
+    <tr>
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
         <td>DeepChat 是一款完全免费的桌面端智能助手，内置强大的 DeepSeek 大模型，支持多轮对话、联网搜索、文件上传、知识库等多种功能。</td>
