@@ -18,6 +18,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 ### Applications
 
 <table>
+    <tr>
+        <td><img src="https://i.imgur.com/FkbmMVG.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://intellibar.app/">IntelliBar</a></td>
+        <td>IntelliBar is a beautiful assistant for the Mac that lets you use advanced models like DeepSeek R1 with any app on your Mac — ex: edit emails in your mail app or summarize articles in your browser.</td>
+    </tr>
     <tr>    
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
@@ -140,7 +145,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="./docs/zotero/assets/zotero-icon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/zotero/README_cn.md">Zotero</a></td>
-        <td> <a href="https://www.zotero.org">Zotero</a> is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.</td>
+        <td> <a href="https://www.zotero.org">Zotero</a> is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. It can use deepseek as translation service.</td>
     </tr>
     <tr>
         <td> <img src="https://b3log.org/images/brand/siyuan-128.png" alt="Icon" width="64" height="auto" /> </td>
@@ -267,6 +272,16 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td>Try DeepSeek for free and enjoy unlimited AI chat on HIX.AI. Use DeepSeek R1 for AI chat, writing, coding & more. Experience next-gen AI chat now!</td>
     </tr>
     <tr>
+        <td> <img src="https://github.com/sharmt1411/askanywhere/blob/main/icon/Depth_8,_Frame_0explore-%E8%A7%92%E6%A0%87.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/sharmt1411/askanywhere">Askanywhere</a> </td>
+        <td>Select text anywhere and start a conversation with Deepseek</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/OJZen/1chat/raw/refs/heads/main/doc/assets/icon.ico?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/OJZen/1chat">1chat</a> </td>
+        <td>An iOS app that lets you chat with the DeepSeek-R1 model locally.</td>
+    </tr>
+    <tr>
         <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI Chatbot" width="64" height="auto" /> </td>
         <td> <a href="https://chatlabsai.com">Access 250+ text, image LLMs in one app</a> </td>
         <td> 1AI iOS Chatbot integrates with 250+ text, image, voice models allowing users chat with any model in the world including Deepseek R1 and Deepseek V3 models.</td>
@@ -391,6 +406,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://github.com/user-attachments/assets/8455694b-c52e-40ec-847e-adf6a5ac064f" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Kiln-AI/Kiln"> Kiln </a> </td>
         <td>Generate synthetic datasets and distill R1 models into custom fine-tunes. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/192579850?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/DataEval/dingo"> Dingo </a> </td>
+        <td>Dingo: A Comprehensive Data Quality Evaluation Tool. </td>
     </tr>
 </table>
 
@@ -631,6 +651,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://github.com/lukehinds/awesome-deepseek-integration/blob/codegate/docs/codegate/assets/codegate.png"  alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/stacklok/codegate/"> CodeGate </a> </td>
         <td> CodeGate: secure AI code generation</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/tencent/zhuque.png"  alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/tencent/AI-Infra-Guard"> AI-Infra-Guard </a> </td>
+        <td> AI infrastructure security assessment tool designed to discover and detect potential security risks in AI systems.</td>
     </tr>
 </table>
 

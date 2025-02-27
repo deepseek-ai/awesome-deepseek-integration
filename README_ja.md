@@ -191,6 +191,16 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td>DeepSeek を無料でお試しいただき、 HIX.AI で AI チャットを無制限にお楽しみください。AI チャット、ライティング、コーディングなどに DeepSeek R1 をご利用ください。今すぐ次世代の AI チャットを体験してください!</td>
     </tr>
     <tr>
+        <td> <img src="https://github.com/sharmt1411/askanywhere/blob/main/icon/Depth_8,_Frame_0explore-%E8%A7%92%E6%A0%87.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/sharmt1411/askanywhere">Askanywhere</a> </td>
+        <td>どこでも単語を選択して、Deepseekとの会話を素早く開くことができる単語選択AIアシスタント！</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/OJZen/1chat/raw/refs/heads/main/doc/assets/icon.ico?raw=true" alt="アイコン" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/OJZen/1chat">1chat</a> </td>
+        <td>DeepSeek-R1モデルとローカルでチャットできるiOSアプリです。</td>
+    </tr>
+    <tr>
         <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI チャットボット" width="64" height="auto" /> </td>
         <td> <a href="https://chatlabsai.com">1つのアプリで250以上のテキスト、画像の大規模モデルにアクセス</a> </td>
         <td> 1AI iOSチャットボットは250以上のテキスト、画像、音声モデルと統合されており、OpenRouterやReplicateの任意のモデル、Deepseek推論およびDeepseek V3モデルと話すことができます。</td>
@@ -271,6 +281,17 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td>AIエージェントをSolanaプロトコルに接続するためのオープンソースツールキット。DeepSeek LLMを使用する任意のエージェントが、60以上のSolanaアクションを自律的に実行できます。</td>
     </tr>
 </table>
+
+### 合成データのカテゴリ化
+
+<table>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/192579850?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/DataEval/dingo"> Dingo </a> </td>
+        <td> 総合的なデータ品質評価ツール。 </td>
+    </tr>
+</table>
+
 
 ### IM アプリケーションプラグイン
 
@@ -462,6 +483,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
+
 ### その他
 
 <table>
@@ -511,7 +533,6 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> LLMプロンプトをテストおよび評価し、DeepSeekモデルを含む。さまざまなLLMプロバイダーを比較し、回帰をキャッチし、応答を評価します。 </td>
     </tr>
     <tr>
-
         <td> <img src="docs/ComfyUI-Copilot/assets/logo 2.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/AIDC-AI/ComfyUI-Copilot"> ComfyUI-Copilot </a> </td>
         <td> Comfy-UIフレームワーク上に構築されたインテリジェントアシスタント。自然言語による対話を通じて、AIアルゴリズムのデバッグおよびデプロイプロセスを簡素化し、効率化します。 </td>
@@ -520,5 +541,10 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> は、大規模言語モデル（LLM）を活用した自動アルゴリズム設計のための統一されたオープンソースのPythonベースのプラットフォームです。</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/tencent/zhuque.png"  alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/tencent/AI-Infra-Guard"> AI-Infra-Guard </a> </td>
+        <td> AIインフラのセキュリティ評価ツールで、AIシステムにおける潜在的なセキュリティリスクを発見・検出することを目的としています。</td>
     </tr>
 </table>

@@ -209,6 +209,16 @@
         <td>免费试用 DeepSeek，在 HIX.AI 上享受无限量的 AI 聊天。使用 DeepSeek R1 进行 AI 聊天、写作、编码等。立即体验下一代 AI 聊天！</td>
     </tr>
     <tr>
+        <td> <img src="https://github.com/sharmt1411/askanywhere/blob/main/icon/Depth_8,_Frame_0explore-%E8%A7%92%E6%A0%87.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/sharmt1411/askanywhere">划词AI助手</a> </td>
+        <td>一个划词ai助手，在任何地方划词，快速打开与Deepseek的对话！</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/OJZen/1chat/raw/refs/heads/main/doc/assets/icon.ico?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/OJZen/1chat">1查</a> </td>
+        <td>一款能让你在本地运行 DeepSeek 的 iOS 应用</td>
+    </tr>
+    <tr>
         <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI 聊天机器人" width="64" height="auto" /> </td>
         <td> <a href="https://chatlabsai.com">在一个应用中访问250多个文本、图像大模型</a> </td>
         <td> 1AI iOS聊天机器人集成了250多个文本、图像、语音模型，让用户可以与OpenRouter、Replicate上的任何模型对话，包括Deepseek推理和Deepseek V3模型。</td>
@@ -295,6 +305,16 @@
         <td style="background-color: black"> <img src="docs/solana-agent-kit/assets/sendai-logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> Solana Agent Kit </a> </td>
         <td> 一个用于连接 AI 智能体到 Solana 协议的开源工具包。现在，任何使用 DeepSeek LLM 的智能体都可以自主执行 60+ 种 Solana 操作。 </td>
+    </tr>
+</table>
+
+### 综合数据管理
+
+<table>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/192579850?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/DataEval/dingo"> Dingo </a> </td>
+        <td> 一个综合性的数据质量评估工具。 </td>
     </tr>
 </table>
 
@@ -469,6 +489,14 @@
     </tr>
 </table>
 
+### 安全
+<table>
+    <tr>
+        <td> <img src="./docs/tencent/zhuque.png"  alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/tencent/AI-Infra-Guard"> AI-Infra-Guard </a> </td>
+        <td> AI基础设施安全评估工具，发现和检测AI系统中的潜在安全风险。</td>
+    </tr>
+</table>
 
 ### 其它
 
