@@ -751,7 +751,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> is a unified open-source Python-based Platform using Large Language Models (LLMs) for Automatic Algorithm Design (AD).</td>
-
+    </tr>
+    <tr>
+        <td>  </td>
+        <td> <a href="https://github.com/JiauZhang/chatchat"> chatchat </a> </td>
+        <td> Large Language Models Python API. </td>
     </tr>
 </table>
 
