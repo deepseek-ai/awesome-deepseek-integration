@@ -281,6 +281,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/OJZen/1chat">1chat</a> </td>
         <td>An iOS app that lets you chat with the DeepSeek-R1 model locally.</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
+        <td> <a href="https://popai.pro">PopAi</a> </td>
+        <td>PopAi launches DeepSeek R1!  Enjoy lag-free, lightning-fast performance with PopAi. Seamlessly toggle online search on/off.</td>
+    </tr>
 </table>
 
 ### AI Agent frameworks

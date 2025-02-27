@@ -200,6 +200,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/OJZen/1chat">1chat</a> </td>
         <td>DeepSeek-R1モデルとローカルでチャットできるiOSアプリです。</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
+        <td> <a href="https://popai.pro">PopAi</a> </td>
+        <td>PopAiがDeepSeek R1を発表！PopAiで遅延のない、超高速なパフォーマンスをお楽しみください。 オンライン検索のオン/オフをシームレスに切り替え可能です。</td>
+    </tr>
 </table>
 
 ### AI エージェントフレームワーク

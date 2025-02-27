@@ -218,6 +218,11 @@
         <td> <a href="https://github.com/OJZen/1chat">1查</a> </td>
         <td>一款能让你在本地运行 DeepSeek 的 iOS 应用</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
+        <td> <a href="https://popai.pro">PopAi</a> </td>
+        <td>PopAi推出DeepSeek R1！享受无延迟、闪电般快速的性能，尽在PopAi。轻松切换在线搜索开/关。</td>
+    </tr>
 </table>
 
 
