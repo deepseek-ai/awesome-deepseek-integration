@@ -550,6 +550,6 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <tr>
         <td> <img src="./docs/tencent/hunyuan.png"  alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/tencent/AI-Infra-Guard"> AI-Infra-Guard </a> </td>
-        <td> AIインフラのセキュリティ評価ツールで、AIシステムにおける潜在的なセキュリティリスクを発見・検出することを目的としています。</td>
+        <td> テンセント混元セキュリティチーム - AIインフラのセキュリティ評価ツールで、AIシステムにおける潜在的なセキュリティリスクを発見・検出することを目的としています。</td>
     </tr>
 </table>
