@@ -281,6 +281,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/OJZen/1chat">1chat</a> </td>
         <td>An iOS app that lets you chat with the DeepSeek-R1 model locally.</td>
     </tr>
+    <tr>
+        <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI Chatbot" width="64" height="auto" /> </td>
+        <td> <a href="https://chatlabsai.com">Access 250+ text, image LLMs in one app</a> </td>
+        <td> 1AI iOS Chatbot integrates with 250+ text, image, voice models allowing users chat with any model in the world including Deepseek R1 and Deepseek V3 models.</td>
+    </tr>
 </table>
 
 ### AI Agent frameworks

@@ -200,6 +200,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/OJZen/1chat">1chat</a> </td>
         <td>DeepSeek-R1モデルとローカルでチャットできるiOSアプリです。</td>
     </tr>
+    <tr>
+        <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI チャットボット" width="64" height="auto" /> </td>
+        <td> <a href="https://chatlabsai.com">1つのアプリで250以上のテキスト、画像の大規模モデルにアクセス</a> </td>
+        <td> 1AI iOSチャットボットは250以上のテキスト、画像、音声モデルと統合されており、OpenRouterやReplicateの任意のモデル、Deepseek推論およびDeepseek V3モデルと話すことができます。</td>
+    </tr>
 </table>
 
 ### AI エージェントフレームワーク
