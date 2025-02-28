@@ -19,6 +19,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
+    <td><img src="https://4everlogo.4everland.store/icons/1024.png" alt="Icon" width="64" height="auto" /></td>
+    <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README.md">4EVERChat</a></td>
+    <td>4EVERChat is an intelligent model selection platform integrating hundreds of LLMs, enabling real-time comparison of model performance. Leveraging 4EVERLAND AI RPC's unified API endpoint, it achieves cost-free model switching and automatically selects combinations with fast responses and low costs.</td>
+</tr>
+    <tr>
         <td><img src="https://i.imgur.com/FkbmMVG.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://intellibar.app/">IntelliBar</a></td>
         <td>IntelliBar is a beautiful assistant for the Mac that lets you use advanced models like DeepSeek R1 with any app on your Mac — ex: edit emails in your mail app or summarize articles in your browser.</td>
@@ -281,11 +286,16 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://github.com/OJZen/1chat">1chat</a> </td>
         <td>An iOS app that lets you chat with the DeepSeek-R1 model locally.</td>
     </tr>
+     <tr>
+        <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI Chatbot" width="64" height="auto" /> </td>
+        <td> <a href="https://chatlabsai.com">Access 250+ text, image LLMs in one app</a> </td>
+        <td> 1AI iOS Chatbot integrates with 250+ text, image, voice models allowing users chat with any model in the world including Deepseek R1 and Deepseek V3 models.</td>
+    </tr>
     <tr>
         <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
         <td> <a href="https://popai.pro">PopAi</a> </td>
         <td>PopAi launches DeepSeek R1!  Enjoy lag-free, lightning-fast performance with PopAi. Seamlessly toggle online search on/off.</td>
-    </tr>
+     </tr>
 </table>
 
 ### AI Agent frameworks
@@ -756,7 +766,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> is a unified open-source Python-based Platform using Large Language Models (LLMs) for Automatic Algorithm Design (AD).</td>
-
+    </tr>
+    <tr>
+        <td>  </td>
+        <td> <a href="https://github.com/JiauZhang/chatchat"> chatchat </a> </td>
+        <td> Large Language Models Python API. </td>
     </tr>
 </table>
 

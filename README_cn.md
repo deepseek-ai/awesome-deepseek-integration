@@ -19,6 +19,11 @@
 
 <table>
     <tr>
+    <td><img src="https://4everlogo.4everland.store/icons/1024.png" alt="Icon" width="64" height="auto" /></td>
+    <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README_cn.md">4EVERChat</a></td>
+    <td>4EVERChat 是集成数百款LLM的智能模型选型平台，支持直接对比不同模型的实时响应差异，基于4EVERLAND AI RPC 统一API端点实现零成本模型切换，自动选择响应快、成本低的模型组合。</td>
+</tr>
+    <tr>
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
         <td>DeepChat 是一款完全免费的桌面端智能助手，内置强大的 DeepSeek 大模型，支持多轮对话、联网搜索、文件上传、知识库等多种功能。</td>
@@ -217,6 +222,11 @@
         <td> <img src="https://github.com/OJZen/1chat/raw/refs/heads/main/doc/assets/icon.ico?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/OJZen/1chat">1查</a> </td>
         <td>一款能让你在本地运行 DeepSeek 的 iOS 应用</td>
+    </tr>
+    <tr>
+        <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI 聊天机器人" width="64" height="auto" /> </td>
+        <td> <a href="https://chatlabsai.com">在一个应用中访问250多个文本、图像大模型</a> </td>
+        <td> 1AI iOS聊天机器人集成了250多个文本、图像、语音模型，让用户可以与OpenRouter、Replicate上的任何模型对话，包括Deepseek推理和Deepseek V3模型。</td>
     </tr>
     <tr>
         <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
