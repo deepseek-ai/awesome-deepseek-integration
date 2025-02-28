@@ -497,7 +497,7 @@
 ### 安全
 <table>
     <tr>
-        <td> <img src="./docs/tencent/zhuque.png"  alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="./docs/tencent/hunyuan.png"  alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/tencent/AI-Infra-Guard"> AI-Infra-Guard </a> </td>
         <td> AI基础设施安全评估工具，发现和检测AI系统中的潜在安全风险。</td>
     </tr>
