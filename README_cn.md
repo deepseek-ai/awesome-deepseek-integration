@@ -342,6 +342,11 @@
         <td> <a href="https://github.com/KomoriDev/nonebot-plugin-deepseek">NoneBot<br/>（QQ, 飞书, Discord, TG, etc.）</a> </td>
         <td> 基于 NoneBot 框架，支持智能对话与深度思考功能。适配 QQ / 飞书 / Discord, TG 等多种消息平台 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/Soulter/AstrBot/raw/refs/heads/master/dashboard/src/assets/images/logo-normal.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Soulter/AstrBot/">AstrBot<br/>（QQ, 微信, 企微, 飞书, TG, etc.）</a> </td>
+        <td> 支持大模型的多平台聊天机器人及开发框架。支持 RAG、长期记忆以及网页搜索等各种 LLM Agent 功能, 支持插件开发。</td>
+    </tr>
 </table>
 
 
