@@ -254,7 +254,6 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### RAGフレームワーク
 ### RAG フレームワーク
 
 <table>
