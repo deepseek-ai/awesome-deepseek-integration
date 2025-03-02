@@ -1,6 +1,6 @@
 <img src="./assets/logo_512.png" width="64" height="auto" /> <img src="./assets/desktop_512.png" width="64" height="auto" /> 
 
-# [小海浏览器](https://m.malink.cn/s/7JFfIv)
+# [小海浏览器](https://www.dahai123.top/)
 
 
 [小海浏览器](https://m.malink.cn/s/7JFfIv)是安卓桌面管理&AI浏览器,DeepSeek是默认AI对话引擎

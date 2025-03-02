@@ -25,7 +25,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 </tr>
     <tr>
         <td><img src="./docs/xhai_browser/assets/logo_512.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://m.malink.cn/s/7JFfIv">xhai Browser</a></td>
+        <td><a href="./docs/xhai_browser/README.md">xhai Browser</a></td>
         <td>xhai Browser is an Android desktop management & AI browser, DeepSeek is the default AI dialog engine.It has the ultimate performance (0.2 seconds to start), slim size (apk 3M), no ads, ultra-fast ad blocking, multi-screen classification, screen navigation, multi-search box, a box multiple search!</td>
     </tr>
     <tr>

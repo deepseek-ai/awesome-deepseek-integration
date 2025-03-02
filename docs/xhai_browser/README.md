@@ -1,6 +1,6 @@
 <img src="./assets/logo_512.png" width="64" height="auto" /> <img src="./assets/desktop_512.png" width="64" height="auto" /> 
 
-# [xhai Browser](https://m.malink.cn/s/7JFfIv)
+# [xhai Browser](https://www.dahai123.top/)
 
 
 [xhai Browser](https://m.malink.cn/s/7JFfIv) is an Android desktop management & AI browser, DeepSeek is the default AI dialog engine.

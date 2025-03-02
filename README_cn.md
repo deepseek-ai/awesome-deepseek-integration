@@ -25,7 +25,7 @@
 </tr>
     <tr>
         <td><img src="./docs/xhai_browser/assets/logo_512.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://m.malink.cn/s/7JFfIv">小海浏览器</a></td>
+        <td><a href="./docs/xhai_browser/README_cn.md">小海浏览器</a></td>
         <td>小海浏览器是安卓桌面管理&AI浏览器,DeepSeek是默认AI对话引擎.他有极致的性能(0.2秒启动),苗条的体型(apk 3M大),无广告,超高速广告拦截,多屏分类,屏幕导航,多搜索框,一框多搜</td>
     </tr>
     <tr>
