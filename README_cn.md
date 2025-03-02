@@ -228,6 +228,11 @@
         <td> <a href="https://chatlabsai.com">在一个应用中访问250多个文本、图像大模型</a> </td>
         <td> 1AI iOS聊天机器人集成了250多个文本、图像、语音模型，让用户可以与OpenRouter、Replicate上的任何模型对话，包括Deepseek推理和Deepseek V3模型。</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.weiyuai.cn/logo.png" alt="AI Customer Service" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Bytedesk/bytedesk">微语</a> </td>
+        <td> 企业级多租户即时通讯解决方案，免费开源8件套：企业IM、在线客服、企业知识库、帮助文档、工单系统、AI对话、项目管理、工作流。.</td>
+    </tr>
 </table>
 
 

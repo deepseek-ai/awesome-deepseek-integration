@@ -210,6 +210,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://chatlabsai.com">1つのアプリで250以上のテキスト、画像の大規模モデルにアクセス</a> </td>
         <td> 1AI iOSチャットボットは250以上のテキスト、画像、音声モデルと統合されており、OpenRouterやReplicateの任意のモデル、Deepseek推論およびDeepseek V3モデルと話すことができます。</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.weiyuai.cn/logo.png" alt="AI Customer Service" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Bytedesk/bytedesk">Bytedesk</a> </td>
+        <td> AI を活用したライブ チャット、電子メール サポート、オムニチャネル カスタマー サービス、チーム IM を備えた、Slack + zendesk/intercom に代わるエンタープライズ IM ソリューション.</td>
+    </tr>
 </table>
 
 ### AI エージェントフレームワーク
