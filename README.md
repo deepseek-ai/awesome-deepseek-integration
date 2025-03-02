@@ -220,6 +220,19 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
+### Data AI Applications frameworks
+
+<table>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/1aacfe57-bc39-4fa4-9406-3adfe583224a" alt="Icon" width="96" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/dbgpt/README.md"> DB-GPT </a> </td>
+        <td> 🤖 DB-GPT is an open source AI native data app development framework with AWEL(Agentic Workflow Expression Language) and agents.
+The purpose is to build infrastructure in the field of large models, through the development of multiple technical capabilities such as multi-model management (SMMF), Text2SQL effect optimization, RAG framework and optimization, Multi-Agents framework collaboration, AWEL (agent workflow orchestration), etc. Which makes large model applications with data simpler and more convenient.
+
+ </td>
+    </tr>
+</table>
+
 ### RAG frameworks
 
 <table>
