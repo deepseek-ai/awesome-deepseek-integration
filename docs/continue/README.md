@@ -1,4 +1,4 @@
-<img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/e4d082de-6f64-44b9-beaa-0de55d70cfab" width="64" height="auto" /> 
+<img src="https://github.com/continuedev/continue/blob/main/docs/static/img/logo.png?raw=true" width="64" height="auto" />
 
 # [Continue](https://continue.dev/)
 
@@ -27,7 +27,7 @@ Continue will generate, refactor, and explain entire sections of code with LLMs.
       "model": "deepseek-chat",
       "contextLength": 128000,
       "apiKey": "REDACTED",
-      "provider": "deepseek",
+      "provider": "openai",
       "apiBase": "https://api.deepseek.com/beta"
     }
   ],
@@ -35,7 +35,7 @@ Continue will generate, refactor, and explain entire sections of code with LLMs.
     "title": "DeepSeek",
     "model": "deepseek-chat",
     "apiKey": "REDACTED",
-    "provider": "deepseek",
+    "provider": "openai",
     "apiBase": "https://api.deepseek.com/beta"
   },
 ...
