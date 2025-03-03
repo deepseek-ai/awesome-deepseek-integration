@@ -19,6 +19,11 @@
 
 <table>
     <tr>
+        <td><img src="https://chatdoc.com/chatdoc/chatdoc.webp" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://chatdoc.com">ChatDOC</a></td>
+        <td>ChatDOC是一款AI文档阅读工具，具备强大的溯源功能，确保每一条信息的来源清晰可查，助您高效、精准地掌握文档核心。</td>
+    </tr>
+    <tr>
     <td><img src="https://4everlogo.4everland.store/icons/1024.png" alt="Icon" width="64" height="auto" /></td>
     <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README_cn.md">4EVERChat</a></td>
     <td>4EVERChat 是集成数百款LLM的智能模型选型平台，支持直接对比不同模型的实时响应差异，基于4EVERLAND AI RPC 统一API端点实现零成本模型切换，自动选择响应快、成本低的模型组合。</td>

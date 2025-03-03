@@ -18,6 +18,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 ### アプリケーション
 
 <table>
+    <tr>
+        <td><img src="https://chatdoc.com/chatdoc/chatdoc.webp" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://chatdoc.com">ChatDOC</a></td>
+        <td>ChatDOCは、AIを活用したドキュメントリーディングツールで、強力なトレーサビリティ機能を備えており、すべての情報の出所が明確で確認可能です。これにより、ドキュメントの核心を効率的かつ正確に把握するのに役立ちます。</td>
+    </tr>
  <tr>
     <td><img src="https://4everlogo.4everland.store/icons/1024.png" alt="Icon" width="64" height="auto" /></td>
     <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README_ja.md">4EVERChat</a></td>
