@@ -11,8 +11,7 @@ SwiftChat 是一个基于 React Native 构建的闪电般快速的跨平台 AI �
 ![Mac Settings](./assets/settings.png)
 
 ## 使用 DeepSeek 的系统提示词
-
-![System Prompt](./assets/system-prompt.png)
+<img src="./assets/system-prompt.png" width="50%">
 
 更多信息请访问 [SwiftChat GitHub](https://github.com/aws-samples/swift-chat)
 

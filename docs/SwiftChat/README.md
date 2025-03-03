@@ -12,7 +12,7 @@ SwiftChat is a lightning-fast, cross-platform AI chat application built with Rea
 
 ## Using System Prompt with DeepSeek
 
-![System Prompt](./assets/system-prompt.png)
+<img src="./assets/system-prompt.png" width="50%">
 
 For more information, Please refer to [SwiftChat GitHub](https://github.com/aws-samples/swift-chat)
 
