@@ -18,6 +18,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 ### アプリケーション
 
 <table>
+    <tr>
+        <td> <img src="./docs/SwiftChat/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/SwiftChat/README.md">SwiftChat</a></td>
+        <td> <a href="https://github.com/aws-samples/swift-chat">SwiftChat</a> は React Native で構築された超高速なクロスプラットフォームAIチャットアプリケーションです。Android、iOS、iPad、Androidタブレット、macOSでネイティブなパフォーマンスを提供します。リアルタイムストリーミングチャット、豊富なMarkdownサポート（テーブル、コードブロック、LaTeX）、AI画像生成、カスタマイズ可能なシステムプロンプト、マルチモーダル機能などを備えています。DeepSeek、Amazon Bedrock、Ollama、OpenAIなど複数のAIプロバイダーをサポートし、シンプルなUIデザインと高性能を実現しています。</td>
+    </tr>
  <tr>
     <td><img src="https://4everlogo.4everland.store/icons/1024.png" alt="Icon" width="64" height="auto" /></td>
     <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README_ja.md">4EVERChat</a></td>
