@@ -104,6 +104,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a>は、macOSの生産性ツールで、いくつかのキーストロークでツールを制御できます。DeepSeek AIを含むさまざまな拡張機能をサポートしています。</td>
     </tr>
     <tr>
+        <td> <img src="./docs/chatpdflocal/assets/chatpdflocal-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.chatpdflocal.com">ChatPDFLocal</a> </td>
+        <td> ChatPDFLocalはAIを搭載したMac OSアプリで、DeepSeekやその他の複数のAIモデルとシームレスに連携し、PDFの読書効率を向上させます。</td>
+    </tr>
+    <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/193405629?s=200&v=4" alt="PHP Client" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-php/deepseek-php-client/blob/master/README.md">PHP Client</a> </td>
         <td> Deepseek PHP Clientは、Deepseek APIとのシームレスな統合のための堅牢でコミュニティ主導のPHPクライアントライブラリです。 </td>
