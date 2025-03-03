@@ -553,8 +553,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> は、大規模言語モデル（LLM）を活用した自動アルゴリズム設計のための統一されたオープンソースのPythonベースのプラットフォームです。</td>
     </tr>
     <tr>
-        <td> <img src="./docs/tencent/zhuque.png"  alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="./docs/tencent/hunyuan.png"  alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/tencent/AI-Infra-Guard"> AI-Infra-Guard </a> </td>
-        <td> AIインフラのセキュリティ評価ツールで、AIシステムにおける潜在的なセキュリティリスクを発見・検出することを目的としています。</td>
+        <td> テンセント混元セキュリティチーム - AIインフラのセキュリティ評価ツールで、AIシステムにおける潜在的なセキュリティリスクを発見・検出することを目的としています。</td>
     </tr>
 </table>
