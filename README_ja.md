@@ -210,6 +210,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://chatlabsai.com">1つのアプリで250以上のテキスト、画像の大規模モデルにアクセス</a> </td>
         <td> 1AI iOSチャットボットは250以上のテキスト、画像、音声モデルと統合されており、OpenRouterやReplicateの任意のモデル、Deepseek推論およびDeepseek V3モデルと話すことができます。</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
+        <td> <a href="https://popai.pro">PopAi</a> </td>
+        <td>PopAiがDeepSeek R1を発表！PopAiで遅延のない、超高速なパフォーマンスをお楽しみください。 オンライン検索のオン/オフをシームレスに切り替え可能です。</td>
+    </tr>
 </table>
 
 ### AI エージェントフレームワーク

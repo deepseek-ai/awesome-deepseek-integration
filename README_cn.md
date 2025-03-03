@@ -228,6 +228,11 @@
         <td> <a href="https://chatlabsai.com">在一个应用中访问250多个文本、图像大模型</a> </td>
         <td> 1AI iOS聊天机器人集成了250多个文本、图像、语音模型，让用户可以与OpenRouter、Replicate上的任何模型对话，包括Deepseek推理和Deepseek V3模型。</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
+        <td> <a href="https://popai.pro">PopAi</a> </td>
+        <td>PopAi推出DeepSeek R1！享受无延迟、闪电般快速的性能，尽在PopAi。轻松切换在线搜索开/关。</td>
+    </tr>
 </table>
 
 
