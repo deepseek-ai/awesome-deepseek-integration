@@ -291,6 +291,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="https://chatlabsai.com">Access 250+ text, image LLMs in one app</a> </td>
         <td> 1AI iOS Chatbot integrates with 250+ text, image, voice models allowing users chat with any model in the world including Deepseek R1 and Deepseek V3 models.</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.weiyuai.cn/logo.png" alt="AI Customer Service" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Bytedesk/bytedesk">Bytedesk</a> </td>
+        <td> Enterprise IM Solution with AI powered live chat, email support, omni-channel customer service & team im，alternative to slack + zendesk/intercom.</td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
