@@ -19,6 +19,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
+        <td><img src="https://chatdoc.com/chatdoc/chatdoc.webp" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://chatdoc.com">ChatDOC</a></td>
+        <td>ChatDOCは、AIを活用したドキュメントリーディングツールで、強力なトレーサビリティ機能を備えており、すべての情報の出所が明確で確認可能です。これにより、ドキュメントの核心を効率的かつ正確に把握するのに役立ちます。</td>
+    </tr>
+    <tr>
         <td> <img src="./docs/SwiftChat/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/SwiftChat/README.md">SwiftChat</a></td>
         <td> <a href="https://github.com/aws-samples/swift-chat">SwiftChat</a> は React Native で構築された超高速なクロスプラットフォームAIチャットアプリケーションです。Android、iOS、iPad、Androidタブレット、macOSでネイティブなパフォーマンスを提供します。リアルタイムストリーミングチャット、豊富なMarkdownサポート（テーブル、コードブロック、LaTeX）、AI画像生成、カスタマイズ可能なシステムプロンプト、マルチモーダル機能などを備えています。DeepSeek、Amazon Bedrock、Ollama、OpenAIなど複数のAIプロバイダーをサポートし、シンプルなUIデザインと高性能を実現しています。</td>
