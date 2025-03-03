@@ -24,6 +24,11 @@
         <td><a href="https://chat.4everland.org/">4EVERChat</a> 是集成数百款LLM的智能模型选型平台，支持直接对比不同模型的实时响应差异，基于<a href="https://www.4everland.org/">4EVERLAND</a> AI RPC 统一API端点实现零成本模型切换，自动选择响应快、成本低的模型组合。</td>
     </tr>
     <tr>
+        <td><img src="./docs/xhai_browser/assets/logo_512.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="./docs/xhai_browser/README_cn.md">小海浏览器</a></td>
+        <td>小海浏览器是安卓桌面管理&AI浏览器,DeepSeek是默认AI对话引擎.他有极致的性能(0.2秒启动),苗条的体型(apk 3M大),无广告,超高速广告拦截,多屏分类,屏幕导航,多搜索框,一框多搜</td>
+    </tr>
+    <tr>
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
         <td>DeepChat 是一款完全免费的桌面端智能助手，内置强大的 DeepSeek 大模型，支持多轮对话、联网搜索、文件上传、知识库等多种功能。</td>
