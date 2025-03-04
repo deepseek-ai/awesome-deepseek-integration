@@ -79,6 +79,12 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td>プロデューサーのための強力なデスクトップAIアシスタント</td>
     </tr>
     <tr>
+        <td> <img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.gptbots.ai/ja_JP/docs">GPTBots</a> </td>
+        <td> <a href="https://www.gptbots.ai/ja_JP">GPTBots</a>は、Deepseekを含む国際的な主要LLMを統合したノーコードのAIエージェント構築プラットフォームです。RAGに基づく知識ストレージ/検索、ツールのカスタマイズ/呼び出し、ワークフローのオーケストレーションなどのモジュールを提供しています。また、エージェントを複数の主流プラットフォーム（WhatsApp、Telegramなど）に統合することができ、企業にエンドツーエンドのAIソリューションを提供し、AI時代において企業が際立つ手助けをします。
+        </td>
+    </tr>
+    <tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/tomemo/README.md"> ToMemo (iOS, ipadOS) </a> </td>
         <td> フレーズブック+クリップボード履歴+キーボードiOSアプリで、キーボードでの迅速な出力にAIマクロモデリングを統合しています。</td>
