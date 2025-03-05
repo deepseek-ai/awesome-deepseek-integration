@@ -282,6 +282,18 @@
 </table>
 
 
+### AI数据应用框架
+
+<table>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/1aacfe57-bc39-4fa4-9406-3adfe583224a" alt="Icon" width="96" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/dbgpt/README_cn.md"> DB-GPT </a> </td>
+        <td> DB-GPT是一个开源的AI原生数据应用开发框架(AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents)。
+目的是构建大模型领域的基础设施，通过开发多模型管理(SMMF)、Text2SQL效果优化、RAG框架以及优化、Multi-Agents框架协作、AWEL(智能体工作流编排)等多种技术能力，让围绕数据库构建大模型应用更简单，更方便。
+ </td>
+    </tr>
+</table>
+
 ### RAG 框架
 
 <table>
