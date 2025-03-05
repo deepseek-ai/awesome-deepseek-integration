@@ -19,6 +19,11 @@
 
 <table>
     <tr>
+        <td> <img src="./docs/SwiftChat/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/SwiftChat/README-cn.md">SwiftChat</a></td>
+        <td> <a href="https://github.com/aws-samples/swift-chat">SwiftChat</a> 是一款使用 React Native 构建的闪电般快速的跨平台 AI 聊天应用。它在 Android、iOS、iPad、Android 平板电脑和 macOS 上提供原生性能。功能包括实时流式聊天、丰富的 Markdown 支持（表格、代码块、LaTeX）、AI 图像生成、可自定义系统提示词和多模态能力。支持包括 DeepSeek、Amazon Bedrock、Ollama 和 OpenAI 在内的多个 AI 提供商。并具有简洁的用户界面和高性能表现。</td>
+    </tr>
+    <tr>
         <td><img src="https://4everlogo.4everland.store/logo/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README_cn.md">4EVERChat</a></td>
         <td><a href="https://chat.4everland.org/">4EVERChat</a> 是集成数百款LLM的智能模型选型平台，支持直接对比不同模型的实时响应差异，基于<a href="https://www.4everland.org/">4EVERLAND</a> AI RPC 统一API端点实现零成本模型切换，自动选择响应快、成本低的模型组合。</td>
