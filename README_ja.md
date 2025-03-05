@@ -24,9 +24,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/aws-samples/swift-chat">SwiftChat</a> は React Native で構築された超高速なクロスプラットフォームAIチャットアプリケーションです。Android、iOS、iPad、Androidタブレット、macOSでネイティブなパフォーマンスを提供します。リアルタイムストリーミングチャット、豊富なMarkdownサポート（テーブル、コードブロック、LaTeX）、AI画像生成、カスタマイズ可能なシステムプロンプト、マルチモーダル機能などを備えています。DeepSeek、Amazon Bedrock、Ollama、OpenAIなど複数のAIプロバイダーをサポートし、シンプルなUIデザインと高性能を実現しています。</td>
     </tr>
  <tr>
-    <td><img src="https://4everlogo.4everland.store/icons/1024.png" alt="Icon" width="64" height="auto" /></td>
+    <td><img src="https://4everlogo.4everland.store/logo/logo.png" alt="Icon" width="64" height="auto" /></td>
     <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README_ja.md">4EVERChat</a></td>
-    <td>4EVERChatは、数百のLLMを統合したインテリジェントなモデル選択プラットフォームで、モデルのパフォーマンスをリアルタイムで比較可能です。4EVERLAND AI RPCの統一APIエンドポイントを活用し、コストフリーでモデル切り替えを実現し、応答が速くコストの低い組み合わせを自動的に選択します。</td>
+    <td><a href="https://chat.4everland.org/">4EVERChat</a>は、数百のLLMを統合したインテリジェントなモデル選択プラットフォームで、モデルのパフォーマンスをリアルタイムで比較可能です。<a href="https://www.4everland.org/">4EVERLAND</a> AI RPCの統一APIエンドポイントを活用し、コストフリーでモデル切り替えを実現し、応答が速くコストの低い組み合わせを自動的に選択します。</td>
 </tr>
     <tr>    
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
@@ -214,6 +214,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI チャットボット" width="64" height="auto" /> </td>
         <td> <a href="https://chatlabsai.com">1つのアプリで250以上のテキスト、画像の大規模モデルにアクセス</a> </td>
         <td> 1AI iOSチャットボットは250以上のテキスト、画像、音声モデルと統合されており、OpenRouterやReplicateの任意のモデル、Deepseek推論およびDeepseek V3モデルと話すことができます。</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
+        <td> <a href="https://popai.pro">PopAi</a> </td>
+        <td>PopAiがDeepSeek R1を発表！PopAiで遅延のない、超高速なパフォーマンスをお楽しみください。 オンライン検索のオン/オフをシームレスに切り替え可能です。</td>
     </tr>
 </table>
 
@@ -553,8 +558,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> は、大規模言語モデル（LLM）を活用した自動アルゴリズム設計のための統一されたオープンソースのPythonベースのプラットフォームです。</td>
     </tr>
     <tr>
-        <td> <img src="./docs/tencent/zhuque.png"  alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="./docs/tencent/hunyuan.png"  alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/tencent/AI-Infra-Guard"> AI-Infra-Guard </a> </td>
-        <td> AIインフラのセキュリティ評価ツールで、AIシステムにおける潜在的なセキュリティリスクを発見・検出することを目的としています。</td>
+        <td> テンセント混元セキュリティチーム - AIインフラのセキュリティ評価ツールで、AIシステムにおける潜在的なセキュリティリスクを発見・検出することを目的としています。</td>
     </tr>
 </table>

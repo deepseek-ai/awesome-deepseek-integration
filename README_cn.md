@@ -24,10 +24,15 @@
         <td> <a href="https://github.com/aws-samples/swift-chat">SwiftChat</a> 是一款使用 React Native 构建的闪电般快速的跨平台 AI 聊天应用。它在 Android、iOS、iPad、Android 平板电脑和 macOS 上提供原生性能。功能包括实时流式聊天、丰富的 Markdown 支持（表格、代码块、LaTeX）、AI 图像生成、可自定义系统提示词和多模态能力。支持包括 DeepSeek、Amazon Bedrock、Ollama 和 OpenAI 在内的多个 AI 提供商。并具有简洁的用户界面和高性能表现。</td>
     </tr>
     <tr>
-    <td><img src="https://4everlogo.4everland.store/icons/1024.png" alt="Icon" width="64" height="auto" /></td>
-    <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README_cn.md">4EVERChat</a></td>
-    <td>4EVERChat 是集成数百款LLM的智能模型选型平台，支持直接对比不同模型的实时响应差异，基于4EVERLAND AI RPC 统一API端点实现零成本模型切换，自动选择响应快、成本低的模型组合。</td>
-</tr>
+        <td><img src="https://4everlogo.4everland.store/logo/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README_cn.md">4EVERChat</a></td>
+        <td><a href="https://chat.4everland.org/">4EVERChat</a> 是集成数百款LLM的智能模型选型平台，支持直接对比不同模型的实时响应差异，基于<a href="https://www.4everland.org/">4EVERLAND</a> AI RPC 统一API端点实现零成本模型切换，自动选择响应快、成本低的模型组合。</td>
+    </tr>
+    <tr>
+        <td><img src="./docs/xhai_browser/assets/logo_512.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="./docs/xhai_browser/README_cn.md">小海浏览器</a></td>
+        <td>小海浏览器是安卓桌面管理&AI浏览器,DeepSeek是默认AI对话引擎.他有极致的性能(0.2秒启动),苗条的体型(apk 3M大),无广告,超高速广告拦截,多屏分类,屏幕导航,多搜索框,一框多搜</td>
+    </tr>
     <tr>
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
@@ -233,6 +238,11 @@
         <td> <a href="https://chatlabsai.com">在一个应用中访问250多个文本、图像大模型</a> </td>
         <td> 1AI iOS聊天机器人集成了250多个文本、图像、语音模型，让用户可以与OpenRouter、Replicate上的任何模型对话，包括Deepseek推理和Deepseek V3模型。</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
+        <td> <a href="https://popai.pro">PopAi</a> </td>
+        <td>PopAi推出DeepSeek R1！享受无延迟、闪电般快速的性能，尽在PopAi。轻松切换在线搜索开/关。</td>
+    </tr>
 </table>
 
 
@@ -313,7 +323,7 @@
 <table>
     <tr>
         <td style="background-color: black"> <img src="docs/solana-agent-kit/assets/sendai-logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> Solana Agent Kit </a> </td>
+        <td> <a href="https://github.com/sendaifun/solana-agent-kit"> Solana Agent Kit </a> </td>
         <td> 一个用于连接 AI 智能体到 Solana 协议的开源工具包。现在，任何使用 DeepSeek LLM 的智能体都可以自主执行 60+ 种 Solana 操作。 </td>
     </tr>
 </table>
@@ -502,9 +512,9 @@
 ### 安全
 <table>
     <tr>
-        <td> <img src="./docs/tencent/zhuque.png"  alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="./docs/tencent/hunyuan.png"  alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/tencent/AI-Infra-Guard"> AI-Infra-Guard </a> </td>
-        <td> AI基础设施安全评估工具，发现和检测AI系统中的潜在安全风险。</td>
+        <td> 腾讯混元安全-AI基础设施安全评估工具，发现和检测AI系统中的潜在安全风险。</td>
     </tr>
 </table>
 
