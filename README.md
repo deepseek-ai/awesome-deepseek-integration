@@ -8,7 +8,8 @@
 
 Integrate the DeepSeek API into popular softwares. Access [DeepSeek Open Platform](https://platform.deepseek.com/) to get an API key.
 
-English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)/[日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md)
+English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/
+  ME_cn.md)/[日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md)
 
 </div>
 
@@ -211,6 +212,12 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <img src="https://agenticflow.ai/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> is a no-code platform where marketers build agentic AI workflows for go-to-market automation, powered by hundreds of everyday apps as tools for your AI agents.</td>
+    </tr>
+    <tr>
+        <td> <img src="https://
+          ture.cn/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://aihaoji.com/zh">AIhaoji</a> </td>
+        <td> <a href="https://aihaoji.com/zh">AIhaoji</a> is an AI assistant designed to summarize audio and video content. It effortlessly transforms audio and video into accurate text and image formats. It also supports a variety of AI-driven learning methods, including PPT extraction, podcast summaries, mind mapping, translation, and meeting notes.</td>
     </tr>
     <tr>
         <td> <img src="https://github.com/ZGGSONG/STranslate/raw/main/img/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
@@ -765,6 +772,7 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
         <td> Test and evaluate LLM prompts, including DeepSeek models. Compare different LLM providers, catch regressions, and evaluate responses. </td>
     </tr>
+</table>
     <tr>
         <td>  </td>
         <td> <a href="https://github.com/AndersonBY/deepseek-tokenizer"> deepseek-tokenizer </a> </td>

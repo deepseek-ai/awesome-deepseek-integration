@@ -253,6 +253,11 @@
         <td> <a href="https://popai.pro">PopAi</a> </td>
         <td>PopAi推出DeepSeek R1！享受无延迟、闪电般快速的性能，尽在PopAi。轻松切换在线搜索开/关。</td>
     </tr>
+     <tr>
+        <td> <img src="https://readlecture.cn/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://readlecture.cn/zh">ReadLecture</a> </td>
+        <td> <a href="https://readlecture.cn/zh">叮当好记</a> 是一款音视频总结的AI助手，能够轻松将音、视频转换成精准的图文阅读，支持PPT提取、播客音频概览、思维导图、翻译、会议总结等AI学习方式。</td>
+    </tr>
 </table>
 
 
