@@ -79,6 +79,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> RSSフィードをあなたの言語に翻訳します！ </td>
     </tr>
     <tr>
+        <td> <img src="https://relingo.net/assets/images/relingo-logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://relingo.net"> Relingo </a> </td>
+        <td> ウェブサイトを閲覧したり、YouTubeを視聴しながら語彙を増やし、マスターしよう！ </td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/ysnows/enconvo_media/main/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/enconvo/README.md"> Enconvo </a> </td>
         <td> Enconvoは、AI時代のランチャーであり、すべてのAI機能のエントリーポイントであり、思いやりのあるインテリジェントアシスタントです。</td>

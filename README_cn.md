@@ -94,6 +94,11 @@
         <td> 开源、简洁、可自部署的RSS翻译器 </td>
     </tr>
     <tr>
+        <td> <img src="https://relingo.net/assets/images/relingo-logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://relingo.net"> Relingo </a> </td>
+        <td> 在浏览网站和观看 YouTube 视频时，轻松构建和掌握词汇！ </td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/ysnows/enconvo_media/main/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/enconvo/README_cn.md"> Enconvo </a> </td>
         <td> Enconvo是AI时代的启动器,是所有AI功能的入口,也是一位体贴的智能助理。 </td>
