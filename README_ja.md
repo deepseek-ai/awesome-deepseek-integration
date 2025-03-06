@@ -262,8 +262,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
-        <td> <img src="https://github.com/user-attachments/assets/1aacfe57-bc39-4fa4-9406-3adfe583224a" alt="Icon" width="96" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/dbgpt/README.md"> DB-GPT </a> </td>
+        <td width="80"> <img src="https://github.com/user-attachments/assets/a327d72f-755f-4256-8a37-32a518a55df3" alt="Icon" width="96" height="auto" /> </td>
+        <td width="120"> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/dbgpt/README.md"> DB-GPT </a> </td>
         <td> DB-GPT は、AWEL (Agentic Workflow Expression Language) とエージェントを備えたオープンソースの AI ネイティブ データ アプリ開発フレームワークです。
 その目的は、マルチモデル管理 (SMMF)、Text2SQL 効果の最適化、RAG フレームワークと最適化、マルチエージェント フレームワークのコラボレーション、AWEL (エージェント ワークフロー オーケストレーション) などの複数の技術機能を開発することにより、大規模モデルの分野でインフラストラクチャを構築し、データベースを中心とした大規模モデル アプリケーションの構築をより簡単かつ便利にすることです。
  </td>
