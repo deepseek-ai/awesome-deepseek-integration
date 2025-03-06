@@ -445,6 +445,11 @@
         <td> <a href="https://chromewebstore.google.com/detail/deepchat-power-of-deepsee/femhcibnncinlabdboehojdhfcihpkpl?hl=en"> DeepChat </a> </td>
         <td>一款Chrome扩展程序，允许用户在任何网站上通过打开侧边栏与DeepSeek聊天。此外，它还在任何网站上选中的文本下方提供一个浮动菜单，使用户能够生成文本摘要、检查语法问题和翻译内容。</td>
     </tr>
+    <tr>
+        <td> <img src="http://cdn.docky.ai/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/docky-ai/README_cn.md"> Docky AI </a> </td>
+        <td>Docky AI 是一款功能强大的浏览器插件，允许您通过侧边栏与多个 AI 模型进行实时对话。它支持多模型同时交流，并能协助您阅读网页、写作、翻译和创作图片</td>
+    </tr>
 </table>
 
 
