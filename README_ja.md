@@ -8,8 +8,7 @@
 
 DeepSeek API を人気のソフトウェアに統合します。API キーを取得するには、[DeepSeek Open Platform](https://platform.deepseek.com/)にアクセスしてください。
 
-[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)/日本語
-
+[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)/[繁體中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_zh_tw.md)/日本語/[Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md)
 </div>
 
 </br>
@@ -18,6 +17,12 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 ### アプリケーション
 
 <table>
+    <tr>
+        <td> <img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.gptbots.ai/ja_JP/docs">GPTBots</a> </td>
+        <td> <a href="https://www.gptbots.ai/ja_JP">GPTBots</a>は、Deepseekを含む国際的な主要LLMを統合したノーコードのAIエージェント構築プラットフォームです。RAGに基づく知識ストレージ/検索、ツールのカスタマイズ/呼び出し、ワークフローのオーケストレーションなどのモジュールを提供しています。また、エージェントを複数の主流プラットフォーム（WhatsApp、Telegramなど）に統合することができ、企業にエンドツーエンドのAIソリューションを提供し、AI時代において企業が際立つ手助けをします。
+        </td>
+    </tr>
     <tr>
         <td><img src="https://chatdoc.com/chatdoc/chatdoc.webp" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://chatdoc.com">ChatDOC</a></td>
@@ -92,12 +97,6 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td><img src="https://github.com/kangfenmao/cherry-studio/blob/main/src/renderer/src/assets/images/logo.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cherrystudio/README.md">Cherry Studio</a></td>
         <td>プロデューサーのための強力なデスクトップAIアシスタント</td>
-    </tr>
-    <tr>
-        <td> <img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://www.gptbots.ai/ja_JP/docs">GPTBots</a> </td>
-        <td> <a href="https://www.gptbots.ai/ja_JP">GPTBots</a>は、Deepseekを含む国際的な主要LLMを統合したノーコードのAIエージェント構築プラットフォームです。RAGに基づく知識ストレージ/検索、ツールのカスタマイズ/呼び出し、ワークフローのオーケストレーションなどのモジュールを提供しています。また、エージェントを複数の主流プラットフォーム（WhatsApp、Telegramなど）に統合することができ、企業にエンドツーエンドのAIソリューションを提供し、AI時代において企業が際立つ手助けをします。
-        </td>
     </tr>
     <tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
