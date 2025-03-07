@@ -550,6 +550,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://cliprun.com/"> Cliprun </a> </td>
         <td> Python code runner & playground. Right-click Python code on DeepSeek to run it instantly in your browser. </td>
     </tr>
+    <tr>
+        <td> <img src="http://cdn.docky.ai/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/docky-ai/README.md"> Docky AI </a> </td>
+        <td>Docky AI is a powerful browser extension that allows you to have real-time conversations with multiple AI models through a sidebar. It supports simultaneous communication with multiple models and can assist you in reading web pages, writing, translating, and creating images</td>
+    </tr>
 </table>
 
 ### VS Code Extensions

@@ -419,6 +419,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/baotlake/anything-copilot"> Anything Copilot </a> </td>
         <td> Anything Copilotは、サイドバーから直接主要なAIツールにシームレスにアクセスできるようにするブラウザ拡張機能です。 </td>
     </tr>
+    <tr>
+        <td> <img src="http://cdn.docky.ai/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/docky-ai/README_ja.md"> Docky AI </a> </td>
+        <td>Docky AI は強力なブラウザ拡張機能で、サイドバーを通じて複数のAIモデルとリアルタイムで会話することができます。複数モデルとの同時交流をサポートし、ウェブページの閲覧、執筆、翻訳、画像作成を支援します</td>
+    </tr>
 </table>
 
 ### VS Code 拡張機能
