@@ -8,7 +8,7 @@
 
 将 DeepSeek 大模型能力轻松接入各类软件。访问 [DeepSeek 开放平台](https://platform.deepseek.com/)来获取您的 API key。
 
-[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/简体中文/[日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md)
+[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/简体中文/[繁体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_zh_tw.md)/[日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md)/[Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md)
 
 </div>
 
@@ -18,7 +18,7 @@
 ### 应用程序
 
 <table>
-            <tr>
+    <tr>
         <td><img src="https://github.com/mrzhang1013/CodingSee/blob/main/codingseeicon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.codingsee.com">CodingSee-AI伴学</a></td>
         <td>CodingSee是一款专为中国少儿编程设计的软件，内容包含社区，项目协作，站内实时消息，AI问答，Scratch/Python/C++编译环境，代码精准纠错的集成平台，UI设计友好，目前支持Windows和mac系统。</td>
@@ -42,6 +42,11 @@
         <td><img src="./docs/xhai_browser/assets/logo_512.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="./docs/xhai_browser/README_cn.md">小海浏览器</a></td>
         <td>小海浏览器是安卓桌面管理&AI浏览器,DeepSeek是默认AI对话引擎.他有极致的性能(0.2秒启动),苗条的体型(apk 3M大),无广告,超高速广告拦截,多屏分类,屏幕导航,多搜索框,一框多搜</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.gptbots.ai/zh_CN/docs">GPTBots</a> </td>
+        <td> <a href="https://www.gptbots.ai/zh_CN">GPTBots</a> 是一个无代码的 AI Agent 构建平台，集成了包括 Deepseek 在内的国际主流 LLM，并提供了基于 RAG 的知识存储/检索，工具自定义/调用，工作流编排等模块，并可将 Agent 集成至多个主流平台（WhatsApp、Telegram 等），为企业提供端到端的 AI 解决方案，助力企业在 AI 时代脱颖而出。</td>
     </tr>
     <tr>
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
@@ -112,11 +117,6 @@
         <td><img src="https://github.com/kangfenmao/cherry-studio/blob/main/src/renderer/src/assets/images/logo.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cherrystudio/README_cn.md">Cherry Studio</a></td>
         <td> 一款为创造者而生的桌面版 AI 助手 </td>
-    </tr>
-    <tr>
-        <td> <img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://www.gptbots.ai/zh_CN/docs">GPTBots</a> </td>
-        <td> <a href="https://www.gptbots.ai/zh_CN">GPTBots</a>是一个无代码的 AI Agent 构建平台，集成了包括 Deepseek 在内的国际主流 LLM，并提供了基于 RAG 的知识存储/检索，工具自定义/调用，工作流编排等模块，并可将 Agent 集成至多个主流平台（WhatsApp、Telegram 等），为企业提供端到端的 AI 解决方案，助力企业在 AI 时代脱颖而出。</td>
     </tr>
     <tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
