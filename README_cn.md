@@ -18,6 +18,11 @@
 ### 应用程序
 
 <table>
+            <tr>
+        <td><img src="https://github.com/mrzhang1013/CodingSee/blob/main/codingseeicon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.codingsee.com">CodingSee-AI伴学</a></td>
+        <td>CodingSee是一款专为中国少儿编程设计的软件，内容包含社区，项目协作，站内实时消息，AI问答，Scratch/Python/C++编译环境，代码精准纠错的集成平台，UI设计友好，目前支持Windows和mac系统。</td>
+    </tr>
     <tr>
         <td><img src="https://chatdoc.com/chatdoc/chatdoc.webp" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://chatdoc.com">ChatDOC</a></td>
