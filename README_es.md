@@ -19,11 +19,6 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 <table>
     <tr>
-        <td><img src="./docs/gptbots/gptbots.png" alt="Icono" width="64" height="auto" /> </td>
-        <td><a href="https://www.gptbots.ai/es_ES/docs">GPTBots</a></td>
-        <td><a href="https://www.gptbots.ai/es_ES/">GPTBots</a> es una plataforma de construcción de agentes de IA sin necesidad de programación que integra importantes LLMs internacionales, incluyendo DeepSeek. Ofrece módulos para almacenamiento/recuperación de conocimiento basado en RAG, personalización/llamada de herramientas y orquestación de flujos de trabajo. Además, permite integrar agentes en múltiples plataformas principales (como WhatsApp, Telegram, etc.), proporcionando soluciones integrales de IA para empresas y ayudándolas a destacarse en la era de la IA.</td>
-    </tr>
-    <tr>
         <td><img src="https://chatdoc.com/chatdoc/chatdoc.webp" alt="Icono" width="64" height="auto" /></td>
         <td><a href="https://chatdoc.com">ChatDOC</a></td>
         <td>ChatDOC es una herramienta de lectura de documentos basada en IA, equipada con sólidas funciones de trazabilidad, asegurando que la fuente de cada información sea clara y verificable, ayudándote a comprender eficientemente el núcleo de tus documentos.</td>
@@ -117,6 +112,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td><img src="https://github.com/kangfenmao/cherry-studio/blob/main/src/renderer/src/assets/images/logo.png?raw=true" alt="Icono" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cherrystudio/README.md">Cherry Studio</a></td>
         <td>Un asistente de IA de escritorio poderoso para productores</td>
+    </tr>
+     <tr>
+        <td><img src="./docs/gptbots/gptbots.png" alt="Icono" width="64" height="auto" /> </td>
+        <td><a href="https://www.gptbots.ai/es_ES/docs">GPTBots</a></td>
+        <td><a href="https://www.gptbots.ai/es_ES/">GPTBots</a> es una plataforma de construcción de agentes de IA sin necesidad de programación que integra importantes LLMs internacionales, incluyendo DeepSeek. Ofrece módulos para almacenamiento/recuperación de conocimiento basado en RAG, personalización/llamada de herramientas y orquestación de flujos de trabajo. Además, permite integrar agentes en múltiples plataformas principales (como WhatsApp, Telegram, etc.), proporcionando soluciones integrales de IA para empresas y ayudándolas a destacarse en la era de la IA.</td>
     </tr>
     <tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icono" width="64" height="auto" /> </td>

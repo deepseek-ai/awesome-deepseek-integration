@@ -18,11 +18,6 @@
 
 <table>
     <tr>
-        <td><img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
-        <td><a href="https://www.gptbots.ai/zh_TW/docs">GPTBots</a></td>
-        <td><a href="https://www.gptbots.ai/zh_TW/">GPTBots</a> 是一個免程式設計的 AI 智慧體構建平台，整合了多個國際 LLM，包括 DeepSeek。提供基於 RAG 的知識存儲/檢索、工具自訂/調用和工作流程編排模組。此外，還允許將智慧體整合到多個主流平台（如 WhatsApp、Telegram 等），為企業提供端到端的 AI 解決方案，幫助它們在 AI 時代脫穎而出。</td>
-    </tr>
-    <tr>
         <td><img src="https://chatdoc.com/chatdoc/chatdoc.webp" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://chatdoc.com">ChatDOC</a></td>
         <td>ChatDOC 是一款由 AI 驅動的文件閱讀工具，配備強大的可追溯性功能，確保每條資訊的來源清晰可驗證，幫助您高效準確地掌握文件的核心內容。</td>
@@ -116,6 +111,11 @@
         <td><img src="https://github.com/kangfenmao/cherry-studio/blob/main/src/renderer/src/assets/images/logo.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cherrystudio/README.md">Cherry Studio</a></td>
         <td>一款為生產者設計的強大桌面 AI 助手。</td>
+    </tr>
+     <tr>
+        <td><img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
+        <td><a href="https://www.gptbots.ai/zh_TW/docs">GPTBots</a></td>
+        <td><a href="https://www.gptbots.ai/zh_TW/">GPTBots</a> 是一個免程式設計的 AI 智慧體構建平台，整合了多個國際 LLM，包括 DeepSeek。提供基於 RAG 的知識存儲/檢索、工具自訂/調用和工作流程編排模組。此外，還允許將智慧體整合到多個主流平台（如 WhatsApp、Telegram 等），為企業提供端到端的 AI 解決方案，幫助它們在 AI 時代脫穎而出。</td>
     </tr>
     <tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
