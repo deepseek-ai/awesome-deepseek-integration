@@ -42,6 +42,11 @@
         <td><a href="https://intellibar.app/">IntelliBar</a></td>
         <td>IntelliBar 是一款美觀的 Mac 助手，讓您可以在 Mac 上的任何應用中使用先進的模型，例如 DeepSeek R1——例如在郵件應用中編輯電子郵件或在瀏覽器中摘要文章。</td>
     </tr>
+    <tr>
+        <td><img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
+        <td><a href="https://www.gptbots.ai/zh_TW/docs">GPTBots</a></td>
+        <td><a href="https://www.gptbots.ai/zh_TW/">GPTBots</a> 是一個免程式設計的 AI 智慧體構建平台，整合了多個國際 LLM，包括 DeepSeek。提供基於 RAG 的知識存儲/檢索、工具自訂/調用和工作流程編排模組。此外，還允許將智慧體整合到多個主流平台（如 WhatsApp、Telegram 等），為企業提供端到端的 AI 解決方案，幫助它們在 AI 時代脫穎而出。</td>
+    </tr>
     <tr>    
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
@@ -111,11 +116,6 @@
         <td><img src="https://github.com/kangfenmao/cherry-studio/blob/main/src/renderer/src/assets/images/logo.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cherrystudio/README.md">Cherry Studio</a></td>
         <td>一款為生產者設計的強大桌面 AI 助手。</td>
-    </tr>
-     <tr>
-        <td><img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
-        <td><a href="https://www.gptbots.ai/zh_TW/docs">GPTBots</a></td>
-        <td><a href="https://www.gptbots.ai/zh_TW/">GPTBots</a> 是一個免程式設計的 AI 智慧體構建平台，整合了多個國際 LLM，包括 DeepSeek。提供基於 RAG 的知識存儲/檢索、工具自訂/調用和工作流程編排模組。此外，還允許將智慧體整合到多個主流平台（如 WhatsApp、Telegram 等），為企業提供端到端的 AI 解決方案，幫助它們在 AI 時代脫穎而出。</td>
     </tr>
     <tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icon" width="64" height="auto" /> </td>

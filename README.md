@@ -42,6 +42,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td><a href="https://intellibar.app/">IntelliBar</a></td>
         <td>IntelliBar is a beautiful assistant for the Mac that lets you use advanced models like DeepSeek R1 with any app on your Mac — ex: edit emails in your mail app or summarize articles in your browser.</td>
     </tr>
+    <tr>
+        <td><img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
+        <td><a href="https://www.gptbots.ai/docs">GPTBots</a></td>
+        <td><a href="https://www.gptbots.ai/">GPTBots</a> is a no-code AI agent building platform that integrates major international LLMs, including Deepseek. It offers modules for RAG-based knowledge storage/retrieval, tool customization/calling, and workflow orchestration. Additionally, it allows agents to be integrated into multiple mainstream platforms (such as WhatsApp, Telegram, etc.), providing end-to-end AI solutions for businesses and helping them stand out in the AI era.</td>
+    </tr>
     <tr>    
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
@@ -111,11 +116,6 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td><img src="https://github.com/kangfenmao/cherry-studio/blob/main/src/renderer/src/assets/images/logo.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cherrystudio/README.md">Cherry Studio</a></td>
         <td>A powerful desktop AI assistant for producer</td>
-    </tr>
-    <tr>
-        <td><img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
-        <td><a href="https://www.gptbots.ai/docs">GPTBots</a></td>
-        <td><a href="https://www.gptbots.ai/">GPTBots</a> is a no-code AI agent building platform that integrates major international LLMs, including Deepseek. It offers modules for RAG-based knowledge storage/retrieval, tool customization/calling, and workflow orchestration. Additionally, it allows agents to be integrated into multiple mainstream platforms (such as WhatsApp, Telegram, etc.), providing end-to-end AI solutions for businesses and helping them stand out in the AI era.</td>
     </tr>
     <tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icon" width="64" height="auto" /> </td>

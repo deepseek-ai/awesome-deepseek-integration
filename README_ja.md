@@ -43,6 +43,12 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> QuantaLogicは、高度なAIエージェントを構築するためのReAct（推論と行動）フレームワークです。 </td>
     </tr>
     <tr>
+        <td> <img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.gptbots.ai/ja_JP/docs">GPTBots</a> </td>
+        <td> <a href="https://www.gptbots.ai/ja_JP">GPTBots</a>は、Deepseekを含む国際的な主要LLMを統合したノーコードのAIエージェント構築プラットフォームです。RAGに基づく知識ストレージ/検索、ツールのカスタマイズ/呼び出し、ワークフローのオーケストレーションなどのモジュールを提供しています。また、エージェントを複数の主流プラットフォーム（WhatsApp、Telegramなど）に統合することができ、企業にエンドツーエンドのAIソリューションを提供し、AI時代において企業が際立つ手助けをします。
+        </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/13600976/224d547a-6fbc-47c8-859f-aa14813e2b0f" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatbox/README.md">Chatbox</a> </td>
         <td> Chatboxは、Windows、Mac、Linuxで利用可能な複数の最先端LLMモデルのデスクトップクライアントです。 </td>
@@ -91,12 +97,6 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td><img src="https://github.com/kangfenmao/cherry-studio/blob/main/src/renderer/src/assets/images/logo.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cherrystudio/README.md">Cherry Studio</a></td>
         <td>プロデューサーのための強力なデスクトップAIアシスタント</td>
-    </tr>
-    <tr>
-        <td> <img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://www.gptbots.ai/ja_JP/docs">GPTBots</a> </td>
-        <td> <a href="https://www.gptbots.ai/ja_JP">GPTBots</a>は、Deepseekを含む国際的な主要LLMを統合したノーコードのAIエージェント構築プラットフォームです。RAGに基づく知識ストレージ/検索、ツールのカスタマイズ/呼び出し、ワークフローのオーケストレーションなどのモジュールを提供しています。また、エージェントを複数の主流プラットフォーム（WhatsApp、Telegramなど）に統合することができ、企業にエンドツーエンドのAIソリューションを提供し、AI時代において企業が際立つ手助けをします。
-        </td>
     </tr>
     <tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icon" width="64" height="auto" /> </td>

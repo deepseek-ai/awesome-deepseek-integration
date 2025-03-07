@@ -44,6 +44,11 @@
         <td>小海浏览器是安卓桌面管理&AI浏览器,DeepSeek是默认AI对话引擎.他有极致的性能(0.2秒启动),苗条的体型(apk 3M大),无广告,超高速广告拦截,多屏分类,屏幕导航,多搜索框,一框多搜</td>
     </tr>
     <tr>
+        <td> <img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.gptbots.ai/zh_CN/docs">GPTBots</a> </td>
+        <td> <a href="https://www.gptbots.ai/zh_CN">GPTBots</a> 是一个无代码的 AI Agent 构建平台，集成了包括 Deepseek 在内的国际主流 LLM，并提供了基于 RAG 的知识存储/检索，工具自定义/调用，工作流编排等模块，并可将 Agent 集成至多个主流平台（WhatsApp、Telegram 等），为企业提供端到端的 AI 解决方案，助力企业在 AI 时代脱颖而出。</td>
+    </tr>
+    <tr>
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
         <td>DeepChat 是一款完全免费的桌面端智能助手，内置强大的 DeepSeek 大模型，支持多轮对话、联网搜索、文件上传、知识库等多种功能。</td>
@@ -112,11 +117,6 @@
         <td><img src="https://github.com/kangfenmao/cherry-studio/blob/main/src/renderer/src/assets/images/logo.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/cherrystudio/README_cn.md">Cherry Studio</a></td>
         <td> 一款为创造者而生的桌面版 AI 助手 </td>
-    </tr>
-    <tr>
-        <td> <img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://www.gptbots.ai/zh_CN/docs">GPTBots</a> </td>
-        <td> <a href="https://www.gptbots.ai/zh_CN">GPTBots</a>是一个无代码的 AI Agent 构建平台，集成了包括 Deepseek 在内的国际主流 LLM，并提供了基于 RAG 的知识存储/检索，工具自定义/调用，工作流编排等模块，并可将 Agent 集成至多个主流平台（WhatsApp、Telegram 等），为企业提供端到端的 AI 解决方案，助力企业在 AI 时代脱颖而出。</td>
     </tr>
     <tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
