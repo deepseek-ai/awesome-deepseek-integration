@@ -54,6 +54,16 @@
     </tr>
 </table>
 
+### Office插件
+<table>
+    <tr>
+        <td> <img src="https://www.44886.com/view/img/bukeng.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.bukenghezi.com/">不坑盒子</a> </td>
+        <td>一款支持Word、Excel、PPT三件套的Office插件（WPS三件套也支持），给Office增加300多功能</td>
+    </tr>
+</table>
+
+
 ### 浏览器插件
 
 <table>

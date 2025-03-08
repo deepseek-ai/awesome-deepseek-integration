@@ -55,6 +55,15 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
+### Office Addin
+<table>
+    <tr>
+        <td> <img src="https://www.44886.com/view/img/bukeng.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.bukenghezi.com/">BKOffice</a> </td>
+        <td>An Office plugin that supports the Word, Excel, and PPT suite (also supports the WPS suite), adding more than 300 functions to Office.</td>
+    </tr>
+</table>
+
 ### Browser Extensions
 
 <table>
