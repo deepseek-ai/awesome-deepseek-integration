@@ -273,6 +273,11 @@
         <td><a href="https://github.com/Byaidu/PDFMathTranslate">PDFMathTranslate</a></td>
         <td>PDFMathTranslate是一款基于 AI 完整保留排版的 PDF 文档全文双语翻译工具。</td>
     </tr>
+    <tr>
+        <td><img src="https://github.com/Richasy/Bili.Copilot/raw/master/assets/StoreLogo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Richasy/Bili.Copilot">哔哩助理</a></td>
+        <td>B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用。</td>
+    </tr>
 </table>
 
 
