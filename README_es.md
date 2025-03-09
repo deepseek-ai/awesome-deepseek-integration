@@ -326,6 +326,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://pot-app.com/">Pot</a></td>
         <td> <a href="https://pot-app.com/">Pot</a> 🌈 Un software multiplataforma de traducción de palabras y OCR. </td>
     </tr>
+    <tr>
+        <td><img src="https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/banner.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Byaidu/PDFMathTranslate">PDFMathTranslate</a></td>
+        <td>Esta extensión puede ayudar a los desarrolladores a traducir anotaciones, cadenas, consejos de código, mensajes de error y nombres de variables en el Código.</td>
+    </tr>
 </table>
 
 ### Marcos de agentes de IA
