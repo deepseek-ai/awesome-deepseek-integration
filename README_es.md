@@ -324,7 +324,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <tr>
         <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://pot-app.com/">Pot</a></td>
-        <td> <a href="https://pot-app.com/">Pot</a> 🌈 A cross-platform software for text translation and recognition. </td>
+        <td> <a href="https://pot-app.com/">Pot</a> 🌈 Un software multiplataforma de traducción de palabras y OCR. </td>
     </tr>
 </table>
 
