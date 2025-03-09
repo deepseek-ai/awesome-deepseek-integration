@@ -235,6 +235,21 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://popai.pro">PopAi</a> </td>
         <td>PopAiがDeepSeek R1を発表！PopAiで遅延のない、超高速なパフォーマンスをお楽しみください。 オンライン検索のオン/オフをシームレスに切り替え可能です。</td>
     </tr>
+    <tr>
+        <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://pot-app.com/">Pot</a></td>
+        <td> <a href="https://pot-app.com/">Pot</a> 🌈クロスプラットフォームの単語翻訳とOCRソフトウェア </td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/banner.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Byaidu/PDFMathTranslate">PDFMathTranslate</a></td>
+        <td>この拡張プログラムは、開発者がコード内のコメント、文字列、コードヒント、エラー情報、変数名を翻訳するのに役立ちます。</td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/Richasy/Bili.Copilot/raw/master/assets/StoreLogo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Richasy/Bili.Copilot">Bili.Copilot</a></td>
+        <td>B局のサードパーティ製Windowsデスクトップクライアント、Windows App SDKを使用して構築されたネイティブアプリケーション。</td>
+    </tr>
 </table>
 
 ### AI エージェントフレームワーク
@@ -447,6 +462,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://github.com/titusTong/seekCodeCopilot/blob/main/assets/SeekCodeCopilotLogo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/titusTong/seekCodeCopilot/blob/main/README.md"> SeekCode Copilot </a> </td>
         <td> vscode インテリジェント コーディング アシスタントは、ローカルにデプロイされた DeepSeek モデルの構成をサポートします </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/intellism/vscode-comment-translate/blob/master/doc/image/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/intellism/vscode-comment-translate/blob/master/README_JA.md"> Comment Translation </a> </td>
+        <td> この拡張により、開発者はコード内のコメント、文字列、コードヒント、エラーメッセージ、変数名を翻訳できます。 </td>
     </tr>
 </table>
 
