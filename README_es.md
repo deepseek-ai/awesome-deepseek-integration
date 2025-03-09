@@ -321,6 +321,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://popai.pro">PopAi</a> </td>
         <td>PopAi lanza DeepSeek R1. Disfruta de un rendimiento ultrarrápido sin retrasos con PopAi. Cambia sin problemas la búsqueda en línea activada/desactivada.</td>
      </tr>
+    <tr>
+        <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://pot-app.com/">Pot</a></td>
+        <td> <a href="https://pot-app.com/">Pot</a> 🌈 A cross-platform software for text translation and recognition. </td>
+    </tr>
 </table>
 
 ### Marcos de agentes de IA
