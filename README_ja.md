@@ -240,6 +240,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://pot-app.com/">Pot</a></td>
         <td> <a href="https://pot-app.com/">Pot</a> 🌈クロスプラットフォームの単語翻訳とOCRソフトウェア </td>
     </tr>
+    <tr>
+        <td><img src="https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/banner.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Byaidu/PDFMathTranslate">PDFMathTranslate</a></td>
+        <td>この拡張プログラムは、開発者がコード内のコメント、文字列、コードヒント、エラー情報、変数名を翻訳するのに役立ちます。</td>
+    </tr>
 </table>
 
 ### AI エージェントフレームワーク
