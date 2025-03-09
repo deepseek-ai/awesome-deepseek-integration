@@ -333,7 +333,7 @@
     </tr>
     <tr>
         <td><img src="https://github.com/Richasy/Bili.Copilot/raw/master/assets/StoreLogo.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://github.com/Richasy/Bili.Copilot">Bili.Copilot</a></td>
+        <td><a href="https://github.com/Richasy/Bili.Copilot">嗶哩助理</a></td>
         <td>B站協力廠商Windows案頭用戶端，使用Windows App SDK構建的原生應用。</td>
     </tr>
 </table>
