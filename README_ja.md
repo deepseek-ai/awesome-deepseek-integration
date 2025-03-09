@@ -245,6 +245,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td><a href="https://github.com/Byaidu/PDFMathTranslate">PDFMathTranslate</a></td>
         <td>この拡張プログラムは、開発者がコード内のコメント、文字列、コードヒント、エラー情報、変数名を翻訳するのに役立ちます。</td>
     </tr>
+    <tr>
+        <td><img src="https://github.com/Richasy/Bili.Copilot/raw/master/assets/StoreLogo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Richasy/Bili.Copilot">Bili.Copilot</a></td>
+        <td>B局のサードパーティ製Windowsデスクトップクライアント、Windows App SDKを使用して構築されたネイティブアプリケーション。</td>
+    </tr>
 </table>
 
 ### AI エージェントフレームワーク
