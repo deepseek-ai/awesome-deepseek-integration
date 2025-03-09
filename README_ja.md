@@ -235,6 +235,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://popai.pro">PopAi</a> </td>
         <td>PopAiがDeepSeek R1を発表！PopAiで遅延のない、超高速なパフォーマンスをお楽しみください。 オンライン検索のオン/オフをシームレスに切り替え可能です。</td>
     </tr>
+    <tr>
+        <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://pot-app.com/">Pot</a></td>
+        <td> <a href="https://pot-app.com/">Pot</a> 🌈クロスプラットフォームの単語翻訳とOCRソフトウェア </td>
+    </tr>
 </table>
 
 ### AI エージェントフレームワーク
