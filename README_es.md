@@ -581,6 +581,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/titusTong/seekCodeCopilot/blob/main/README.md"> SeekCode Copilot </a> </td>
         <td> Asistente inteligente de codificación para VS Code que admite la configuración de modelos DeepSeek desplegados localmente. </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/intellism/vscode-comment-translate/blob/master/doc/image/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/intellism/vscode-comment-translate/blob/master/README.md"> Comment Translation </a> </td>
+        <td> Esta extensión ayuda a los desarrolladores a traducir anotaciones, cadenas, consejos de código, mensajes de error y nombres de variables en el Código. </td>
+    </tr>
 </table>
 
 ### Extensiones de Visual Studio
