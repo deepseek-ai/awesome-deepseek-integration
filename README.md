@@ -330,6 +330,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td><a href="https://github.com/Byaidu/PDFMathTranslate">PDFMathTranslate</a></td>
         <td>PDF Math Translate is an AI-based full-text bilingual translation tool that fully preserves the layout of PDF documents.</td>
     </tr>
+    <tr>
+        <td><img src="https://github.com/Richasy/Bili.Copilot/raw/master/assets/StoreLogo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Richasy/Bili.Copilot">Bili.Copilot</a></td>
+        <td>Bilibili third-party Windows desktop client, a native application built with the Windows App SDK.</td>
+    </tr>
 </table>
 
 ### AI Agent frameworks
