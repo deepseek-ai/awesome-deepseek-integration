@@ -321,6 +321,11 @@
         <td> <a href="https://popai.pro">PopAi</a> </td>
         <td>PopAi 推出 DeepSeek R1！享受零延遲與超高速效能，輕鬆切換在線搜索開關。</td>
     </tr>
+    <tr>
+        <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://pot-app.com/">Pot</a></td>
+        <td> <a href="https://pot-app.com/">Pot</a> 🌈一個跨平臺的劃詞翻譯和OCR軟件 </td>
+    </tr>
 </table>
 
 ### AI 智慧體框架
