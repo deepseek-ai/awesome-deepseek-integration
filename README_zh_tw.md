@@ -326,6 +326,11 @@
         <td> <a href="https://pot-app.com/">Pot</a></td>
         <td> <a href="https://pot-app.com/">Pot</a> 🌈一個跨平臺的劃詞翻譯和OCR軟件 </td>
     </tr>
+    <tr>
+        <td><img src="https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/banner.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Byaidu/PDFMathTranslate">PDFMathTranslate</a></td>
+        <td>這款擴展程式能够幫助開發者翻譯程式碼中的注釋、字串、程式碼提示、錯誤資訊以及變數名。</td>
+    </tr>
 </table>
 
 ### AI 智慧體框架
