@@ -453,6 +453,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/titusTong/seekCodeCopilot/blob/main/README.md"> SeekCode Copilot </a> </td>
         <td> vscode インテリジェント コーディング アシスタントは、ローカルにデプロイされた DeepSeek モデルの構成をサポートします </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/intellism/vscode-comment-translate/blob/master/doc/image/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/intellism/vscode-comment-translate/blob/master/README_JA.md"> Comment Translation </a> </td>
+        <td> この拡張により、開発者はコード内のコメント、文字列、コードヒント、エラーメッセージ、変数名を翻訳できます。 </td>
+    </tr>
 </table>
 
 ### neovim 拡張機能
