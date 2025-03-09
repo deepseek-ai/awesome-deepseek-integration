@@ -584,6 +584,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/titusTong/seekCodeCopilot/blob/main/README.md"> SeekCode Copilot </a> </td>
         <td> vscode intelligent coding assistant supports configuring locally deployed DeepSeek models </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/intellism/vscode-comment-translate/blob/master/doc/image/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/intellism/vscode-comment-translate/blob/master/README.md"> Comment Translation </a> </td>
+        <td> This extension helps developers translate comments, strings, code hints, error messages, and variable names in their code. </td>
+    </tr>
 </table>
 
 ### Visual Studio Extensions
