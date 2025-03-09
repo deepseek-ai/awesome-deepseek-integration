@@ -331,6 +331,11 @@
         <td><a href="https://github.com/Byaidu/PDFMathTranslate">PDFMathTranslate</a></td>
         <td>這款擴展程式能够幫助開發者翻譯程式碼中的注釋、字串、程式碼提示、錯誤資訊以及變數名。</td>
     </tr>
+    <tr>
+        <td><img src="https://github.com/Richasy/Bili.Copilot/raw/master/assets/StoreLogo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Richasy/Bili.Copilot">Bili.Copilot</a></td>
+        <td>B站協力廠商Windows案頭用戶端，使用Windows App SDK構建的原生應用。</td>
+    </tr>
 </table>
 
 ### AI 智慧體框架
