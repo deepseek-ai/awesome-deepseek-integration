@@ -269,7 +269,7 @@
         <td> <a href="https://pot-app.com/">Pot</a> 🌈一个跨平台的划词翻译和OCR软件 </td>
     </tr>
     <tr>
-        <td><img src="" alt="Icon" width="64" height="auto" /></td>
+        <td><img src="https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/banner.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/Byaidu/PDFMathTranslate">PDFMathTranslate</a></td>
         <td>PDFMathTranslate是一款基于 AI 完整保留排版的 PDF 文档全文双语翻译工具。</td>
     </tr>
