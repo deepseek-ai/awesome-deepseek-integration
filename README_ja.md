@@ -373,6 +373,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/KomoriDev/nonebot-plugin-deepseek"">NoneBot<br/>（QQ, Lark, Discord, TG, etc.）</a> </td>
         <td> NoneBotフレームワークを基に、インテリジェントな会話と深い思考機能をサポートします。QQ/飛書/Discord/Telegram等多种多様なメッセージプラットフォームに対応しています </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/Soulter/AstrBot/raw/refs/heads/master/dashboard/src/assets/images/logo-normal.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Soulter/AstrBot/">AstrBot<br/>（QQ, WeChat, WeCom, Lark, TG, etc.）</a> </td>
+        <td> 大規模言語モデルをサポートするマルチプラットフォームチャットボットおよび開発フレームワーク。RAG、長期記憶、ウェブ検索などの各種LLMエージェント機能をサポートし、プラグイン開発にも対応。</td>
+    </tr>
 </table>
 
 ### ブラウザ拡張機能
