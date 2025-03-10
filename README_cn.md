@@ -17,7 +17,12 @@
 
 ### 应用程序
 
-<table>
+<table
+      <tr>
+        <td><img src="https://www.python-xp.com/static/img/logo.svg?v=1.3" alt="猿变实验室icon" width="64"></td>
+        <td><a href="https://python-xp.com">原边实验室</a></td>
+        <td>猿变实验室是面向高级 Python 编程的学习平台。我们为学习者提供最先进的 AI 支持，包括 ChatGPT 和 DeepSeek，确保学习体验智能流畅。除了提供 AI 对话式导师服务外，AI 还用于帮助学习者建立自己的学习路径并改进学习弱点</td>
+    </tr>
     <tr>
         <td><img src="https://github.com/mrzhang1013/CodingSee/blob/main/codingseeicon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.codingsee.com">CodingSee-AI伴学</a></td>
@@ -263,21 +268,6 @@
         <td> <a href="https://popai.pro">PopAi</a> </td>
         <td>PopAi推出DeepSeek R1！享受无延迟、闪电般快速的性能，尽在PopAi。轻松切换在线搜索开/关。</td>
     </tr>
-    <tr>
-        <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://pot-app.com/">Pot</a></td>
-        <td> <a href="https://pot-app.com/">Pot</a> 🌈一个跨平台的划词翻译和OCR软件 </td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/banner.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://github.com/Byaidu/PDFMathTranslate">PDFMathTranslate</a></td>
-        <td>PDFMathTranslate是一款基于 AI 完整保留排版的 PDF 文档全文双语翻译工具。</td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/Richasy/Bili.Copilot/raw/master/assets/StoreLogo.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://github.com/Richasy/Bili.Copilot">哔哩助理</a></td>
-        <td>B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用。</td>
-    </tr>
 </table>
 
 
@@ -406,14 +396,6 @@
     </tr>
 </table>
 
-### Office插件
-<table>
-    <tr>
-        <td> <img src="https://www.44886.com/view/img/bukeng.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://www.bukenghezi.com/">不坑盒子</a> </td>
-        <td>一款支持Word、Excel、PPT三件套的Office插件（WPS三件套也支持），给Office增加300多功能</td>
-    </tr>
-</table>
 
 ### 浏览器插件
 
@@ -508,11 +490,6 @@
         <td> <img src="https://github.com/titusTong/seekCodeCopilot/blob/main/assets/SeekCodeCopilotLogo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/titusTong/seekCodeCopilot/blob/main/README.md"> SeekCode Copilot </a> </td>
         <td> vscode智能编码助手，支持配置本地部署的DeepSeek模型 </td>
-    </tr>
-    <tr>
-        <td> <img src="https://github.com/intellism/vscode-comment-translate/blob/master/doc/image/icon.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/intellism/vscode-comment-translate/blob/master/doc/README_ZH.md"> Comment Translation </a> </td>
-        <td> 这款扩展程序能够帮助开发者翻译代码中的注释、字符串、代码提示、错误信息以及变量名。 </td>
     </tr>
 </table>
 
