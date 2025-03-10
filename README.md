@@ -743,6 +743,11 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <table>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/mlflow/mlflow/refs/heads/master/assets/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://mlflow.org/docs/latest/tracing/integrations/deepseek"> MLflow </a></td>
+        <td> Open-source MLOps / LLMOps platform for build, test, deploy, and monitor AI applications with DeepSeek. </td>
+    </tr>
+    <tr>
         <td style="font-size: 64px">🤖</td>
         <td> <a href="https://github.com/wangrongding/wechat-bot/blob/main/README.md"> Wechat-Bot </a></td>
         <td> A wechat robot based on WeChaty combined with DeepSeek and other Ai services. </td>
