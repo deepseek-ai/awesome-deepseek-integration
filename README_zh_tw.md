@@ -321,6 +321,21 @@
         <td> <a href="https://popai.pro">PopAi</a> </td>
         <td>PopAi 推出 DeepSeek R1！享受零延遲與超高速效能，輕鬆切換在線搜索開關。</td>
     </tr>
+    <tr>
+        <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://pot-app.com/">Pot</a></td>
+        <td> <a href="https://pot-app.com/">Pot</a> 🌈一個跨平臺的劃詞翻譯和OCR軟件 </td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/banner.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Byaidu/PDFMathTranslate">PDFMathTranslate</a></td>
+        <td>這款擴展程式能够幫助開發者翻譯程式碼中的注釋、字串、程式碼提示、錯誤資訊以及變數名。</td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/Richasy/Bili.Copilot/raw/master/assets/StoreLogo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Richasy/Bili.Copilot">嗶哩助理</a></td>
+        <td>B站協力廠商Windows案頭用戶端，使用Windows App SDK構建的原生應用。</td>
+    </tr>
 </table>
 
 ### AI 智慧體框架
@@ -576,6 +591,11 @@
         <td> <img src="https://github.com/titusTong/seekCodeCopilot/blob/main/assets/SeekCodeCopilotLogo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/titusTong/seekCodeCopilot/blob/main/README.md"> SeekCode Copilot </a> </td>
         <td> 支援配置本地部署 DeepSeek 模型的 VS Code 智慧程式碼協助工具。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/intellism/vscode-comment-translate/blob/master/doc/image/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/intellism/vscode-comment-translate/blob/master/README_ZH.md"> Comment Translation </a> </td>
+        <td> 這款擴展程式能够幫助開發者翻譯程式碼中的注釋、字串、程式碼提示、錯誤資訊以及變數名。 </td>
     </tr>
 </table>
 
