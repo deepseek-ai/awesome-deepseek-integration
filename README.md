@@ -477,7 +477,6 @@ The purpose is to build infrastructure in the field of large models, through the
 </table>
 
 ### IM Application Plugins
-
 <table>
     <tr>
         <td> <img src="https://github.com/InternLM/HuixiangDou/releases/download/v0.1.0rc1/huixiangdou.jpg" alt="Icon" width="64" height="auto" /> </td>
@@ -493,6 +492,15 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <img src="https://nonebot.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/KomoriDev/nonebot-plugin-deepseek">NoneBot<br/>（QQ, Lark, Discord, TG, etc.）</a> </td>
         <td> Based on NoneBot framework, provide intelligent chat and deep thinking functions, supports QQ, Lark, Discord, TG, and more platforms.</td>
+    </tr>
+</table>
+
+### Office Addin
+<table>
+    <tr>
+        <td> <img src="https://www.44886.com/view/img/bukeng.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.bukenghezi.com/">BKOffice</a> </td>
+        <td>An Office plugin that supports the Word, Excel, and PPT suite (also supports the WPS suite), adding more than 300 functions to Office.</td>
     </tr>
 </table>
 
