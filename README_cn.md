@@ -19,6 +19,12 @@
 
 <table>
     <tr>
+     <td><img src="https://www.python-xp.com/static/img/yuanbian_ai_logo_3.svg?v=1.3" alt="Yuanbian Lab icon" width=64></td>
+        <td><a href="https://python-xp.com">Yuanbian Lab</a></td>
+      <td>猿变实验室是一个通过AI学习编程的网站, 不仅仅提供了全球领先的OpenAI、deepseek等生成式AI辅助代码生成, 还通过AI帮助定制个人的学习路径, 扫描知识盲区</td>
+
+    </tr>
+    <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/quantalogic/quantalogic">Quantalogic</a> </td>
         <td> QuantaLogic 是一个 ReAct（推理和行动）框架，用于构建高级 AI 代理。 </td>

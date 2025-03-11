@@ -19,6 +19,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
+        <td><img src="https://www.python-xp.com/static/img/yuanbian_ai_logo_3.svg?v=1.3" alt="Yuanbian Lab icon" width=64></td>
+        <td><a href="https://python-xp.com">Yuanbian Lab</a></td>
+        <td>Yuanbian Lab is a website for learning programming through AI.  It not only provides the world's leading generative AI-assisted code generation such as OpenAI and deepseek, but also helps customize personal learning paths and scan blind areas of knowledge through AI</td> 
+    </tr>	
+    <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/quantalogic/quantalogic">Quantalogic</a> </td>
         <td> QuantaLogic is a ReAct (Reasoning & Action) framework for building advanced AI agents. </td>
