@@ -862,7 +862,7 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Large Language Models Python API. </td>
     </tr>
     <tr>
-        <td> <img src="[docs/ComfyUI-Copilot/assets/logo 2.png](https://serpapi.com/assets/SerpApi-gentle-white-dc708ed0b09596cd08db74108b88af298123eeb384e872716b61d2a0ba1a1e03.png)" alt="Icon" height="auto" />   </td>
+        <td> <img src="https://serpapi.com/android-chrome-512x512.png" alt="Icon" height="auto" />   </td>
         <td> <a href="https://serpapi.com/blog/connect-deepseek-api-with-the-internet-google-search-and-more/#connect-deepseek-with-google-search-result"> SerpApi </a> </td>
         <td> Connect DeepSeek API with search results like Google. </td>
     </tr>
