@@ -1,4 +1,4 @@
-![img.png](assets/dingtalk.png)
+![dingtalk.png](assets/dingtalk.png)
 
 #钉钉AI助理
 支持用户自助选择deepseek不同模型进行任务推理

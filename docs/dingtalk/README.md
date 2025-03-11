@@ -1,4 +1,4 @@
-![img.png](assets/dingtalk.png)
+![dingtalk.png](assets/dingtalk.png)
 
 # DingTalk AI Assistant
 Supports users in independently selecting different DeepSeek models for task inference.

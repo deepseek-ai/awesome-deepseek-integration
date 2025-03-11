@@ -19,7 +19,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 <table>
     <tr>
-        <td><img src="./docs/dingtalk/assets/dingtalk.png" alt="Icon" width="64" height="auto" /></td>
+        <td><img src="docs/dingtalk/assets/dingtalk_icon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.dingtalk.com/">DingTalk</a></td>
         <td>El Asistente de IA de DingTalk integra múltiples funciones de productos de IA de la plataforma DingTalk para asistir de manera inteligente en los flujos de trabajo diarios de las empresas. El Asistente de IA de DingTalk cuenta con diversas capacidades inteligentes, incluyendo, entre otras, comunicación inteligente, colaboración inteligente y gestión inteligente. A través de estas funciones, el asistente de IA puede resumir puntos clave dentro de la empresa, generar actas de reuniones y enviar a los usuarios recordatorios de tareas laborales y horarios relevantes. Además, el Asistente de IA de DingTalk puede utilizar su base de conocimientos para responder de manera inteligente a preguntas frecuentes de los empleados sobre los procesos administrativos de la empresa, las políticas de recursos humanos y otros temas relacionados.</td>
     </tr>
