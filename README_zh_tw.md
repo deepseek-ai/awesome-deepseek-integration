@@ -18,6 +18,11 @@
 
 <table>
     <tr>
+        <td><img src="docs/dingtalk/assets/dingtalk_icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.dingtalk.com/">釘釘</a></td>
+        <td>釘釘 AI 助理融合了釘釘平台的多項 AI 產品功能，以智能化的方式輔助企業日常工作流程。釘釘 AI 助理具備多種智能能力，包括但不限於智能溝通、智能協同、智能管理等。通過這些功能，AI 助理能夠在企業內部歸納要點、生成會議紀要，並且能夠為用戶推送相關工作任務和日程提醒。此外，釘釘 AI 助理還能夠通過知識庫的能力，智能地回答員工關於企業行政流程、人力資源政策等多個方面的常見問題。</td>
+    </tr>
+    <tr>
         <td><img src="https://chatdoc.com/chatdoc/chatdoc.webp" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://chatdoc.com">ChatDOC</a></td>
         <td>ChatDOC 是一款由 AI 驅動的文件閱讀工具，配備強大的可追溯性功能，確保每條資訊的來源清晰可驗證，幫助您高效準確地掌握文件的核心內容。</td>

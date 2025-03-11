@@ -18,6 +18,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
+        <td><img src="docs/dingtalk/assets/dingtalk_icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.dingtalk.com/">DingTalk</a></td>
+        <td>DingTalk AIアシスタントは、DingTalkプラットフォームのさまざまなAI機能を統合し、企業の日常業務プロセスをインテリジェントにサポートします。DingTalk AIアシスタントは、スマートコミュニケーション、スマートコラボレーション、スマートマネジメントなど、多様なインテリジェント機能を備えています。これらの機能を活用し、企業内の要点を整理し、会議議事録を作成し、関連する業務タスクやスケジュールのリマインダーをユーザーに通知することができます。さらに、DingTalk AIアシスタントはナレッジベースを活用し、企業の管理プロセスや人事ポリシーなどに関する従業員からの一般的な質問に対して、インテリジェントに回答することも可能です。</td>
+    </tr>
+    <tr>
         <td><img src="https://chatdoc.com/chatdoc/chatdoc.webp" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://chatdoc.com">ChatDOC</a></td>
         <td>ChatDOCは、AIを活用したドキュメントリーディングツールで、強力なトレーサビリティ機能を備えており、すべての情報の出所が明確で確認可能です。これにより、ドキュメントの核心を効率的かつ正確に把握するのに役立ちます。</td>
