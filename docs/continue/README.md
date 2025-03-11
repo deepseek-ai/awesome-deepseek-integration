@@ -27,7 +27,7 @@ Continue will generate, refactor, and explain entire sections of code with LLMs.
       "model": "deepseek-chat",
       "contextLength": 128000,
       "apiKey": "REDACTED",
-      "provider": "deepseek",
+      "provider": "openai",
       "apiBase": "https://api.deepseek.com/beta"
     }
   ],
@@ -35,7 +35,7 @@ Continue will generate, refactor, and explain entire sections of code with LLMs.
     "title": "DeepSeek",
     "model": "deepseek-chat",
     "apiKey": "REDACTED",
-    "provider": "deepseek",
+    "provider": "openai",
     "apiBase": "https://api.deepseek.com/beta"
   },
 ...
