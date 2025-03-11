@@ -19,6 +19,11 @@
 
 <table>
     <tr>
+        <td><img src="./docs/dingtalk/assets/dingtalk.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.dingtalk.com/">钉钉</a></td>
+        <td>钉钉 AI 助理，它融合了钉钉平台的多项 AI 产品功能，以智能化的方式辅助企业日常的工作流程。钉钉 AI 助理具备多种智能能力，包括但不限于智能沟通、智能协同、智能管理等。通过这些功能，AI 助理能够在企业内部中归纳要点、生成会议纪要，并且能够为用户推送相关工作任务和日程提醒。此外，钉钉 AI 助理还能够通过知识库的能力智能地回答员工企业的行政流程、人力资源政策等多个方面的常见问题。</td>
+    </tr>
+    <tr>
         <td><img src="https://github.com/mrzhang1013/CodingSee/blob/main/codingseeicon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.codingsee.com">CodingSee-AI伴学</a></td>
         <td>CodingSee是一款专为中国少儿编程设计的软件，内容包含社区，项目协作，站内实时消息，AI问答，Scratch/Python/C++编译环境，代码精准纠错的集成平台，UI设计友好，目前支持Windows和mac系统。</td>
