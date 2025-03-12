@@ -18,6 +18,11 @@
 
 <table>
     <tr>
+        <td><img src="docs/aingdesk/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/aingdesk/AingDesk">AingDesk</a></td>
+        <td>一鍵將AI模型部署在你的電腦上，操作可視化，內建精美聊天界面，可線上分享供他人共用，支援 DeepSeek 等其他模型，並提供聯網搜索及第三方API支持。</td>
+    </tr>
+    <tr>
         <td><img src="docs/dingtalk/assets/dingtalk_icon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.dingtalk.com/">釘釘</a></td>
         <td>釘釘 AI 助理融合了釘釘平台的多項 AI 產品功能，以智能化的方式輔助企業日常工作流程。釘釘 AI 助理具備多種智能能力，包括但不限於智能溝通、智能協同、智能管理等。通過這些功能，AI 助理能夠在企業內部歸納要點、生成會議紀要，並且能夠為用戶推送相關工作任務和日程提醒。此外，釘釘 AI 助理還能夠通過知識庫的能力，智能地回答員工關於企業行政流程、人力資源政策等多個方面的常見問題。</td>
