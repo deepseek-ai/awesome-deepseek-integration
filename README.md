@@ -13,7 +13,31 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 <a href="https://trendshift.io/repositories/12798" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12798" alt="deepseek-ai%2Fawesome-deepseek-integration | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </div>
 
-### Applications
+## Table of Contents
+
+* [Applications](#applications)
+* [AI Agent frameworks](#agent)
+* [Data AI Applications frameworks](#data)
+* [RAG frameworks](#rag)
+* [FHE (Fully Homomorphic Encryption) frameworks](#fhe)
+* [Solana frameworks](#solana)
+* [Synthetic data curation](#sythetic)
+* [IM Application Plugins](#im)
+* [Office Addin](#office)
+* [Browser Extensions](#browser)
+* [VS Code Extensions](#vscode)
+* [Visual Studio Extensions](#vs)
+* [neovim Extensions](#neovim)
+* [JetBrains Extensions](#jetbrains)
+* [Discord Bots](#discord)
+* [Native AI Code Editor](#codeeditor)
+* [Emacs](#emacs)
+* [Security](#security)
+* [Others](#others)
+
+## Project List
+
+###  <span id="applications">Applications</span>
 
 <table>
     <tr>
@@ -353,7 +377,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     </tr>
 </table>
 
-### AI Agent frameworks
+###  <span id="agent">AI Agent frameworks</span>
 
 <table>
     <tr>
@@ -413,7 +437,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     </tr>
 </table>
 
-### Data AI Applications frameworks
+###  <span id="data">Data AI Applications frameworks</span>
 
 <table>
     <tr>
@@ -426,7 +450,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-### RAG frameworks
+###  <span id="rag">RAG frameworks</span>
 
 <table>
     <tr>
@@ -451,7 +475,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-### FHE (Fully Homomorphic Encryption) frameworks
+###  <span id="fhe">FHE (Fully Homomorphic Encryption) frameworks</span>
 
 <table>
     <tr>
@@ -461,7 +485,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-### Solana frameworks
+###  <span id="solana">Solana frameworks</span>
 
 <table>
     <tr>
@@ -471,8 +495,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-### Synthetic data curation
-
+###  <span id="sythetic">Synthetic data curation</span>
 
 <table>
     <tr>
@@ -492,7 +515,8 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-### IM Application Plugins
+###  <span id="im">IM Application Plugins</span>
+
 <table>
     <tr>
         <td> <img src="https://github.com/InternLM/HuixiangDou/releases/download/v0.1.0rc1/huixiangdou.jpg" alt="Icon" width="64" height="auto" /> </td>
@@ -516,7 +540,8 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-### Office Addin
+###  <span id="office">Office Addin</span>
+
 <table>
     <tr>
         <td> <img src="https://www.44886.com/view/img/bukeng.png" alt="Icon" width="64" height="auto" /> </td>
@@ -525,7 +550,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-### Browser Extensions
+###  <span id="browser">Browser Extensions</span>
 
 <table>
     <tr>
@@ -600,7 +625,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-### VS Code Extensions
+###  <span id="vscode">VS Code Extensions</span>
 
 <table>
     <tr>
@@ -630,7 +655,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-### Visual Studio Extensions
+###  <span id="vs">Visual Studio Extensions</span>
 
 <table>
     <tr>
@@ -650,7 +675,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-### neovim Extensions
+###  <span id="neovim">neovim Extensions</span>
 
 <table>
     <tr>
@@ -675,7 +700,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-### JetBrains Extensions
+###  <span id="jetbrains">JetBrains Extensions</span>
 
 <table>
     <tr>
@@ -705,7 +730,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-### Discord Bots
+###  <span id="discord">Discord Bots</span>
 
 <table>
     <tr>
@@ -715,7 +740,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-### Native AI Code Editor
+###  <span id="codeeditor">Native AI Code Editor</span>
 
 <table>
     <tr>
@@ -730,7 +755,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-### Emacs
+###  <span id="emacs">Emacs</span>
 
 <table>
     <tr>
@@ -745,7 +770,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-### Security
+###  <span id="security">Security</span>
 
 <table>
     <tr>
@@ -760,7 +785,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-### Others
+###  <span id="others">Others</span>
 
 <table>
     <tr>
