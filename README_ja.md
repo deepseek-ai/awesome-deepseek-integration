@@ -18,6 +18,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
+        <td><img src="docs/aingdesk/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/aingdesk/AingDesk">AingDesk</a></td>
+        <td>ワンクリックでAIモデルをパソコンにデプロイ可能。操作は視覚化され、美しいチャットインターフェースが内蔵されており、オンラインで他人と共有して利用できます。DeepSeekなどの他のモデルにも対応し、インターネット検索やサードパーティAPIもサポートしています。</td>
+    </tr>
+    <tr>
         <td><img src="docs/dingtalk/assets/dingtalk_icon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.dingtalk.com/">DingTalk</a></td>
         <td>DingTalk AIアシスタントは、DingTalkプラットフォームのさまざまなAI機能を統合し、企業の日常業務プロセスをインテリジェントにサポートします。DingTalk AIアシスタントは、スマートコミュニケーション、スマートコラボレーション、スマートマネジメントなど、多様なインテリジェント機能を備えています。これらの機能を活用し、企業内の要点を整理し、会議議事録を作成し、関連する業務タスクやスケジュールのリマインダーをユーザーに通知することができます。さらに、DingTalk AIアシスタントはナレッジベースを活用し、企業の管理プロセスや人事ポリシーなどに関する従業員からの一般的な質問に対して、インテリジェントに回答することも可能です。</td>
