@@ -285,6 +285,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td><a href="https://github.com/Richasy/Bili.Copilot">Bili.Copilot</a></td>
         <td>B局のサードパーティ製Windowsデスクトップクライアント、Windows App SDKを使用して構築されたネイティブアプリケーション。</td>
     </tr>
+    <tr>
+        <td><img src="https://www.tensorbounce.com/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
+        <td>LawAgentは、Tensorbounceチームによって開発された、知識ベースとAIエージェント機能を統合した法律AI製品です。公式の法律関連データを数千万件も保有しており、カスタム知識ベースの設定も可能です。プロフェッショナルモードでは、DeepSeek-R1の推論能力を活用し、ユーザーの法律分析、契約審査、文書生成、ファイル翻訳などの法律シーンをサポートします。</td>
+    </tr>
 </table>
 
 ###  <span id="agent">AI エージェントフレームワーク</span>
