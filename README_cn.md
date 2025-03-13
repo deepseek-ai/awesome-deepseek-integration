@@ -453,6 +453,14 @@
     </tr>
 </table>
 
+<table>
+    <tr>
+        <td> <img src="https://www.aippt.cn/_nuxt/logo_cn.eYEokZzA.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.aippt.cn/">AiPPT</a> </td>
+        <td>输入内容主题，一键生成PPT</td>
+    </tr>
+</table>
+
 ###  <span id="browser">浏览器插件</span>
 
 <table>
