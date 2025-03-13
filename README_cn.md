@@ -14,8 +14,28 @@
 
 <br></br>
 
+## 目录
 
-### 应用程序
+* [应用程序](#applications)
+* [AI Agent 框架](#agent)
+* [AI数据应用框架](#data)
+* [RAG 框架](#rag)
+* [FHE (全同态加密) frameworks](#fhe)
+* [Solana 框架](#solana)
+* [综合数据管理](#sythetic)
+* [即时通讯插件](#im)
+* [Office插件](#office)
+* [浏览器插件](#browser)
+* [VS Code 插件](#vscode)
+* [neovim 插件](#neovim)
+* [JetBrains 插件](#jetbrains)
+* [AI Code编辑器](#codeeditor)
+* [安全](#security)
+* [其它](#others)
+
+## 项目列表
+
+###  <span id="applications">应用程序</span>
 
 <table>
     <tr>
@@ -296,7 +316,7 @@
 </table>
 
 
-### AI Agent 框架
+###  <span id="agent">AI Agent 框架</span>
 
 <table>
     <tr>
@@ -331,8 +351,7 @@
     </tr>
 </table>
 
-
-### AI数据应用框架
+###  <span id="data">AI数据应用框架</span>
 
 <table>
     <tr>
@@ -344,7 +363,7 @@
     </tr>
 </table>
 
-### RAG 框架
+###  <span id="rag">RAG 框架</span>
 
 <table>
     <tr>
@@ -369,7 +388,7 @@
     </tr>
 </table>
 
-### FHE (全同态加密) frameworks
+###  <span id="fhe">FHE (全同态加密) frameworks</span>
 
 <table>
     <tr>
@@ -379,8 +398,7 @@
     </tr>
 </table>
 
-
-### Solana 框架
+###  <span id="solana">Solana 框架</span>
 
 <table>
     <tr>
@@ -390,7 +408,7 @@
     </tr>
 </table>
 
-### 综合数据管理
+###  <span id="sythetic">综合数据管理</span>
 
 <table>
     <tr>
@@ -400,8 +418,7 @@
     </tr>
 </table>
 
-
-### 即时通讯插件
+###  <span id="im">即时通讯插件</span>
 
 <table>
     <tr>
@@ -426,7 +443,8 @@
     </tr>
 </table>
 
-### Office插件
+###  <span id="office">Office插件</span>
+
 <table>
     <tr>
         <td> <img src="https://www.44886.com/view/img/bukeng.png" alt="Icon" width="64" height="auto" /> </td>
@@ -435,7 +453,7 @@
     </tr>
 </table>
 
-### 浏览器插件
+###  <span id="browser">浏览器插件</span>
 
 <table>
     <tr>
@@ -505,8 +523,7 @@
     </tr>
 </table>
 
-
-### VS Code 插件
+###  <span id="vscode">VS Code 插件</span>
 
 <table>
     <tr>
@@ -536,8 +553,7 @@
     </tr>
 </table>
 
-
-### neovim 插件
+###  <span id="neovim">neovim 插件</span>
 
 <table>
     <tr>
@@ -562,8 +578,7 @@
     </tr>
 </table>
 
-
-### JetBrains 插件
+###  <span id="jetbrains">JetBrains 插件</span>
 
 <table>
     <tr>
@@ -578,8 +593,7 @@
     </tr>
 </table>
 
-
-### AI Code编辑器
+###  <span id="codeeditor">AI Code编辑器</span>
 
 <table>
     <tr>
@@ -594,7 +608,8 @@
     </tr>
 </table>
 
-### 安全
+###  <span id="security">安全</span>
+
 <table>
     <tr>
         <td> <img src="./docs/tencent/hunyuan.png"  alt="Icon" width="64" height="auto" /> </td>
@@ -603,7 +618,7 @@
     </tr>
 </table>
 
-### 其它
+###  <span id="others">其它</span>
 
 <table>
     <tr>
