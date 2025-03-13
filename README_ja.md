@@ -14,7 +14,27 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 </br>
 </br>
 
-### アプリケーション
+## 目次
+
+* [アプリケーション](#applications)
+* [AI エージェントフレームワーク](#agent)
+* [AIデータアプリケーション開発フレームワーク](#data)
+* [RAG フレームワーク](#rag)
+* [FHE フレームワーク](#fhe)
+* [Solana フレームワーク](#solana)
+* [合成データのカテゴリ化](#sythetic)
+* [IM アプリケーションプラグイン](#im)
+* [ブラウザ拡張機能](#browser)
+* [VS Code 拡張機能](#vscode)
+* [neovim 拡張機能](#neovim)
+* [JetBrains 拡張機能](#jetbrains)
+* [AI コードエディタ](#codeeditor)
+* [Emacs](#emacs)
+* [その他](#others)
+
+## プロジェクト一覧
+
+###  <span id="applications">アプリケーション</span>
 
 <table>
     <tr>
@@ -267,7 +287,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### AI エージェントフレームワーク
+###  <span id="agent">AI エージェントフレームワーク</span>
 
 <table>
     <tr>
@@ -297,7 +317,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### AIデータアプリケーション開発フレームワーク
+###  <span id="data">AIデータアプリケーション開発フレームワーク</span>
 
 <table>
     <tr>
@@ -309,7 +329,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### RAG フレームワーク
+###  <span id="rag">RAG フレームワーク</span>
 
 <table>
     <tr>
@@ -334,7 +354,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### FHE フレームワーク
+###  <span id="fhe">FHE フレームワーク</span>
 
 <table>
     <tr>
@@ -344,7 +364,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### Solana フレームワーク
+###  <span id="solana">Solana フレームワーク</span>
 
 <table>
     <tr>
@@ -354,7 +374,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### 合成データのカテゴリ化
+###  <span id="sythetic">合成データのカテゴリ化</span>
 
 <table>
     <tr>
@@ -364,8 +384,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-
-### IM アプリケーションプラグイン
+###  <span id="im">IM アプリケーションプラグイン</span>
 
 <table>
     <tr>
@@ -390,7 +409,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### ブラウザ拡張機能
+###  <span id="browser">ブラウザ拡張機能</span>
 
 <table>
     <tr>
@@ -460,7 +479,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### VS Code 拡張機能
+###  <span id="vscode">VS Code 拡張機能</span>
 
 <table>
     <tr>
@@ -490,7 +509,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### neovim 拡張機能
+###  <span id="neovim">neovim 拡張機能</span>
 
 <table>
     <tr>
@@ -510,7 +529,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### JetBrains 拡張機能
+###  <span id="jetbrains">JetBrains 拡張機能</span>
 
 <table>
     <tr>
@@ -540,7 +559,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### AI コードエディタ
+###  <span id="codeeditor">AI コードエディタ</span>
 
 <table>
     <tr>
@@ -555,7 +574,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### Emacs
+###  <span id="emacs">Emacs</span>
 
 <table>
     <tr>
@@ -570,8 +589,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-
-### その他
+###  <span id="others">その他</span>
 
 <table>
     <tr>
