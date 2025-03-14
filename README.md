@@ -380,6 +380,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td><a href="https://github.com/Richasy/Bili.Copilot">Bili.Copilot</a></td>
         <td>Bilibili third-party Windows desktop client, a native application built with the Windows App SDK.</td>
     </tr>
+     <tr>
+        <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://wwtl.lanzouv.com/b05fmred">Multi-platform connected DeepSeek</a></td>
+        <td>Leveraging the three-channel AI engine powered by DeepSeek Official, Alibaba Cloud, and Douyin Volcano, it continuously evolves its         intelligence. Additionally, it employs a hybrid mode combining "online search + deep thinking".</td>
+    </tr>
     <tr>
         <td><img src="https://www.tensorbounce.com/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
