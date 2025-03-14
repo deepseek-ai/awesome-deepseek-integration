@@ -460,6 +460,11 @@
         <td> <a href="https://www.bukenghezi.com/">不坑盒子</a> </td>
         <td>一款支持Word、Excel、PPT三件套的Office插件（WPS三件套也支持），给Office增加300多功能</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.aippt.cn/_nuxt/logo_cn.eYEokZzA.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.aippt.cn/">AiPPT</a> </td>
+        <td>AiPPT，是一款将AI大模型与PPT场景深度结合的产品。根据向AI提问需求，AiPPT便能快速生成完整、专业的PPT</td>
+    </tr>
 </table>
 
 ###  <span id="browser">浏览器插件</span>

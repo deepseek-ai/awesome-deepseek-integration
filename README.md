@@ -563,6 +563,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://www.bukenghezi.com/">BKOffice</a> </td>
         <td>An Office plugin that supports the Word, Excel, and PPT suite (also supports the WPS suite), adding more than 300 functions to Office.</td>
     </tr>
+      <tr>
+        <td> <img src="https://www.aippt.cn/_nuxt/logo_cn.eYEokZzA.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.aippt.cn/">AiPPT</a> </td>
+        <td>AiPPT， It is a product that deeply integrates AI big models with PPT scenes. Based on the demand for AI questioning, AiPPT can quickly generate complete and professional PPTs</td>
+    </tr>
 </table>
 
 ###  <span id="browser">Browser Extensions</span>
