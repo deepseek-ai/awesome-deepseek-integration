@@ -374,6 +374,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
         <td>LawAgent es un producto de IA legal desarrollado por el equipo de Tensorbounce, que integra una base de conocimientos con capacidades de Agente IA. Cuenta con un vasto repositorio de decenas de millones de datos oficiales relacionados con el ámbito legal y también permite configuraciones personalizadas de la base de conocimientos. El modo profesional aprovecha las capacidades de razonamiento de DeepSeek-R1 para asistir a los usuarios en análisis legales, revisión de contratos, generación de documentos, traducción de archivos y otros escenarios legales.</td>
     </tr>
+    <tr>
+        <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
+<td><a href="https://wwtl.lanzouv.com/b05fmred">DeepSeek multiplataforma conectado a la red</a></td>
+<td> Basado en DeepSeek Official, Alibaba Cloud y Douyin Volcano, el motor de IA tricanal impulsa una inteligencia en evolución constante. Además, emplea un modo híbrido de "búsqueda conectada a la red + pensamiento profundo".</td>
+	</tr>
 </table>
 
 ###  <span id="agent">Marcos de agentes de IA</span>
