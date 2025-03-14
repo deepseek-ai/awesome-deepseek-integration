@@ -376,7 +376,7 @@
     </tr>
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://wwtl.lanzouv.com/b05fmred">多平臺聯網DeepSeek</a></td>
+        <td><a href="https://github.com/jiqi136/DS-AI">多平臺聯網DeepSeek</a></td>
         <td>依託DeepSeek官方&阿裡雲&抖音火山，三通道AI引擎，持續進化智慧。 並且混合使用“聯網蒐索+深度思考”模式。</td>
 	</tr>
 </table>
