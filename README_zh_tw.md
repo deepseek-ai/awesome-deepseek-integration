@@ -374,6 +374,11 @@
         <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
         <td>LawAgent是tensorbounce團隊出品的知識庫結合AI Agent的法律AI產品,擁有上千萬官方法律相關知識庫數據，用戶可自定義知識庫，專業模式結合DeepSeek-R1的推理能力應用在用戶的法律分析、合同審查、文書生成、文件翻譯等法律場景。</td>
     </tr>
+    <tr>
+        <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://wwtl.lanzouv.com/b05fmred">多平臺聯網DeepSeek</a></td>
+        <td>依託DeepSeek官方&阿裡雲&抖音火山，三通道AI引擎，持續進化智慧。 並且混合使用“聯網蒐索+深度思考”模式。</td>
+	</tr>
 </table>
 
 ###  <span id="agent">AI 智慧體框架</span>
