@@ -376,7 +376,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-<td><a href="https://wwtl.lanzouv.com/b05fmred">DeepSeek multiplataforma conectado a la red</a></td>
+<td><a href="https://github.com/jiqi136/DS-AI">DeepSeek multiplataforma conectado a la red</a></td>
 <td> Basado en DeepSeek Official, Alibaba Cloud y Douyin Volcano, el motor de IA tricanal impulsa una inteligencia en evolución constante. Además, emplea un modo híbrido de "búsqueda conectada a la red + pensamiento profundo".</td>
 	</tr>
 </table>
