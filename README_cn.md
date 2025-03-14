@@ -313,6 +313,11 @@
         <td><a href="https://github.com/Richasy/Bili.Copilot">哔哩助理</a></td>
         <td>B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用。</td>
     </tr>
+     <tr>
+        <td><img src="https://www.tensorbounce.com/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
+        <td>LawAgent是tensorbounce团队出品的知识库结合AI Agent的法律AI产品,拥有上千万官方法律相关知识库数据，用户可自定义知识库，专业模式结合DeepSeek-R1的推理能力应用在用户的法律分析、合同审查、文书生成、文件翻译等法律场景。</td>
+    </tr>
 </table>
 
 

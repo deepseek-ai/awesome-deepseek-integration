@@ -15,7 +15,30 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 </br>
 </br>
 
-### Aplicaciones
+## Tabla de contenidos
+
+* [Aplicaciones](#applications)
+* [Marcos de agentes de IA](#agent)
+* [Marcos de aplicaciones de datos de IA](#data)
+* [Marcos RAG](#rag)
+* [Marcos FHE (Cifrado Homomórfico Completo)](#fhe)
+* [Marcos Solana](#solana)
+* [Curación de datos sintéticos](#sythetic)
+* [Plugins de aplicaciones de mensajería instantánea](#im)
+* [Extensiones para Navegadores](#browser)
+* [Extensiones para VS Code](#vscode)
+* [Extensiones de Visual Studio](#vs)
+* [Extensiones de Neovim](#neovim)
+* [Extensiones de JetBrains](#jetbrains)
+* [Bots de Discord](#discord)
+* [Editor de Código Nativo con IA](#codeeditor)
+* [Emacs](#emacs)
+* [Seguridad](#security)
+* [Otros](#others)
+
+## Lista de proyectos
+
+###  <span id="applications">Aplicaciones</span>
 
 <table>
     <tr>
@@ -346,9 +369,14 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td><a href="https://github.com/Richasy/Bili.Copilot">Bili.Copilot</a></td>
         <td>Cliente de escritorio Windows de terceros en la estación b, una aplicación nativa construida con el SDK de la aplicación Windows.</td>
     </tr>
+    <tr>
+        <td><img src="https://www.tensorbounce.com/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
+        <td>LawAgent es un producto de IA legal desarrollado por el equipo de Tensorbounce, que integra una base de conocimientos con capacidades de Agente IA. Cuenta con un vasto repositorio de decenas de millones de datos oficiales relacionados con el ámbito legal y también permite configuraciones personalizadas de la base de conocimientos. El modo profesional aprovecha las capacidades de razonamiento de DeepSeek-R1 para asistir a los usuarios en análisis legales, revisión de contratos, generación de documentos, traducción de archivos y otros escenarios legales.</td>
+    </tr>
 </table>
 
-### Marcos de agentes de IA
+###  <span id="agent">Marcos de agentes de IA</span>
 
 <table>
     <tr>
@@ -408,7 +436,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
-### Marcos de aplicaciones de datos de IA
+###  <span id="data">Marcos de aplicaciones de datos de IA</span>
 
 <table>
     <tr>
@@ -418,7 +446,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
-### Marcos RAG
+###  <span id="rag">Marcos RAG</span>
 
 <table>
     <tr>
@@ -443,7 +471,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
-### Marcos FHE (Cifrado Homomórfico Completo)
+###  <span id="fhe">Marcos FHE (Cifrado Homomórfico Completo)</span>
 
 <table>
     <tr>
@@ -453,7 +481,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
-### Marcos Solana
+###  <span id="solana">Marcos Solana</span>
 
 <table>
     <tr>
@@ -463,7 +491,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
-### Curación de datos sintéticos
+###  <span id="sythetic">Curación de datos sintéticos</span>
 
 <table>
     <tr>
@@ -483,7 +511,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
-### Plugins de aplicaciones de mensajería instantánea
+###  <span id="im">Plugins de aplicaciones de mensajería instantánea</span>
 
 <table>
     <tr>
@@ -503,7 +531,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
-### Extensiones para Navegadores
+###  <span id="browser">Extensiones para Navegadores</span>
 
 <table>
     <tr>
@@ -578,7 +606,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
-### Extensiones para VS Code
+###  <span id="vscode">Extensiones para VS Code</span>
 
 <table>
     <tr>
@@ -608,7 +636,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
-### Extensiones de Visual Studio
+###  <span id="vs">Extensiones de Visual Studio</span>
 
 <table>
     <tr>
@@ -628,7 +656,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
-### Extensiones de Neovim
+###  <span id="neovim">Extensiones de Neovim</span>
 
 <table>
     <tr>
@@ -653,7 +681,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
-### Extensiones de JetBrains
+###  <span id="jetbrains">Extensiones de JetBrains</span>
 
 <table>
     <tr>
@@ -683,7 +711,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
-### Bots de Discord
+###  <span id="discord">Bots de Discord</span>
 
 <table>
     <tr>
@@ -693,7 +721,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
-### Editor de Código Nativo con IA
+###  <span id="codeeditor">Editor de Código Nativo con IA</span>
 
 <table>
     <tr>
@@ -708,7 +736,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
-### Emacs
+###  <span id="emacs">Emacs</span>
 
 <table>
     <tr>
@@ -723,7 +751,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
-### Seguridad
+###  <span id="security">Seguridad</span>
 
 <table>
     <tr>
@@ -738,7 +766,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
-### Otros
+###  <span id="others">Otros</span>
 
 <table>
     <tr>
