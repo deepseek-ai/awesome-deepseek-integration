@@ -369,6 +369,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td><a href="https://github.com/Richasy/Bili.Copilot">Bili.Copilot</a></td>
         <td>Cliente de escritorio Windows de terceros en la estación b, una aplicación nativa construida con el SDK de la aplicación Windows.</td>
     </tr>
+    <tr>
+        <td><img src="https://www.tensorbounce.com/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
+        <td>LawAgent es un producto de IA legal desarrollado por el equipo de Tensorbounce, que integra una base de conocimientos con capacidades de Agente IA. Cuenta con un vasto repositorio de decenas de millones de datos oficiales relacionados con el ámbito legal y también permite configuraciones personalizadas de la base de conocimientos. El modo profesional aprovecha las capacidades de razonamiento de DeepSeek-R1 para asistir a los usuarios en análisis legales, revisión de contratos, generación de documentos, traducción de archivos y otros escenarios legales.</td>
+    </tr>
 </table>
 
 ###  <span id="agent">Marcos de agentes de IA</span>
