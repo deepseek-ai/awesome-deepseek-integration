@@ -292,7 +292,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-<td><a href="https://wwtl.lanzouv.com/b05fmred">マルチプラットフォーム対応ネットワークDeepSeek</a></td>
+<td><a href="https://github.com/jiqi136/DS-AI">マルチプラットフォーム対応ネットワークDeepSeek</a></td>
 <td> DeepSeek公式、アリクラウド、TikTok火山の3つのプラットフォームを連携させたトリプルチャネルAIエンジンにより、絶えず進化するインテリジェンスを実現。さらに「オンライン検索」と「深度思考」を融合したハイブリッドモードを採用しています.</td>
 	</tr>
     
