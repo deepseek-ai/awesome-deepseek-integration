@@ -290,6 +290,12 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
         <td>LawAgentは、Tensorbounceチームによって開発された、知識ベースとAIエージェント機能を統合した法律AI製品です。公式の法律関連データを数千万件も保有しており、カスタム知識ベースの設定も可能です。プロフェッショナルモードでは、DeepSeek-R1の推論能力を活用し、ユーザーの法律分析、契約審査、文書生成、ファイル翻訳などの法律シーンをサポートします。</td>
     </tr>
+    <tr>
+        <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
+<td><a href="https://wwtl.lanzouv.com/b05fmred">マルチプラットフォーム対応ネットワークDeepSeek</a></td>
+<td> DeepSeek公式、アリクラウド、TikTok火山の3つのプラットフォームを連携させたトリプルチャネルAIエンジンにより、絶えず進化するインテリジェンスを実現。さらに「オンライン検索」と「深度思考」を融合したハイブリッドモードを採用しています.</td>
+	</tr>
+    
 </table>
 
 ###  <span id="agent">AI エージェントフレームワーク</span>
