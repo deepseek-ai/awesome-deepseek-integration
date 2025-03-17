@@ -461,6 +461,11 @@
         <td> <a href="https://www.aippt.cn/">AiPPT</a> </td>
         <td>AiPPT.com 超2000万用户选择的正版AiPPT。一句话，一分钟，一键生成 PPT。</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.office-ai.cn/static/images/officeai/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.office-ai.cn/">OfficeAI助手</a> </td>
+        <td>OfficeAI助手是一款免费的办公插件，在Office中提供AI问答、AI校对、AI排版、AI创作、AI数据处理等功能，可提高办公效率。兼容Microsoft Office和WPS Office。</td>
+    </tr>
 </table>
 
 ###  <span id="browser">浏览器插件</span>
