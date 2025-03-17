@@ -563,6 +563,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://www.aippt.cn/">AiPPT</a> </td>
         <td>AiPPT.com，chosen by over 20 million users，One sentence, one minute, one click to generate PPT。</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/office-sec/OfficeAI/blob/main/logo/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.office-ai.cn/">OfficeAI Assistant</a> </td>
+        <td>OfficeAI Assistant is a free office plugin that provides functions such as AI Q&A, AI proofreading, AI typesetting, AI creation, and AI data processing within Office. It can improve office efficiency and is compatible with both Microsoft Office and WPS Office.</td>
+    </tr>
 </table>
 
 ###  <span id="browser">Browser Extensions</span>
