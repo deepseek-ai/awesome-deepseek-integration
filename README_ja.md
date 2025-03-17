@@ -568,6 +568,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://plugins.jetbrains.com/plugin/24851-ai-git-commit">AI Git Commit</a> </td>
         <td> このプラグインは、コードの変更に基づいてコミットメッセージを自動生成するためにAIを使用します。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/YiiGuxing/TranslationPlugin/blob/master/pluginIcon.svg?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://intellij-translation.yiiguxing.top/#/ja/">IntelliJ Translation Plugin</a> </td>
+        <td> IntelliJ Translation Pluginは、IntelliJベースのIDE向けの翻訳プラグインです。このプラグインは、OpenAI Translator（DeepSeek、Doubao、Ollamaなどと互換性あり）を含む複数の翻訳サービスを統合しており、IDE内で直接テキスト、コードのコメント、コードのドキュメントなどをいつでも翻訳することができます。</td>
+    </tr>
 </table>
 
 ###  <span id="codeeditor">AI コードエディタ</span>
