@@ -561,7 +561,7 @@ The purpose is to build infrastructure in the field of large models, through the
       <tr>
         <td> <img src="https://www.aippt.cn/_nuxt/logo_cn.eYEokZzA.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.aippt.cn/">AiPPT</a> </td>
-        <td>AiPPT， It is a product that deeply integrates AI big models with PPT scenes. Based on the demand for AI questioning, AiPPT can quickly generate complete and professional PPTs</td>
+        <td>AiPPT.com，chosen by over 20 million users，One sentence, one minute, one click to generate PPT。</td>
     </tr>
 </table>
 

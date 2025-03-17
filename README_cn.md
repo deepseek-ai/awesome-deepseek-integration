@@ -459,7 +459,7 @@
     <tr>
         <td> <img src="https://www.aippt.cn/_nuxt/logo_cn.eYEokZzA.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.aippt.cn/">AiPPT</a> </td>
-        <td>AiPPT，是一款将AI大模型与PPT场景深度结合的产品。根据向AI提问需求，AiPPT便能快速生成完整、专业的PPT</td>
+        <td>AiPPT.com 超2000万用户选择的正版AiPPT。一句话，一分钟，一键生成 PPT。</td>
     </tr>
 </table>
 
