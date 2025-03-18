@@ -81,7 +81,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td><a href="https://www.gptbots.ai/es_ES/docs">GPTBots</a></td>
         <td><a href="https://www.gptbots.ai/es_ES/">GPTBots</a> es una plataforma de construcción de agentes de IA sin necesidad de programación que integra importantes LLMs internacionales, incluyendo DeepSeek. Ofrece módulos para almacenamiento/recuperación de conocimiento basado en RAG, personalización/llamada de herramientas y orquestación de flujos de trabajo. Además, permite integrar agentes en múltiples plataformas principales (como WhatsApp, Telegram, etc.), proporcionando soluciones integrales de IA para empresas y ayudándolas a destacarse en la era de la IA.</td>
     </tr>
-    <tr>    
+    <tr>
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icono" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
         <td>DeepChat es un asistente inteligente de escritorio completamente gratuito, con un potente modelo grande DeepSeek, que admite conversaciones de múltiples rondas, búsqueda en internet, carga de archivos, bases de conocimiento y más.</td>
@@ -197,7 +197,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <a href="https://github.com/tornikegomareli/DeepSwiftSeek/blob/main/README.md">DeepSwiftSeek</a>
   </td>
   <td>
-    DeepSwiftSeek es una biblioteca cliente Swift ligera pero poderosa, con una buena integración con la API de DeepSeek. 
+    DeepSwiftSeek es una biblioteca cliente Swift ligera pero poderosa, con una buena integración con la API de DeepSeek.
     Proporciona concurrencia Swift fácil de usar para chat, streaming, FIM (Fill-in-the-Middle) completions y más.
   </td>
 </tr>
@@ -288,7 +288,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/README.md"> Alpha Pai </a> </td>
         <td> Asistente de Investigación AI / El portal de información financiera de próxima generación impulsado por IA.<br>Proxy para inversores para asistir a reuniones y tomar notas, así como proporcionar servicios de búsqueda y preguntas y respuestas para información financiera y análisis cuantitativo para investigación de inversiones.</td>
     </tr>
-        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icono" width="64" height="auto" /> </td> 
+        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icono" width="64" height="auto" /> </td>
         <td> <a href="https://www.xark-argo.com">argo</a> </td>
         <td>Descarga y ejecuta localmente modelos Ollama y Huggingface con RAG en Mac/Windows/Linux. También admite API de LLM.</td>
     </tr>
@@ -300,7 +300,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <tr>
         <td> <img src="https://raw.githubusercontent.com/labring/FastGPT/refs/heads/main/.github/imgs/logo.svg" alt="Icono" width="64" height="auto" /> </td>
         <td> <a href="https://fastgpt.cn/en">FastGPT</a> </td>
-        <td> 
+        <td>
             FastGPT es una plataforma de base de conocimientos de IA de código abierto construida sobre modelos de lenguaje grande (LLMs), compatible con varios modelos, incluyendo DeepSeek y OpenAI. Proporcionamos capacidades listas para usar para procesamiento de datos, invocación de modelos, recuperación RAG y orquestación visual de flujos de trabajo de IA, permitiéndote construir aplicaciones de IA sofisticadas sin esfuerzo.
         </td>
    </tr>
@@ -315,7 +315,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> Chatgpt-on-Wechat(CoW) es un marco de chatbot flexible que admite la integración perfecta de múltiples LLMs, incluyendo DeepSeek, OpenAI, Claude, Qwen y otros, en plataformas comúnmente utilizadas o software de oficina como WeChat Official Accounts, WeCom, Feishu, DingTalk y sitios web. También admite una amplia gama de plugins personalizados. </td>
     </tr>
     <tr>
-        <td> <img src="https://athenalab.ai/assets/favicon/favicon.svg" alt="Icono" width="64" height="auto" /> </td> 
+        <td> <img src="https://athenalab.ai/assets/favicon/favicon.svg" alt="Icono" width="64" height="auto" /> </td>
         <td> <a href="https://athenalab.ai/">Athena</a> </td>
         <td>La primera IA general autónoma del mundo con arquitectura cognitiva avanzada y capacidades de razonamiento humano, diseñada para abordar desafíos complejos del mundo real.</td>
     </tr>
@@ -408,7 +408,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <img src="https://rig.rs/assets/favicon.png" alt="Icon" width="64" height="auto" alt="Rig (Rust)" /> </td>
         <td> <a href="https://rig.rs">RIG</a> </td>
         <td>Construye aplicaciones LLM modulares y escalables en Rust.</td>
-    </tr> 
+    </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/longevity-genie/chat-ui/11c6647c83f9d2de21180b552474ac5ffcf53980/static/geneticsgenie/icon-128x128.png" alt="Icon" width="64" height="auto"/> </td>
         <td> <a href="https://github.com/longevity-genie/just-agents">Just-Agents</a> </td>
@@ -425,7 +425,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td>Upsonic ofrece un marco de agentes listo para empresas de última generación donde puedes orquestar llamadas LLM, agentes y uso de computadoras para completar tareas de manera rentable.</td>
     </tr>
     <tr>
-        <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
         <td>Un marco de protocolo fundamental para la comunicación confiable entre agentes. Cualquier agente basado en DeepSeek, al integrarse con el SDK de <a href="https://docs.apro.com/attps">ATTPs</a>, puede acceder a funciones como registro de agentes, envío de datos verificables y recuperación de datos verificables. Así, puede establecer una comunicación confiable con agentes de otras plataformas.</td>
     </tr>
@@ -794,9 +794,14 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/fatwang2/siri-ultra"> Siri Ultra </a> </td>
         <td> Un proyecto de GitHub con 1000 estrellas, que soporta conectividad a internet, conversaciones de múltiples turnos y modelos de la serie DeepSeek </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/yincongcyincong/telegram-deepseek-bot/blob/main/static/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> </td>
+        <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> es un bot de Telegram integrado con las capacidades de DeepSeek AI. </td>
+    </tr>
 </table>
 
 ### Historial de Estrellas
 
-[![Star History Chart](https://api.star-history.com/svg?repos=deepseek-ai/awesome-deepseek-integration&type=Date)](https://star-history.com/#deepseek-ai/awesome-deepseek-integration&Date)  
+[![Star History Chart](https://api.star-history.com/svg?repos=deepseek-ai/awesome-deepseek-integration&type=Date)](https://star-history.com/#deepseek-ai/awesome-deepseek-integration&Date)
 Este gráfico muestra la evolución de las estrellas del repositorio en GitHub a lo largo del tiempo.

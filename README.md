@@ -48,7 +48,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td><img src="docs/dingtalk/assets/dingtalk_icon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.dingtalk.com/">DingTalk</a></td>
-        <td>DingTalk AI Assistant integrates multiple AI product features from the DingTalk platform to intelligently support enterprises in their daily workflows. It possesses various intelligent capabilities, including but not limited to smart communication, smart collaboration, and smart management.  
+        <td>DingTalk AI Assistant integrates multiple AI product features from the DingTalk platform to intelligently support enterprises in their daily workflows. It possesses various intelligent capabilities, including but not limited to smart communication, smart collaboration, and smart management.
 
 With these functionalities, the AI assistant can summarize key points within an organization, generate meeting minutes, and provide users with relevant task notifications and schedule reminders. Additionally, DingTalk AI Assistant leverages its knowledge base to intelligently answer common employee inquiries regarding company administrative processes, HR policies, and other related topics.</td>
     </tr>
@@ -82,7 +82,7 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td><a href="https://www.gptbots.ai/docs">GPTBots</a></td>
         <td><a href="https://www.gptbots.ai/">GPTBots</a> is a no-code AI agent building platform that integrates major international LLMs, including Deepseek. It offers modules for RAG-based knowledge storage/retrieval, tool customization/calling, and workflow orchestration. Additionally, it allows agents to be integrated into multiple mainstream platforms (such as WhatsApp, Telegram, etc.), providing end-to-end AI solutions for businesses and helping them stand out in the AI era.</td>
     </tr>
-    <tr>    
+    <tr>
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
         <td>DeepChat is a fully free desktop smart assistant, with a powerful DeepSeek large model, supporting multi-round conversations, internet search, file uploads, knowledge bases, and more.</td>
@@ -203,7 +203,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <a href="https://github.com/tornikegomareli/DeepSwiftSeek/blob/main/README.md">DeepSwiftSeek</a>
   </td>
   <td>
-    DeepSwiftSeek is a lightweight yet powerful Swift client library, pretty good integration with the DeepSeek API. 
+    DeepSwiftSeek is a lightweight yet powerful Swift client library, pretty good integration with the DeepSeek API.
     It provides easy-to-use Swift concurrency for chat, streaming, FIM (Fill-in-the-Middle) completions, and more.
   </td>
 </tr>
@@ -299,7 +299,7 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/README.md"> Alpha Pai </a> </td>
         <td> AI Research Assistant / The Next-Generation Financial Information Portal Driven by AI.<br>Proxy for investors to attend meetings and take notes, as well as providing search and Q&A services for financial information and quantitative analysis for investment research.</td>
     </tr>
-        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.xark-argo.com">argo</a> </td>
         <td>Locally download and run Ollama and Huggingface models with RAG on Mac/Windows/Linux. Support LLM API too.</td>
     </tr>
@@ -311,7 +311,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td> <img src="https://raw.githubusercontent.com/labring/FastGPT/refs/heads/main/.github/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://fastgpt.cn/en">FastGPT</a> </td>
-        <td> 
+        <td>
             FastGPT is an open-source AI knowledge base platform built on large language models (LLMs), supporting various models including DeepSeek and OpenAI. We provide out-of-the-box capabilities for data processing, model invocation, RAG retrieval, and visual AI workflow orchestration, enabling you to effortlessly build sophisticated AI applications.
         </td>
    </tr>
@@ -326,7 +326,7 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> Chatgpt-on-Wechat(CoW) is a flexible chatbot framework that supports seamless integration of multiple LLMs, including DeepSeek, OpenAI, Claude, Qwen, and others, into commonly used platforms or office software such as WeChat Official Accounts, WeCom, Feishu, DingTalk, and websites. It also supports a wide range of custom plugins. </td>
     </tr>
     <tr>
-        <td> <img src="https://athenalab.ai/assets/favicon/favicon.svg" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <img src="https://athenalab.ai/assets/favicon/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://athenalab.ai/">Athena</a> </td>
         <td>The world's first autonomous general AI with advanced cognitive architecture and human-like reasoning capabilities, designed to tackle complex real-world challenges.</td>
     </tr>
@@ -423,7 +423,7 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <img src="https://rig.rs/assets/favicon.png" alt="Icon" width="64" height="auto" alt="Rig (Rust)" /> </td>
         <td> <a href="https://rig.rs">RIG</a> </td>
         <td>Build modular and scalable LLM Applications in Rust.</td>
-    </tr> 
+    </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/longevity-genie/chat-ui/11c6647c83f9d2de21180b552474ac5ffcf53980/static/geneticsgenie/icon-128x128.png" alt="Icon" width="64" height="auto"/> </td>
         <td> <a href="https://github.com/longevity-genie/just-agents">Just-Agents</a> </td>
@@ -440,7 +440,7 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td>Upsonic offers a cutting-edge enterprise-ready agent framework where you can orchestrate LLM calls, agents, and computer use to complete tasks cost-effectively.</td>
     </tr>
     <tr>
-        <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
         <td>A foundational protocol framework for trusted communication between agents. Any agents based on DeepSeek, By integrating with the <a href="https://docs.apro.com/attps">ATTPs</a> SDK, can access features such as agent registration, sending verifiable data, and retrieving verifiable data. So that it can make trusted communication with agents from other platforms. </td>
     </tr>
@@ -931,6 +931,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <img src="https://serpapi.com/android-chrome-512x512.png" alt="Icon" height="auto" />   </td>
         <td> <a href="https://serpapi.com/blog/connect-deepseek-api-with-the-internet-google-search-and-more/#connect-deepseek-with-google-search-result"> SerpApi </a> </td>
         <td> Connect DeepSeek API with search results like Google. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/yincongcyincong/telegram-deepseek-bot/blob/main/static/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> </td>
+        <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> is a Telegram bot integrated with DeepSeek AI capabilities. </td>
     </tr>
 </table>
 
