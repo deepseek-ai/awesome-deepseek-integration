@@ -715,6 +715,11 @@
         <td> <a href="https://plugins.jetbrains.com/plugin/24851-ai-git-commit">AI Git Commit</a> </td>
         <td> 此插件使用 AI 根據程式碼變更自動生成提交訊息。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/YiiGuxing/TranslationPlugin/blob/master/pluginIcon.svg?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://intellij-translation.yiiguxing.top/#/en/">IntelliJ Translation Plugin</a> </td>
+        <td> IntelliJ Translation Plugin 是一款適用於基於 IntelliJ 的 IDE 翻譯插件，它整合了包括 OpenAI 翻譯（相容 DeepSeek，Doubao，Ollama，……）在內的眾多翻譯服務，讓您能夠隨時在 IDE 中直接翻譯程式碼內的任意文字內容，例如程式碼註解與程式碼文件等。</td>
+    </tr>
 </table>
 
 ###  <span id="discord">Discord 機器人</span>

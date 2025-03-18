@@ -757,6 +757,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://plugins.jetbrains.com/plugin/24851-ai-git-commit">AI Git Commit</a> </td>
         <td> This plugin uses AI to automatically generate commit messages based on the changes in your code. </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/YiiGuxing/TranslationPlugin/blob/master/pluginIcon.svg?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://intellij-translation.yiiguxing.top/#/en/">IntelliJ Translation Plugin</a> </td>
+        <td> A translation plugin for IntelliJ-based IDEs that integrates multiple translation services, including OpenAI Translator (compatible with DeepSeek, Doubao, Ollama, etc.), allowing direct translation of code texts like comments and documentation within the IDE at any time. </td>
+    </tr>
 </table>
 
 ###  <span id="discord">Discord Bots</span>

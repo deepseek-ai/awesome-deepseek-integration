@@ -714,6 +714,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://plugins.jetbrains.com/plugin/24851-ai-git-commit">AI Git Commit</a> </td>
         <td> Este plugin utiliza IA para generar automáticamente mensajes de commit basados en los cambios en tu código. </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/YiiGuxing/TranslationPlugin/blob/master/pluginIcon.svg?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://intellij-translation.yiiguxing.top/#/en/">IntelliJ Translation Plugin</a> </td>
+        <td> Un complemento de traducción para IDEs basados en IntelliJ que integra múltiples servicios de traducción, incluyendo OpenAI Translator (compatible con DeepSeek, Doubao, Ollama, etc.), permitiendo traducir directamente textos de código como comentarios y documentación dentro del IDE en cualquier momento. </td>
+    </tr>
 </table>
 
 ###  <span id="discord">Bots de Discord</span>
