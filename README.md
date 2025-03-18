@@ -760,7 +760,7 @@ The purpose is to build infrastructure in the field of large models, through the
     <tr>
         <td> <img src="https://github.com/YiiGuxing/TranslationPlugin/blob/master/pluginIcon.svg?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://intellij-translation.yiiguxing.top/#/en/">IntelliJ Translation Plugin</a> </td>
-        <td> IntelliJ Translation Plugin is an IntelliJ-based IDEs translation plugin. It integrates multiple translation services, including OpenAI Translator (compatible with DeepSeek, Doubao, Ollama, ...), allowing you to translate text, code comments, code documentation, and more directly within your IDE at any time. </td>
+        <td> A translation plugin for IntelliJ-based IDEs that integrates multiple translation services, including OpenAI Translator (compatible with DeepSeek, Doubao, Ollama, etc.), allowing direct translation of code texts like comments and documentation within the IDE at any time. </td>
     </tr>
 </table>
 
