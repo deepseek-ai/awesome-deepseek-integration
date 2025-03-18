@@ -62,7 +62,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README_ja.md">4EVERChat</a></td>
     <td><a href="https://chat.4everland.org/">4EVERChat</a>は、数百のLLMを統合したインテリジェントなモデル選択プラットフォームで、モデルのパフォーマンスをリアルタイムで比較可能です。<a href="https://www.4everland.org/">4EVERLAND</a> AI RPCの統一APIエンドポイントを活用し、コストフリーでモデル切り替えを実現し、応答が速くコストの低い組み合わせを自動的に選択します。</td>
 </tr>
-    <tr>    
+    <tr>
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
         <td>DeepChat は、強力な DeepSeek モデルを内蔵した完全に無料のデスクトップ インテリジェント アシスタントです。複数ラウンドの会話、オンライン検索、ファイルのアップロード、ナレッジ ベースなどの複数の機能をサポートします。</td>
@@ -92,7 +92,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="./docs/Coco AI/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/Coco AI/README.md">Coco AI</a></td>
         <td> <a href="https://coco.rs">Coco AI</a> は、完全にオープンソースでクロスプラットフォーム対応の統合検索および生産性向上ツールで、アプリケーション、ファイル、Google Drive、Notion、Yuque、Hugoなど、ローカルおよびクラウドのさまざまなデータソースを接続して検索できます。DeepSeekなどの大規模モデルと連携することにより、Coco AIはインテリジェントな個人のナレッジ管理を実現し、プライバシーを重視し、プライベートなデプロイにも対応。ユーザーが情報に迅速かつインテリジェントにアクセスできるようサポートします。 </td>
-    </tr>  
+    </tr>
     <tr>
         <td> <img src="./docs/liubai/assets/liubai-logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/liubai/README.md">Liubai</a> </td>
@@ -219,7 +219,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> AI投資研究エージェント/次世代の金融情報エントリーポイント。投資家を代理して会議に出席し、AI議事録を取るほか、金融投資情報の検索・質問応答やエージェント駆使した定量分析など、投資研究業務を支援します。 </td>
     </tr>
     <tr>
-        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.xark-argo.com">argo</a> </td>
         <td>ローカルでダウンロードし、Mac、Windows、Linux 上でOllamaとHuggingfaceモデルをRAGで実行します。LLM APIもサポートしています。</td>
     </tr>
@@ -231,7 +231,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <tr>
         <td> <img src="https://raw.githubusercontent.com/labring/FastGPT/refs/heads/main/.github/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://fastgpt.cn/ja">FastGPT</a> </td>
-        <td> 
+        <td>
             FastGPT は大規模言語モデル（LLM）を基盤としたオープンソースAIナレッジベース構築プラットフォームで、DeepSeekやOpenAIなど様々なモデルをサポートしています。データ処理、モデル呼び出し、RAG検索、ビジュアルAIワークフロー設計などの導入即使用可能な機能を提供し、複雑なAIアプリケーションの構築を容易に実現します。
         </td>
    </tr>
@@ -290,6 +290,12 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
         <td>LawAgentは、Tensorbounceチームによって開発された、知識ベースとAIエージェント機能を統合した法律AI製品です。公式の法律関連データを数千万件も保有しており、カスタム知識ベースの設定も可能です。プロフェッショナルモードでは、DeepSeek-R1の推論能力を活用し、ユーザーの法律分析、契約審査、文書生成、ファイル翻訳などの法律シーンをサポートします。</td>
     </tr>
+    <tr>
+        <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
+<td><a href="https://github.com/jiqi136/DS-AI">マルチプラットフォーム対応ネットワークDeepSeek</a></td>
+<td> DeepSeek公式、アリクラウド、TikTok火山の3つのプラットフォームを連携させたトリプルチャネルAIエンジンにより、絶えず進化するインテリジェンスを実現。さらに「オンライン検索」と「深度思考」を融合したハイブリッドモードを採用しています.</td>
+	</tr>
+
 </table>
 
 ###  <span id="agent">AI エージェントフレームワーク</span>
@@ -301,7 +307,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td>高度にコンポーザブルで自律的かつ永続的な記憶を持つAIエージェントネットワークを構築するために設計されたRustフレームワーク。</td>
     </tr>
      <tr>
-        <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
         <td>エージェント間の信頼できる通信のための基本プロトコルフレームワークです。利用者は<a href="https://docs.apro.com/attps">ATTPs</a>のSDKを導入することで、エージェントの登録、検証可能なデータの送信、検証可能なデータの取得などの機能を利用することができます。</td>
     </tr>
@@ -562,6 +568,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://plugins.jetbrains.com/plugin/24851-ai-git-commit">AI Git Commit</a> </td>
         <td> このプラグインは、コードの変更に基づいてコミットメッセージを自動生成するためにAIを使用します。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/YiiGuxing/TranslationPlugin/blob/master/pluginIcon.svg?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://intellij-translation.yiiguxing.top/#/ja/">IntelliJ Translation Plugin</a> </td>
+        <td> IntelliJベースのIDE向け翻訳プラグイン。OpenAI Translator（DeepSeek・Doubao・Ollamaなど互換）を含む複数翻訳サービスを統合し、IDE内でコメントやドキュメント等のコードテキストを随時直接翻訳可能にします。</td>
+    </tr>
 </table>
 
 ###  <span id="codeeditor">AI コードエディタ</span>
@@ -656,5 +667,10 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="./docs/tencent/hunyuan.png"  alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/tencent/AI-Infra-Guard"> AI-Infra-Guard </a> </td>
         <td> テンセント混元セキュリティチーム - AIインフラのセキュリティ評価ツールで、AIシステムにおける潜在的なセキュリティリスクを発見・検出することを目的としています。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/yincongcyincong/telegram-deepseek-bot/blob/main/static/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> </td>
+        <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> はDeepSeek AI機能を統合したTelegramボットです。 </td>
     </tr>
 </table>

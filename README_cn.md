@@ -237,7 +237,7 @@
         <td> AI投研助理/AI驱动的新一代金融信息入口。代理投资者听会/记纪要，金融投资信息的搜索问答/定量分析等投资研究工作。 </td>
     </tr>
     <tr>
-        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.xark-argo.com">argo</a> </td>
         <td> 本地下载并运行Huggingface及Ollama模型，支持RAG、LLM API、工具接入等，支持Mac/Windows/Linux。 </td>
     </tr>
@@ -249,7 +249,7 @@
     <tr>
         <td> <img src="https://raw.githubusercontent.com/labring/FastGPT/refs/heads/main/.github/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://fastgpt.cn/zh">FastGPT</a> </td>
-        <td> 
+        <td>
             FastGPT 基于 LLM 大模型的开源 AI 知识库构建平台，支持 DeepSeek、OpenAI 等多种模型。我们提供了开箱即用的数据处理、模型调用、RAG 检索、可视化 AI 工作流编排等能力，帮助您轻松构建复杂的 AI 应用。
         </td>
     </tr>
@@ -264,7 +264,7 @@
         <td>如知AI笔记是一款智能化的AI知识管理工具，致力于为用户提供一站式的知识管理和应用服务，包括AI搜索探索、AI结果转笔记、笔记管理与整理、知识演示与分享等。集成了DeepSeek深度思考模型，提供更稳定、更高质量的输出。</td>
     </tr>
     <tr>
-        <td> <img src="https://athenalab.ai/assets/favicon/favicon.svg" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <img src="https://athenalab.ai/assets/favicon/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://athenalab.ai/">Athena</a> </td>
         <td>世界上首个具有先进认知架构和类人推理能力的自主通用人工智能，旨在解决复杂的现实世界挑战。</td>
     </tr>
@@ -317,6 +317,15 @@
         <td><img src="https://www.tensorbounce.com/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
         <td>LawAgent是tensorbounce团队出品的知识库结合AI Agent的法律AI产品,拥有上千万官方法律相关知识库数据，用户可自定义知识库，专业模式结合DeepSeek-R1的推理能力应用在用户的法律分析、合同审查、文书生成、文件翻译等法律场景。</td>
+     <tr>
+        <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
+<td><a href="https://github.com/jiqi136/DS-AI">多平台联网DeepSeek</a></td>
+<td>依托DeepSeek官方&阿里云&抖音火山,三通道AI引擎,持续进化智能。并且混合使用“联网搜索+深度思考”模式。</td>
+    </tr>
+    <tr>
+        <td width=80> <img src="docs/AlphaBot/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/x-pai/ai-stock-assistant">AlphaBot</a> </td>
+        <td> AlphaBot是一款智能股票分析助手，整合多源数据与AI分析技术，提供技术分析、预测和风险评估功能，帮助投资者做出数据驱动的交易决策。支持一键部署，操作简便，支持Windows/Linux/MacOS等平台</td>
     </tr>
 </table>
 
@@ -459,7 +468,12 @@
     <tr>
         <td> <img src="https://www.aippt.cn/_nuxt/logo_cn.eYEokZzA.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.aippt.cn/">AiPPT</a> </td>
-        <td>AiPPT，是一款将AI大模型与PPT场景深度结合的产品。根据向AI提问需求，AiPPT便能快速生成完整、专业的PPT</td>
+        <td>AiPPT.com 超2000万用户选择的正版AiPPT。一句话，一分钟，一键生成 PPT。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://www.office-ai.cn/static/images/officeai/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.office-ai.cn/">OfficeAI助手</a> </td>
+        <td>OfficeAI助手是一款免费的办公插件，在Office中提供AI问答、AI校对、AI排版、AI创作、AI数据处理等功能，可提高办公效率。兼容Microsoft Office和WPS Office。</td>
     </tr>
 </table>
 
@@ -601,6 +615,11 @@
         <td> <a href="https://plugins.jetbrains.com/plugin/24851-ai-git-commit">AI Git Commit</a> </td>
         <td> 使用AI生成git commit message的插件。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/YiiGuxing/TranslationPlugin/blob/master/pluginIcon.svg?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://intellij-translation.yiiguxing.top">IntelliJ Translation Plugin</a> </td>
+        <td> IntelliJ Translation Plugin 是一个适用于基于 IntelliJ 的 IDE 的翻译插件，它集成了包括 OpenAI 翻译（兼容 DeepSeek，Doubao，Ollama，……）在内的众多翻译服务，让您能够随时在 IDE 中直接翻译代码中的任何文本，如代码注释和代码文档等。</td>
+    </tr>
 </table>
 
 ###  <span id="codeeditor">AI Code编辑器</span>
@@ -685,5 +704,10 @@
         <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> 是一个开源、简洁、模块化的基于大模型的自动算法设计平台，使用DeepSeek API进行算法设计。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/yincongcyincong/telegram-deepseek-bot/blob/main/static/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> </td>
+        <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> 是一个集成deepseek-ai能力的telegram机器人。 </td>
     </tr>
 </table>
