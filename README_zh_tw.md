@@ -80,7 +80,7 @@
         <td><a href="https://www.gptbots.ai/zh_TW/docs">GPTBots</a></td>
         <td><a href="https://www.gptbots.ai/zh_TW/">GPTBots</a> 是一個免程式設計的 AI 智慧體構建平台，整合了多個國際 LLM，包括 DeepSeek。提供基於 RAG 的知識存儲/檢索、工具自訂/調用和工作流程編排模組。此外，還允許將智慧體整合到多個主流平台（如 WhatsApp、Telegram 等），為企業提供端到端的 AI 解決方案，幫助它們在 AI 時代脫穎而出。</td>
     </tr>
-    <tr>    
+    <tr>
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
         <td>DeepChat 是一款完全免費的桌面智慧助手，搭載強大的 DeepSeek 大模型，支援多輪對話、網路搜索、文件上傳、知識庫等功能。</td>
@@ -288,7 +288,7 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/README.md"> Alpha 派 </a> </td>
         <td> AI 研究助理 / 下一代由 AI 驅動的金融資訊門戶。<br>代替投資者參加會議並記錄筆記，同時提供金融資訊搜索與問答服務，以及投資研究的定量分析。</td>
     <tr>
-        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.xark-argo.com">argo</a> </td>
         <td>在 Mac/Windows/Linux 上本地下載並運行 Ollama 和 Huggingface 模型，並支援 RAG。也支援 LLM API。</td>
     </tr>
@@ -300,7 +300,7 @@
     <tr>
         <td> <img src="https://raw.githubusercontent.com/labring/FastGPT/refs/heads/main/.github/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://fastgpt.cn/en">FastGPT</a> </td>
-        <td> 
+        <td>
             FastGPT 是一個基於大型語言模型（LLMs）的開源 AI 知識庫平台，支援包括 DeepSeek 和 OpenAI 在內的多種模型。我們提供即開即用的數據處理、模型調用、RAG 檢索和可視化 AI 工作流編排功能，讓您輕鬆構建複雜的 AI 應用。
         </td>
     </tr>
@@ -315,7 +315,7 @@
         <td> Chatgpt-on-Wechat(CoW) 是一個靈活的聊天機器人框架，支援將多個 LLM（包括 DeepSeek、OpenAI、Claude、Qwen 等）無縫整合到常用平台或辦公軟體中，如微信公眾號、企業微信、飛書、釘釘和網站。還支援廣泛的自定義插件。</td>
     </tr>
     <tr>
-        <td> <img src="https://athenalab.ai/assets/favicon/favicon.svg" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <img src="https://athenalab.ai/assets/favicon/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://athenalab.ai/">Athena</a> </td>
         <td>全球首個具備先進認知架構和類人推理能力的自動化通用 AI，旨在解決複雜的現實世界挑戰。</td>
     </tr>
@@ -408,7 +408,7 @@
         <td> <img src="https://rig.rs/assets/favicon.png" alt="Icon" width="64" height="auto" alt="Rig (Rust)" /> </td>
         <td> <a href="https://rig.rs">RIG</a> </td>
         <td>在 Rust 中構建模組化且可擴展的大型語言模型應用程式。</td>
-    </tr> 
+    </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/longevity-genie/chat-ui/11c6647c83f9d2de21180b552474ac5ffcf53980/static/geneticsgenie/icon-128x128.png" alt="Icon" width="64" height="auto"/> </td>
         <td> <a href="https://github.com/longevity-genie/just-agents">Just-Agents</a> </td>
@@ -425,7 +425,7 @@
         <td>Upsonic 提供了一個尖端的企業級智慧體框架，您可以協調大型語言模型調用、智慧體和計算機使用，以具成本效益地完成任務。</td>
     </tr>
     <tr>
-        <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
         <td>一個用於智慧體之間可信通信的基礎協議框架。任何基於 DeepSeek 的智慧體，通過整合 <a href="https://docs.apro.com/attps">ATTPs</a> SDK，可以訪問智慧體註冊、發送可驗證數據和檢索可驗證數據等功能，從而實現與其他平台智慧體的可信通信。</td>
     </tr>
@@ -874,6 +874,11 @@
         <td>  </td>
         <td> <a href="https://github.com/JiauZhang/chatchat"> chatchat </a> </td>
         <td> 大型語言模型 Python API。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/yincongcyincong/telegram-deepseek-bot/blob/main/static/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> </td>
+        <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> 是一個集成 DeepSeek AI 能力的 Telegram 機器人。  </td>
     </tr>
 </table>
 
