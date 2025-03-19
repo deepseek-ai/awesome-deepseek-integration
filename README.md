@@ -401,6 +401,8 @@ With these functionalities, the AI assistant can summarize key points within an 
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 ###  <span id="agent">AI Agent frameworks</span>
 
 <table>
@@ -461,6 +463,8 @@ With these functionalities, the AI assistant can summarize key points within an 
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 ###  <span id="data">Data AI Applications frameworks</span>
 
 <table>
@@ -473,6 +477,8 @@ The purpose is to build infrastructure in the field of large models, through the
  </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 ###  <span id="rag">RAG frameworks</span>
 
@@ -499,6 +505,8 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 ###  <span id="fhe">FHE (Fully Homomorphic Encryption) frameworks</span>
 
 <table>
@@ -509,6 +517,8 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 ###  <span id="solana">Solana frameworks</span>
 
 <table>
@@ -518,6 +528,8 @@ The purpose is to build infrastructure in the field of large models, through the
         <td>An open-source toolkit for connecting AI agents to Solana protocols. Now, any agent, using any Deepseek LLM, can autonomously perform 60+ Solana actions: </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 ###  <span id="sythetic">Synthetic data curation</span>
 
@@ -538,6 +550,8 @@ The purpose is to build infrastructure in the field of large models, through the
         <td>Dingo: A Comprehensive Data Quality Evaluation Tool. </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 ###  <span id="im">IM Application Plugins</span>
 
@@ -564,6 +578,8 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 ###  <span id="office">Office Addin</span>
 
 <table>
@@ -583,6 +599,8 @@ The purpose is to build infrastructure in the field of large models, through the
         <td>OfficeAI Assistant is a free office plugin that provides functions such as AI Q&A, AI proofreading, AI typesetting, AI creation, and AI data processing within Office. It can improve office efficiency and is compatible with both Microsoft Office and WPS Office.</td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 ###  <span id="browser">Browser Extensions</span>
 
@@ -659,6 +677,8 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 ###  <span id="vscode">VS Code Extensions</span>
 
 <table>
@@ -689,6 +709,8 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 ###  <span id="vs">Visual Studio Extensions</span>
 
 <table>
@@ -708,6 +730,8 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Code assistance for Unity scripts </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 ###  <span id="neovim">neovim Extensions</span>
 
@@ -733,6 +757,8 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Minuet offers code completion as-you-type from popular LLMs including Deepseek, OpenAI, Gemini, Claude, Ollama, Codestral, and more. </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 ###  <span id="jetbrains">JetBrains Extensions</span>
 
@@ -769,6 +795,8 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 ###  <span id="discord">Discord Bots</span>
 
 <table>
@@ -778,6 +806,8 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Geneplore AI runs one of the largest AI Discord bots, now with Deepseek v3 and R1. </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 ###  <span id="codeeditor">Native AI Code Editor</span>
 
@@ -794,6 +824,8 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 ###  <span id="emacs">Emacs</span>
 
 <table>
@@ -809,6 +841,8 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 ###  <span id="security">Security</span>
 
 <table>
@@ -823,6 +857,8 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Tencent's Hunyuan Security Team - AI infrastructure security assessment tool designed to discover and detect potential security risks in AI systems.</td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 ###  <span id="others">Others</span>
 
@@ -943,6 +979,8 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> is a Telegram bot integrated with DeepSeek AI capabilities. </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 ### Star History
 
