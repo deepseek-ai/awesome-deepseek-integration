@@ -329,6 +329,7 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
 ###  <span id="agent">AI Agent 框架</span>
 
@@ -365,6 +366,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
 ###  <span id="data">AI数据应用框架</span>
 
 <table>
@@ -376,6 +379,8 @@
  </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
 ###  <span id="rag">RAG 框架</span>
 
@@ -402,6 +407,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
 ###  <span id="fhe">FHE (全同态加密) frameworks</span>
 
 <table>
@@ -411,6 +418,8 @@
         <td> <p>一个开源 SDK，可使用**全同态加密（FHE）**对 AI 进行加密，实现代理共识。FHE被誉为密码学的圣杯，能够在无需解密的情况下直接对加密数据进行计算。借助FHE，代理在使用Deepseek时可以保护隐私，同时确保模型的完整性和计算结果的一致性，无需暴露任何数据。该SDK的<a href="https://github.com/mind-network/mind-sdk-deepseek-rust">源代码</a>采用纯Rust实现，并可在<a href="https://crates.io/crates/mind_sdk_deepseek">crates.io</a>获取</p> </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
 ###  <span id="solana">Solana 框架</span>
 
@@ -422,6 +431,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
 ###  <span id="sythetic">综合数据管理</span>
 
 <table>
@@ -431,6 +442,8 @@
         <td> 一个综合性的数据质量评估工具。 </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
 ###  <span id="im">即时通讯插件</span>
 
@@ -457,6 +470,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
 ###  <span id="office">Office插件</span>
 
 <table>
@@ -476,6 +491,8 @@
         <td>OfficeAI助手是一款免费的办公插件，在Office中提供AI问答、AI校对、AI排版、AI创作、AI数据处理等功能，可提高办公效率。兼容Microsoft Office和WPS Office。</td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
 ###  <span id="browser">浏览器插件</span>
 
@@ -547,6 +564,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
 ###  <span id="vscode">VS Code 插件</span>
 
 <table>
@@ -577,6 +596,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
 ###  <span id="neovim">neovim 插件</span>
 
 <table>
@@ -602,6 +623,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
 ###  <span id="jetbrains">JetBrains 插件</span>
 
 <table>
@@ -622,6 +645,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
 ###  <span id="codeeditor">AI Code编辑器</span>
 
 <table>
@@ -637,6 +662,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
 ###  <span id="security">安全</span>
 
 <table>
@@ -646,6 +673,8 @@
         <td> 腾讯混元安全-AI基础设施安全评估工具，发现和检测AI系统中的潜在安全风险。</td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
 ###  <span id="others">其它</span>
 
@@ -711,3 +740,5 @@
         <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> 是一个集成deepseek-ai能力的telegram机器人。 </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
