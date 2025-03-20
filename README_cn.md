@@ -329,7 +329,7 @@
     </tr>
     <tr>
         <td width=80> <img src="docs/AlphaBot/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/x-pai/ai-stock-assistant">AlphaBot</a> </td>
+        <td> <a href="https://alphabot.x-pai.com/">AlphaBot</a> </td>
         <td> AlphaBot是一款智能股票分析助手，整合多源数据与AI分析技术，提供技术分析、预测和风险评估功能，帮助投资者做出数据驱动的交易决策。支持一键部署，操作简便，支持Windows/Linux/MacOS等平台</td>
     </tr>
 </table>
