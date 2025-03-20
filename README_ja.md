@@ -38,6 +38,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
+        <td><img src="docs/eechat/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Lucassssss/eechat">eechat</a></td>
+        <td>シンプルで使いやすい大規模言語モデルのローカル展開ツールです。DeepSeek-R1、DLlama 3、Phi-4、Mistral、Gemma 3などのオープンソースモデルのローカルでのプライバシー保護された展開をサポートし、リモートの大規模言語モデルAPIの呼び出しにも対応しています。</td>
+    </tr>
+    <tr>
         <td><img src="docs/aingdesk/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/aingdesk/AingDesk">AingDesk</a></td>
         <td>ワンクリックでAIモデルをパソコンにデプロイ可能。操作は視覚化され、美しいチャットインターフェースが内蔵されており、オンラインで他人と共有して利用できます。DeepSeekなどの他のモデルにも対応し、インターネット検索やサードパーティAPIもサポートしています。</td>

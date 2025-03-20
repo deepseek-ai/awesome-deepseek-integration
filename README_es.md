@@ -42,6 +42,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 <table>
     <tr>
+        <td><img src="docs/eechat/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Lucassssss/eechat">eechat</a></td>
+        <td>Una herramienta simple y fácil de usar para el despliegue local de modelos de lenguaje grandes, que admite el despliegue local privado de modelos de código abierto como DeepSeek-R1, DLlama 3, Phi-4, Mistral, Gemma 3, etc., y también es compatible con llamadas a API de LLM remotos.</td>
+    </tr>
+    <tr>
         <td><img src="docs/aingdesk/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/aingdesk/AingDesk">AingDesk</a></td>
         <td>Implementa modelos de IA en tu computadora con un solo clic, operación visualizada, interfaz de chat incorporada y elegante, se puede compartir en línea para uso compartido con otros, compatible con modelos como DeepSeek, búsqueda en la web y API de terceros.</td>

@@ -41,6 +41,11 @@
 
 <table>
     <tr>
+        <td><img src="docs/eechat/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Lucassssss/eechat">eechat</a></td>
+        <td>簡潔易用的大型模型本地部署工具，支援開源模型 DeepSeek-R1、DLlama 3、Phi-4、Mistral、Gemma 3 等模型的本地化隱私部署，同時支援遠端大型模型 API 呼叫。</td>
+    </tr>
+    <tr>
         <td><img src="docs/aingdesk/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/aingdesk/AingDesk">AingDesk</a></td>
         <td>一鍵將AI模型部署在你的電腦上，操作可視化，內建精美聊天界面，可線上分享供他人共用，支援 DeepSeek 等其他模型，並提供聯網搜索及第三方API支持。</td>
