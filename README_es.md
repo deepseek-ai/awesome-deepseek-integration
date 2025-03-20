@@ -386,6 +386,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 	</tr>
 </table>
 
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
+
 ###  <span id="agent">Marcos de agentes de IA</span>
 
 <table>
@@ -446,6 +448,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
+
 ###  <span id="data">Marcos de aplicaciones de datos de IA</span>
 
 <table>
@@ -455,6 +459,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> 🤖 DB-GPT es un marco de desarrollo de aplicaciones de datos nativo de IA de código abierto con AWEL (Lenguaje de Expresión de Flujo de Trabajo Agente) y agentes. El propósito es construir infraestructura en el campo de los grandes modelos, a través del desarrollo de múltiples capacidades técnicas como gestión de múltiples modelos (SMMF), optimización de efectos Text2SQL, marco y optimización RAG, colaboración de marcos de múltiples agentes, AWEL (orquestación de flujo de trabajo de agentes), etc. Lo que hace que las aplicaciones de grandes modelos con datos sean más simples y convenientes.</td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
 
 ###  <span id="rag">Marcos RAG</span>
 
@@ -481,6 +487,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
+
 ###  <span id="fhe">Marcos FHE (Cifrado Homomórfico Completo)</span>
 
 <table>
@@ -491,6 +499,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
+
 ###  <span id="solana">Marcos Solana</span>
 
 <table>
@@ -500,6 +510,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td>Un kit de herramientas de código abierto para conectar agentes de IA a protocolos Solana. Ahora, cualquier agente, utilizando cualquier LLM Deepseek, puede ejecutar de forma autónoma más de 60 operaciones en el ecosistema Solana.</td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
 
 ###  <span id="sythetic">Curación de datos sintéticos</span>
 
@@ -521,6 +533,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
+
 ###  <span id="im">Plugins de aplicaciones de mensajería instantánea</span>
 
 <table>
@@ -540,6 +554,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> Basado en el marco NoneBot, proporciona funciones de chat inteligente y pensamiento profundo, compatible con QQ, Lark, Discord, TG y más plataformas.</td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
 
 ###  <span id="browser">Extensiones para Navegadores</span>
 
@@ -616,6 +632,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
+
 ###  <span id="vscode">Extensiones para VS Code</span>
 
 <table>
@@ -646,6 +664,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
+
 ###  <span id="vs">Extensiones de Visual Studio</span>
 
 <table>
@@ -665,6 +685,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> Asistencia de código para scripts de Unity </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
 
 ###  <span id="neovim">Extensiones de Neovim</span>
 
@@ -690,6 +712,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> Minuet ofrece autocompletado de código mientras escribes, utilizando LLM populares como DeepSeek, OpenAI, Gemini, Claude, Ollama, Codestral y más. </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
 
 ###  <span id="jetbrains">Extensiones de JetBrains</span>
 
@@ -726,6 +750,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
+
 ###  <span id="discord">Bots de Discord</span>
 
 <table>
@@ -735,6 +761,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> Geneplore AI opera uno de los bots de Discord con IA más grandes, ahora con DeepSeek v3 y R1. </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
 
 ###  <span id="codeeditor">Editor de Código Nativo con IA</span>
 
@@ -751,6 +779,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
+
 ###  <span id="emacs">Emacs</span>
 
 <table>
@@ -766,6 +796,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
+
 ###  <span id="security">Seguridad</span>
 
 <table>
@@ -780,6 +812,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> Herramienta para evaluar la seguridad de infraestructuras de IA y detectar riesgos potenciales.</td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
 
 ###  <span id="others">Otros</span>
 
@@ -805,6 +839,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> es un bot de Telegram integrado con las capacidades de DeepSeek AI. </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
 
 ### Historial de Estrellas
 
