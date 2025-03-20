@@ -386,6 +386,8 @@
 	</tr>
 </table>
 
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
+
 ###  <span id="agent">AI 智慧體框架</span>
 
 <table>
@@ -446,6 +448,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
+
 ###  <span id="data">數據 AI 應用框架</span>
 
 <table>
@@ -456,6 +460,8 @@
 其目的是在大模型領域構建基礎設施，通過多種技術能力的開發，如多模型管理 (SMMF)、Text2SQL 效果優化、RAG 框架及優化、多智慧體框架協作、AWEL（智慧體工作流程編排）等，讓數據的大模型應用變得更簡單、更方便。</td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
 
 ###  <span id="rag">RAG 框架</span>
 
@@ -482,6 +488,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
+
 ###  <span id="fhe">FHE（全同態加密）框架</span>
 
 <table>
@@ -492,6 +500,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
+
 ###  <span id="solana">Solana 框架</span>
 
 <table>
@@ -501,6 +511,8 @@
         <td>一個用於將 AI 智慧體連接到 Solana 協議的開源工具包。現在，任何使用 Deepseek LLM 的智慧體都可以自主執行 60 多個 Solana 操作，例如交易處理和智慧合約部署：</td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
 
 ###  <span id="sythetic">合成資料策展</span>
 
@@ -522,6 +534,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
+
 ###  <span id="im">即時通訊應用插件</span>
 
 <table>
@@ -541,6 +555,8 @@
         <td> 基於 NoneBot 框架，提供智慧聊天和深度思考功能，支援 QQ、飛書、Discord、TG 等多個平台。</td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
 
 ###  <span id="browser">瀏覽器擴展</span>
 
@@ -617,6 +633,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
+
 ###  <span id="vscode">VS Code 擴充功能</span>
 
 <table>
@@ -647,6 +665,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
+
 ###  <span id="vs">Visual Studio 擴充功能</span>
 
 <table>
@@ -666,6 +686,8 @@
         <td> Unity 腳本的程式碼協助工具。 </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
 
 ###  <span id="neovim">neovim 擴充功能</span>
 
@@ -691,6 +713,8 @@
         <td> Minuet 提供即時程式碼補全，來自包括 DeepSeek、OpenAI、Gemini、Claude、Ollama、Codestral 等流行的 LLM。 </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
 
 ###  <span id="jetbrains">JetBrains 擴充功能</span>
 
@@ -727,6 +751,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
+
 ###  <span id="discord">Discord 機器人</span>
 
 <table>
@@ -736,6 +762,8 @@
         <td> Geneplore AI 運行著最大的 AI Discord 機器人之一，現在搭載 DeepSeek v3 和 R1。 </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
 
 ###  <span id="codeeditor">原生 AI 程式碼編輯器</span>
 
@@ -752,6 +780,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
+
 ###  <span id="emacs">Emacs</span>
 
 <table>
@@ -767,6 +797,8 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
+
 ###  <span id="security">安全性</span>
 
 <table>
@@ -781,6 +813,8 @@
         <td> 騰訊混元安全團隊 - AI 基礎設施安全評估工具，旨在發現和檢測 AI 系統中的潛在安全風險。 </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
 
 ###  <span id="others">其他</span>
 
@@ -891,6 +925,8 @@
         <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> 是一個集成 DeepSeek AI 能力的 Telegram 機器人。  </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
 
 ### Star 歷史
 
