@@ -397,7 +397,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     </tr>
     <tr>
         <td width=80> <img src="docs/AlphaBot/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/x-pai/ai-stock-assistant">AlphaBot</a> </td>
+        <td> <a href="https://alphabot.x-pai.com/">AlphaBot</a> </td>
         <td> AlphaBot is an intelligent stock analysis assistant that integrates multi-source data with AI analysis technology to provide technical analysis, predictions, and risk assessment, helping investors make data-driven trading decisions. It supports one-click deployment, easy operation，Support Windows/Linux/MacOS and other platforms</td>
      <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
