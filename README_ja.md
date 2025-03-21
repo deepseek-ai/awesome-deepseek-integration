@@ -303,6 +303,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 </table>
 
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
 ###  <span id="agent">AI エージェントフレームワーク</span>
 
 <table>
@@ -333,6 +335,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
 ###  <span id="data">AIデータアプリケーション開発フレームワーク</span>
 
 <table>
@@ -344,6 +348,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
  </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
 ###  <span id="rag">RAG フレームワーク</span>
 
@@ -370,6 +376,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
 ###  <span id="fhe">FHE フレームワーク</span>
 
 <table>
@@ -379,6 +387,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <p>AI を<b>完全準同型暗号（FHE）</b>で暗号化し、<b>Mind Network</b> と統合してエージェントのコンセンサスを実現するオープンソース SDK。FHE は<b>暗号学の聖杯</b>とされており、<b>復号せずに</b>暗号化データ上で直接計算を実行できます。FHE を活用することで、エージェントは <b>Deepseek</b> を使用しながらプライバシーを保護し、モデルの整合性と計算結果の合意を確保できます。さらに、<b>データを一切公開することなく</b> <b>Mind Network</b> に接続することで、このプロセスが実現されます。この SDK の<a href="https://github.com/mind-network/mind-sdk-deepseek-rust">ソースコード</a> は<b>純 Rust</b> で実装されており、<a href="https://crates.io/crates/mind_sdk_deepseek">crates.io</a> からも入手可能です。</p></td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
 ###  <span id="solana">Solana フレームワーク</span>
 
@@ -390,6 +400,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
 ###  <span id="sythetic">合成データのカテゴリ化</span>
 
 <table>
@@ -399,6 +411,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> 総合的なデータ品質評価ツール。 </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
 ###  <span id="im">IM アプリケーションプラグイン</span>
 
@@ -424,6 +438,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> 大規模言語モデルをサポートするマルチプラットフォームチャットボットおよび開発フレームワーク。RAG、長期記憶、ウェブ検索などの各種LLMエージェント機能をサポートし、プラグイン開発にも対応。</td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
 ###  <span id="browser">ブラウザ拡張機能</span>
 
@@ -495,6 +511,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
 ###  <span id="vscode">VS Code 拡張機能</span>
 
 <table>
@@ -525,6 +543,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
 ###  <span id="neovim">neovim 拡張機能</span>
 
 <table>
@@ -544,6 +564,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> Neovimでシームレスに統合されたAI駆動のコーディング。 </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
 ###  <span id="jetbrains">JetBrains 拡張機能</span>
 
@@ -580,6 +602,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
 ###  <span id="codeeditor">AI コードエディタ</span>
 
 <table>
@@ -595,6 +619,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
 ###  <span id="emacs">Emacs</span>
 
 <table>
@@ -609,6 +635,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td>コードでインテリジェンスとダンス💃</td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
 ###  <span id="others">その他</span>
 
@@ -679,3 +707,5 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> はDeepSeek AI機能を統合したTelegramボットです。 </td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
