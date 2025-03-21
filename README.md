@@ -108,6 +108,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> ChatGPT Next Web is a cross-platform ChatGPT web UI, with GPT3, GPT4 & Gemini Pro support. </td>
     </tr>
     <tr>
+        <td> <img src="docs/Casibase/assets/casibase.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://casibase.org/docs/category/beginner-guide/">Casibase</a></td>
+        <td> <a href="https://casibase.org">Casibase</a> is an open source AI knowledge base and dialogue system that combines the latest RAG technology, SSO functionality, and support for a wide range of mainstream AI models. Casibase is designed to provide enterprises and developers with a powerful, flexible, and easy-to-use knowledge management and intelligent dialogue platform. </td>
+    </tr>
+    <tr>
         <td> <img src="./docs/Coco AI/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/Coco AI/README.md">Coco AI</a></td>
         <td> <a href="https://coco.rs">Coco AI</a> is a fully open-source, cross-platform unified search and productivity tool that connects and searches across various data sources, including applications, files, Google Drive, Notion, Yuque, Hugo, and more, both local and cloud-based. By integrating with large models like DeepSeek, Coco AI enables intelligent personal knowledge management, emphasizing privacy and supporting private deployment, helping users quickly and intelligently access their information. </td>

@@ -106,6 +106,11 @@
         <td> ChatGPT Next Web 是一款跨平台支援的 ChatGPT 網頁 UI，支援 GPT3、GPT4 和 Gemini Pro。</td>
     </tr>
     <tr>
+        <td> <img src="docs/Casibase/assets/casibase.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://casibase.org/docs/category/beginner-guide/">Casibase</a></td>
+        <td> <a href="https://casibase.org">Casibase</a> 是一個開源的 AI 知識庫和對話系統，它結合了最新的 RAG 技術、SSO 功能，並支援各種主流 AI 模型。旨在為企業和開發者提供一個功能強大、靈活易用的知識管理和智慧對話平台。 </td>
+    </tr>
+    <tr>
         <td> <img src="./docs/Coco AI/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/Coco AI/README.md">Coco AI</a></td>
         <td> <a href="https://coco.rs">Coco AI</a> 是一款完全開源、跨平台的統一搜索與生產力工具，連接並搜索各種數據來源，包括應用、文件、Google Drive、Notion、語雀、Hugo 等，涵蓋本地和雲端。通過整合 DeepSeek 等大模型，Coco AI 實現智慧的個人知識管理，注重隱私並支援私人部署，幫助用戶快速且智慧地訪問信息。</td>
@@ -382,7 +387,7 @@
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/jiqi136/DS-AI">多平臺聯網DeepSeek</a></td>
-        <td>依託DeepSeek官方&阿裡雲&抖音火山，三通道AI引擎，持續進化智慧。 並且混合使用“聯網蒐索+深度思考”模式。</td>
+        <td>依託DeepSeek官方&阿裡雲&抖音火山，三通道AI引擎，持續進化智慧。 並且混合使用"聯網蒐索+深度思考"模式。</td>
 	</tr>
 </table>
 

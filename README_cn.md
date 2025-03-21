@@ -109,6 +109,11 @@
         <td> 一键获取跨平台ChatGPT网页用户界面，支持流行的LLM </td>
     </tr>
     <tr>
+        <td> <img src="docs/Casibase/assets/casibase.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://casibase.org/zh/docs/category/beginner-guide/">Casibase</a></td>
+        <td> <a href="https://casibase.org">Casibase</a> 是一个开源的 AI 知识库和对话系统，它结合了最新的 RAG 技术、SSO 功能，并支持各种主流 AI 模型。旨在为企业和开发者提供一个功能强大、灵活易用的知识管理和智能对话平台。 </td>
+    </tr>
+    <tr>
         <td> <img src="docs/Coco AI/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/Coco AI/README_cn.md">Coco AI</a></td>
         <td> <a href="https://coco.rs">Coco AI</a> 是一个完全开源、跨平台的统一搜索与效率工具，能够连接并搜索多种数据源，包括应用程序、文件、谷歌网盘、Notion、语雀、Hugo 等本地与云端数据。通过接入 DeepSeek 等大模型，Coco AI 实现了智能化的个人知识库管理，注重隐私，支持私有部署，帮助用户快速、智能地访问信息。 </td>

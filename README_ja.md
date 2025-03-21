@@ -94,6 +94,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> ChatGPT Next Webは、GPT3、GPT4、Gemini ProをサポートするクロスプラットフォームのChatGPTウェブUIです。 </td>
     </tr>
     <tr>
+        <td> <img src="docs/Casibase/assets/casibase.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://casibase.org/ja/docs/category/beginner-guide/">Casibase</a></td>
+        <td> <a href="https://casibase.org">Casibase</a>は、最新のRAG技術、SSO機能を組み合わせ、様々な主要なAIモデルをサポートするオープンソースのAIナレッジベースと対話システムです。企業や開発者に、強力で柔軟なナレッジ管理とインテリジェントな対話プラットフォームを提供することを目指しています。 </td>
+    </tr>
+    <tr>
         <td> <img src="./docs/Coco AI/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/Coco AI/README.md">Coco AI</a></td>
         <td> <a href="https://coco.rs">Coco AI</a> は、完全にオープンソースでクロスプラットフォーム対応の統合検索および生産性向上ツールで、アプリケーション、ファイル、Google Drive、Notion、Yuque、Hugoなど、ローカルおよびクラウドのさまざまなデータソースを接続して検索できます。DeepSeekなどの大規模モデルと連携することにより、Coco AIはインテリジェントな個人のナレッジ管理を実現し、プライバシーを重視し、プライベートなデプロイにも対応。ユーザーが情報に迅速かつインテリジェントにアクセスできるようサポートします。 </td>
