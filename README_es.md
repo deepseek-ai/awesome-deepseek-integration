@@ -451,6 +451,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/antgroup/agentUniverse"> agentUniverse </a> </td>
         <td> agentUniverse es un marco de colaboración multi-agente diseñado para escenarios empresariales complejos. Ofrece capacidades de desarrollo rápidas y fáciles de usar para aplicaciones de agentes LLM, con un enfoque en mecanismos como programación colaborativa de agentes, toma de decisiones autónoma y retroalimentación dinámica. El marco se origina en las prácticas empresariales del mundo real del Grupo Ant en la industria financiera. En junio de 2024, agentUniverse logró soporte de integración completa para la serie de modelos DeepSeek. </td>
     </tr>
+    <tr>
+        <td width=80> <img src="docs/BotSharp/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/SciSharp/BotSharp"> BotSharp </a> </td>
+        <td> BotSharp es un marco de desarrollo de aplicaciones multiagente de código abierto. Desde simples chatbots hasta colaboración multiagente y tareas complejas como el marco "Text To SQL", ofrece métodos listos para usar. Permite integrar rápidamente las capacidades de grandes modelos en sistemas empresariales existentes, y cuenta con funciones integradas de gestión de conocimiento y gestión de conversaciones. El marco ha sido probado exhaustivamente con el modelo DeepSeek V3, y gracias al rendimiento de DeepSeek V3, el marco no tiene nada que envidiar a otros modelos propietarios. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
