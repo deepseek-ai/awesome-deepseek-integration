@@ -33,6 +33,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 * [Native AI Code Editor](#codeeditor)
 * [Emacs](#emacs)
 * [Security](#security)
+* [Providers](#providers)
 * [Others](#others)
 
 ## Project List
@@ -876,6 +877,18 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <img src="./docs/tencent/hunyuan.png"  alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/tencent/AI-Infra-Guard"> AI-Infra-Guard </a> </td>
         <td> Tencent's Hunyuan Security Team - AI infrastructure security assessment tool designed to discover and detect potential security risks in AI systems.</td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+###  <span id="providers">Providers</span>
+
+<table>
+    <tr>
+        <td> <img src="./docs/aimlapi/aimlapi_logo.png"  alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
+        <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
 </table>
 
