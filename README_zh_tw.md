@@ -451,6 +451,11 @@
         <td> <a href="https://github.com/antgroup/agentUniverse"> agentUniverse </a> </td>
         <td>agentUniverse 是一個專為複雜業務場景設計的多智慧體協作框架。它為大型語言模型智慧體應用提供快速且易於使用的開發能力，專注於智慧體協作調度、自主決策和動態反饋等機制。該框架源自螞蟻集團在金融行業的實際業務實踐。2024 年 6 月，agentUniverse 正式支援 DeepSeek 系列模型。</td>
     </tr>
+    <tr>
+        <td width=80> <img src="docs/BotSharp/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+            <td> <a href="https://github.com/SciSharp/BotSharp"> BotSharp </a> </td>
+            <td> BotSharp 是一個開源的多智慧體應用開發框架，從簡單的聊天機器人，到多智慧體協作，以及複雜的任務如【Text To Sql】框架都提供了開箱即用的使用方法，可以快速地將大模型的能力接入到現有的業務系統中，並且內建知識庫和會話管理功能等，框架使用 DeepSeek V3 的模型進行了詳細的測試，得益於 DeepSeek V3 的性能，框架的表現不輸其他的閉源模型。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>

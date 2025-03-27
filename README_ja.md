@@ -338,6 +338,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/antgroup/agentUniverse"> agentUniverse </a> </td>
         <td> agentUniverseは、複雑なビジネスシーン向けに設計されたマルチエージェント協調フレームワークです。迅速で使いやすい大規模モデルのインテリジェントエージェントアプリケーション構築能力を提供し、特にエージェント間の協調スケジューリング、自律的な意思決定、動的なフィードバックなどのメカニズムに重点を置いています。これは、Ant Groupの金融業界における実践的なビジネス経験に基づいて開発されました。agentUniverseは、2024年6月にDeepSeekシリーズモデルのサポートを全面的に統合しました。  </td>
     </tr>
+    <tr>
+        <td width=80> <img src="docs/BotSharp/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/SciSharp/BotSharp"> BotSharp </a> </td>
+        <td> BotSharpは、オープンソースのマルチエージェントアプリケーション開発フレームワークです。シンプルなチャットボットからマルチエージェントの協調、複雑なタスク（例：Text To SQL）まで、すぐに使える方法を提供し、大規模モデルの能力を既存のビジネスシステムに迅速に統合できます。さらに、ナレッジベースや会話管理機能も内蔵しています。このフレームワークはDeepSeek V3モデルで詳細にテストされており、DeepSeek V3の性能のおかげで、他のクローズドソースモデルに劣らないパフォーマンスを発揮します。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
