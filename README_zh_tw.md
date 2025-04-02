@@ -939,6 +939,11 @@
         <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> </td>
         <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> 是一個集成 DeepSeek AI 能力的 Telegram 機器人。  </td>
     </tr>
+    <tr>
+        <td>  </td>
+        <td> <a href="https://github.com/eqld/nlsh">nlsh</a> </td>
+        <td> <a href="https://github.com/eqld/nlsh">nlsh</a> 是一款由 AI 驅動的命令列工具，能透過支援多種後端的大型語言模型（LLM），生成具有上下文感知能力的 Shell 指令。支援 Shell 專屬語法、唯讀系統工具，以及自訂的推理端點設定。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
