@@ -882,7 +882,7 @@
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
 
-###  <span id="providers">Providers</span>
+###  <span id="providers">供應商</span>
 
 <table>
     <tr>
