@@ -16,22 +16,25 @@
 
 ## 目录
 
-* [应用程序](#applications)
-* [AI Agent 框架](#agent)
-* [AI数据应用框架](#data)
-* [RAG 框架](#rag)
-* [FHE (全同态加密) frameworks](#fhe)
-* [Solana 框架](#solana)
-* [综合数据管理](#sythetic)
-* [即时通讯插件](#im)
-* [Office插件](#office)
-* [浏览器插件](#browser)
-* [VS Code 插件](#vscode)
-* [neovim 插件](#neovim)
-* [JetBrains 插件](#jetbrains)
-* [AI Code编辑器](#codeeditor)
-* [安全](#security)
-* [其它](#others)
+- [DeepSeek 实用集成 ](#deepseek-实用集成-)
+  - [目录](#目录)
+  - [项目列表](#项目列表)
+    - [应用程序](#应用程序)
+    - [AI Agent 框架](#ai-agent-框架)
+    - [AI数据应用框架](#ai数据应用框架)
+    - [RAG 框架](#rag-框架)
+    - [FHE (全同态加密) frameworks](#fhe-全同态加密-frameworks)
+    - [Solana 框架](#solana-框架)
+    - [综合数据管理](#综合数据管理)
+    - [即时通讯插件](#即时通讯插件)
+    - [Office插件](#office插件)
+    - [浏览器插件](#浏览器插件)
+    - [VS Code 插件](#vs-code-插件)
+    - [neovim 插件](#neovim-插件)
+    - [JetBrains 插件](#jetbrains-插件)
+    - [AI Code编辑器](#ai-code编辑器)
+    - [安全](#安全)
+    - [其它](#其它)
 
 ## 项目列表
 
@@ -383,6 +386,12 @@
         <td width=80> <img src="docs/BotSharp/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/SciSharp/BotSharp"> BotSharp </a> </td>
         <td> BotSharp 是一个开源的多智能体应用开发框架，从简单的聊天机器人，再到多智能体协作，以及复杂的任务如【Text To Sql】框架都提供了开箱即用的使用方法，可以快速的将大模型的能力接入到现有的业务系统中，并且内置知识库和会话管理功能等，框架使用DeepSeek V3的模型进行了详细的测试，得益于DeepSeek V3的性能，框架的表现不输其他的闭源的模型。 </td>
+    </tr>
+    <tr>
+        <td width=80> <img src="docs/eino/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/cloudwego/eino"> Eino </a> </td>
+        <td> Eino（发音类似"I know"）旨在成为Go语言中最优秀的LLM应用开发框架。它借鉴了LangChain、LlamaIndex等开源社区优秀LLM框架的设计理念，同时吸收了前沿研究成果和实际应用经验，提供了一个更符合Go语言编程惯例的LLM应用开发框架，强调简洁性、可扩展性、可靠性和高效性。
+        </td>
     </tr>
 </table>
 
