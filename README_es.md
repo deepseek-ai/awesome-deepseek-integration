@@ -857,6 +857,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> </td>
         <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> es un bot de Telegram integrado con las capacidades de DeepSeek AI. </td>
     </tr>
+    <tr>
+        <td>  </td>
+        <td> <a href="https://github.com/eqld/nlsh">nlsh</a> </td>
+        <td> <a href="https://github.com/eqld/nlsh">nlsh</a> es una herramienta CLI impulsada por IA para generar comandos de shell conscientes del contexto, con soporte para múltiples backends de LLM. Admite sintaxis específica de shell, herramientas de sistema de solo lectura y puntos de inferencia personalizados.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

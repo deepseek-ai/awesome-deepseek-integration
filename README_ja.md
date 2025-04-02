@@ -729,6 +729,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> </td>
         <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> はDeepSeek AI機能を統合したTelegramボットです。 </td>
     </tr>
+    <tr>
+        <td>  </td>
+        <td> <a href="https://github.com/eqld/nlsh">nlsh</a> </td>
+        <td> <a href="https://github.com/eqld/nlsh">nlsh</a> は、マルチバックエンドLLMサポートを備えたAI駆動のCLIツールで、コンテキストを考慮したシェルコマンドを生成します。シェル固有の構文、読み取り専用システムツール、カスタム推論エンドポイントに対応しています。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

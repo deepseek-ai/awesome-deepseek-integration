@@ -1021,6 +1021,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> </td>
         <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> is a Telegram bot integrated with DeepSeek AI capabilities. </td>
     </tr>
+    <tr>
+        <td>  </td>
+        <td> <a href="https://github.com/eqld/nlsh">nlsh</a> </td>
+        <td> <a href="https://github.com/eqld/nlsh">nlsh</a> is an AI-powered CLI tool to generate context-aware shell commands with multi-backend LLM support. Supports shell-specific syntax, read-only system tools, and custom inference endpoints.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
