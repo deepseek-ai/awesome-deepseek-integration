@@ -342,6 +342,11 @@
     <td><a href="https://www.remio.ai/">remio</a></td>
     <td>remio 是一个 AI 驱动的个人知识中心，通过自动捕获浏览的网页内容、解析本地文件并整合个人笔记，构建个性化的知识库。它支持在个人知识库中进行搜索和自然语言问答，以提供即时洞察，同时提供智能写作辅助——适应您的写作风格，轻松简化起草、润色和完成内容的过程。remio 采用本地优先存储设计，优先保护数据隐私，同时集中管理零散信息，以实现最大化的生产力。</td>
     </tr> 
+    <tr>
+    <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
+    <td><a href="https://dockit.geekfun.club/">DocKit</a></td>
+    <td>DocKit是一個AI驅動的桌面GUI客戶端，專為NoSQL數據庫設計，支持Mac、Windows和Linux上的Elasticsearch和OpenSearch。通過集成DeepSeek等大型模型，DocKit可以幫助開發者編寫複雜的DSL查詢，並為數據管理和分析提供更好的體驗。</td>
+    </tr> 
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

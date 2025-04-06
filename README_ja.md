@@ -310,7 +310,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <td><a href="https://www.remio.ai/">remio</a></td>
     <td>remio は AI を活用したパーソナルナレッジハブです。閲覧したウェブコンテンツを自動的に収集し、ローカルファイルを解析し、個人のメモを統合することで、パーソナライズされたナレッジベースを構築します。パーソナルナレッジベース内での検索と自然言語による Q&A を可能にし、即座に洞察を得られるようにします。さらに、あなたのライティングスタイルに適応し、ドラフト作成や改良、コンテンツ完成を簡単に進めるスマートライティング支援も提供します。ローカル優先のストレージ設計により、remio はデータのプライバシーを重視しながら、断片化した情報を一元化し、最大限の生産性を実現します。</td>
     </tr> 
-
+    <tr>
+    <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
+    <td><a href="https://dockit.geekfun.club/">DocKit</a></td>
+    <td>DocKitは、NoSQLデータベース向けに設計されたAI搭載のデスクトップGUIクライアントで、Mac、Windows、Linuxに対応したElasticsearchとOpenSearchをサポートしています。DeepSeekのような大規模モデルと統合することで、DocKitは開発者が複雑なDSLクエリを作成するのを支援し、データ管理と分析のためのより良い体験を提供します。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

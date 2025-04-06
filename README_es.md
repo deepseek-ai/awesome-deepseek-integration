@@ -389,6 +389,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 <td><a href="https://github.com/jiqi136/DS-AI">DeepSeek multiplataforma conectado a la red</a></td>
 <td> Basado en DeepSeek Official, Alibaba Cloud y Douyin Volcano, el motor de IA tricanal impulsa una inteligencia en evolución constante. Además, emplea un modo híbrido de "búsqueda conectada a la red + pensamiento profundo".</td>
 	</tr>
+    <tr>
+    <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
+    <td><a href="https://dockit.geekfun.club/">DocKit</a></td>
+    <td>DocKit es un cliente GUI de escritorio potenciado por IA diseñado para bases de datos NoSQL, compatible con Elasticsearch y OpenSearch en Mac, Windows y Linux. Mediante la integración con modelos grandes como DeepSeek, DocKit puede ayudar a los desarrolladores a escribir consultas DSL complejas y proporcionar una mejor experiencia para la gestión y análisis de datos.</td>
+    </tr> 
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
