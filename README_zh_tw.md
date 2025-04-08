@@ -43,6 +43,11 @@
 
 <table>
     <tr>
+        <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://migo.intern-ai.org.cn/education">覓果</a></td>
+        <td> 免費的 AI 創新加速工具，提供智慧問答、最前沿的 AI 工具以及個人學術知識庫。作為探索的夥伴，覓果助你發現並實現卓越創意！</td>
+    </tr>
+    <tr>
         <td> <img src="docs/eechat/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td> <a href="https://github.com/Lucassssss/eechat">eechat</a></td>
         <td> 簡潔易用的大型模型本地部署工具，支援開源模型 DeepSeek-R1、DLlama 3、Phi-4、Mistral、Gemma 3 等模型的本地化隱私部署，同時支援遠端大型模型 API 呼叫。</td>
@@ -627,6 +632,11 @@
 ###  <span id="browser">瀏覽器擴展</span>
 
 <table>
+    <tr>
+        <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://chromewebstore.google.com/detail/cjapgnecnkblehipjghhegiccobeloka?utm_source=item-share-cb">覓果</a></td>
+        <td> 提供全面的文本處理、資訊檢索與知識問答功能，靈活適配多種線上辦公與科研場景（如飛書、arXiv、Overleaf 等），助力高效智慧化工作流程。</td>
+    </tr>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/9d3f42b8-fcd0-47ab-8b06-1dd0554dd80e" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/immersive_translate/README.md"> Immersive Translate </a> </td>
