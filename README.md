@@ -44,7 +44,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://migo.intern-ai.org.cn/education">Migo</a></td>
-        <td>Migo is a free AI innovation acceleration tool which offers Q&A, SOTA AI tools and personal academic knowledge base. As an exploration partner, Migo helps to uncover and achieve great ideas !</td>
+        <td>Migo is a free AI innovation acceleration tool which offers Q&A, SOTA AI tools and personal academic knowledge base. As an exploration partner, Migo helps to uncover and achieve great ideas!</td>
     </tr>
     <tr>
         <td><img src="docs/eechat/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
@@ -632,6 +632,11 @@ The purpose is to build infrastructure in the field of large models, through the
 ###  <span id="browser">Browser Extensions</span>
 
 <table>
+    <tr>
+        <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://chromewebstore.google.com/detail/cjapgnecnkblehipjghhegiccobeloka?utm_source=item-share-cb">Migo</a></td>
+        <td> Migo offers comprehensive text processing, information search, and knowledge Q&A functions, adapting to various online work and research scenarios (such as Feishu, arXiv, Overleaf, etc.).</td>
+    </tr>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/9d3f42b8-fcd0-47ab-8b06-1dd0554dd80e" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/immersive_translate/README.md"> Immersive Translate </a> </td>

@@ -571,11 +571,6 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 <table>
     <tr>
-        <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://chromewebstore.google.com/detail/cjapgnecnkblehipjghhegiccobeloka?utm_source=item-share-cb">Migo</a></td>
-        <td> Migo offers comprehensive text processing, information search, and knowledge Q&A functions, adapting to various online work and research scenarios (such as Feishu, arXiv, Overleaf, etc.).</td>
-    </tr>
-    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/9d3f42b8-fcd0-47ab-8b06-1dd0554dd80e" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/immersive_translate/README.md"> Immersive Translate </a> </td>
         <td> Immersive Translate es una extensión de traducción bilingüe para páginas web. </td>
