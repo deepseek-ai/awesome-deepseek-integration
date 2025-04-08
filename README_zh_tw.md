@@ -45,7 +45,7 @@
     <tr>
         <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://migo.intern-ai.org.cn/education">覓果</a></td>
-        <td> 免費的 AI 創新加速工具，提供智慧問答、最前沿的 AI 工具以及個人學術知識庫。作為探索的夥伴，覓果助你發現並實現卓越創意！</td>
+        <td> 免費的 AI 創新加速工具，提供智慧問答、論文深度理解、前沿 AI 工具以及個人學術知識庫。作為探索的夥伴，覓果助你發現並實現卓越創意！</td>
     </tr>
     <tr>
         <td> <img src="docs/eechat/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
