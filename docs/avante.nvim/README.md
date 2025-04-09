@@ -32,6 +32,7 @@ return {
           api_key_name = "DEEPSEEK_API_KEY",
           endpoint = "https://api.deepseek.com",
           model = "deepseek-coder",
+          max_tokens = 8192,
         },
       },
     },
