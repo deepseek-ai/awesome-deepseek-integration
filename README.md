@@ -15,26 +15,30 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 ## Table of Contents
 
-* [Applications](#applications)
-* [AI Agent frameworks](#agent)
-* [Data AI Applications frameworks](#data)
-* [RAG frameworks](#rag)
-* [FHE (Fully Homomorphic Encryption) frameworks](#fhe)
-* [Solana frameworks](#solana)
-* [Synthetic data curation](#sythetic)
-* [IM Application Plugins](#im)
-* [Office Addin](#office)
-* [Browser Extensions](#browser)
-* [VS Code Extensions](#vscode)
-* [Visual Studio Extensions](#vs)
-* [neovim Extensions](#neovim)
-* [JetBrains Extensions](#jetbrains)
-* [Discord Bots](#discord)
-* [Native AI Code Editor](#codeeditor)
-* [Emacs](#emacs)
-* [Security](#security)
-* [Providers](#providers)
-* [Others](#others)
+- [Awesome DeepSeek Integrations ](#awesome-deepseek-integrations-)
+  - [Table of Contents](#table-of-contents)
+  - [Project List](#project-list)
+    - [Applications](#applications)
+    - [AI Agent frameworks](#ai-agent-frameworks)
+    - [Data AI Applications frameworks](#data-ai-applications-frameworks)
+    - [RAG frameworks](#rag-frameworks)
+    - [FHE (Fully Homomorphic Encryption) frameworks](#fhe-fully-homomorphic-encryption-frameworks)
+    - [Solana frameworks](#solana-frameworks)
+    - [Synthetic data curation](#synthetic-data-curation)
+    - [IM Application Plugins](#im-application-plugins)
+    - [Office Addin](#office-addin)
+    - [Browser Extensions](#browser-extensions)
+    - [VS Code Extensions](#vs-code-extensions)
+    - [Visual Studio Extensions](#visual-studio-extensions)
+    - [neovim Extensions](#neovim-extensions)
+    - [JetBrains Extensions](#jetbrains-extensions)
+    - [Discord Bots](#discord-bots)
+    - [Native AI Code Editor](#native-ai-code-editor)
+    - [Emacs](#emacs)
+    - [Security](#security)
+    - [Providers](#providers)
+    - [Others](#others)
+    - [Star History](#star-history)
 
 ## Project List
 
@@ -481,6 +485,11 @@ With these functionalities, the AI assistant can summarize key points within an 
             <td width=80> <img src="docs/BotSharp/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
             <td> <a href="https://github.com/SciSharp/BotSharp"> BotSharp </a> </td>
             <td> BotSharp is an open-source multi-agent application development framework. From simple chatbots to multi-agent collaboration and complex tasks like the Text To SQL framework, it provides out-of-the-box solutions to quickly integrate large model capabilities into existing business systems. It also includes built-in knowledge base and session management features. The framework has been thoroughly tested with DeepSeek V3 models, and thanks to the performance of DeepSeek V3, the framework's performance is on par with other proprietary models. </td>
+        </tr>
+           <tr>
+            <td width=80> <img src="docs/eino/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+            <td> <a href="https://github.com/cloudwego/eino"> Eino </a> </td>
+            <td> Eino (pronounced like "I know") aims to be the best LLM application development framework in the Go language. It draws on the design concept of excellent LLM frameworks in open source communities such as LangChain and LlamaIndex, while absorbing cutting-edge research results and practical application experience, providing a LLM application development framework that is more in line with Go programming conventions, emphasizing simplicity, scalability, reliability and efficiency. </td>
         </tr>
     </tr>
 </table>

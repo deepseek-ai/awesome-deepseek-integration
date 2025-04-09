@@ -35,7 +35,7 @@
 * [Emacs](#emacs)
 * [安全性](#security)
 * [供應商](#providers)
-* [其他](#others)
+* [其他](#others) 
 
 ## 項目列表
 
@@ -484,6 +484,11 @@
         <td width=80> <img src="docs/BotSharp/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/SciSharp/BotSharp"> BotSharp </a> </td>
         <td> BotSharp 是一個開源的多智慧體應用開發框架，從簡單的聊天機器人，到多智慧體協作，以及複雜的任務如【Text To Sql】框架都提供了開箱即用的使用方法，可以快速地將大模型的能力接入到現有的業務系統中，並且內建知識庫和會話管理功能等，框架使用 DeepSeek V3 的模型進行了詳細的測試，得益於 DeepSeek V3 的性能，框架的表現不輸其他的閉源模型。 </td>
+    </tr>
+     <tr>
+        <td width=80> <img src="docs/eino/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+            <td> <a href="https://github.com/cloudwego/eino"> Eino </a> </td>
+            <td> Eino（發音類似"I know"）旨在成為Go語言中最優秀的LLM應用開發框架。它借鑒了LangChain、LlamaIndex等開源社區優秀LLM框架的設計理念，同時吸收了前沿研究成果和實際應用經驗，提供了一個更符合Go語言編程慣例的LLM應用開發框架，強調簡潔性、可擴展性、可靠性和高效性。 </td>
     </tr>
 </table>
 

@@ -16,21 +16,24 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 ## 目次
 
-* [アプリケーション](#applications)
-* [AI エージェントフレームワーク](#agent)
-* [AIデータアプリケーション開発フレームワーク](#data)
-* [RAG フレームワーク](#rag)
-* [FHE フレームワーク](#fhe)
-* [Solana フレームワーク](#solana)
-* [合成データのカテゴリ化](#sythetic)
-* [IM アプリケーションプラグイン](#im)
-* [ブラウザ拡張機能](#browser)
-* [VS Code 拡張機能](#vscode)
-* [neovim 拡張機能](#neovim)
-* [JetBrains 拡張機能](#jetbrains)
-* [AI コードエディタ](#codeeditor)
-* [Emacs](#emacs)
-* [その他](#others)
+- [Awesome DeepSeek Integrations ](#awesome-deepseek-integrations-)
+  - [目次](#目次)
+  - [プロジェクト一覧](#プロジェクト一覧)
+    - [アプリケーション](#アプリケーション)
+    - [AI エージェントフレームワーク](#ai-エージェントフレームワーク)
+    - [AIデータアプリケーション開発フレームワーク](#aiデータアプリケーション開発フレームワーク)
+    - [RAG フレームワーク](#rag-フレームワーク)
+    - [FHE フレームワーク](#fhe-フレームワーク)
+    - [Solana フレームワーク](#solana-フレームワーク)
+    - [合成データのカテゴリ化](#合成データのカテゴリ化)
+    - [IM アプリケーションプラグイン](#im-アプリケーションプラグイン)
+    - [ブラウザ拡張機能](#ブラウザ拡張機能)
+    - [VS Code 拡張機能](#vs-code-拡張機能)
+    - [neovim 拡張機能](#neovim-拡張機能)
+    - [JetBrains 拡張機能](#jetbrains-拡張機能)
+    - [AI コードエディタ](#ai-コードエディタ)
+    - [Emacs](#emacs)
+    - [その他](#その他)
 
 ## プロジェクト一覧
 
@@ -348,6 +351,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/SciSharp/BotSharp"> BotSharp </a> </td>
         <td> BotSharpは、オープンソースのマルチエージェントアプリケーション開発フレームワークです。シンプルなチャットボットからマルチエージェントの協調、複雑なタスク（例：Text To SQL）まで、すぐに使える方法を提供し、大規模モデルの能力を既存のビジネスシステムに迅速に統合できます。さらに、ナレッジベースや会話管理機能も内蔵しています。このフレームワークはDeepSeek V3モデルで詳細にテストされており、DeepSeek V3の性能のおかげで、他のクローズドソースモデルに劣らないパフォーマンスを発揮します。</td>
     </tr>
+     <tr>
+        <td width=80> <img src="docs/eino/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+            <td> <a href="https://github.com/cloudwego/eino"> Eino </a> </td>
+            <td> Eino (I knowと発音が似ている)は、Go言語で最も優れたLLMアプリケーション開発フレームワークとなることを目指しています。LangChain、LlamaIndexなどのオープンソースコミュニティの優れたLLMフレームワークの設計理念を参考にしながら、最先端の研究成果と実用的な経験を取り入れ、シンプルさ、スケーラビリティ、信頼性、効率性を強調したGo言語プログラミング慣行に準拠したLLMアプリケーション開発フレームワークを提供しています。 </td>
+        </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
