@@ -418,6 +418,11 @@
         <td><a href="https://www.remio.ai/">remio</a></td>
         <td> remio 是一個 AI 驅動的個人知識中心，通過自動捕獲瀏覽的網頁內容、解析本地文件並整合個人筆記，構建個性化的知識庫。它支持在個人知識庫中進行搜索和自然語言問答，以提供即時洞察，同時提供智能寫作輔助——適應您的寫作風格，輕鬆簡化起草、潤色和完成內容的過程。remio 採用本地優先儲存設計，優先保護數據隱私，同時集中管理零散信息，以實現最大化的生產力。</td>
     </tr> 
+    <tr>
+        <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://dockit.geekfun.club/">DocKit</a></td>
+        <td>DocKit is an AI powered desktop GUI client designed for NoSQL database, support Elasticsearch and OpenSearch across Mac, windows and Linux. By integrating with large models like DeepSeek, DocKit can help developers to write complex DSL queries, and provide a better experience for data management and analysis. </td>
+    </tr> 
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
