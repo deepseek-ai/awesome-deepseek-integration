@@ -69,8 +69,8 @@
     </tr>
     <tr>
         <td> <img src="./docs/SwiftChat/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/SwiftChat/README.md">SwiftChat</a></td>
-        <td> <a href="https://github.com/aws-samples/swift-chat">SwiftChat</a> 是一款基於 React Native 構建的跨平台 AI 聊天 App，提供原生效能，適用於 Android、iOS、iPad、Android 平板和 macOS。功能包括即時串流聊天、豐富的 Markdown 支援（表格、程式碼塊、LaTeX）、AI 圖像生成、自訂系統提示和多模態能力。支援多個 AI 提供商，包括 DeepSeek、Amazon Bedrock、Ollama 和 OpenAI，具有簡潔的 UI 和高效能。</td>
+<td> <a href="docs/SwiftChat/README.md">SwiftChat</a></td>
+<td> <a href="https://github.com/aws-samples/swift-chat">SwiftChat</a> 是一款基於 React Native 構建的閃電般快速的跨平台 AI 聊天應用。它在 Android、iOS 和 macOS 上提供原生性能。功能包括實時流式聊天、豐富的 Markdown 支持、AI 圖像生成、可自定義系統提示、快速模型切換和多模態能力。支持包括 DeepSeek、Amazon Bedrock、Ollama 和 OpenAI 相容模型在內的多個 AI 提供商，具有簡潔的 UI 和高性能。</td>
     </tr>
     </tr>
         <td> <img src="https://4everlogo.4everland.store/logo/logo.png" alt="Icon" width="64" height="auto" /></td>
