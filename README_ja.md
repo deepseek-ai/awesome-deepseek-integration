@@ -507,6 +507,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td>AIを活用したRSS要約と多次元フィードビューを備えたインテリジェントなRSSリーダーブラウザ拡張機能。コンテンツ理解を強化するためのDeepSeekモデル設定をサポートしています。</td>
     </tr>
     <tr>
+        <td> <img src="./docs/refinereader/assets/refinereader-128.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://refinereader.cuihuaer.com"> Refine Reader </a> </td>
+        <td> AI（DeepSeek、OpenAI等）を使用して記事を素早く理解し要約するためのChrome拡張機能。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/Hedwi/deepchat/refs/heads/main/images/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://chromewebstore.google.com/detail/deepchat-power-of-deepsee/femhcibnncinlabdboehojdhfcihpkpl?hl=en"> DeepChat </a> </td>
         <td>任意のウェブサイト上でサイドバーを開いてDeepSeekとチャットできるChrome拡張機能です。さらに、任意のウェブサイト上の選択したテキストの下にフローティングメニューを表示し、テキストの要約生成、文法チェック、コンテンツの翻訳を行うことができます。</td>

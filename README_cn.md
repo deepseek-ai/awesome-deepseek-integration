@@ -606,6 +606,14 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/docky-ai/README_cn.md"> Docky AI </a> </td>
         <td>Docky AI 是一款功能强大的浏览器插件，允许您通过侧边栏与多个 AI 模型进行实时对话。它支持多模型同时交流，并能协助您阅读网页、写作、翻译和创作图片</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/refinereader/assets/refinereader-128.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://refinereader.cuihuaer.com"> Refine Reader </a> </td>
+        <td> 一款基于 AI （DeepSeek、OpenAI等） 的智能阅读助手，致力于帮助用户快速理解和提炼文章精华，支持阅读互动。</td>
+    </tr>
+
+
+
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

@@ -692,6 +692,12 @@ The purpose is to build infrastructure in the field of large models, through the
         <td>An intelligent RSS reader browser extension with AI-powered RSS summarization and multi-dimensional feed views. Supports DeepSeek model configuration for enhanced content understanding. </td>
     </tr>
     <tr>
+
+        <td> <img src="./docs/refinereader/assets/refinereader-128.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://refinereader.cuihuaer.com"> Refine Reader </a> </td>
+        <td> A Chrome extension that uses AI (DeepSeek, OpenAI, etc.) to help you quickly understand and summarize articles. </td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/Hedwi/deepchat/refs/heads/main/images/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://chromewebstore.google.com/detail/deepchat-power-of-deepsee/femhcibnncinlabdboehojdhfcihpkpl?hl=en"> DeepChat </a> </td>
         <td>A Chrome extension that enables users to chat with DeepSeek by opening a sidebar on any website. In addition, it provides a floating menu underneath any selected text on any website that allows users to generate text summaries, check grammar issues, and translate content.</td>
@@ -722,6 +728,7 @@ The purpose is to build infrastructure in the field of large models, through the
         <td>Docky AI is a powerful browser extension that allows you to have real-time conversations with multiple AI models through a sidebar. It supports simultaneous communication with multiple models and can assist you in reading web pages, writing, translating, and creating images</td>
     </tr>
 </table>
+
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
