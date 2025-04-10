@@ -75,7 +75,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td> <img src="./docs/SwiftChat/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/SwiftChat/README.md">SwiftChat</a></td>
-        <td> <a href="https://github.com/aws-samples/swift-chat">SwiftChat</a> is a lightning-fast, cross-platform AI chat application built with React Native. It delivers native performance on Android, iOS, iPad, Android tablets and macOS. Features include real-time streaming chat, rich Markdown support (tables, code blocks, LaTeX), AI image generation, customizable system prompts, and multimodal capabilities. Supports multiple AI providers including DeepSeek, Amazon Bedrock, Ollama and OpenAI with clean UI and high performance.</td>
+        <td> <a href="https://github.com/aws-samples/swift-chat">SwiftChat</a> is a lightning-fast, cross-platform AI chat application built with React Native. It delivers native performance on Android, iOS, and macOS. Features include real-time streaming chat, rich Markdown support, AI image generation, customizable system prompts, quick model selection and multimodal capabilities. Supports multiple AI providers including DeepSeek, Amazon Bedrock, Ollama and OpenAI Compatible Modles with clean UI and high performance.</td>
     </tr>
     </tr>
         <td><img src="https://4everlogo.4everland.store/logo/logo.png" alt="Icon" width="64" height="auto" /></td>
