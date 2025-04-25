@@ -318,6 +318,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <td><a href="https://dockit.geekfun.club/">DocKit</a></td>
     <td>DocKitは、NoSQLデータベース向けに設計されたAI搭載のデスクトップGUIクライアントで、Mac、Windows、Linuxに対応したElasticsearchとOpenSearchをサポートしています。DeepSeekのような大規模モデルと統合することで、DocKitは開発者が複雑なDSLクエリを作成するのを支援し、データ管理と分析のためのより良い体験を提供します。</td>
     </tr>
+    <tr>
+        <td> <img src="docs/zenfeed/assets/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/glidea/zenfeed">zenfeed</a> </td>
+        <td> AIでRSSを強化し、重要な情報を自動的にフィルタリング、要約、プッシュして、情報過多を克服します。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

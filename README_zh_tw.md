@@ -428,6 +428,11 @@
         <td><a href="https://dockit.geekfun.club/">DocKit</a></td>
         <td>DocKit is an AI powered desktop GUI client designed for NoSQL database, support Elasticsearch and OpenSearch across Mac, windows and Linux. By integrating with large models like DeepSeek, DocKit can help developers to write complex DSL queries, and provide a better experience for data management and analysis. </td>
     </tr> 
+    <tr>
+        <td> <img src="docs/zenfeed/assets/icon.png" alt="圖示" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/glidea/zenfeed">zenfeed</a> </td>
+        <td> 用 AI 賦能 RSS，自動篩選、總結、推送重要資訊，告別資訊過載。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
