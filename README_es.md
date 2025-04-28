@@ -398,6 +398,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <td><a href="https://dockit.geekfun.club/">DocKit</a></td>
     <td>DocKit es un cliente GUI de escritorio potenciado por IA diseñado para bases de datos NoSQL, compatible con Elasticsearch y OpenSearch en Mac, Windows y Linux. Mediante la integración con modelos grandes como DeepSeek, DocKit puede ayudar a los desarrolladores a escribir consultas DSL complejas y proporcionar una mejor experiencia para la gestión y análisis de datos.</td>
     </tr> 
+    <tr>
+        <td> <img src="docs/zenfeed/assets/icon.png" alt="Icono" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/glidea/zenfeed">zenfeed</a> </td>
+        <td> Potencia RSS con IA, filtra, resume y envía automáticamente información importante para superar la sobrecarga de información. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
