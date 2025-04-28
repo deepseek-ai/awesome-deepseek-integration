@@ -8,38 +8,39 @@
 
 ![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/094e9dc8-03d0-493d-95fb-6129a42a35bd)
 
-
 ## 接入 DeepSeek API
 
-    config.json
+修改 `config.yaml` 文件，添加 `DeepSeek` 模型配置，将 `YOUR_DEEPSEEK_API_KEY` 替换为你的 DeepSeek API Key。
 
-```json
-{
-  "completionOptions": {
-    "BaseCompletionOptions": {
-        "temperature": 0.0,
-        "maxTokens": 256
-    }
-  },
-  "models": [
-    {
-      "title": "DeepSeek",
-      "model": "deepseek-chat",
-      "contextLength": 128000,
-      "apiKey": "REDACTED",
-      "provider": "deepseek",
-      "apiBase": "https://api.deepseek.com/beta"
-    }
-  ],
-  "tabAutocompleteModel": {
-    "title": "DeepSeek Coder",
-    "model": "deepseek-coder",
-    "apiKey": "REDACTED",
-    "provider": "deepseek",
-    "apiBase": "https://api.deepseek.com/beta"
-  },
-...
+* `~/.continue/config.yaml` (MacOS/Linux)
+* `%USERPROFILE%\.continue\config.yaml` (Windows)
+
+```yaml
+name: Local Assistant
+version: 1.0.0
+schema: v1
+models:
+  - name: DeepSeek
+    provider: deepseek
+    model: deepseek-chat
+    apiKey: YOUR_DEEPSEEK_API_KEY
+    apiBase: https://api.deepseek.com/beta
+    roles:
+      - chat
+      - edit
+      - apply
+      - summarize
+      - autocomplete
+    contextLength: 128000
+    defaultCompletionOptions:
+      temperature: 0.0
+      maxTokens: 256
+context:
+  - provider: code
+  - provider: docs
+  - provider: diff
+  - provider: terminal
+  - provider: problems
+  - provider: folder
+  - provider: codebase
 ```
-
-![image](https://github.com/user-attachments/assets/30aca5ee-b1bc-4c01-a007-45bb229283dd)
-
