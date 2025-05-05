@@ -42,6 +42,14 @@
 
 <table>
     <tr>
+        <td><img src="docs/hh-wserver/wserver.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/hzmosi/ai-wechat">微信RPA智能客服</a></td>
+        <td>AI双擎-微信智能客服。
+        内置Deepseek官方API及阿里百炼Deepseek API，AI服务不可用时无缝自动切换，全天持续稳定运行！
+        本工具通过RPA自动化实现，不访问私有接口，快来使用吧~
+        </td>
+    </tr>
+    <tr>
         <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://migo.intern-ai.org.cn/education">觅果</a></td>
         <td>免费的 AI 创新加速工具，提供智能问答、论文深度理解、前沿 AI 工具以及个人学术知识库。作为探索的伙伴，觅果助你发现并实现卓越创意！</td>
