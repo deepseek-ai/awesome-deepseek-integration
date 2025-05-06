@@ -546,6 +546,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/docky-ai/README_ja.md"> Docky AI </a> </td>
         <td>Docky AI は強力なブラウザ拡張機能で、サイドバーを通じて複数のAIモデルとリアルタイムで会話することができます。複数モデルとの同時交流をサポートし、ウェブページの閲覧、執筆、翻訳、画像作成を支援します</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/Rearview/assets/favicon.webp" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="./docs/Rearview/README_ja.md"> RearView </a> </td>
+        <td>Rearview はブラウザ履歴管理拡張機能で、履歴ブラウジング内容の全文検索をサポートし、履歴を会話可能な知識ベースに変換します。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
