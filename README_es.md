@@ -659,6 +659,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/docky-ai/README.md"> Docky AI </a> </td>
         <td>Docky AI es una poderosa extensión de navegador que permite interacciones en tiempo real con múltiples modelos de IA a través de una barra lateral. Soporta comunicación simultánea con múltiples modelos y puede asistirte en la lectura de páginas web, escritura, traducción y creación de imágenes. </td>
     </tr>
+    <tr>
+        <td> <img src="./docs/Rearview/assets/favicon.webp" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="./docs/Rearview/README_es.md"> RearView </a> </td>
+        <td>Rearview es una extensión de gestión del historial del navegador que admite la búsqueda de texto completo del contenido de navegación histórico y convierte el historial de navegación en una base de conocimientos conversacional.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

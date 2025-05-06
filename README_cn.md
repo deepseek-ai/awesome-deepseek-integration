@@ -616,7 +616,11 @@
         <td> <a href="https://refinereader.cuihuaer.com"> Refine Reader </a> </td>
         <td> 一款基于 AI （DeepSeek、OpenAI等） 的智能阅读助手，致力于帮助用户快速理解和提炼文章精华，支持阅读互动。</td>
     </tr>
-
+    <tr>
+        <td> <img src="./docs/Rearview/assets/favicon.webp" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="./docs/Rearview/README_cn.md"> RearView </a> </td>
+        <td>Rearview 是一款浏览器历史管理扩展，支持对历史浏览内容的全文搜索，并将浏览历史转换为可对话的知识库。</td>
+    </tr>
 
 
 </table>
