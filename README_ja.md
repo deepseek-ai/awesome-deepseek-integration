@@ -8,22 +8,69 @@
 
 DeepSeek API を人気のソフトウェアに統合します。API キーを取得するには、[DeepSeek Open Platform](https://platform.deepseek.com/)にアクセスしてください。
 
-[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)/日本語
-
+[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)/[繁體中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_zh_tw.md)/日本語/[Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md)
 </div>
 
 </br>
 </br>
 
-### アプリケーション
+## 目次
+
+- [Awesome DeepSeek Integrations ](#awesome-deepseek-integrations-)
+  - [目次](#目次)
+  - [プロジェクト一覧](#プロジェクト一覧)
+    - [アプリケーション](#アプリケーション)
+    - [AI エージェントフレームワーク](#ai-エージェントフレームワーク)
+    - [AIデータアプリケーション開発フレームワーク](#aiデータアプリケーション開発フレームワーク)
+    - [RAG フレームワーク](#rag-フレームワーク)
+    - [FHE フレームワーク](#fhe-フレームワーク)
+    - [Solana フレームワーク](#solana-フレームワーク)
+    - [合成データのカテゴリ化](#合成データのカテゴリ化)
+    - [IM アプリケーションプラグイン](#im-アプリケーションプラグイン)
+    - [ブラウザ拡張機能](#ブラウザ拡張機能)
+    - [VS Code 拡張機能](#vs-code-拡張機能)
+    - [neovim 拡張機能](#neovim-拡張機能)
+    - [JetBrains 拡張機能](#jetbrains-拡張機能)
+    - [AI コードエディタ](#ai-コードエディタ)
+    - [Emacs](#emacs)
+    - [その他](#その他)
+
+## プロジェクト一覧
+
+###  <span id="applications">アプリケーション</span>
 
 <table>
+    <tr>
+        <td><img src="docs/eechat/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Lucassssss/eechat">eechat</a></td>
+        <td>シンプルで使いやすい大規模言語モデルのローカル展開ツールです。DeepSeek-R1、DLlama 3、Phi-4、Mistral、Gemma 3などのオープンソースモデルのローカルでのプライバシー保護された展開をサポートし、リモートの大規模言語モデルAPIの呼び出しにも対応しています。</td>
+    </tr>
+    <tr>
+        <td><img src="docs/aingdesk/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/aingdesk/AingDesk">AingDesk</a></td>
+        <td>ワンクリックでAIモデルをパソコンにデプロイ可能。操作は視覚化され、美しいチャットインターフェースが内蔵されており、オンラインで他人と共有して利用できます。DeepSeekなどの他のモデルにも対応し、インターネット検索やサードパーティAPIもサポートしています。</td>
+    </tr>
+    <tr>
+        <td><img src="docs/dingtalk/assets/dingtalk_icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.dingtalk.com/">DingTalk</a></td>
+        <td>DingTalk AIアシスタントは、DingTalkプラットフォームのさまざまなAI機能を統合し、企業の日常業務プロセスをインテリジェントにサポートします。DingTalk AIアシスタントは、スマートコミュニケーション、スマートコラボレーション、スマートマネジメントなど、多様なインテリジェント機能を備えています。これらの機能を活用し、企業内の要点を整理し、会議議事録を作成し、関連する業務タスクやスケジュールのリマインダーをユーザーに通知することができます。さらに、DingTalk AIアシスタントはナレッジベースを活用し、企業の管理プロセスや人事ポリシーなどに関する従業員からの一般的な質問に対して、インテリジェントに回答することも可能です。</td>
+    </tr>
+    <tr>
+        <td><img src="https://chatdoc.com/chatdoc/chatdoc.webp" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://chatdoc.com">ChatDOC</a></td>
+        <td>ChatDOCは、AIを活用したドキュメントリーディングツールで、強力なトレーサビリティ機能を備えており、すべての情報の出所が明確で確認可能です。これにより、ドキュメントの核心を効率的かつ正確に把握するのに役立ちます。</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/SwiftChat/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
+<td> <a href="docs/SwiftChat/README.md">SwiftChat</a></td>
+<td> <a href="https://github.com/aws-samples/swift-chat">SwiftChat</a> は React Native で構築された超高速なクロスプラットフォームAIチャットアプリケーションです。Android、iOS、macOSでネイティブなパフォーマンスを提供します。リアルタイムストリーミングチャット、豊富なMarkdownサポート、AI画像生成、カスタマイズ可能なシステムプロンプト、クイックモデル切り替え、マルチモーダル機能などを備えています。DeepSeek、Amazon Bedrock、Ollama、OpenAI 互換モデルなど複数のAIプロバイダーをサポートし、シンプルなUIと高性能を実現しています。</td>
+    </tr>
  <tr>
-    <td><img src="https://4everlogo.4everland.store/icons/1024.png" alt="Icon" width="64" height="auto" /></td>
+    <td><img src="https://4everlogo.4everland.store/logo/logo.png" alt="Icon" width="64" height="auto" /></td>
     <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README_ja.md">4EVERChat</a></td>
-    <td>4EVERChatは、数百のLLMを統合したインテリジェントなモデル選択プラットフォームで、モデルのパフォーマンスをリアルタイムで比較可能です。4EVERLAND AI RPCの統一APIエンドポイントを活用し、コストフリーでモデル切り替えを実現し、応答が速くコストの低い組み合わせを自動的に選択します。</td>
+    <td><a href="https://chat.4everland.org/">4EVERChat</a>は、数百のLLMを統合したインテリジェントなモデル選択プラットフォームで、モデルのパフォーマンスをリアルタイムで比較可能です。<a href="https://www.4everland.org/">4EVERLAND</a> AI RPCの統一APIエンドポイントを活用し、コストフリーでモデル切り替えを実現し、応答が速くコストの低い組み合わせを自動的に選択します。</td>
 </tr>
-    <tr>    
+    <tr>
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
         <td>DeepChat は、強力な DeepSeek モデルを内蔵した完全に無料のデスクトップ インテリジェント アシスタントです。複数ラウンドの会話、オンライン検索、ファイルのアップロード、ナレッジ ベースなどの複数の機能をサポートします。</td>
@@ -32,6 +79,12 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/quantalogic/quantalogic">Quantalogic</a> </td>
         <td> QuantaLogicは、高度なAIエージェントを構築するためのReAct（推論と行動）フレームワークです。 </td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.gptbots.ai/ja_JP/docs">GPTBots</a> </td>
+        <td> <a href="https://www.gptbots.ai/ja_JP">GPTBots</a>は、Deepseekを含む国際的な主要LLMを統合したノーコードのAIエージェント構築プラットフォームです。RAGに基づく知識ストレージ/検索、ツールのカスタマイズ/呼び出し、ワークフローのオーケストレーションなどのモジュールを提供しています。また、エージェントを複数の主流プラットフォーム（WhatsApp、Telegramなど）に統合することができ、企業にエンドツーエンドのAIソリューションを提供し、AI時代において企業が際立つ手助けをします。
+        </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/13600976/224d547a-6fbc-47c8-859f-aa14813e2b0f" alt="Icon" width="64" height="auto" /> </td>
@@ -44,10 +97,15 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> ChatGPT Next Webは、GPT3、GPT4、Gemini ProをサポートするクロスプラットフォームのChatGPTウェブUIです。 </td>
     </tr>
     <tr>
+        <td> <img src="docs/Casibase/assets/casibase.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://casibase.org/ja/docs/category/beginner-guide/">Casibase</a></td>
+        <td> <a href="https://casibase.org">Casibase</a>は、最新のRAG技術、SSO機能を組み合わせ、様々な主要なAIモデルをサポートするオープンソースのAIナレッジベースと対話システムです。企業や開発者に、強力で柔軟なナレッジ管理とインテリジェントな対話プラットフォームを提供することを目指しています。 </td>
+    </tr>
+    <tr>
         <td> <img src="./docs/Coco AI/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/Coco AI/README.md">Coco AI</a></td>
         <td> <a href="https://coco.rs">Coco AI</a> は、完全にオープンソースでクロスプラットフォーム対応の統合検索および生産性向上ツールで、アプリケーション、ファイル、Google Drive、Notion、Yuque、Hugoなど、ローカルおよびクラウドのさまざまなデータソースを接続して検索できます。DeepSeekなどの大規模モデルと連携することにより、Coco AIはインテリジェントな個人のナレッジ管理を実現し、プライバシーを重視し、プライベートなデプロイにも対応。ユーザーが情報に迅速かつインテリジェントにアクセスできるようサポートします。 </td>
-    </tr>  
+    </tr>
     <tr>
         <td> <img src="./docs/liubai/assets/liubai-logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/liubai/README.md">Liubai</a> </td>
@@ -67,6 +125,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://raw.githubusercontent.com/rss-translator/RSS-Translator/main/core/static/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/rss_translator/README.md"> RSS Translator </a> </td>
         <td> RSSフィードをあなたの言語に翻訳します！ </td>
+    </tr>
+    <tr>
+        <td> <img src="https://relingo.net/assets/images/relingo-logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://relingo.net"> Relingo </a> </td>
+        <td> ウェブサイトを閲覧したり、YouTubeを視聴しながら語彙を増やし、マスターしよう！ </td>
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/ysnows/enconvo_media/main/logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -102,6 +165,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://www.raycast.com/favicon-production.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/raycast/README.md">Raycast</a></td>
         <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a>は、macOSの生産性ツールで、いくつかのキーストロークでツールを制御できます。DeepSeek AIを含むさまざまな拡張機能をサポートしています。</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/chatpdflocal/assets/chatpdflocal-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.chatpdflocal.com">ChatPDFLocal</a> </td>
+        <td> ChatPDFLocalはAIを搭載したMac OSアプリで、DeepSeekやその他の複数のAIモデルとシームレスに連携し、PDFの読書効率を向上させます。</td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/193405629?s=200&v=4" alt="PHP Client" width="64" height="auto" /> </td>
@@ -164,7 +232,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> AI投資研究エージェント/次世代の金融情報エントリーポイント。投資家を代理して会議に出席し、AI議事録を取るほか、金融投資情報の検索・質問応答やエージェント駆使した定量分析など、投資研究業務を支援します。 </td>
     </tr>
     <tr>
-        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.xark-argo.com">argo</a> </td>
         <td>ローカルでダウンロードし、Mac、Windows、Linux 上でOllamaとHuggingfaceモデルをRAGで実行します。LLM APIもサポートしています。</td>
     </tr>
@@ -176,7 +244,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <tr>
         <td> <img src="https://raw.githubusercontent.com/labring/FastGPT/refs/heads/main/.github/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://fastgpt.cn/ja">FastGPT</a> </td>
-        <td> 
+        <td>
             FastGPT は大規模言語モデル（LLM）を基盤としたオープンソースAIナレッジベース構築プラットフォームで、DeepSeekやOpenAIなど様々なモデルをサポートしています。データ処理、モデル呼び出し、RAG検索、ビジュアルAIワークフロー設計などの導入即使用可能な機能を提供し、複雑なAIアプリケーションの構築を容易に実現します。
         </td>
    </tr>
@@ -210,9 +278,56 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://chatlabsai.com">1つのアプリで250以上のテキスト、画像の大規模モデルにアクセス</a> </td>
         <td> 1AI iOSチャットボットは250以上のテキスト、画像、音声モデルと統合されており、OpenRouterやReplicateの任意のモデル、Deepseek推論およびDeepseek V3モデルと話すことができます。</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
+        <td> <a href="https://popai.pro">PopAi</a> </td>
+        <td>PopAiがDeepSeek R1を発表！PopAiで遅延のない、超高速なパフォーマンスをお楽しみください。 オンライン検索のオン/オフをシームレスに切り替え可能です。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://pot-app.com/">Pot</a></td>
+        <td> <a href="https://pot-app.com/">Pot</a> 🌈クロスプラットフォームの単語翻訳とOCRソフトウェア </td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/banner.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Byaidu/PDFMathTranslate">PDFMathTranslate</a></td>
+        <td>この拡張プログラムは、開発者がコード内のコメント、文字列、コードヒント、エラー情報、変数名を翻訳するのに役立ちます。</td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/Richasy/Bili.Copilot/raw/master/assets/StoreLogo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Richasy/Bili.Copilot">Bili.Copilot</a></td>
+        <td>B局のサードパーティ製Windowsデスクトップクライアント、Windows App SDKを使用して構築されたネイティブアプリケーション。</td>
+    </tr>
+    <tr>
+        <td><img src="https://www.tensorbounce.com/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
+        <td>LawAgentは、Tensorbounceチームによって開発された、知識ベースとAIエージェント機能を統合した法律AI製品です。公式の法律関連データを数千万件も保有しており、カスタム知識ベースの設定も可能です。プロフェッショナルモードでは、DeepSeek-R1の推論能力を活用し、ユーザーの法律分析、契約審査、文書生成、ファイル翻訳などの法律シーンをサポートします。</td>
+    </tr>
+    <tr>
+        <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
+<td><a href="https://github.com/jiqi136/DS-AI">マルチプラットフォーム対応ネットワークDeepSeek</a></td>
+<td> DeepSeek公式、アリクラウド、TikTok火山の3つのプラットフォームを連携させたトリプルチャネルAIエンジンにより、絶えず進化するインテリジェンスを実現。さらに「オンライン検索」と「深度思考」を融合したハイブリッドモードを採用しています.</td>
+	</tr>
+    <tr>
+    <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
+    <td><a href="https://www.remio.ai/">remio</a></td>
+    <td>remio は AI を活用したパーソナルナレッジハブです。閲覧したウェブコンテンツを自動的に収集し、ローカルファイルを解析し、個人のメモを統合することで、パーソナライズされたナレッジベースを構築します。パーソナルナレッジベース内での検索と自然言語による Q&A を可能にし、即座に洞察を得られるようにします。さらに、あなたのライティングスタイルに適応し、ドラフト作成や改良、コンテンツ完成を簡単に進めるスマートライティング支援も提供します。ローカル優先のストレージ設計により、remio はデータのプライバシーを重視しながら、断片化した情報を一元化し、最大限の生産性を実現します。</td>
+    </tr> 
+    <tr>
+    <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
+    <td><a href="https://dockit.geekfun.club/">DocKit</a></td>
+    <td>DocKitは、NoSQLデータベース向けに設計されたAI搭載のデスクトップGUIクライアントで、Mac、Windows、Linuxに対応したElasticsearchとOpenSearchをサポートしています。DeepSeekのような大規模モデルと統合することで、DocKitは開発者が複雑なDSLクエリを作成するのを支援し、データ管理と分析のためのより良い体験を提供します。</td>
+    </tr>
+    <tr>
+        <td> <img src="docs/zenfeed/assets/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/glidea/zenfeed">zenfeed</a> </td>
+        <td> AIでRSSを強化し、重要な情報を自動的にフィルタリング、要約、プッシュして、情報過多を克服します。 </td>
+    </tr>
 </table>
 
-### AI エージェントフレームワーク
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
+###  <span id="agent">AI エージェントフレームワーク</span>
 
 <table>
     <tr>
@@ -221,7 +336,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td>高度にコンポーザブルで自律的かつ永続的な記憶を持つAIエージェントネットワークを構築するために設計されたRustフレームワーク。</td>
     </tr>
      <tr>
-        <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
         <td>エージェント間の信頼できる通信のための基本プロトコルフレームワークです。利用者は<a href="https://docs.apro.com/attps">ATTPs</a>のSDKを導入することで、エージェントの登録、検証可能なデータの送信、検証可能なデータの取得などの機能を利用することができます。</td>
     </tr>
@@ -240,9 +355,35 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/antgroup/agentUniverse"> agentUniverse </a> </td>
         <td> agentUniverseは、複雑なビジネスシーン向けに設計されたマルチエージェント協調フレームワークです。迅速で使いやすい大規模モデルのインテリジェントエージェントアプリケーション構築能力を提供し、特にエージェント間の協調スケジューリング、自律的な意思決定、動的なフィードバックなどのメカニズムに重点を置いています。これは、Ant Groupの金融業界における実践的なビジネス経験に基づいて開発されました。agentUniverseは、2024年6月にDeepSeekシリーズモデルのサポートを全面的に統合しました。  </td>
     </tr>
+    <tr>
+        <td width=80> <img src="docs/BotSharp/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/SciSharp/BotSharp"> BotSharp </a> </td>
+        <td> BotSharpは、オープンソースのマルチエージェントアプリケーション開発フレームワークです。シンプルなチャットボットからマルチエージェントの協調、複雑なタスク（例：Text To SQL）まで、すぐに使える方法を提供し、大規模モデルの能力を既存のビジネスシステムに迅速に統合できます。さらに、ナレッジベースや会話管理機能も内蔵しています。このフレームワークはDeepSeek V3モデルで詳細にテストされており、DeepSeek V3の性能のおかげで、他のクローズドソースモデルに劣らないパフォーマンスを発揮します。</td>
+    </tr>
+     <tr>
+        <td width=80> <img src="docs/eino/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+            <td> <a href="https://github.com/cloudwego/eino"> Eino </a> </td>
+            <td> Eino (I knowと発音が似ている)は、Go言語で最も優れたLLMアプリケーション開発フレームワークとなることを目指しています。LangChain、LlamaIndexなどのオープンソースコミュニティの優れたLLMフレームワークの設計理念を参考にしながら、最先端の研究成果と実用的な経験を取り入れ、シンプルさ、スケーラビリティ、信頼性、効率性を強調したGo言語プログラミング慣行に準拠したLLMアプリケーション開発フレームワークを提供しています。 </td>
+        </tr>
 </table>
 
-### RAG フレームワーク
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
+###  <span id="data">AIデータアプリケーション開発フレームワーク</span>
+
+<table>
+    <tr>
+        <td width="80"> <img src="https://github.com/user-attachments/assets/a327d72f-755f-4256-8a37-32a518a55df3" alt="Icon" width="96" height="auto" /> </td>
+        <td width="120"> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/dbgpt/README.md"> DB-GPT </a> </td>
+        <td> DB-GPT は、AWEL (Agentic Workflow Expression Language) とエージェントを備えたオープンソースの AI ネイティブ データ アプリ開発フレームワークです。
+その目的は、マルチモデル管理 (SMMF)、Text2SQL 効果の最適化、RAG フレームワークと最適化、マルチエージェント フレームワークのコラボレーション、AWEL (エージェント ワークフロー オーケストレーション) などの複数の技術機能を開発することにより、大規模モデルの分野でインフラストラクチャを構築し、データベースを中心とした大規模モデル アプリケーションの構築をより簡単かつ便利にすることです。
+ </td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
+###  <span id="rag">RAG フレームワーク</span>
 
 <table>
     <tr>
@@ -267,7 +408,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### FHE フレームワーク
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
+###  <span id="fhe">FHE フレームワーク</span>
 
 <table>
     <tr>
@@ -277,7 +420,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### Solana フレームワーク
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
+###  <span id="solana">Solana フレームワーク</span>
 
 <table>
     <tr>
@@ -287,7 +432,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### 合成データのカテゴリ化
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
+###  <span id="sythetic">合成データのカテゴリ化</span>
 
 <table>
     <tr>
@@ -297,8 +444,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
-### IM アプリケーションプラグイン
+###  <span id="im">IM アプリケーションプラグイン</span>
 
 <table>
     <tr>
@@ -316,9 +464,16 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/KomoriDev/nonebot-plugin-deepseek"">NoneBot<br/>（QQ, Lark, Discord, TG, etc.）</a> </td>
         <td> NoneBotフレームワークを基に、インテリジェントな会話と深い思考機能をサポートします。QQ/飛書/Discord/Telegram等多种多様なメッセージプラットフォームに対応しています </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/Soulter/AstrBot/raw/refs/heads/master/dashboard/src/assets/images/logo-normal.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Soulter/AstrBot/">AstrBot<br/>（QQ, WeChat, WeCom, Lark, TG, etc.）</a> </td>
+        <td> 大規模言語モデルをサポートするマルチプラットフォームチャットボットおよび開発フレームワーク。RAG、長期記憶、ウェブ検索などの各種LLMエージェント機能をサポートし、プラグイン開発にも対応。</td>
+    </tr>
 </table>
 
-### ブラウザ拡張機能
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
+###  <span id="browser">ブラウザ拡張機能</span>
 
 <table>
     <tr>
@@ -357,6 +512,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td>AIを活用したRSS要約と多次元フィードビューを備えたインテリジェントなRSSリーダーブラウザ拡張機能。コンテンツ理解を強化するためのDeepSeekモデル設定をサポートしています。</td>
     </tr>
     <tr>
+        <td> <img src="./docs/refinereader/assets/refinereader-128.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://refinereader.cuihuaer.com"> Refine Reader </a> </td>
+        <td> AI（DeepSeek、OpenAI等）を使用して記事を素早く理解し要約するためのChrome拡張機能。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/Hedwi/deepchat/refs/heads/main/images/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://chromewebstore.google.com/detail/deepchat-power-of-deepsee/femhcibnncinlabdboehojdhfcihpkpl?hl=en"> DeepChat </a> </td>
         <td>任意のウェブサイト上でサイドバーを開いてDeepSeekとチャットできるChrome拡張機能です。さらに、任意のウェブサイト上の選択したテキストの下にフローティングメニューを表示し、テキストの要約生成、文法チェック、コンテンツの翻訳を行うことができます。</td>
@@ -381,9 +541,16 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/baotlake/anything-copilot"> Anything Copilot </a> </td>
         <td> Anything Copilotは、サイドバーから直接主要なAIツールにシームレスにアクセスできるようにするブラウザ拡張機能です。 </td>
     </tr>
+    <tr>
+        <td> <img src="http://cdn.docky.ai/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/docky-ai/README_ja.md"> Docky AI </a> </td>
+        <td>Docky AI は強力なブラウザ拡張機能で、サイドバーを通じて複数のAIモデルとリアルタイムで会話することができます。複数モデルとの同時交流をサポートし、ウェブページの閲覧、執筆、翻訳、画像作成を支援します</td>
+    </tr>
 </table>
 
-### VS Code 拡張機能
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
+###  <span id="vscode">VS Code 拡張機能</span>
 
 <table>
     <tr>
@@ -406,9 +573,16 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/titusTong/seekCodeCopilot/blob/main/README.md"> SeekCode Copilot </a> </td>
         <td> vscode インテリジェント コーディング アシスタントは、ローカルにデプロイされた DeepSeek モデルの構成をサポートします </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/intellism/vscode-comment-translate/blob/master/doc/image/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/intellism/vscode-comment-translate/blob/master/README_JA.md"> Comment Translation </a> </td>
+        <td> この拡張により、開発者はコード内のコメント、文字列、コードヒント、エラーメッセージ、変数名を翻訳できます。 </td>
+    </tr>
 </table>
 
-### neovim 拡張機能
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
+###  <span id="neovim">neovim 拡張機能</span>
 
 <table>
     <tr>
@@ -428,7 +602,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### JetBrains 拡張機能
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
+###  <span id="jetbrains">JetBrains 拡張機能</span>
 
 <table>
     <tr>
@@ -456,9 +632,16 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://plugins.jetbrains.com/plugin/24851-ai-git-commit">AI Git Commit</a> </td>
         <td> このプラグインは、コードの変更に基づいてコミットメッセージを自動生成するためにAIを使用します。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/YiiGuxing/TranslationPlugin/blob/master/pluginIcon.svg?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://intellij-translation.yiiguxing.top/#/ja/">IntelliJ Translation Plugin</a> </td>
+        <td> IntelliJベースのIDE向け翻訳プラグイン。OpenAI Translator（DeepSeek・Doubao・Ollamaなど互換）を含む複数翻訳サービスを統合し、IDE内でコメントやドキュメント等のコードテキストを随時直接翻訳可能にします。</td>
+    </tr>
 </table>
 
-### AI コードエディタ
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
+###  <span id="codeeditor">AI コードエディタ</span>
 
 <table>
     <tr>
@@ -473,7 +656,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
-### Emacs
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
+###  <span id="emacs">Emacs</span>
 
 <table>
     <tr>
@@ -488,8 +673,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
-### その他
+###  <span id="others">その他</span>
 
 <table>
     <tr>
@@ -548,8 +734,20 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> は、大規模言語モデル（LLM）を活用した自動アルゴリズム設計のための統一されたオープンソースのPythonベースのプラットフォームです。</td>
     </tr>
     <tr>
-        <td> <img src="./docs/tencent/zhuque.png"  alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="./docs/tencent/hunyuan.png"  alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/tencent/AI-Infra-Guard"> AI-Infra-Guard </a> </td>
-        <td> AIインフラのセキュリティ評価ツールで、AIシステムにおける潜在的なセキュリティリスクを発見・検出することを目的としています。</td>
+        <td> テンセント混元セキュリティチーム - AIインフラのセキュリティ評価ツールで、AIシステムにおける潜在的なセキュリティリスクを発見・検出することを目的としています。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/yincongcyincong/telegram-deepseek-bot/blob/main/static/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> </td>
+        <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> はDeepSeek AI機能を統合したTelegramボットです。 </td>
+    </tr>
+    <tr>
+        <td>  </td>
+        <td> <a href="https://github.com/eqld/nlsh">nlsh</a> </td>
+        <td> <a href="https://github.com/eqld/nlsh">nlsh</a> は、マルチバックエンドLLMサポートを備えたAI駆動のCLIツールで、コンテキストを考慮したシェルコマンドを生成します。シェル固有の構文、読み取り専用システムツール、カスタム推論エンドポイントに対応しています。</td>
     </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

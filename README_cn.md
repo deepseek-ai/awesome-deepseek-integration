@@ -8,21 +8,89 @@
 
 将 DeepSeek 大模型能力轻松接入各类软件。访问 [DeepSeek 开放平台](https://platform.deepseek.com/)来获取您的 API key。
 
-[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/简体中文/[日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md)
+[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/简体中文/[繁体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_zh_tw.md)/[日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md)/[Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md)
 
 </div>
 
 <br></br>
 
+## 目录
 
-### 应用程序
+- [DeepSeek 实用集成 ](#deepseek-实用集成-)
+  - [目录](#目录)
+  - [项目列表](#项目列表)
+    - [应用程序](#应用程序)
+    - [AI Agent 框架](#ai-agent-框架)
+    - [AI数据应用框架](#ai数据应用框架)
+    - [RAG 框架](#rag-框架)
+    - [FHE (全同态加密) frameworks](#fhe-全同态加密-frameworks)
+    - [Solana 框架](#solana-框架)
+    - [综合数据管理](#综合数据管理)
+    - [即时通讯插件](#即时通讯插件)
+    - [Office插件](#office插件)
+    - [浏览器插件](#浏览器插件)
+    - [VS Code 插件](#vs-code-插件)
+    - [neovim 插件](#neovim-插件)
+    - [JetBrains 插件](#jetbrains-插件)
+    - [AI Code编辑器](#ai-code编辑器)
+    - [安全](#安全)
+    - [其它](#其它)
+
+## 项目列表
+
+###  <span id="applications">应用程序</span>
 
 <table>
     <tr>
-    <td><img src="https://4everlogo.4everland.store/icons/1024.png" alt="Icon" width="64" height="auto" /></td>
-    <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README_cn.md">4EVERChat</a></td>
-    <td>4EVERChat 是集成数百款LLM的智能模型选型平台，支持直接对比不同模型的实时响应差异，基于4EVERLAND AI RPC 统一API端点实现零成本模型切换，自动选择响应快、成本低的模型组合。</td>
-</tr>
+        <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://migo.intern-ai.org.cn/education">觅果</a></td>
+        <td>免费的 AI 创新加速工具，提供智能问答、论文深度理解、前沿 AI 工具以及个人学术知识库。作为探索的伙伴，觅果助你发现并实现卓越创意！</td>
+    </tr>
+    <tr>
+        <td><img src="docs/eechat/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Lucassssss/eechat">eechat</a></td>
+        <td>简洁易用的大模型本地部署工具，支持开源模型 DeepSeek-R1， DLlama 3, Phi-4, Mistral, Gemma 3 等模型的本地化隐私部署，同时支持远程大模型API调用。</td>
+    </tr>
+    <tr>
+        <td><img src="docs/aingdesk/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/aingdesk/AingDesk">AingDesk</a></td>
+        <td>一键把AI模型部署在你电脑，操作可视化，内置精美聊天界面，可在线分享他人共用，支持 DeepSeek 等其他模型，支持联网搜索和第三方API</td>
+    </tr>
+    <tr>
+        <td><img src="docs/dingtalk/assets/dingtalk_icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.dingtalk.com/">钉钉</a></td>
+        <td>钉钉 AI 助理，它融合了钉钉平台的多项 AI 产品功能，以智能化的方式辅助企业日常的工作流程。钉钉 AI 助理具备多种智能能力，包括但不限于智能沟通、智能协同、智能管理等。通过这些功能，AI 助理能够在企业内部中归纳要点、生成会议纪要，并且能够为用户推送相关工作任务和日程提醒。此外，钉钉 AI 助理还能够通过知识库的能力智能地回答员工企业的行政流程、人力资源政策等多个方面的常见问题。</td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/mrzhang1013/CodingSee/blob/main/codingseeicon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.codingsee.com">CodingSee-AI伴学</a></td>
+        <td>CodingSee是一款专为中国少儿编程设计的软件，内容包含社区，项目协作，站内实时消息，AI问答，Scratch/Python/C++编译环境，代码精准纠错的集成平台，UI设计友好，目前支持Windows和mac系统。</td>
+    </tr>
+    <tr>
+        <td><img src="https://chatdoc.com/chatdoc/chatdoc.webp" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://chatdoc.com">ChatDOC</a></td>
+        <td>ChatDOC是一款AI文档阅读工具，具备强大的溯源功能，确保每一条信息的来源清晰可查，助您高效、精准地掌握文档核心。</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/SwiftChat/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/SwiftChat/README_cn.md">SwiftChat</a></td>
+        <td> <a href="https://github.com/aws-samples/swift-chat">SwiftChat</a> 是一款使用 React Native 构建的闪电般快速的跨平台 AI 聊天应用。它在 Android、iOS 和 macOS 上提供原生性能。功能包括实时流式聊天、丰富的 Markdown 支持、AI 图像生成、可自定义系统提示、快速切换模型和多模态能力。支持 DeepSeek、Amazon Bedrock、Ollama 和 OpenAI API 兼容的模型，并具有简洁的用户界面和高性能表现。</td>
+    </tr>
+    <tr>
+        <td><img src="https://4everlogo.4everland.store/logo/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README_cn.md">4EVERChat</a></td>
+        <td><a href="https://chat.4everland.org/">4EVERChat</a> 是集成数百款LLM的智能模型选型平台，支持直接对比不同模型的实时响应差异，基于<a href="https://www.4everland.org/">4EVERLAND</a> AI RPC 统一API端点实现零成本模型切换，自动选择响应快、成本低的模型组合。</td>
+    </tr>
+    <tr>
+        <td><img src="./docs/xhai_browser/assets/logo_512.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="./docs/xhai_browser/README_cn.md">小海浏览器</a></td>
+        <td>小海浏览器是安卓桌面管理&AI浏览器,DeepSeek是默认AI对话引擎.他有极致的性能(0.2秒启动),苗条的体型(apk 3M大),无广告,超高速广告拦截,多屏分类,屏幕导航,多搜索框,一框多搜</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.gptbots.ai/zh_CN/docs">GPTBots</a> </td>
+        <td> <a href="https://www.gptbots.ai/zh_CN">GPTBots</a> 是一个无代码的 AI Agent 构建平台，集成了包括 Deepseek 在内的国际主流 LLM，并提供了基于 RAG 的知识存储/检索，工具自定义/调用，工作流编排等模块，并可将 Agent 集成至多个主流平台（WhatsApp、Telegram 等），为企业提供端到端的 AI 解决方案，助力企业在 AI 时代脱颖而出。</td>
+    </tr>
     <tr>
         <td><img src="./docs/xhai_browser/assets/logo_512.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="./docs/xhai_browser/README_cn.md">小海浏览器</a></td>
@@ -52,6 +120,11 @@
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/bb65404c-f867-42d8-ae2b-281fe953ab54" alt="Icon" width="64" height="auto"/> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatgpt_next_web/README_cn.md"> ChatGPT-Next-Web </a> </td>
         <td> 一键获取跨平台ChatGPT网页用户界面，支持流行的LLM </td>
+    </tr>
+    <tr>
+        <td> <img src="docs/Casibase/assets/casibase.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://casibase.org/zh/docs/category/beginner-guide/">Casibase</a></td>
+        <td> <a href="https://casibase.org">Casibase</a> 是一个开源的 AI 知识库和对话系统，它结合了最新的 RAG 技术、SSO 功能，并支持各种主流 AI 模型。旨在为企业和开发者提供一个功能强大、灵活易用的知识管理和智能对话平台。 </td>
     </tr>
     <tr>
         <td> <img src="docs/Coco AI/assets/favicon.png" alt="Icon" width="64" height="auto" /> </td>
@@ -84,6 +157,11 @@
         <td> 开源、简洁、可自部署的RSS翻译器 </td>
     </tr>
     <tr>
+        <td> <img src="https://relingo.net/assets/images/relingo-logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://relingo.net"> Relingo </a> </td>
+        <td> 在浏览网站和观看 YouTube 视频时，轻松构建和掌握词汇！ </td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/ysnows/enconvo_media/main/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/enconvo/README_cn.md"> Enconvo </a> </td>
         <td> Enconvo是AI时代的启动器,是所有AI功能的入口,也是一位体贴的智能助理。 </td>
@@ -112,6 +190,11 @@
         <td> <img src="https://www.raycast.com/favicon-production.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/raycast/README_cn.md">Raycast</a></td>
         <td> <a href="https://raycast.com/?via=ViGeng">Raycast</a> 是一款 macOS 生产力工具，它允许你用几个按键来控制你的工具。它支持各种扩展，包括 DeepSeek AI。 </td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/chatpdflocal/assets/chatpdflocal-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.chatpdflocal.com">ChatPDFLocal</a> </td>
+        <td> ChatPDFLocal 是一款基于AI的Mac OS App，可以帮助您与PDF互动，可以帮助您快速地理解PDF，它集成了DeepSeek及其他多种AI模型旨在提高您的阅读效率。</td>
     </tr>
     <tr>
         <td> <img src="docs/zotero/assets/zotero-icon.png" alt="Icon" width="64" height="auto" /> </td>
@@ -149,7 +232,7 @@
         <td> <a href="https://bobtranslate.com/">Bob</a> 是一款 macOS 平台的翻译和 OCR 软件，您可以在任何应用程序中使用 Bob 进行翻译和 OCR，即用即走！ </td>
     </tr>
     <tr>
-        <td> <img src="https://github.com/ZGGSONG/STranslate/raw/main/img/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://github.com/ZGGSONG/STranslate/raw/main/attachments/imgs/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://stranslate.zggsong.com/">STranslate</a></td>
         <td> <a href="https://stranslate.zggsong.com/">STranslate</a>（Windows） 是 WPF 开发的一款即用即走的翻译、OCR工具 </td>
     </tr>
@@ -177,7 +260,7 @@
         <td> AI投研助理/AI驱动的新一代金融信息入口。代理投资者听会/记纪要，金融投资信息的搜索问答/定量分析等投资研究工作。 </td>
     </tr>
     <tr>
-        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.xark-argo.com">argo</a> </td>
         <td> 本地下载并运行Huggingface及Ollama模型，支持RAG、LLM API、工具接入等，支持Mac/Windows/Linux。 </td>
     </tr>
@@ -189,7 +272,7 @@
     <tr>
         <td> <img src="https://raw.githubusercontent.com/labring/FastGPT/refs/heads/main/.github/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://fastgpt.cn/zh">FastGPT</a> </td>
-        <td> 
+        <td>
             FastGPT 基于 LLM 大模型的开源 AI 知识库构建平台，支持 DeepSeek、OpenAI 等多种模型。我们提供了开箱即用的数据处理、模型调用、RAG 检索、可视化 AI 工作流编排等能力，帮助您轻松构建复杂的 AI 应用。
         </td>
     </tr>
@@ -204,7 +287,7 @@
         <td>如知AI笔记是一款智能化的AI知识管理工具，致力于为用户提供一站式的知识管理和应用服务，包括AI搜索探索、AI结果转笔记、笔记管理与整理、知识演示与分享等。集成了DeepSeek深度思考模型，提供更稳定、更高质量的输出。</td>
     </tr>
     <tr>
-        <td> <img src="https://athenalab.ai/assets/favicon/favicon.svg" alt="Icon" width="64" height="auto" /> </td> 
+        <td> <img src="https://athenalab.ai/assets/favicon/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://athenalab.ai/">Athena</a> </td>
         <td>世界上首个具有先进认知架构和类人推理能力的自主通用人工智能，旨在解决复杂的现实世界挑战。</td>
     </tr>
@@ -233,10 +316,60 @@
         <td> <a href="https://chatlabsai.com">在一个应用中访问250多个文本、图像大模型</a> </td>
         <td> 1AI iOS聊天机器人集成了250多个文本、图像、语音模型，让用户可以与OpenRouter、Replicate上的任何模型对话，包括Deepseek推理和Deepseek V3模型。</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
+        <td> <a href="https://popai.pro">PopAi</a> </td>
+        <td>PopAi推出DeepSeek R1！享受无延迟、闪电般快速的性能，尽在PopAi。轻松切换在线搜索开/关。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://pot-app.com/">Pot</a></td>
+        <td> <a href="https://pot-app.com/">Pot</a> 🌈一个跨平台的划词翻译和OCR软件 </td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/banner.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Byaidu/PDFMathTranslate">PDFMathTranslate</a></td>
+        <td>PDFMathTranslate是一款基于 AI 完整保留排版的 PDF 文档全文双语翻译工具。</td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/Richasy/Bili.Copilot/raw/master/assets/StoreLogo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Richasy/Bili.Copilot">哔哩助理</a></td>
+        <td>B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用。</td>
+    </tr>
+     <tr>
+        <td><img src="https://www.tensorbounce.com/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
+        <td>LawAgent是tensorbounce团队出品的知识库结合AI Agent的法律AI产品,拥有上千万官方法律相关知识库数据，用户可自定义知识库，专业模式结合DeepSeek-R1的推理能力应用在用户的法律分析、合同审查、文书生成、文件翻译等法律场景。</td>
+     <tr>
+        <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
+<td><a href="https://github.com/jiqi136/DS-AI">多平台联网DeepSeek</a></td>
+<td>依托DeepSeek官方&阿里云&抖音火山,三通道AI引擎,持续进化智能。并且混合使用“联网搜索+深度思考”模式。</td>
+    </tr>
+    <tr>
+        <td width=80> <img src="docs/AlphaBot/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://alphabot.x-pai.com/">AlphaBot</a> </td>
+        <td> AlphaBot是一款智能股票分析助手，整合多源数据与AI分析技术，提供技术分析、预测和风险评估功能，帮助投资者做出数据驱动的交易决策。支持一键部署，操作简便，支持Windows/Linux/MacOS等平台</td>
+    </tr>
+    <tr>
+    <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
+    <td><a href="https://www.remio.ai/">remio</a></td>
+    <td>remio 是一个 AI 驱动的个人知识中心，通过自动捕获浏览的网页内容、解析本地文件并整合个人笔记，构建个性化的知识库。它支持在个人知识库中进行搜索和自然语言问答，以提供即时洞察，同时提供智能写作辅助——适应您的写作风格，轻松简化起草、润色和完成内容的过程。remio 采用本地优先存储设计，优先保护数据隐私，同时集中管理零散信息，以实现最大化的生产力。</td>
+    </tr> 
+    <tr>
+    <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
+    <td><a href="https://dockit.geekfun.club/">DocKit</a></td>
+    <td>DocKit是一個AI驅動的桌面GUI客戶端，專為NoSQL數據庫設計，支持Mac、Windows和Linux上的Elasticsearch和OpenSearch。通過集成DeepSeek等大型模型，DocKit可以幫助開發者編寫複雜的DSL查詢，並為數據管理和分析提供更好的體驗。</td>
+    </tr> 
+    <tr>
+        <td> <img src="docs/zenfeed/assets/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/glidea/zenfeed">zenfeed</a> </td>
+        <td> 用 AI 赋能 RSS，自动筛选、总结、推送重要信息，告别信息过载。 </td>
+    </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
-### AI Agent 框架
+###  <span id="agent">AI Agent 框架</span>
 
 <table>
     <tr>
@@ -269,10 +402,36 @@
         <td> <a href="https://github.com/antgroup/agentUniverse"> agentUniverse </a> </td>
         <td> agentUniverse 是一个面向复杂业务场景设计的多智能体协作框架。其提供了快速易用的大模型智能体应用搭建能力，并着重于提供智能体协同调度、自主决策与动态反馈等机制，其源自蚂蚁集团在金融领域的真实业务实践沉淀。agentUniverse于2024年6月全面接入支持deepseek系列模型。  </td>
     </tr>
+    <tr>
+        <td width=80> <img src="docs/BotSharp/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/SciSharp/BotSharp"> BotSharp </a> </td>
+        <td> BotSharp 是一个开源的多智能体应用开发框架，从简单的聊天机器人，再到多智能体协作，以及复杂的任务如【Text To Sql】框架都提供了开箱即用的使用方法，可以快速的将大模型的能力接入到现有的业务系统中，并且内置知识库和会话管理功能等，框架使用DeepSeek V3的模型进行了详细的测试，得益于DeepSeek V3的性能，框架的表现不输其他的闭源的模型。 </td>
+    </tr>
+    <tr>
+        <td width=80> <img src="docs/eino/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/cloudwego/eino"> Eino </a> </td>
+        <td> Eino（发音类似"I know"）旨在成为Go语言中最优秀的LLM应用开发框架。它借鉴了LangChain、LlamaIndex等开源社区优秀LLM框架的设计理念，同时吸收了前沿研究成果和实际应用经验，提供了一个更符合Go语言编程惯例的LLM应用开发框架，强调简洁性、可扩展性、可靠性和高效性。
+        </td>
+    </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
-### RAG 框架
+###  <span id="data">AI数据应用框架</span>
+
+<table>
+    <tr>
+        <td width="80"> <img src="https://github.com/user-attachments/assets/a327d72f-755f-4256-8a37-32a518a55df3" alt="Icon" width="96" height="auto" /> </td>
+        <td width="120"> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/dbgpt/README_cn.md"> DB-GPT </a> </td>
+        <td> DB-GPT是一个开源的AI原生数据应用开发框架(AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents)。
+目的是构建大模型领域的基础设施，通过开发多模型管理(SMMF)、Text2SQL效果优化、RAG框架以及优化、Multi-Agents框架协作、AWEL(智能体工作流编排)等多种技术能力，让围绕数据库构建大模型应用更简单，更方便。
+ </td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
+###  <span id="rag">RAG 框架</span>
 
 <table>
     <tr>
@@ -297,7 +456,9 @@
     </tr>
 </table>
 
-### FHE (全同态加密) frameworks
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
+###  <span id="fhe">FHE (全同态加密) frameworks</span>
 
 <table>
     <tr>
@@ -307,18 +468,21 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
-### Solana 框架
+###  <span id="solana">Solana 框架</span>
 
 <table>
     <tr>
         <td style="background-color: black"> <img src="docs/solana-agent-kit/assets/sendai-logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> Solana Agent Kit </a> </td>
+        <td> <a href="https://github.com/sendaifun/solana-agent-kit"> Solana Agent Kit </a> </td>
         <td> 一个用于连接 AI 智能体到 Solana 协议的开源工具包。现在，任何使用 DeepSeek LLM 的智能体都可以自主执行 60+ 种 Solana 操作。 </td>
     </tr>
 </table>
 
-### 综合数据管理
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
+###  <span id="sythetic">综合数据管理</span>
 
 <table>
     <tr>
@@ -328,8 +492,9 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
-### 即时通讯插件
+###  <span id="im">即时通讯插件</span>
 
 <table>
     <tr>
@@ -347,12 +512,45 @@
         <td> <a href="https://github.com/KomoriDev/nonebot-plugin-deepseek">NoneBot<br/>（QQ, 飞书, Discord, TG, etc.）</a> </td>
         <td> 基于 NoneBot 框架，支持智能对话与深度思考功能。适配 QQ / 飞书 / Discord, TG 等多种消息平台 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/Soulter/AstrBot/raw/refs/heads/master/dashboard/src/assets/images/logo-normal.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Soulter/AstrBot/">AstrBot<br/>（QQ, 微信, 企微, 飞书, TG, etc.）</a> </td>
+        <td> 支持大模型的多平台聊天机器人及开发框架。支持 RAG、长期记忆以及网页搜索等各种 LLM Agent 功能, 支持插件开发。</td>
+    </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
-### 浏览器插件
+###  <span id="office">Office插件</span>
 
 <table>
+    <tr>
+        <td> <img src="https://www.44886.com/view/img/bukeng.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.bukenghezi.com/">不坑盒子</a> </td>
+        <td>一款支持Word、Excel、PPT三件套的Office插件（WPS三件套也支持），给Office增加300多功能</td>
+    </tr>
+    <tr>
+        <td> <img src="https://www.aippt.cn/_nuxt/logo_cn.eYEokZzA.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.aippt.cn/">AiPPT</a> </td>
+        <td>AiPPT.com 超2000万用户选择的正版AiPPT。一句话，一分钟，一键生成 PPT。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://www.office-ai.cn/static/images/officeai/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.office-ai.cn/">OfficeAI助手</a> </td>
+        <td>OfficeAI助手是一款免费的办公插件，在Office中提供AI问答、AI校对、AI排版、AI创作、AI数据处理等功能，可提高办公效率。兼容Microsoft Office和WPS Office。</td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
+###  <span id="browser">浏览器插件</span>
+
+<table>
+    <tr>
+        <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://chromewebstore.google.com/detail/cjapgnecnkblehipjghhegiccobeloka?utm_source=item-share-cb">觅果</a></td>
+        <td> 提供全面的文本处理、信息检索与知识问答功能，灵活适配多种在线办公与科研场景（如飞书、arXiv、Overleaf 等），助力高效智能化工作流</td>
+    </tr>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/9d3f42b8-fcd0-47ab-8b06-1dd0554dd80e" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/immersive_translate/README_cn.md"> 沉浸式翻译 </a> </td>
@@ -413,10 +611,24 @@
         <td> <a href="https://chromewebstore.google.com/detail/deepchat-power-of-deepsee/femhcibnncinlabdboehojdhfcihpkpl?hl=en"> DeepChat </a> </td>
         <td>一款Chrome扩展程序，允许用户在任何网站上通过打开侧边栏与DeepSeek聊天。此外，它还在任何网站上选中的文本下方提供一个浮动菜单，使用户能够生成文本摘要、检查语法问题和翻译内容。</td>
     </tr>
+    <tr>
+        <td> <img src="http://cdn.docky.ai/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/docky-ai/README_cn.md"> Docky AI </a> </td>
+        <td>Docky AI 是一款功能强大的浏览器插件，允许您通过侧边栏与多个 AI 模型进行实时对话。它支持多模型同时交流，并能协助您阅读网页、写作、翻译和创作图片</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/refinereader/assets/refinereader-128.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://refinereader.cuihuaer.com"> Refine Reader </a> </td>
+        <td> 一款基于 AI （DeepSeek、OpenAI等） 的智能阅读助手，致力于帮助用户快速理解和提炼文章精华，支持阅读互动。</td>
+    </tr>
+
+
+
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
-### VS Code 插件
+###  <span id="vscode">VS Code 插件</span>
 
 <table>
     <tr>
@@ -439,10 +651,16 @@
         <td> <a href="https://github.com/titusTong/seekCodeCopilot/blob/main/README.md"> SeekCode Copilot </a> </td>
         <td> vscode智能编码助手，支持配置本地部署的DeepSeek模型 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/intellism/vscode-comment-translate/blob/master/doc/image/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/intellism/vscode-comment-translate/blob/master/doc/README_ZH.md"> Comment Translation </a> </td>
+        <td> 这款扩展程序能够帮助开发者翻译代码中的注释、字符串、代码提示、错误信息以及变量名。 </td>
+    </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
-### neovim 插件
+###  <span id="neovim">neovim 插件</span>
 
 <table>
     <tr>
@@ -467,8 +685,9 @@
     </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
-### JetBrains 插件
+###  <span id="jetbrains">JetBrains 插件</span>
 
 <table>
     <tr>
@@ -481,10 +700,16 @@
         <td> <a href="https://plugins.jetbrains.com/plugin/24851-ai-git-commit">AI Git Commit</a> </td>
         <td> 使用AI生成git commit message的插件。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/YiiGuxing/TranslationPlugin/blob/master/pluginIcon.svg?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://intellij-translation.yiiguxing.top">IntelliJ Translation Plugin</a> </td>
+        <td> IntelliJ Translation Plugin 是一个适用于基于 IntelliJ 的 IDE 的翻译插件，它集成了包括 OpenAI 翻译（兼容 DeepSeek，Doubao，Ollama，……）在内的众多翻译服务，让您能够随时在 IDE 中直接翻译代码中的任何文本，如代码注释和代码文档等。</td>
+    </tr>
 </table>
 
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
-### AI Code编辑器
+###  <span id="codeeditor">AI Code编辑器</span>
 
 <table>
     <tr>
@@ -499,16 +724,21 @@
     </tr>
 </table>
 
-### 安全
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
+###  <span id="security">安全</span>
+
 <table>
     <tr>
-        <td> <img src="./docs/tencent/zhuque.png"  alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="./docs/tencent/hunyuan.png"  alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/tencent/AI-Infra-Guard"> AI-Infra-Guard </a> </td>
-        <td> AI基础设施安全评估工具，发现和检测AI系统中的潜在安全风险。</td>
+        <td> 腾讯混元安全-AI基础设施安全评估工具，发现和检测AI系统中的潜在安全风险。</td>
     </tr>
 </table>
 
-### 其它
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
+###  <span id="others">其它</span>
 
 <table>
     <tr>
@@ -566,4 +796,16 @@
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
         <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> 是一个开源、简洁、模块化的基于大模型的自动算法设计平台，使用DeepSeek API进行算法设计。</td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/yincongcyincong/telegram-deepseek-bot/blob/main/static/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> </td>
+        <td> <a href="https://github.com/yincongcyincong/telegram-deepseek-bot">telegram-deepseek-bot</a> 是一个集成deepseek-ai能力的telegram机器人。 </td>
+    </tr>
+    <tr>
+        <td>  </td>
+        <td> <a href="https://github.com/eqld/nlsh">nlsh</a> </td>
+        <td> <a href="https://github.com/eqld/nlsh">nlsh</a> 是一个基于人工智能的命令行工具，支持多后端大语言模型，能够生成上下文感知的 Shell 命令。它兼容 Shell 专用语法、提供只读系统工具支持，并允许接入自定义推理端点。</td>
+    </tr>
 </table>
+
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
