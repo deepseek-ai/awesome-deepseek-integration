@@ -547,6 +547,12 @@
 
 <table>
     <tr>
+        <td><img src="./docs/deepshare/assets/logo_200.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="./docs/deepshare/README_cn.md">小智蜂</a></td>
+        <td> 小智蜂是免费免登录一键分享AI聊天的油猴插件,专门解决数千字AI问答发给朋友,导致其手机被刷屏,或长截图被压缩,打开模糊不清,不方便阅读的问题,满足用户将自己与AI智慧的结晶分享给他人的需求
+        </td>
+    </tr>
+    <tr>
         <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://chromewebstore.google.com/detail/cjapgnecnkblehipjghhegiccobeloka?utm_source=item-share-cb">觅果</a></td>
         <td> 提供全面的文本处理、信息检索与知识问答功能，灵活适配多种在线办公与科研场景（如飞书、arXiv、Overleaf 等），助力高效智能化工作流</td>
