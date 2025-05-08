@@ -88,11 +88,6 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td>xhai Browser is an Android desktop management & AI browser, DeepSeek is the default AI dialog engine.It has the ultimate performance (0.2 seconds to start), slim size (apk 3M), no ads, ultra-fast ad blocking, multi-screen classification, screen navigation, multi-search box, a box multiple search!</td>
     </tr>
     <tr>
-        <td><img src="./docs/xhai_browser/assets/logo_512.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="./docs/xhai_browser/README.md">xhai Browser</a></td>
-        <td>xhai Browser is an Android desktop management & AI browser, DeepSeek is the default AI dialog engine.It has the ultimate performance (0.2 seconds to start), slim size (apk 3M), no ads, ultra-fast ad blocking, multi-screen classification, screen navigation, multi-search box, a box multiple search!</td>
-    </tr>
-    <tr>
         <td><img src="https://i.imgur.com/FkbmMVG.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://intellibar.app/">IntelliBar</a></td>
         <td>IntelliBar is a beautiful assistant for the Mac that lets you use advanced models like DeepSeek R1 with any app on your Mac — ex: edit emails in your mail app or summarize articles in your browser.</td>
@@ -659,7 +654,7 @@ The purpose is to build infrastructure in the field of large models, through the
     <tr>
         <td><img src="./docs/deepshare/assets/logo_200.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="./docs/deepshare/README.md">Tiny AI Bee</a></td>
-        <td> Tiny AI Beeis a free login-free one-click grease monkey plugin for sharing AI chats,
+        <td> Tiny AI Bee is a free login-free one-click grease monkey plugin for sharing AI chats,
             Specialized in solving the problem of sending thousands of words of AI Q&A to friends, causing their phones to be brushed, or long screenshots to be compressed and opened blurred, not easy to read.
             Satisfy users' need to share their crystallized wisdom with AI to others
         </td>
