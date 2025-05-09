@@ -5,9 +5,7 @@
 ---
 
 #### 可以先看一段视频实操演示  
-[![B站视频封面]](https://www.bilibili.com/video/BV1xn55zKEUT)
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114476045045882&bvid=BV1xn55zKEUT&cid=29865279710&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+[![Bilibili Video]](https://www.bilibili.com/video/BV1xn55zKEUT)
 
 ---
 

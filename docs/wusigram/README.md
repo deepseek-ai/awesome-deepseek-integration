@@ -6,7 +6,7 @@ Developing and running code directly on mobile devices used to be cumbersome and
 
 #### Watch a Demo Video First
 
-[![Bilibili]](https://www.bilibili.com/video/BV1xn55zKEUT)
+[![Bilibili Video]](https://www.bilibili.com/video/BV1xn55zKEUT)
 
 ---
 
