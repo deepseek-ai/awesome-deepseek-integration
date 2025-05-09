@@ -806,6 +806,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://codeium.com/windsurf"> WindSurf </a> </td>
         <td>Otro Editor de Código con IA basado en VS Code por Codeium</td>
     </tr>
+    <tr>
+        <td> <img src="docs/wusigram/assets/logo-512.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/wusigram/README.md"> 无思微程序 </a> </td>
+        <td>Herramientas de programación y operación de IA móvil, socio de programación de DeepSeek</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
