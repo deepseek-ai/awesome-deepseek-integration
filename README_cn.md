@@ -717,6 +717,11 @@
         <td> <a href="https://codeium.com/windsurf"> WindSurf </a> </td>
         <td> 另一个基于VS Code的AI Code编辑器，由Codeium出品 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/wusigram/assets/logo-512.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/wusigram/README_cn.md"> 无思微程序 </a> </td>
+        <td> 移动端AI编程和运行工具，DeepSeek编程搭档 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

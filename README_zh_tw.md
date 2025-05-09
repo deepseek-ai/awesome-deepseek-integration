@@ -869,6 +869,11 @@
         <td> <a href="https://codeium.com/windsurf"> WindSurf </a> </td>
         <td> 由 Codeium 開發的另一款以 VS Code 為基礎的 AI 程式碼編輯器。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/wusigram/assets/logo-512.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/wusigram/README_cn.md"> 无思微程序 </a> </td>
+        <td>行動端AI程式設計與運行工具，DeepSeek程式設計搭檔</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
