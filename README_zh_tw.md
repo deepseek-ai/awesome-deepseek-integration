@@ -722,6 +722,11 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/docky-ai/README.md"> Docky AI </a> </td>
         <td> Docky AI 是一個強大的瀏覽器擴展，允許您透過側邊欄與多個 AI 模型進行即時對話。它支援與多個模型的同時通訊，並能協助您閱讀網頁、寫作、翻譯和創建圖像。</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/Rearview/assets/favicon.webp" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="./docs/Rearview/README_zh_tw.md"> RearView </a> </td>
+        <td>Rearview 是一款瀏覽器歷史管理擴展，支援對歷史瀏覽內容的全文搜尋，並將瀏覽歷史轉換為可對話的知識庫。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
