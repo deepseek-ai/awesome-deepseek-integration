@@ -430,7 +430,7 @@
     <tr>
         <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://dockit.geekfun.club/">DocKit</a></td>
-        <td>DocKit is an AI powered desktop GUI client designed for NoSQL database, support Elasticsearch and OpenSearch across Mac, windows and Linux. By integrating with large models like DeepSeek, DocKit can help developers to write complex DSL queries, and provide a better experience for data management and analysis. </td>
+        <td>DocKit是一個AI驅動的桌面GUI客戶端，專為NoSQL數據庫設計，支持Mac、Windows和Linux上的Elasticsearch和OpenSearch。通過集成DeepSeek等大型模型，DocKit可以幫助開發者編寫複雜的DSL查詢，並為數據管理和分析提供更好的體驗。 </td>
     </tr> 
     <tr>
         <td> <img src="docs/zenfeed/assets/icon.png" alt="圖示" width="64" height="auto" /> </td>
