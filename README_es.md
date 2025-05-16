@@ -403,6 +403,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/glidea/zenfeed">zenfeed</a> </td>
         <td> Potencia RSS con IA, filtra, resume y envía automáticamente información importante para superar la sobrecarga de información. </td>
     </tr>
+    <tr>
+        <td> <img src="docs/NoteGen/NoteGen.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
+        <td> NoteGen es una aplicación multiplataforma de notas Markdown que se enfoca en utilizar inteligencia artificial para construir un puente entre la recopilación de información y la escritura, organizando conocimientos fragmentados en notas legibles. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

@@ -64,7 +64,6 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td><img src="docs/dingtalk/assets/dingtalk_icon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.dingtalk.com/">DingTalk</a></td>
         <td>DingTalk AI Assistant integrates multiple AI product features from the DingTalk platform to intelligently support enterprises in their daily workflows. It possesses various intelligent capabilities, including but not limited to smart communication, smart collaboration, and smart management.
-
 With these functionalities, the AI assistant can summarize key points within an organization, generate meeting minutes, and provide users with relevant task notifications and schedule reminders. Additionally, DingTalk AI Assistant leverages its knowledge base to intelligently answer common employee inquiries regarding company administrative processes, HR policies, and other related topics.</td>
     </tr>
     <tr>
@@ -307,132 +306,137 @@ With these functionalities, the AI assistant can summarize key points within an 
                 <li>Custom instruction engine</li>
                 <li>On-demand calling without subscription bundling</li>
             </ul>
-        </td>
-    </tr>
-    <tr>
-        <td> <img src="https://github.com/user-attachments/assets/b09f17a8-936d-4dac-8b24-1682d52c9a3c" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
-        <td>With just one sentence, you can quickly generate high-definition story short videos, supporting models such as DeepSeek.</td>
-    </tr>
-    <tr>
-        <td> <img src="https://prompt.16x.engineer/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/16x_prompt/README.md">16x Prompt</a> </td>
-        <td> <a href="https://prompt.16x.engineer/">16x Prompt</a> is an AI coding tool with context management. It helps developers manage source code context and craft prompts for complex coding tasks on existing codebases.</td>
-    </tr>
-    <tr>
-        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/assets/favicon1.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/README.md"> Alpha Pai </a> </td>
-        <td> AI Research Assistant / The Next-Generation Financial Information Portal Driven by AI.<br>Proxy for investors to attend meetings and take notes, as well as providing search and Q&A services for financial information and quantitative analysis for investment research.</td>
-    </tr>
-        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://www.xark-argo.com">argo</a> </td>
-        <td>Locally download and run Ollama and Huggingface models with RAG on Mac/Windows/Linux. Support LLM API too.</td>
-    </tr>
-    <tr>
-        <td> <img src="https://www.petercat.ai/images/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://www.petercat.ai">PeterCat</a> </td>
-        <td> A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories.</td>
-    </tr>
-    <tr>
-        <td> <img src="https://raw.githubusercontent.com/labring/FastGPT/refs/heads/main/.github/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://fastgpt.cn/en">FastGPT</a> </td>
-        <td>
-            FastGPT is an open-source AI knowledge base platform built on large language models (LLMs), supporting various models including DeepSeek and OpenAI. We provide out-of-the-box capabilities for data processing, model invocation, RAG retrieval, and visual AI workflow orchestration, enabling you to effortlessly build sophisticated AI applications.
-        </td>
+​        </td>
+​    </tr>
+​    <tr>
+​        <td> <img src="https://github.com/user-attachments/assets/b09f17a8-936d-4dac-8b24-1682d52c9a3c" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
+​        <td>With just one sentence, you can quickly generate high-definition story short videos, supporting models such as DeepSeek.</td>
+​    </tr>
+​    <tr>
+​        <td> <img src="https://prompt.16x.engineer/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="docs/16x_prompt/README.md">16x Prompt</a> </td>
+​        <td> <a href="https://prompt.16x.engineer/">16x Prompt</a> is an AI coding tool with context management. It helps developers manage source code context and craft prompts for complex coding tasks on existing codebases.</td>
+​    </tr>
+​    <tr>
+​        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/assets/favicon1.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/README.md"> Alpha Pai </a> </td>
+​        <td> AI Research Assistant / The Next-Generation Financial Information Portal Driven by AI.<br>Proxy for investors to attend meetings and take notes, as well as providing search and Q&A services for financial information and quantitative analysis for investment research.</td>
+​    </tr>
+​        <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="https://www.xark-argo.com">argo</a> </td>
+​        <td>Locally download and run Ollama and Huggingface models with RAG on Mac/Windows/Linux. Support LLM API too.</td>
+​    </tr>
+​    <tr>
+​        <td> <img src="https://www.petercat.ai/images/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="https://www.petercat.ai">PeterCat</a> </td>
+​        <td> A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories.</td>
+​    </tr>
+​    <tr>
+​        <td> <img src="https://raw.githubusercontent.com/labring/FastGPT/refs/heads/main/.github/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="https://fastgpt.cn/en">FastGPT</a> </td>
+​        <td>
+​            FastGPT is an open-source AI knowledge base platform built on large language models (LLMs), supporting various models including DeepSeek and OpenAI. We provide out-of-the-box capabilities for data processing, model invocation, RAG retrieval, and visual AI workflow orchestration, enabling you to effortlessly build sophisticated AI applications.
+​        </td>
    </tr>
    <tr>
-        <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/ruzhiai_note/README.md">RuZhi AI Notes</a> </td>
-        <td>RuZhi AI Notes is an intelligent knowledge management tool powered by AI, providing one-stop knowledge management and application services including AI search & exploration, AI results to notes conversion, note management & organization, knowledge presentation & sharing. Integrated with DeepSeek model to provide more stable and higher quality outputs.</td>
-    </tr>
+​        <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="docs/ruzhiai_note/README.md">RuZhi AI Notes</a> </td>
+​        <td>RuZhi AI Notes is an intelligent knowledge management tool powered by AI, providing one-stop knowledge management and application services including AI search & exploration, AI results to notes conversion, note management & organization, knowledge presentation & sharing. Integrated with DeepSeek model to provide more stable and higher quality outputs.</td>
+​    </tr>
+​    <tr>
+​        <td> <img src="https://cdn.link-ai.tech/doc/CoW%20logo.png" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="https://github.com/zhayujie/chatgpt-on-wechat">Chatgpt-on-Wechat</a> </td>
+​        <td> Chatgpt-on-Wechat(CoW) is a flexible chatbot framework that supports seamless integration of multiple LLMs, including DeepSeek, OpenAI, Claude, Qwen, and others, into commonly used platforms or office software such as WeChat Official Accounts, WeCom, Feishu, DingTalk, and websites. It also supports a wide range of custom plugins. </td>
+​    </tr>
+​    <tr>
+​        <td> <img src="https://athenalab.ai/assets/favicon/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="https://athenalab.ai/">Athena</a> </td>
+​        <td>The world's first autonomous general AI with advanced cognitive architecture and human-like reasoning capabilities, designed to tackle complex real-world challenges.</td>
+​    </tr>
+​    <tr>
+​        <td> <img src="https://maxkb.cn/images/favicon.png" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="https://github.com/1Panel-dev/MaxKB">MaxKB</a> </td>
+​        <td> <a href="https://maxkb.cn/">MaxKB</a> is a ready-to-use, flexible RAG Chatbot. </td>
+​    </tr>
+​    <tr>
+​        <td> <img src="./docs/TigerGPT/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="https://ttm.financial/gpt">TigerGPT</a> </td>
+​        <td>TigerGPT is the first financial AI investment assistant of its kind based on OpenAI, developed by Tiger Group. TigerGPT aims to provide intelligent investment decision-making support for investors. On February 18, 2025, TigerGPT officially integrated the DeepSeek-R1 model to provide users with online Q&A services that support deep reasoning. </td>
+​    </tr>
+​    <tr>
+​        <td> <img src="./docs/HIX.AI/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="https://hix.ai">HIX.AI</a> </td>
+​        <td>Try DeepSeek for free and enjoy unlimited AI chat on HIX.AI. Use DeepSeek R1 for AI chat, writing, coding & more. Experience next-gen AI chat now!</td>
+​    </tr>
+​    <tr>
+​        <td> <img src="https://github.com/sharmt1411/askanywhere/blob/main/icon/Depth_8,_Frame_0explore-%E8%A7%92%E6%A0%87.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="https://github.com/sharmt1411/askanywhere">Askanywhere</a> </td>
+​        <td>Select text anywhere and start a conversation with Deepseek</td>
+​    </tr>
+​    <tr>
+​        <td> <img src="https://github.com/OJZen/1chat/raw/refs/heads/main/doc/assets/icon.ico?raw=true" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="https://github.com/OJZen/1chat">1chat</a> </td>
+​        <td>An iOS app that lets you chat with the DeepSeek-R1 model locally.</td>
+​    </tr>
+​    <tr>
+​        <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI Chatbot" width="64" height="auto" /> </td>
+​        <td> <a href="https://chatlabsai.com">Access 250+ text, image LLMs in one app</a> </td>
+​        <td> 1AI iOS Chatbot integrates with 250+ text, image, voice models allowing users chat with any model in the world including Deepseek R1 and Deepseek V3 models.</td>
+​    </tr>
+​    <tr>
+​        <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
+​        <td> <a href="https://popai.pro">PopAi</a> </td>
+​        <td>PopAi launches DeepSeek R1!  Enjoy lag-free, lightning-fast performance with PopAi. Seamlessly toggle online search on/off.</td>
+​    </tr>
+​    <tr>
+​        <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="https://pot-app.com/">Pot</a></td>
+​        <td> <a href="https://pot-app.com/">Pot</a> 🌈 A cross-platform software for text translation and recognition. </td>
+​    </tr>
+​    <tr>
+​        <td><img src="https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/banner.png" alt="Icon" width="64" height="auto" /></td>
+​        <td><a href="https://github.com/Byaidu/PDFMathTranslate">PDFMathTranslate</a></td>
+​        <td>PDF Math Translate is an AI-based full-text bilingual translation tool that fully preserves the layout of PDF documents.</td>
+​    </tr>
+​    <tr>
+​        <td><img src="https://github.com/Richasy/Bili.Copilot/raw/master/assets/StoreLogo.png" alt="Icon" width="64" height="auto" /></td>
+​        <td><a href="https://github.com/Richasy/Bili.Copilot">Bili.Copilot</a></td>
+​        <td>Bilibili third-party Windows desktop client, a native application built with the Windows App SDK.</td>
+​    </tr>
+​    <tr>
+​        <td><img src="https://www.tensorbounce.com/logo.png" alt="Icon" width="64" height="auto" /></td>
+​        <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
+​        <td>LawAgent is a legal AI product developed by the Tensorbounce team, integrating a knowledge base with AI Agent capabilities. It boasts a vast repository of tens of millions of official legal-related data points and also allows for custom knowledge base configurations. The professional mode leverages the reasoning abilities of DeepSeek-R1 to assist users in legal analysis, contract review, document generation, file translation, and other legal scenarios.</td>
+​    </tr>
+​    <tr>
+​        <td width=80> <img src="docs/AlphaBot/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="https://alphabot.x-pai.com/">AlphaBot</a> </td>
+​        <td> AlphaBot is an intelligent stock analysis assistant that integrates multi-source data with AI analysis technology to provide technical analysis, predictions, and risk assessment, helping investors make data-driven trading decisions. It supports one-click deployment, easy operation，Support Windows/Linux/MacOS and other platforms</td>
+​     <tr>
+​        <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
+​        <td><a href="https://github.com/jiqi136/DS-AI">Multi-platform connected DeepSeek</a></td>
+​        <td>Leveraging the three-channel AI engine powered by DeepSeek Official, Alibaba Cloud, and Douyin Volcano, it continuously evolves its         intelligence. Additionally, it employs a hybrid mode combining "online search + deep thinking".</td>
+​    </tr>
+​    <tr>
+​    <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
+​    <td><a href="https://www.remio.ai/">remio</a></td>
+​    <td>remio is an AI-powered personal knowledge hub that builds personalized knowledge bases by automatically capturing browsed web content, parsing local files, and integrating personal notes. It enables search and natural language Q&A within your personal knowledge base for instant insights while offering smart writing assistance—adapting to your style to streamline drafting, refining, and completing content with ease. Designed with local-first storage, remio prioritizes data privacy while centralizing fragmented information for maximum productivity.</td>
+​    </tr> 
+​    <tr>
+​    <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
+​    <td><a href="https://dockit.geekfun.club/">DocKit</a></td>
+​    <td>DocKit is an AI powered desktop GUI client designed for NoSQL database, support Elasticsearch and OpenSearch across Mac, windows and Linux. By integrating with large models like DeepSeek, DocKit can help developers to write complex DSL queries, and provide a better experience for data management and analysis. </td>
+​    </tr> 
+​    <tr>
+​        <td> <img src="docs/zenfeed/assets/icon.png" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="https://github.com/glidea/zenfeed">zenfeed</a> </td>
+​        <td> Empower RSS with AI, automatically filter, summarize, and push important information to overcome information overload. </td>
+​    </tr>
     <tr>
-        <td> <img src="https://cdn.link-ai.tech/doc/CoW%20logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/zhayujie/chatgpt-on-wechat">Chatgpt-on-Wechat</a> </td>
-        <td> Chatgpt-on-Wechat(CoW) is a flexible chatbot framework that supports seamless integration of multiple LLMs, including DeepSeek, OpenAI, Claude, Qwen, and others, into commonly used platforms or office software such as WeChat Official Accounts, WeCom, Feishu, DingTalk, and websites. It also supports a wide range of custom plugins. </td>
-    </tr>
-    <tr>
-        <td> <img src="https://athenalab.ai/assets/favicon/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://athenalab.ai/">Athena</a> </td>
-        <td>The world's first autonomous general AI with advanced cognitive architecture and human-like reasoning capabilities, designed to tackle complex real-world challenges.</td>
-    </tr>
-    <tr>
-        <td> <img src="https://maxkb.cn/images/favicon.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/1Panel-dev/MaxKB">MaxKB</a> </td>
-        <td> <a href="https://maxkb.cn/">MaxKB</a> is a ready-to-use, flexible RAG Chatbot. </td>
-    </tr>
-    <tr>
-        <td> <img src="./docs/TigerGPT/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://ttm.financial/gpt">TigerGPT</a> </td>
-        <td>TigerGPT is the first financial AI investment assistant of its kind based on OpenAI, developed by Tiger Group. TigerGPT aims to provide intelligent investment decision-making support for investors. On February 18, 2025, TigerGPT officially integrated the DeepSeek-R1 model to provide users with online Q&A services that support deep reasoning. </td>
-    </tr>
-    <tr>
-        <td> <img src="./docs/HIX.AI/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://hix.ai">HIX.AI</a> </td>
-        <td>Try DeepSeek for free and enjoy unlimited AI chat on HIX.AI. Use DeepSeek R1 for AI chat, writing, coding & more. Experience next-gen AI chat now!</td>
-    </tr>
-    <tr>
-        <td> <img src="https://github.com/sharmt1411/askanywhere/blob/main/icon/Depth_8,_Frame_0explore-%E8%A7%92%E6%A0%87.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/sharmt1411/askanywhere">Askanywhere</a> </td>
-        <td>Select text anywhere and start a conversation with Deepseek</td>
-    </tr>
-    <tr>
-        <td> <img src="https://github.com/OJZen/1chat/raw/refs/heads/main/doc/assets/icon.ico?raw=true" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/OJZen/1chat">1chat</a> </td>
-        <td>An iOS app that lets you chat with the DeepSeek-R1 model locally.</td>
-    </tr>
-    <tr>
-        <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI Chatbot" width="64" height="auto" /> </td>
-        <td> <a href="https://chatlabsai.com">Access 250+ text, image LLMs in one app</a> </td>
-        <td> 1AI iOS Chatbot integrates with 250+ text, image, voice models allowing users chat with any model in the world including Deepseek R1 and Deepseek V3 models.</td>
-    </tr>
-    <tr>
-        <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
-        <td> <a href="https://popai.pro">PopAi</a> </td>
-        <td>PopAi launches DeepSeek R1!  Enjoy lag-free, lightning-fast performance with PopAi. Seamlessly toggle online search on/off.</td>
-    </tr>
-    <tr>
-        <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://pot-app.com/">Pot</a></td>
-        <td> <a href="https://pot-app.com/">Pot</a> 🌈 A cross-platform software for text translation and recognition. </td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/banner.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://github.com/Byaidu/PDFMathTranslate">PDFMathTranslate</a></td>
-        <td>PDF Math Translate is an AI-based full-text bilingual translation tool that fully preserves the layout of PDF documents.</td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/Richasy/Bili.Copilot/raw/master/assets/StoreLogo.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://github.com/Richasy/Bili.Copilot">Bili.Copilot</a></td>
-        <td>Bilibili third-party Windows desktop client, a native application built with the Windows App SDK.</td>
-    </tr>
-    <tr>
-        <td><img src="https://www.tensorbounce.com/logo.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
-        <td>LawAgent is a legal AI product developed by the Tensorbounce team, integrating a knowledge base with AI Agent capabilities. It boasts a vast repository of tens of millions of official legal-related data points and also allows for custom knowledge base configurations. The professional mode leverages the reasoning abilities of DeepSeek-R1 to assist users in legal analysis, contract review, document generation, file translation, and other legal scenarios.</td>
-    </tr>
-    <tr>
-        <td width=80> <img src="docs/AlphaBot/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://alphabot.x-pai.com/">AlphaBot</a> </td>
-        <td> AlphaBot is an intelligent stock analysis assistant that integrates multi-source data with AI analysis technology to provide technical analysis, predictions, and risk assessment, helping investors make data-driven trading decisions. It supports one-click deployment, easy operation，Support Windows/Linux/MacOS and other platforms</td>
-     <tr>
-        <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://github.com/jiqi136/DS-AI">Multi-platform connected DeepSeek</a></td>
-        <td>Leveraging the three-channel AI engine powered by DeepSeek Official, Alibaba Cloud, and Douyin Volcano, it continuously evolves its         intelligence. Additionally, it employs a hybrid mode combining "online search + deep thinking".</td>
-    </tr>
-    <tr>
-    <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
-    <td><a href="https://www.remio.ai/">remio</a></td>
-    <td>remio is an AI-powered personal knowledge hub that builds personalized knowledge bases by automatically capturing browsed web content, parsing local files, and integrating personal notes. It enables search and natural language Q&A within your personal knowledge base for instant insights while offering smart writing assistance—adapting to your style to streamline drafting, refining, and completing content with ease. Designed with local-first storage, remio prioritizes data privacy while centralizing fragmented information for maximum productivity.</td>
-    </tr> 
-    <tr>
-    <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
-    <td><a href="https://dockit.geekfun.club/">DocKit</a></td>
-    <td>DocKit is an AI powered desktop GUI client designed for NoSQL database, support Elasticsearch and OpenSearch across Mac, windows and Linux. By integrating with large models like DeepSeek, DocKit can help developers to write complex DSL queries, and provide a better experience for data management and analysis. </td>
-    </tr> 
-    <tr>
-        <td> <img src="docs/zenfeed/assets/icon.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/glidea/zenfeed">zenfeed</a> </td>
-        <td> Empower RSS with AI, automatically filter, summarize, and push important information to overcome information overload. </td>
+        <td> <img src="docs/NoteGen/NoteGen.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
+        <td> NoteGen is a cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note. </td>
     </tr>
 </table>
 

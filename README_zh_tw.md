@@ -16,26 +16,30 @@
 
 ## 目錄
 
-* [應用](#applications)
-* [AI 智慧體框架](#agent)
-* [數據 AI 應用框架](#data)
-* [RAG 框架](#rag)
-* [FHE（全同態加密）框架](#fhe)
-* [Solana 框架](#solana)
-* [合成資料策展](#sythetic)
-* [即時通訊應用插件](#im)
-* [Office插件](#office)
-* [瀏覽器擴展](#browser)
-* [VS Code 擴充功能](#vscode)
-* [Visual Studio 擴充功能](#vs)
-* [neovim 擴充功能](#neovim)
-* [JetBrains 擴充功能](#jetbrains)
-* [Discord 機器人](#discord)
-* [原生 AI 程式碼編輯器](#codeeditor)
-* [Emacs](#emacs)
-* [安全性](#security)
-* [供應商](#providers)
-* [其他](#others) 
+- [精彩的 DeepSeek 整合 ](#精彩的-deepseek-整合-)
+  - [目錄](#目錄)
+  - [項目列表](#項目列表)
+    - [應用](#應用)
+    - [AI 智慧體框架](#ai-智慧體框架)
+    - [數據 AI 應用框架](#數據-ai-應用框架)
+    - [RAG 框架](#rag-框架)
+    - [FHE（全同態加密）框架](#fhe全同態加密框架)
+    - [Solana 框架](#solana-框架)
+    - [合成資料策展](#合成資料策展)
+    - [即時通訊應用插件](#即時通訊應用插件)
+    - [Office插件](#office插件)
+    - [瀏覽器擴展](#瀏覽器擴展)
+    - [VS Code 擴充功能](#vs-code-擴充功能)
+    - [Visual Studio 擴充功能](#visual-studio-擴充功能)
+    - [neovim 擴充功能](#neovim-擴充功能)
+    - [JetBrains 擴充功能](#jetbrains-擴充功能)
+    - [Discord 機器人](#discord-機器人)
+    - [原生 AI 程式碼編輯器](#原生-ai-程式碼編輯器)
+    - [Emacs](#emacs)
+    - [安全性](#安全性)
+    - [供應商](#供應商)
+    - [其他](#其他)
+    - [Star 歷史](#star-歷史)
 
 ## 項目列表
 
@@ -432,6 +436,11 @@
         <td> <img src="docs/zenfeed/assets/icon.png" alt="圖示" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/glidea/zenfeed">zenfeed</a> </td>
         <td> 用 AI 賦能 RSS，自動篩選、總結、推送重要資訊，告別資訊過載。 </td>
+    </tr>
+    <tr>
+        <td> <img src="docs/NoteGen/NoteGen.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
+        <td> NoteGen 是一款跨平台的 Markdown 筆記應用，致力於使用 AI 建立記錄和寫作的橋樑，將碎片化知識整理成一篇可讀的筆記。 </td>
     </tr>
 </table>
 
