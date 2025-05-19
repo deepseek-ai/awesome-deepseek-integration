@@ -659,6 +659,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/docky-ai/README.md"> Docky AI </a> </td>
         <td>Docky AI es una poderosa extensión de navegador que permite interacciones en tiempo real con múltiples modelos de IA a través de una barra lateral. Soporta comunicación simultánea con múltiples modelos y puede asistirte en la lectura de páginas web, escritura, traducción y creación de imágenes. </td>
     </tr>
+    <tr>
+        <td><img src="https://readfrog.mengxi.work/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://readfrog.mengxi.work"> 🐸 Read Frog </a></td>
+        <td>Traduce y comprende en profundidad cualquier página web con la ayuda de la IA.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

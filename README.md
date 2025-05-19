@@ -739,6 +739,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/docky-ai/README.md"> Docky AI </a> </td>
         <td>Docky AI is a powerful browser extension that allows you to have real-time conversations with multiple AI models through a sidebar. It supports simultaneous communication with multiple models and can assist you in reading web pages, writing, translating, and creating images</td>
     </tr>
+    <tr>
+        <td> <img src="https://readfrog.mengxi.work/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://readfrog.mengxi.work"> 🐸 Read Frog </a> </td>
+        <td> Translate and understand any webpage in depth with AI assistance. </td>
+    </tr>
 </table>
 
 

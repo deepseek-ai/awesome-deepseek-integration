@@ -622,7 +622,11 @@
         <td> <a href="https://refinereader.cuihuaer.com"> Refine Reader </a> </td>
         <td> 一款基于 AI （DeepSeek、OpenAI等） 的智能阅读助手，致力于帮助用户快速理解和提炼文章精华，支持阅读互动。</td>
     </tr>
-
+    <tr>
+        <td><img src="https://readfrog.mengxi.work/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://readfrog.mengxi.work"> 🐸 陪读蛙 </a></td>
+        <td>借助 AI 深度翻译并理解任何网页。</td>
+    </tr>
 
 
 </table>

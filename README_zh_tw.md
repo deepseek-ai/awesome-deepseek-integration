@@ -16,26 +16,30 @@
 
 ## 目錄
 
-* [應用](#applications)
-* [AI 智慧體框架](#agent)
-* [數據 AI 應用框架](#data)
-* [RAG 框架](#rag)
-* [FHE（全同態加密）框架](#fhe)
-* [Solana 框架](#solana)
-* [合成資料策展](#sythetic)
-* [即時通訊應用插件](#im)
-* [Office插件](#office)
-* [瀏覽器擴展](#browser)
-* [VS Code 擴充功能](#vscode)
-* [Visual Studio 擴充功能](#vs)
-* [neovim 擴充功能](#neovim)
-* [JetBrains 擴充功能](#jetbrains)
-* [Discord 機器人](#discord)
-* [原生 AI 程式碼編輯器](#codeeditor)
-* [Emacs](#emacs)
-* [安全性](#security)
-* [供應商](#providers)
-* [其他](#others) 
+- [精彩的 DeepSeek 整合 ](#精彩的-deepseek-整合-)
+  - [目錄](#目錄)
+  - [項目列表](#項目列表)
+    - [應用](#應用)
+    - [AI 智慧體框架](#ai-智慧體框架)
+    - [數據 AI 應用框架](#數據-ai-應用框架)
+    - [RAG 框架](#rag-框架)
+    - [FHE（全同態加密）框架](#fhe全同態加密框架)
+    - [Solana 框架](#solana-框架)
+    - [合成資料策展](#合成資料策展)
+    - [即時通訊應用插件](#即時通訊應用插件)
+    - [Office插件](#office插件)
+    - [瀏覽器擴展](#瀏覽器擴展)
+    - [VS Code 擴充功能](#vs-code-擴充功能)
+    - [Visual Studio 擴充功能](#visual-studio-擴充功能)
+    - [neovim 擴充功能](#neovim-擴充功能)
+    - [JetBrains 擴充功能](#jetbrains-擴充功能)
+    - [Discord 機器人](#discord-機器人)
+    - [原生 AI 程式碼編輯器](#原生-ai-程式碼編輯器)
+    - [Emacs](#emacs)
+    - [安全性](#安全性)
+    - [供應商](#供應商)
+    - [其他](#其他)
+    - [Star 歷史](#star-歷史)
 
 ## 項目列表
 
@@ -721,6 +725,11 @@
         <td> <img src="https://cdn.docky.ai/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/docky-ai/README.md"> Docky AI </a> </td>
         <td> Docky AI 是一個強大的瀏覽器擴展，允許您透過側邊欄與多個 AI 模型進行即時對話。它支援與多個模型的同時通訊，並能協助您閱讀網頁、寫作、翻譯和創建圖像。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://readfrog.mengxi.work/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://readfrog.mengxi.work"> 🐸 陪讀蛙 </a> </td>
+        <td> 透過 AI 協助，深入翻譯並理解任何網頁。</td>
     </tr>
 </table>
 
