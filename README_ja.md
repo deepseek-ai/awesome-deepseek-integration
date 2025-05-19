@@ -9,7 +9,6 @@
 DeepSeek API を人気のソフトウェアに統合します。API キーを取得するには、[DeepSeek Open Platform](https://platform.deepseek.com/)にアクセスしてください。
 
 [English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)/[繁體中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_zh_tw.md)/日本語/[Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md)
-
 </div>
 
 </br>
@@ -22,7 +21,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
   - [プロジェクト一覧](#プロジェクト一覧)
     - [アプリケーション](#アプリケーション)
     - [AI エージェントフレームワーク](#ai-エージェントフレームワーク)
-    - [AI データアプリケーション開発フレームワーク](#ai-データアプリケーション開発フレームワーク)
+    - [AIデータアプリケーション開発フレームワーク](#aiデータアプリケーション開発フレームワーク)
     - [RAG フレームワーク](#rag-フレームワーク)
     - [FHE フレームワーク](#fhe-フレームワーク)
     - [Solana フレームワーク](#solana-フレームワーク)
@@ -38,7 +37,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 ## プロジェクト一覧
 
-### <span id="applications">アプリケーション</span>
+###  <span id="applications">アプリケーション</span>
 
 <table>
     <tr>
@@ -328,7 +327,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
-### <span id="agent">AI エージェントフレームワーク</span>
+###  <span id="agent">AI エージェントフレームワーク</span>
 
 <table>
     <tr>
@@ -370,7 +369,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
-### <span id="data">AI データアプリケーション開発フレームワーク</span>
+###  <span id="data">AIデータアプリケーション開発フレームワーク</span>
 
 <table>
     <tr>
@@ -384,7 +383,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
-### <span id="rag">RAG フレームワーク</span>
+###  <span id="rag">RAG フレームワーク</span>
 
 <table>
     <tr>
@@ -411,7 +410,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
-### <span id="fhe">FHE フレームワーク</span>
+###  <span id="fhe">FHE フレームワーク</span>
 
 <table>
     <tr>
@@ -423,7 +422,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
-### <span id="solana">Solana フレームワーク</span>
+###  <span id="solana">Solana フレームワーク</span>
 
 <table>
     <tr>
@@ -435,7 +434,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
-### <span id="sythetic">合成データのカテゴリ化</span>
+###  <span id="sythetic">合成データのカテゴリ化</span>
 
 <table>
     <tr>
@@ -447,7 +446,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
-### <span id="im">IM アプリケーションプラグイン</span>
+###  <span id="im">IM アプリケーションプラグイン</span>
 
 <table>
     <tr>
@@ -474,7 +473,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
-### <span id="browser">ブラウザ拡張機能</span>
+###  <span id="browser">ブラウザ拡張機能</span>
 
 <table>
     <tr>
@@ -547,16 +546,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/docky-ai/README_ja.md"> Docky AI </a> </td>
         <td>Docky AI は強力なブラウザ拡張機能で、サイドバーを通じて複数のAIモデルとリアルタイムで会話することができます。複数モデルとの同時交流をサポートし、ウェブページの閲覧、執筆、翻訳、画像作成を支援します</td>
     </tr>
-    <tr>
-        <td><img src="https://readfrog.mengxi.work/logo.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://readfrog.mengxi.work"> 🐸 Read Frog </a></td>
-        <td>AI の支援で、あらゆるウェブページを深く翻訳・理解します。</td>
-    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
-### <span id="vscode">VS Code 拡張機能</span>
+###  <span id="vscode">VS Code 拡張機能</span>
 
 <table>
     <tr>
@@ -588,7 +582,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
-### <span id="neovim">neovim 拡張機能</span>
+###  <span id="neovim">neovim 拡張機能</span>
 
 <table>
     <tr>
@@ -610,7 +604,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
-### <span id="jetbrains">JetBrains 拡張機能</span>
+###  <span id="jetbrains">JetBrains 拡張機能</span>
 
 <table>
     <tr>
@@ -647,7 +641,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
-### <span id="codeeditor">AI コードエディタ</span>
+###  <span id="codeeditor">AI コードエディタ</span>
 
 <table>
     <tr>
@@ -664,7 +658,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
-### <span id="emacs">Emacs</span>
+###  <span id="emacs">Emacs</span>
 
 <table>
     <tr>
@@ -681,7 +675,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
-### <span id="others">その他</span>
+###  <span id="others">その他</span>
 
 <table>
     <tr>
