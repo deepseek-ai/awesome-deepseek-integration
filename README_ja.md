@@ -41,6 +41,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
+        <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
+        <td>Androidプラットフォーム向けのオープンソースシステム統合AIアシスタントで、ほぼ完全なmcp使用をサポートし、Androidシステムと高い互換性を持っています。このソフトウェアは高度なカスタマイズと低い学習障壁を特徴とし、ファイル操作、検索、自動クリック、フォーマット変換などの組み込みツールと統合DeepSeek APIウェブページを備えています。</td>
+    </tr>
+    <tr>
         <td><img src="docs/eechat/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/Lucassssss/eechat">eechat</a></td>
         <td>シンプルで使いやすい大規模言語モデルのローカル展開ツールです。DeepSeek-R1、DLlama 3、Phi-4、Mistral、Gemma 3などのオープンソースモデルのローカルでのプライバシー保護された展開をサポートし、リモートの大規模言語モデルAPIの呼び出しにも対応しています。</td>

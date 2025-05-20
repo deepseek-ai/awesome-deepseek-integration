@@ -46,6 +46,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 <table>
     <tr>
+        <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
+        <td>Un asistente de IA de integración de sistema de código abierto para la plataforma Android, que admite el uso casi completo de mcp y es altamente compatible con el sistema Android. El software ofrece alta personalización y bajo umbral de aprendizaje, con herramientas incorporadas para operaciones de archivos, búsquedas, clics automáticos, conversión de formatos y una página web API de DeepSeek integrada.</td>
+    </tr>
+    <tr>
         <td><img src="docs/eechat/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/Lucassssss/eechat">eechat</a></td>
         <td>Una herramienta simple y fácil de usar para el despliegue local de modelos de lenguaje grandes, que admite el despliegue local privado de modelos de código abierto como DeepSeek-R1, DLlama 3, Phi-4, Mistral, Gemma 3, etc., y también es compatible con llamadas a API de LLM remotos.</td>
