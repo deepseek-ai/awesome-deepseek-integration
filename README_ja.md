@@ -323,6 +323,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/glidea/zenfeed">zenfeed</a> </td>
         <td> AIでRSSを強化し、重要な情報を自動的にフィルタリング、要約、プッシュして、情報過多を克服します。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs\novelbox\icon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Rain-31/novelbox">NovelBox</a></td>
+        <td> NovelBoxは小説家向けに設計されたAI小説作成デスクトップアプリケーションで、DeepSeekなど複数のAIモデルを統合しています。章立て管理、アウトライン編集、AIアシスト執筆機能を提供し、創作プロセスをより効率的にします。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
