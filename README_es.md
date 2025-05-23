@@ -403,6 +403,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/glidea/zenfeed">zenfeed</a> </td>
         <td> Potencia RSS con IA, filtra, resume y envía automáticamente información importante para superar la sobrecarga de información. </td>
     </tr>
+    <tr>
+        <td> <img src="docs\novelbox\icon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Rain-31/novelbox">NovelBox</a></td>
+        <td> NovelBox es una aplicación de escritura de novelas con IA diseñada para novelistas, que integra múltiples modelos de IA, incluido DeepSeek. Ofrece gestión de capítulos, edición de esquemas y funciones de escritura asistida por IA para hacer el proceso creativo más eficiente.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

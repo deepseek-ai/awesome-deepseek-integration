@@ -360,6 +360,11 @@
         <td> <a href="https://github.com/glidea/zenfeed">zenfeed</a> </td>
         <td> 用 AI 赋能 RSS，自动筛选、总结、推送重要信息，告别信息过载。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs\novelbox\icon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Rain-31/novelbox">NovelBox</a></td>
+        <td> NovelBox 是一款专为小说创作者设计的AI小说创作桌面应用，集成了 DeepSeek 等多种 AI 模型，提供章节管理、大纲编辑和 AI 辅助续写等功能，让创作过程更加高效。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

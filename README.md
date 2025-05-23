@@ -434,6 +434,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/glidea/zenfeed">zenfeed</a> </td>
         <td> Empower RSS with AI, automatically filter, summarize, and push important information to overcome information overload. </td>
     </tr>
+    <tr>
+        <td> <img src="docs\novelbox\icon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Rain-31/novelbox">NovelBox</a></td>
+        <td> NovelBox is an AI-powered novel writing desktop application designed for novelists, integrating multiple AI models including DeepSeek. It offers chapter management, outline editing, and AI-assisted writing features to make the creative process more efficient.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
