@@ -8,7 +8,7 @@ Meet Cline, an AI assistant that can use your CLI aNd Editor.
 
 ## Key Features of Cline
 
-1. **Agentic Coding with Claude 3.5 Sonnet**: Cline leverages advanced AI capabilities to handle complex software development tasks step-by-step, going beyond simple code completion or tech support.
+1. **Agentic Coding with Claude 4.0 Opus**: Cline leverages advanced AI capabilities to handle complex software development tasks step-by-step, going beyond simple code completion or tech support.
 
 2. **File and Project Management**: Cline can create, edit, and explore files within large projects, enabling seamless navigation and modification of codebases.
 
