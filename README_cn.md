@@ -519,7 +519,12 @@
 ###  <span id="office">Office插件</span>
 
 <table>
-    <tr>
+     <tr>
+        <td> <img src="https://image.yoojober.com/users/2025-05/6836d9fdc8508.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.chatppt.cn/">ChatPPT</a> </td>
+        <td>对话式AI创作PPT产品，国内最早（2023年3月4日上线）首款基于Chat对话式创作的AI PPT产品，目前支持web网页版、Office插件版（微软+WPS）、PC应用端（windows、mac、linux）、微信小程序等多版本，已经实现超过1800+指令服务，目前注册使用超过1500+万，且支持用户基于DeepSeek进行自由对话与文档对话两种模式，也满足用户配置自己的DeepSeek模型。</td>
+    </tr> 
+  <tr>
         <td> <img src="https://www.44886.com/view/img/bukeng.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.bukenghezi.com/">不坑盒子</a> </td>
         <td>一款支持Word、Excel、PPT三件套的Office插件（WPS三件套也支持），给Office增加300多功能</td>
