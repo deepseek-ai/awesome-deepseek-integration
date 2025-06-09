@@ -691,6 +691,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/intellism/vscode-comment-translate/blob/master/README.md"> Comment Translation </a> </td>
         <td> Esta extensión ayuda a los desarrolladores a traducir anotaciones, cadenas, consejos de código, mensajes de error y nombres de variables en el Código. </td>
     </tr>
+        <tr>
+            <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/AITK/assets/AIToolkit.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+            <td> <a href="https://code.visualstudio.com/docs/intelligentapps/overview"> AI Toolkit </a> </td>
+            <td> AI Toolkit para Visual Studio Code es una extensión integral que permite a desarrolladores e ingenieros de IA construir, probar y desplegar aplicaciones inteligentes utilizando modelos de IA generativa. </td>
+        </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

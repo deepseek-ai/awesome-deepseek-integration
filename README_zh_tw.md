@@ -754,6 +754,11 @@
         <td> <a href="https://github.com/intellism/vscode-comment-translate/blob/master/README_ZH.md"> Comment Translation </a> </td>
         <td> 這款擴展程式能够幫助開發者翻譯程式碼中的注釋、字串、程式碼提示、錯誤資訊以及變數名。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/AITK/assets/AIToolkit.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://code.visualstudio.com/docs/intelligentapps/overview"> AI Toolkit </a> </td>
+        <td> Visual Studio Code 的 AI Toolkit 是一個綜合性擴展，為開發人員和 AI 工程師提供使用生成式 AI 模型構建、測試和部署智能應用程序的能力。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
