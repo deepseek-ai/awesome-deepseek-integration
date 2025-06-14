@@ -1,0 +1,57 @@
+{
+  "Profanity": [
+    "swearword1",
+    "vulgarterm1",
+    "explicitlang1"
+  ],
+  "HateSpeech": [
+    "hatespeech_slur1",
+    "derogatory_term1",
+    "incitement_example1"
+  ],
+  "DiscriminatoryLanguage": [
+    "stereotype_example1",
+    "biased_phrase1",
+    "microaggression_example1"
+  ],
+  "SexuallyExplicitLanguage": [
+    "sexual_act_description1",
+    "explicit_anatomical_term1",
+    "suggestive_innuendo1"
+  ],
+  "ViolenceGore": [
+    "graphic_violence_desc1",
+    "torture_example1",
+    "weapon_for_harm1"
+  ],
+  "SelfHarmSuicide": [
+    "selfharm_method1",
+    "suicidal_ideation_phrase1",
+    "encouragement_selfharm1"
+  ],
+  "IllegalActivities": [
+    "drug_use_term1",
+    "illegal_weapon_term1",
+    "terrorism_related_term1"
+  ],
+  "BlasphemyReligiousInsults": [
+    "religious_insult1",
+    "disrespectful_term_religion1",
+    "offensive_to_belief1"
+  ],
+  "MedicalMisinformation": [
+    "unproven_medical_advice1",
+    "dangerous_health_claim1",
+    "harmful_pseudo_treatment1"
+  ],
+  "PrivacyViolatingPII": [
+    "personal_name_example",
+    "address_example_term",
+    "phone_number_example_term"
+  ],
+  "OffensiveSlangCulturalInsults": [
+    "cultural_slang_insult1",
+    "derogatory_cultural_term1",
+    "offensive_local_slang1"
+  ]
+}
