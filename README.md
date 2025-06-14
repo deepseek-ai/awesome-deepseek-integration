@@ -13,34 +13,6 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 <a href="https://trendshift.io/repositories/12798" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12798" alt="deepseek-ai%2Fawesome-deepseek-integration | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </div>
 
-## Table of Contents
-
-- [Awesome DeepSeek Integrations ](#awesome-deepseek-integrations-)
-  - [Table of Contents](#table-of-contents)
-  - [Project List](#project-list)
-    - [Applications](#applications)
-    - [AI Agent frameworks](#ai-agent-frameworks)
-    - [Data AI Applications frameworks](#data-ai-applications-frameworks)
-    - [RAG frameworks](#rag-frameworks)
-    - [FHE (Fully Homomorphic Encryption) frameworks](#fhe-fully-homomorphic-encryption-frameworks)
-    - [Solana frameworks](#solana-frameworks)
-    - [Synthetic data curation](#synthetic-data-curation)
-    - [IM Application Plugins](#im-application-plugins)
-    - [Office Addin](#office-addin)
-    - [Browser Extensions](#browser-extensions)
-    - [VS Code Extensions](#vs-code-extensions)
-    - [Visual Studio Extensions](#visual-studio-extensions)
-    - [neovim Extensions](#neovim-extensions)
-    - [JetBrains Extensions](#jetbrains-extensions)
-    - [Discord Bots](#discord-bots)
-    - [Native AI Code Editor](#native-ai-code-editor)
-    - [Emacs](#emacs)
-    - [Security](#security)
-    - [Providers](#providers)
-    - [Others](#others)
-    - [Star History](#star-history)
-
-## Project List
 
 ###  <span id="applications">Applications</span>
 
@@ -1067,3 +1039,4 @@ The purpose is to build infrastructure in the field of large models, through the
 ### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=deepseek-ai/awesome-deepseek-integration&type=Date)](https://star-history.com/#deepseek-ai/awesome-deepseek-integration&Date)
+tr=tree.com
