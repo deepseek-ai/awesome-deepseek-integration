@@ -362,7 +362,7 @@
     </tr>
     <tr>
         <td> <img src="docs/AIspire/assets/AIspire_logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://aispire.info">AIspire</a> </td>
+        <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
 </table>
