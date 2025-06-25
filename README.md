@@ -46,6 +46,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
+        <td><img src="docs/openEuler Intelligence/intelligence_icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.openeuler.org/en/projects/intelligence/">openEuler Intelligence</a></td>
+        <td>The intelligent large model platform, built on openEuler, deeply integrates mainstream large language models, including DeepSeek, and features local knowledge base construction capabilities. The platform offers core functionalities such as semantic interface registration, MCP service management, intelligent agent (Agent) development, and automated workflow orchestration. It supports both web and desktop client access, significantly enhancing development efficiency and enterprise-level application experience!</td>
+    </tr>
+    <tr>
         <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://migo.intern-ai.org.cn/education">Migo</a></td>
         <td>A free AI innovation accelerator offering intelligent Q&A, in-depth paper comprehension, cutting-edge AI tools, and a personal academic knowledge base. As your exploration partner, Migo helps you discover and realize outstanding ideas!</td>

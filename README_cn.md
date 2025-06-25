@@ -42,6 +42,11 @@
 
 <table>
     <tr>
+        <td><img src="docs/openEuler Intelligence/intelligence_icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.openeuler.org/zh/projects/intelligence/">openEuler Intelligence</a></td>
+        <td>基于 openEuler 的大模型智能平台，深度整合了包括 DeepSeek 在内的主流大语言模型，并具备本地知识库构建能力。平台提供语义接口注册、MCP 服务管理、智能体（Agent）开发及自动化工作流编排等核心功能，同时支持 Web 端和桌面客户端双模式访问，显著提升开发效率与企业级应用体验！</td>
+    </tr>
+    <tr>
         <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://migo.intern-ai.org.cn/education">觅果</a></td>
         <td>免费的 AI 创新加速工具，提供智能问答、论文深度理解、前沿 AI 工具以及个人学术知识库。作为探索的伙伴，觅果助你发现并实现卓越创意！</td>
