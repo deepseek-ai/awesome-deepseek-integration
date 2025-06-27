@@ -82,6 +82,11 @@
         <td><a href="https://chat.4everland.org/">4EVERChat</a> 是集成数百款LLM的智能模型选型平台，支持直接对比不同模型的实时响应差异，基于<a href="https://www.4everland.org/">4EVERLAND</a> AI RPC 统一API端点实现零成本模型切换，自动选择响应快、成本低的模型组合。</td>
     </tr>
     <tr>
+        <td><img src="https://www.anti-pua.org/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.anti-pua.org/">Clarity - 清醒</a></td>
+        <td>Clarity（清醒）致力于通过教育个人了解操控行为和策略，在关系、职场、家庭和社交环境中创造更安全的环境，同时促进健康、真实的互动。完全免费，没有广告。</td>
+    </tr>
+    <tr>
         <td><img src="./docs/xhai_browser/assets/logo_512.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="./docs/xhai_browser/README_cn.md">小海浏览器</a></td>
         <td>小海浏览器是安卓桌面管理&AI浏览器,DeepSeek是默认AI对话引擎.他有极致的性能(0.2秒启动),苗条的体型(apk 3M大),无广告,超高速广告拦截,多屏分类,屏幕导航,多搜索框,一框多搜</td>
