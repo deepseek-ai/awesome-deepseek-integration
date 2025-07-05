@@ -436,7 +436,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="agent">أطر عمل وكلاء الذكاء الاصطناعي</span>
 
@@ -755,7 +755,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="agent">أطر عمل وكلاء الذكاء الاصطناعي</span>
 
@@ -954,7 +954,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="agent">أطر عمل وكلاء الذكاء الاصطناعي</span>
 
@@ -1273,7 +1273,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="data">أطر تطبيقات بيانات الذكاء الاصطناعي</span>
 
@@ -1288,7 +1288,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="rag">أطر RAG</span>
 
@@ -1315,7 +1315,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="fhe">أطر التشفير الكامل المتجانس (FHE)</span>
 
@@ -1327,7 +1327,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="solana">أطر Solana</span>
 
@@ -1335,11 +1335,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="./docs/solana-agent-kit/assets/sendai-logo.png" alt="Icon" width="128" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/solana-agent-kit/README.md"> Solana Agent Kit </a> </td>
-        <td>An open-source toolkit for connecting AI agents to Solana protocols. Now, any agent, using any Deepseek LLM, can autonomously perform 60+ Solana actions: </td>
+        <td>مجموعة أدوات مفتوحة المصدر لربط وكلاء الذكاء الاصطناعي ببروتوكولات Solana. الآن، يمكن لأي وكيل، باستخدام أي نموذج Deepseek LLM، تنفيذ أكثر من 60 إجراء Solana بشكل مستقل:</td>
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="sythetic">تنسيق البيانات الاصطناعية</span>
 
@@ -1347,21 +1347,21 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://raw.githubusercontent.com/bespokelabsai/curator/main/docs/Bespoke-Labs-Logomark-Red-crop.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/curator/README.md"> Curator </a> </td>
-        <td> An open-source tool to curate large scale datasets for post-training LLMs. </td>
+        <td> أداة مفتوحة المصدر لتنظيم مجموعات البيانات واسعة النطاق لتدريب نماذج LLM ما بعد التدريب. </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/8455694b-c52e-40ec-847e-adf6a5ac064f" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Kiln-AI/Kiln"> Kiln </a> </td>
-        <td>Generate synthetic datasets and distill R1 models into custom fine-tunes. </td>
+        <td>توليد مجموعات بيانات اصطناعية وتقطير نماذج R1 إلى نماذج مخصصة دقيقة.</td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/192579850?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/DataEval/dingo"> Dingo </a> </td>
-        <td>Dingo: A Comprehensive Data Quality Evaluation Tool. </td>
+        <td>Dingo: أداة شاملة لتقييم جودة البيانات.</td>
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات ^</a></p>
 
 ###  <span id="im">ملحقات تطبيقات المراسلة الفورية</span>
 
@@ -1388,7 +1388,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات ^</a></p>
 
 ###  <span id="office">إضافات أوفيس</span>
 
@@ -1410,7 +1410,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="browser">ملحقات المتصفح</span>
 
@@ -1506,7 +1506,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 </table>
 
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="vscode">امتدادات VS Code</span>
 
@@ -1538,7 +1538,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="vs">امتدادات Visual Studio</span>
 
@@ -1560,7 +1560,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="neovim">امتدادات neovim</span>
 
@@ -1587,7 +1587,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="jetbrains">امتدادات JetBrains</span>
 
@@ -1624,7 +1624,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="discord">بوتات Discord</span>
 
@@ -1636,7 +1636,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="codeeditor">محررات كود الذكاء الاصطناعي الأصلية</span>
 
@@ -1652,7 +1652,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td>محرر كود ذكاء اصطناعي آخر مبني على VS Code من Codeium</td>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="emacs">Emacs</span>
 
@@ -1668,7 +1668,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td>ارقص مع الذكاء في كودك 💃</td>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="security">الأمان</span>
 
@@ -1685,7 +1685,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="providers">المزودون</span>
 
@@ -1697,7 +1697,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ###  <span id="others">أخرى</span>
 
@@ -1824,7 +1824,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
 </table>
 
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+<p style="text-align: right;"><a href="#table-of-contents">^ العودة إلى المحتويات  ^</a></p>
 
 ### تاريخ النجوم
 
