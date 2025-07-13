@@ -512,6 +512,11 @@
         <td> <a href="https://github.com/Soulter/AstrBot/">AstrBot<br/>（QQ, 微信, 企微, 飞书, TG, etc.）</a> </td>
         <td> 支持大模型的多平台聊天机器人及开发框架。支持 RAG、长期记忆以及网页搜索等各种 LLM Agent 功能, 支持插件开发。</td>
     </tr>
+    <tr>
+        <td> <img src="https://oss.nekro.ai/nekro_agent_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/KroMiose/nekro-agent">NekroAgent<br/>（QQ, Discord, BiliBiliLive, Minecraft etc.）</a> </td>
+        <td> Nekro Agent 是一个智能优雅的 AI 代理执行框架，其核心是通过强大灵活的提示词构建系统，引导 AI 生成代码并在安全的沙盒环境中执行。它通过原生的多平台适配器架构实现了强大的跨平台事件流处理能力，能够无缝支持 OneBot v11 (QQ)、Discord、Minecraft 和 B站直播(驱动VTB进行演出) 等多种主流平台。项目还拥有高度可扩展的插件系统、人设与插件共享生态，并支持在复杂的群聊多人交互场景中进行高效互动。目标是为用户和开发者提供极致高效、高自由度与易用性的开发友好型智能中枢。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
