@@ -282,7 +282,7 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> is a no-code platform where marketers build agentic AI workflows for go-to-market automation, powered by hundreds of everyday apps as tools for your AI agents.</td>
     </tr>
     <tr>
-        <td> <img src="https://github.com/ZGGSONG/STranslate/raw/main/img/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://github.com/ZGGSONG/STranslate/raw/main/attachments/imgs/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://stranslate.zggsong.com/en/">STranslate</a></td>
         <td> <a href="https://stranslate.zggsong.com/en/">STranslate</a>（Windows） is a ready-to-go translation ocr tool developed by WPF </td>
     </tr>
@@ -447,7 +447,7 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> The simplest way to build great agents. Agents write python code to call tools and orchestrate other agents. Priority support for open models like DeepSeek-R1!  </td>
     </tr>
     <tr>
-        <td><img src="https://yomo.run/yomo-logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><img src="https://github.com/user-attachments/assets/865634cb-1383-4317-a895-dfcb15f11375" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/yomo/README.md">YoMo</a></td>
         <td>Stateful Serverless LLM Function Calling Framework with Strongly-typed Language Support</td>
      </tr>
@@ -535,7 +535,7 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> An open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. It offers a streamlined RAG workflow for businesses of any scale, combining LLM (Large Language Models) to provide truthful question-answering capabilities, backed by well-founded citations from various complex formatted data. </td>
     </tr>
     <tr>
-        <td width="80"> <img src="https://raw.githubusercontent.com/pingcap/tidb.ai/main/frontend/app/public/nextra/icon-dark.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td width="80"> <img src="https://raw.githubusercontent.com/pingcap/autoflow/refs/heads/main/docs/public/icon-dark.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/autoflow/README.md"> Autoflow </a> </td>
         <td> <a href="https://github.com/pingcap/autoflow">AutoFlow</a> is an open-source knowledge base tool based on GraphRAG (Graph-based Retrieval-Augmented Generation), built on <a href="https://www.pingcap.com/ai?utm_source=tidb.ai&utm_medium=community">TiDB</a> Vector, LlamaIndex, and DSPy. It provides a Perplexity-like search interface and allows easy integration of AutoFlow's conversational search window into your website by embedding a simple JavaScript snippet. </td>
     </tr>
@@ -690,7 +690,7 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> The plugin provides mouse selection translation, paragraph-by-paragraph comparison translation, and PDF document translation functionalities. It can utilize various translation engines, such as DeepSeek AI, Bing, GPT, Google, etc. </td>
     </tr>
     <tr>
-        <td> <img src="https://github.com/Bistutu/FluentRead/raw/refs/heads/main/public/icon/192.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://github.com/Bistutu/FluentRead/blob/main/public/icon/128.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://fluent.thinkstu.com/"> FluentRead </a> </td>
         <td> A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience </td>
     </tr>
@@ -748,7 +748,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <table>
     <tr>
-        <td> <img src="https://github.com/continuedev/continue/blob/main/docs/static/img/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://mintlify.s3.us-west-1.amazonaws.com/continue-docs/logo/light.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/continue/README.md"> Continue </a> </td>
         <td> Continue is an open-source autopilot in IDE. </td>
     </tr>
@@ -829,17 +829,17 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <table>
     <tr>
-        <td> <img src="https://plugins.jetbrains.com/files/21520/412905/icon/pluginIcon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://ide.unitmesh.cc/img/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://ide.unitmesh.cc/quick-start"> AutoDev </a> </td>
         <td>‍AutoDev is an open-source AI coding assistant in JetBrain's IDE. </td>
     </tr>
     <tr>
-        <td> <img src="https://plugins.jetbrains.com/files/21410/561595/icon/pluginIcon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://github.com/user-attachments/assets/84a0175f-39a6-41b0-83e5-2ea15a4ac771" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://plugins.jetbrains.com/plugin/21410-onegai-copilot"> Onegai Copilot </a> </td>
         <td>Onegai Copilot is an AI coding assistant in JetBrain's IDE. </td>
     </tr>
     <tr>
-        <td> <img src="https://github.com/continuedev/continue/blob/main/docs/static/img/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://mintlify.s3.us-west-1.amazonaws.com/continue-docs/logo/light.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/continue/README.md"> Continue </a> </td>
         <td> Continue is an open-source autopilot in IDE. </td>
     </tr>
@@ -849,7 +849,7 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Chinese-English Translate is a multiple translation services in JetBrain's IDE. </td>
     </tr>
     <tr>
-        <td> <img src="https://plugins.jetbrains.com/files/24851/659002/icon/pluginIcon.svg" alt="Icon" width="64" height="auto"/> </td>
+        <td> <img src="https://ai-commit.com/git-commit-logo.svg" alt="Icon" width="64" height="auto"/> </td>
         <td> <a href="https://plugins.jetbrains.com/plugin/24851-ai-git-commit">AI Git Commit</a> </td>
         <td> This plugin uses AI to automatically generate commit messages based on the changes in your code. </td>
     </tr>
@@ -878,7 +878,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <table>
     <tr>
-        <td> <img src="https://global.discourse-cdn.com/flex020/uploads/cursor1/original/2X/a/a4f78589d63edd61a2843306f8e11bad9590f0ca.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.cursor.com/"> Cursor </a> </td>
         <td>‍The AI Code Editor based on VS Code</td>
     </tr>
