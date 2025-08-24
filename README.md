@@ -416,8 +416,8 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> AlphaBot is an intelligent stock analysis assistant that integrates multi-source data with AI analysis technology to provide technical analysis, predictions, and risk assessment, helping investors make data-driven trading decisions. It supports one-click deployment, easy operation，Support Windows/Linux/MacOS and other platforms</td>
      <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://github.com/jiqi136/DS-AI">Multi-platform connected DeepSeek</a></td>
-        <td>Leveraging the three-channel AI engine powered by DeepSeek Official, Alibaba Cloud, and Douyin Volcano, it continuously evolves its         intelligence. Additionally, it employs a hybrid mode combining "online search + deep thinking".</td>
+        <td><a href="https://github.com/jiqi136/DS-AI">Real-time Web-Access AI Assistant</a></td>
+        <td>The AI Assistant supports reading images and PDF files, allows custom integration of other AI models, and can call the local computer's browser to access the web in real-time, retrieving and referencing vast amounts of web content. The new DSV3.1 seamlessly integrates the powerful Claude Code model, with costs slashed by 90%. Use mainstream AI models like Gemini, Claude Code, GPT, Grok, and more (including several free models like R1) directly without intermediaries.</td>
     </tr>
     <tr>
     <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
