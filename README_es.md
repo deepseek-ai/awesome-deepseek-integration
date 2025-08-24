@@ -390,8 +390,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-<td><a href="https://github.com/jiqi136/DS-AI">DeepSeek multiplataforma conectado a la red</a></td>
-<td> Basado en DeepSeek Official, Alibaba Cloud y Douyin Volcano, el motor de IA tricanal impulsa una inteligencia en evolución constante. Además, emplea un modo híbrido de "búsqueda conectada a la red + pensamiento profundo".</td>
+<td><a href="https://github.com/jiqi136/DS-AI">Asistente de IA con conexión en tiempo real</a></td>
+<td> El asistente de IA admite la lectura de imágenes y archivos PDF, permite personalizar la conexión a otros modelos de IA, y utiliza el navegador de tu computadora local para conectarse a internet en tiempo real, consultando y haciendo referencia a gran cantidad de contenido web. La nueva versión DSV3.1 se integra sin problemas con el potente modelo de código Claude Code, además de reducir los costos en un 90%. Permite utilizar directamente, sin intermediarios, modelos de IA líderes como Gemini, Claude (especializado en código), GPT, Grok, e incluye varios modelos gratuitos como R1, y más.</td>
 	</tr>
     <tr>
     <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
