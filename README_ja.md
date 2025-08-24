@@ -305,8 +305,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-<td><a href="https://github.com/jiqi136/DS-AI">マルチプラットフォーム対応ネットワークDeepSeek</a></td>
-<td> DeepSeek公式、アリクラウド、TikTok火山の3つのプラットフォームを連携させたトリプルチャネルAIエンジンにより、絶えず進化するインテリジェンスを実現。さらに「オンライン検索」と「深度思考」を融合したハイブリッドモードを採用しています.</td>
+<td><a href="https://github.com/jiqi136/DS-AI">リアルタイム接続可能なAIアシスタント</a></td>
+<td>当AIアシスタントは、画像・PDFファイルの読み込みをサポートし、他のAIモデルへのカスタム接続が可能。ローカルコンコンピュータのブラウザを呼び出してリアルタイムでインターネット接続し、豊富なウェブコンテンツを参照します。新機能DSV3.1では最強のコード生成モデル「Claude Code」と完全統合を実現し、コストを驚異の9割削減。Gemini、Claude Code、GPT、Grokなど主要AIモデルを中継なしで直接利用可能。さらに複数の無料モデル（R1など）も搭載。</td>
 	</tr>
     <tr>
     <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
