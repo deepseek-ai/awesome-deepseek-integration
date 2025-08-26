@@ -305,8 +305,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-<td><a href="https://github.com/jiqi136/DS-AI">リアルタイム接続可能なAIアシスタント</a></td>
-<td>当AIアシスタントは、画像・PDFファイルの読み込みをサポートし、他のAIモデルへのカスタム接続が可能。ローカルコンコンピュータのブラウザを呼び出してリアルタイムでインターネット接続し、豊富なウェブコンテンツを参照します。新機能DSV3.1では最強のコード生成モデル「Claude Code」と完全統合を実現し、コストを驚異の9割削減。Gemini、Claude Code、GPT、Grokなど主要AIモデルを中継なしで直接利用可能。さらに複数の無料モデル（R1など）も搭載。</td>
+    <td><a href="https://github.com/jiqi136/DS-AI">リアルタイム接続可能なAIアシスタント</a></td>
+    <td>AIアシスタントはDeepSeek-V3.1インターフェイスによる最強Claude Codeコードモデルの直連をサポートし、ネットワーク中継サーサーバーを経由せずに利用可能（コスト90%削減）。
+    画像・PDFファイルの読み込みと無料画像生成機能を搭載；他のAIモデルのカスタム接続が可能；ローカルブラウザを呼び出してリアルタイムWeb検索を実現。さらにR1など無料モデルも選択可能。</td>
 	</tr>
     <tr>
     <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
