@@ -391,7 +391,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
 <td><a href="https://github.com/jiqi136/DS-AI">Asistente de IA con conexión en tiempo real</a></td>
-<td> El asistente de IA admite la lectura de imágenes y archivos PDF, permite personalizar la conexión a otros modelos de IA, y utiliza el navegador de tu computadora local para conectarse a internet en tiempo real, consultando y haciendo referencia a gran cantidad de contenido web. La nueva versión DSV3.1 se integra sin problemas con el potente modelo de código Claude Code, además de reducir los costos en un 90%. Permite utilizar directamente, sin intermediarios, modelos de IA líderes como Gemini, Claude (especializado en código), GPT, Grok, e incluye varios modelos gratuitos como R1, y más.</td>
+<td> El asistente de IA admite conexión directa a la interfaz DeepSeek-V3.1 con el potente modelo de código Claude Code, permitiendo su uso sin intermediarios de red (reducción de costes del 90%).
+Soporta lectura de imágenes y archivos PDF con generación gratuita de imágenes; permite integración personalizada con otros modelos de IA; habilita búsqueda en tiempo real en la web mediante navegador local. Además, ofrece opciones gratuitas como el modelo R1.</td>
 	</tr>
     <tr>
     <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
