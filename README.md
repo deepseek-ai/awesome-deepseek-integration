@@ -417,7 +417,8 @@ With these functionalities, the AI assistant can summarize key points within an 
      <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/jiqi136/DS-AI">Real-time Web-Access AI Assistant</a></td>
-        <td>The AI Assistant supports reading images and PDF files, allows custom integration of other AI models, and can call the local computer's browser to access the web in real-time, retrieving and referencing vast amounts of web content. The new DSV3.1 seamlessly integrates the powerful Claude Code model, with costs slashed by 90%. Use mainstream AI models like Gemini, Claude Code, GPT, Grok, and more (including several free models like R1) directly without intermediaries.</td>
+        <td>The AI assistant supports direct API access to the strongest Claude Code model via the DeepSeek-V3.1 interface, enabling usage without network relay (costs slashed by 90%).
+        It supports image and PDF file parsing with free image generation capabilities, allows custom integration of other AI models, and enables real-time web searches by connecting to local browsers for vast online content retrieval. Alternatively, free models online content retrieval. Alternatively, free models like R1 are also available.</td>
     </tr>
     <tr>
     <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
