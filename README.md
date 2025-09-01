@@ -507,6 +507,11 @@ With these functionalities, the AI assistant can summarize key points within an 
             <td> Eino (pronounced like "I know") aims to be the best LLM application development framework in the Go language. It draws on the design concept of excellent LLM frameworks in open source communities such as LangChain and LlamaIndex, while absorbing cutting-edge research results and practical application experience, providing a LLM application development framework that is more in line with Go programming conventions, emphasizing simplicity, scalability, reliability and efficiency. </td>
         </tr>
     </tr>
+    <tr>
+        <td width=80> <img src="https://raw.githubusercontent.com/Tencent/Youtu-agent/924aeeb6c49ee524b8bb4de2642a3dc84b7b86b9/docs/assets/mascot.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> is a flexible, high-performance framework for building, running, and evaluating autonomous agents. Beyond topping the benchmarks, this framework delivers powerful agent capabilities, e.g. data analysis, file processing, and deep research, all with open-source models. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>

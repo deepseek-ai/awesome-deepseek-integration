@@ -505,6 +505,11 @@
             <td> <a href="https://github.com/cloudwego/eino"> Eino </a> </td>
             <td> Eino（發音類似"I know"）旨在成為Go語言中最優秀的LLM應用開發框架。它借鑒了LangChain、LlamaIndex等開源社區優秀LLM框架的設計理念，同時吸收了前沿研究成果和實際應用經驗，提供了一個更符合Go語言編程慣例的LLM應用開發框架，強調簡潔性、可擴展性、可靠性和高效性。 </td>
     </tr>
+    <tr>
+        <td width=80> <img src="https://raw.githubusercontent.com/Tencent/Youtu-agent/924aeeb6c49ee524b8bb4de2642a3dc84b7b86b9/docs/assets/mascot.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> 是一個靈活、高性能的框架，用於構建、運行和評估自主智能體。除了在基準測試中名列前茅，該框架還提供了強大的智能體能力，採用開源模型即可實現例如數據分析、文件處理、深度研究等功能。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
