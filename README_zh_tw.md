@@ -47,6 +47,11 @@
 
 <table>
     <tr>
+        <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
+        <td>面向安卓平台的開源系統集成 AI 助手，支持幾乎完整的 mcp 使用，與安卓系統高度兼容。軟件同時具備高度自定義和低門檻的上手體驗，內建文件操作、搜索、自動點擊、格式轉換等工具，並整合了 DeepSeek API 網頁。</td>
+    </tr>
+    <tr>
         <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://migo.intern-ai.org.cn/education">覓果</a></td>
         <td> 免費的 AI 創新加速工具，提供智慧問答、論文深度理解、前沿 AI 工具以及個人學術知識庫。作為探索的夥伴，覓果助你發現並實現卓越創意！</td>
