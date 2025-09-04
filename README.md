@@ -921,6 +921,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://codeium.com/windsurf"> WindSurf </a> </td>
         <td>Another AI Code Editor based on VS Code by Codeium</td>
     </tr>
+    <tr>
+        <td> <img src="docs/wusigram/assets/logo-512.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/wusigram/README.md"> 无思微程序 </a> </td>
+        <td>A mobile AI code writing and running tool. DeepSeek Programming Companion</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>

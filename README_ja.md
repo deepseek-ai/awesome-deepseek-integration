@@ -674,6 +674,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://codeium.com/windsurf"> WindSurf </a> </td>
         <td>CodeiumによるVS CodeをベースにしたのAIコードエディタ</td>
     </tr>
+    <tr>
+        <td> <img src="docs/wusigram/assets/logo-512.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/wusigram/README.md"> 无思微程序 </a> </td>
+        <td>モバイルAIプログラミングおよび運用ツール、DeepSeekプログラミングパートナー</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
