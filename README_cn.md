@@ -418,6 +418,11 @@
         <td> Eino（发音类似"I know"）旨在成为Go语言中最优秀的LLM应用开发框架。它借鉴了LangChain、LlamaIndex等开源社区优秀LLM框架的设计理念，同时吸收了前沿研究成果和实际应用经验，提供了一个更符合Go语言编程惯例的LLM应用开发框架，强调简洁性、可扩展性、可靠性和高效性。
         </td>
     </tr>
+    <tr>
+        <td width=80> <img src="https://raw.githubusercontent.com/Tencent/Youtu-agent/924aeeb6c49ee524b8bb4de2642a3dc84b7b86b9/docs/assets/mascot.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，采用开源模型即可实现例如数据分析、文件处理、深度研究等功能。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

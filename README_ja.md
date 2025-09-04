@@ -375,6 +375,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
             <td> <a href="https://github.com/cloudwego/eino"> Eino </a> </td>
             <td> Eino (I knowと発音が似ている)は、Go言語で最も優れたLLMアプリケーション開発フレームワークとなることを目指しています。LangChain、LlamaIndexなどのオープンソースコミュニティの優れたLLMフレームワークの設計理念を参考にしながら、最先端の研究成果と実用的な経験を取り入れ、シンプルさ、スケーラビリティ、信頼性、効率性を強調したGo言語プログラミング慣行に準拠したLLMアプリケーション開発フレームワークを提供しています。 </td>
         </tr>
+    <tr>
+        <td width=80> <img src="https://raw.githubusercontent.com/Tencent/Youtu-agent/924aeeb6c49ee524b8bb4de2642a3dc84b7b86b9/docs/assets/mascot.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> は、自律エージェントを構築、実行、および評価するための柔軟で高性能なフレームワークです。ベンチマークテストで最高の成績を収めるだけでなく、このフレームワークは、オープンソースモデルを使用して、データ分析、ファイル処理、詳細な調査などの強力なエージェント機能を提供します。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
