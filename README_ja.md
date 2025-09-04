@@ -593,6 +593,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/intellism/vscode-comment-translate/blob/master/README_JA.md"> Comment Translation </a> </td>
         <td> この拡張により、開発者はコード内のコメント、文字列、コードヒント、エラーメッセージ、変数名を翻訳できます。 </td>
     </tr>
+        <tr>
+            <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/AITK/assets/AIToolkit.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+            <td> <a href="https://code.visualstudio.com/docs/intelligentapps/overview"> AI Toolkit </a> </td>
+            <td> Visual Studio Code 用 AI Toolkit は、開発者や AI エンジニアが生成 AI モデルを使用してインテリジェントなアプリケーションを構築、テスト、およびデプロイすることを可能にする包括的な拡張機能です。 </td>
+        </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
