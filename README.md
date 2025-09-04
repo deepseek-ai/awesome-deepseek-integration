@@ -61,6 +61,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td>A simple and user-friendly tool for local deployment of large language models, supporting local private deployment of open-source models such as DeepSeek-R1, DLlama 3, Phi-4, Mistral, Gemma 3, etc., while also supporting remote LLM API calls.</td>
     </tr>
     <tr>
+        <td><img src="https://openrouter.ai/brand/logo-grey.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://openrouter.ai/">OpenRouter</a></td>
+        <td>OpenRouter provides a unified API that gives you access to hundreds of AI models through a single endpoint, while automatically handling fallbacks and selecting the most cost-effective options. Get started with just a few lines of code using your preferred SDK or framework.</td>
+    </tr>
+    <tr>
         <td><img src="docs/aingdesk/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/aingdesk/AingDesk">AingDesk</a></td>
         <td>One-click deployment of AI models on your computer with a visual interface, featuring an elegant chat UI. It allows online sharing for collaborative use, supports various models like DeepSeek, and enables web search and third-party API integration.</td>
