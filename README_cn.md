@@ -48,7 +48,7 @@
     </tr>
     <tr>
         <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://migo.intern-ai.org.cn/education">觅果</a></td>
+        <td><a href="https://migo.intern-ai.org.cn/">觅果</a></td>
         <td>免费的 AI 创新加速工具，提供智能问答、论文深度理解、前沿 AI 工具以及个人学术知识库。作为探索的伙伴，觅果助你发现并实现卓越创意！</td>
     </tr>
     <tr>

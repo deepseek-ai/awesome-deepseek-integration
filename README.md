@@ -52,7 +52,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     </tr>
     <tr>
         <td><img src="docs/OpenXLab/migo/logo.svg" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://migo.intern-ai.org.cn/education">Migo</a></td>
+        <td><a href="https://migo.intern-ai.org.cn/">Migo</a></td>
         <td>A free AI innovation accelerator offering intelligent Q&A, in-depth paper comprehension, cutting-edge AI tools, and a personal academic knowledge base. As your exploration partner, Migo helps you discover and realize outstanding ideas!</td>
     </tr>
     <tr>
