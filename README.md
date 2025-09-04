@@ -641,6 +641,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/Soulter/AstrBot/">AstrBot<br/>（QQ, WeChat, WeCom, Lark, TG, etc.）</a> </td>
         <td> User-friendly LLM-based multi-platform chatbot with a WebUI, supporting long-term-memory, RAG, LLM agents, and plugins integration.</td>
     </tr>
+    <tr>
+        <td> <img src="https://oss.nekro.ai/nekro_agent_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/KroMiose/nekro-agent">NekroAgent<br/>(QQ, Discord, BiliBiliLive, Minecraft etc.)</a> </td>
+        <td> Nekro Agent is a smart and elegant AI agent execution framework. At its core, it leverages a powerful and flexible prompt engineering system to guide AI in generating code and executing it within a secure sandbox. It delivers robust cross-platform event stream processing through a native multi-platform adapter architecture, seamlessly supporting major platforms like OneBot v11 (QQ), Discord, Minecraft, and Bilibili Live (powering V-Tuber performances). The project also boasts a highly extensible plugin system, a shared ecosystem for personas and plugins, and supports efficient interactions in complex, multi-user group chats. Its goal is to offer both users and developers a developer-friendly intelligent hub that is extremely efficient, highly flexible, and easy to use. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
