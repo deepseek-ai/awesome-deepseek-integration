@@ -1066,6 +1066,11 @@
         <td> <a href="https://github.com/eqld/nlsh">nlsh</a> </td>
         <td> <a href="https://github.com/eqld/nlsh">nlsh</a> 是一款由 AI 驅動的命令列工具，能透過支援多種後端的大型語言模型（LLM），生成具有上下文感知能力的 Shell 指令。支援 Shell 專屬語法、唯讀系統工具，以及自訂的推理端點設定。</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.godtierprompts.com/logo.jpg" alt="Icon" width="64" height="auto" /></td>
+        <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a></td>
+        <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a> 是一個由社群驅動的排行榜，讓最優秀的提示詞脫穎而出。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>

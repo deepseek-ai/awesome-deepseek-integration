@@ -768,6 +768,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/eqld/nlsh">nlsh</a> </td>
         <td> <a href="https://github.com/eqld/nlsh">nlsh</a> は、マルチバックエンドLLMサポートを備えたAI駆動のCLIツールで、コンテキストを考慮したシェルコマンドを生成します。シェル固有の構文、読み取り専用システムツール、カスタム推論エンドポイントに対応しています。</td>
     </tr>
+    <tr>
+        <td> <img src="https://www.godtierprompts.com/logo.jpg" alt="Icon" width="64" height="auto" /></td>
+        <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a></td>
+        <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a> はコミュニティ主導のリーダーボードで、最高のプロンプトが上位に浮上します。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
