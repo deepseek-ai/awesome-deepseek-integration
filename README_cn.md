@@ -360,6 +360,11 @@
         <td> <a href="https://github.com/glidea/zenfeed">zenfeed</a> </td>
         <td> 用 AI 赋能 RSS，自动筛选、总结、推送重要信息，告别信息过载。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/NoteGen/NoteGen.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
+        <td> NoteGen 是一款的跨端的 Markdown 笔记应用，致力于使用 AI 建立记录和写作的桥梁，将碎片化知识整理成一篇可读的笔记。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

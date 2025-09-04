@@ -323,6 +323,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/glidea/zenfeed">zenfeed</a> </td>
         <td> AIでRSSを強化し、重要な情報を自動的にフィルタリング、要約、プッシュして、情報過多を克服します。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/NoteGen/NoteGen.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
+        <td> NoteGenは、AIを使用して記録と執筆を橋渡しし、断片化された知識を読みやすいノートに整理することに専念するクロスプラットフォームのMarkdownノートアプリケーションです。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
