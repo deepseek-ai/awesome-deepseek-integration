@@ -521,8 +521,8 @@
     </tr>
     <tr>
         <td width=80> <img src="https://raw.githubusercontent.com/Tencent/Youtu-agent/924aeeb6c49ee524b8bb4de2642a3dc84b7b86b9/docs/assets/mascot.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> </td>
-        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> 是一個靈活、高性能的框架，用於構建、運行和評估自主智能體。除了在基準測試中名列前茅，該框架還提供了強大的智能體能力，採用開源模型即可實現例如數據分析、文件處理、深度研究等功能。 </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> 是一個靈活、高性能的框架，用於構建、運行和評估自主智能體。除了在基準測試中名列前茅，該框架還提供了強大的智能體能力，採用開源模型即可實現例如數據分析、文件處理、深度研究等功能。 </td>
     </tr>
 </table>
 
