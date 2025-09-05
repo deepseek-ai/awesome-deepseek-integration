@@ -523,8 +523,8 @@ With these functionalities, the AI assistant can summarize key points within an 
     </tr>
     <tr>
         <td width=80> <img src="https://raw.githubusercontent.com/Tencent/Youtu-agent/924aeeb6c49ee524b8bb4de2642a3dc84b7b86b9/docs/assets/mascot.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> </td>
-        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> is a flexible, high-performance framework for building, running, and evaluating autonomous agents. Beyond topping the benchmarks, this framework delivers powerful agent capabilities, e.g. data analysis, file processing, and deep research, all with open-source models. </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> is a flexible, high-performance framework for building, running, and evaluating autonomous agents. Beyond topping the benchmarks, this framework delivers powerful agent capabilities, e.g. data analysis, file processing, and deep research, all with open-source models. </td>
     </tr>
 </table>
 
