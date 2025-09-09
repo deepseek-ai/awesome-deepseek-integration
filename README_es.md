@@ -395,8 +395,9 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-<td><a href="https://github.com/jiqi136/DS-AI">DeepSeek multiplataforma conectado a la red</a></td>
-<td> Basado en DeepSeek Official, Alibaba Cloud y Douyin Volcano, el motor de IA tricanal impulsa una inteligencia en evolución constante. Además, emplea un modo híbrido de "búsqueda conectada a la red + pensamiento profundo".</td>
+<td><a href="https://github.com/jiqi136/DS-AI">Asistente de IA con conexión en tiempo real</a></td>
+<td> BEl asistente de IA admite conexión directa a la interfaz DeepSeek-V3.1 con el potente modelo de código Claude Code, permitiendo su uso sin intermediarios de red (reducción de costes del 90%). Soporta lectura de imágenes y archivos PDF con generación gratuita de imágenes; permite integración personalizada con otros modelos de IA; habilita búsqueda en tiempo real en la web mediante navegador local. Además, ofrece opciones gratuitas como el modelo R1.
+</td>
 	</tr>
     <tr>
     <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
