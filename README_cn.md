@@ -370,6 +370,11 @@
         <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
         <td> NoteGen 是一款的跨端的 Markdown 笔记应用，致力于使用 AI 建立记录和写作的桥梁，将碎片化知识整理成一篇可读的笔记。 </td>
     </tr>
+    <tr>
+        <td> </td>
+        <td> <a href="https://github.com/SamYuan1990/i18n-agent-action">i18n-agent-action</a> </td>
+        <td> i18n Agent是一款人工智能驱动的工具，旨在简化和自动化国际化（i18n）与本地化（l10n）工作流程。它通过先进的自然语言处理（NLP）和机器学习技术，帮助开发者、翻译人员和产品团队高效管理多语言内容——既能消除人工错误，又能加速全球部署进程。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
