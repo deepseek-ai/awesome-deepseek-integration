@@ -448,6 +448,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
         <td> NoteGen is a cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note. </td>
     </tr>
+    <tr>
+        <td> </td>
+        <td> <a href="https://github.com/SamYuan1990/i18n-agent-action">i18n-agent-action</a> </td>
+        <td> The i18n Agent is an AI-powered tool designed to streamline and automate internationalization (i18n) and localization (l10n) workflows. By leveraging advanced natural language processing (NLP) and machine learning, it helps developers, translators, and product teams efficiently manage multilingual content—eliminating manual errors and accelerating global deployments. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
