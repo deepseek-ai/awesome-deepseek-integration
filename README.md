@@ -571,7 +571,7 @@ The purpose is to build infrastructure in the field of large models, through the
 <tr>
         <td width="80"> <img src="https://raw.githubusercontent.com/TencentCloudADP/youtu-graphrag/refs/heads/main/assets/logo.png" alt="Youtu-GraphRAG icon" width="64" height="auto"/> </td>
         <td> <a href="https://github.com/TencentCloudADP/Youtu-GraphRAG"> Youtu-GraphRAG </a> </td>
-        <td>Youtu-GraphRAG proposes a new graph retrieval-augmented generation paradigm which vertically unifies construction, indexing and retrieval through schema. It advances GraphRAG towards enterprise-level applications， allowing seamless cross-domain adaptation with minimum human intervention, with (i) a dynamic schema-bounded extraction; (ii) a comprehensive community detection algorithm and (iii) a schema-guided query decomposition for iterative reflection and reasoning.</td>
+        <td>Youtu-GraphRAG proposes a novel graph retrieval-augmented generation paradigm which vertically unifies construction, indexing and retrieval through schema. It advances GraphRAG towards enterprise-level applications, allowing seamless cross-domain adaptation with minimum human intervention, with (i) a dynamic schema-bounded extraction; (ii) a comprehensive community detection algorithm and (iii) a schema-guided query decomposition for iterative reflection and reasoning.</td>
     </tr>
 </table>
 
