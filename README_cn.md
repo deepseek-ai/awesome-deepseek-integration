@@ -464,6 +464,11 @@
         <td> <a href="https://github.com/OpenSPG/KAG/blob/master/README_cn.md"> KAG </a> </td>
         <td> KAG 是基于 <a href="https://github.com/OpenSPG/openspg">OpenSPG</a> 引擎和大型语言模型的逻辑推理问答框架，用于构建垂直领域知识库的逻辑推理问答解决方案。KAG 可以有效克服传统 RAG 向量相似度计算的歧义性和 OpenIE 引入的 GraphRAG 的噪声问题。KAG 支持逻辑推理、多跳事实问答等。 </td>
     </tr>
+   <tr>
+        <td width="80"> <img src="https://raw.githubusercontent.com/TencentCloudADP/youtu-graphrag/refs/heads/main/assets/logo.png" alt="Youtu-GraphRAG icon" width="64" height="auto"/> </td>
+        <td> <a href="https://github.com/TencentCloudADP/Youtu-GraphRAG"> Youtu-GraphRAG </a> </td>
+        <td>Youtu-GraphRAG是腾讯优图实验室开源的图检索增强生成新范式，通过Schema连接两个智能体，在图构建、索引和检索上实现垂直统一和认知闭环，以领先的落地级图构建与推理能力推动GraphRAG进入新的阶段。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
