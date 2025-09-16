@@ -568,6 +568,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/OpenSPG/KAG/blob/master/README.md"> KAG </a> </td>
         <td> KAG is a logical reasoning and Q&A framework based on the <a href="https://github.com/OpenSPG/openspg">OpenSPG</a> engine and large language models, which is used to build logical reasoning and Q&A solutions for vertical domain knowledge bases. KAG can effectively overcome the ambiguity of traditional RAG vector similarity calculation and the noise problem of GraphRAG introduced by OpenIE. KAG supports logical reasoning and multi-hop fact Q&A, etc.</td>
     </tr>
+    <tr>
+        <td width="80"> <img src="https://raw.githubusercontent.com/TencentCloudADP/youtu-graphrag/refs/heads/main/assets/logo.png" alt="Youtu-GraphRAG icon" width="64" height="auto"/> </td>
+        <td> <a href="https://github.com/TencentCloudADP/Youtu-GraphRAG"> Youtu-GraphRAG </a> </td>
+        <td>Youtu-GraphRAG proposes a new graph retrieval-augmented generation paradigm which vertically unifies graph construction, indexing and retrieval through schema. It advances GraphRAG towards enterprise-level applications, allowing seamless cross-domain adaptation with minimum human intervention, with (i) a dynamic schema-bounded extraction; (ii) a comprehensive community detection algorithm and (iii) a schema-guided query decomposition for iterative reflection and reasoning.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
