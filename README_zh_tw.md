@@ -424,8 +424,9 @@
     </tr>
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://github.com/jiqi136/DS-AI">多平臺聯網 DeepSeek</a></td>
-        <td> 利用 DeepSeek 官方、阿里雲、抖音火山，三通道 AI 引擎，持續進化智慧。此外，它還採用了「線上搜索+深度思考」的混合模式。</td>
+        <td><a href="https://github.com/jiqi136/DS-AI">即時連網AI助手</a></td>
+        <td> AI助手支援DeepSeek-V3.1介面直連最強Claude Code代碼模型，無需網路中轉即可使用（成本直降90%）。 支援圖片、PDF檔案讀取及免費生成圖片；可自訂接入其他AI模型；支援呼叫本地瀏覽器即時聯網檢索海量網頁內容。另提供R1等免費模型選擇。
+</td>
 	</tr>
     <tr>
         <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
