@@ -413,6 +413,12 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
         <td> NoteGen es una aplicación multiplataforma de notas Markdown que se enfoca en utilizar inteligencia artificial para construir un puente entre la recopilación de información y la escritura, organizando conocimientos fragmentados en notas legibles. </td>
     </tr>
+    </tr>
+        <tr>
+        <td> </td>
+        <td> <a href="https://github.com/SamYuan1990/i18n-agent-action">i18n-agent-action</a> </td>
+        <td> El i18n Agent es una herramienta impulsada por inteligencia artificial diseñada para simplificar y automatizar los flujos de trabajo de internacionalización (i18n) y localización (l10n). Al aprovechar el procesamiento avanzado de lenguaje natural (NLP) y el aprendizaje automático, ayuda a desarrolladores, traductores y equipos de productos a gestionar contenido multilingüe de manera eficiente, eliminando errores manuales y acelerando los despliegues globales. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
