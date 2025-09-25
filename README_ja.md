@@ -421,6 +421,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/OpenSPG/KAG/blob/master/README_ja.md"> KAG </a> </td>
         <td>KAG は、<a href="https://github.com/OpenSPG/openspg">OpenSPG</a> エンジンと大規模言語モデルに基づく論理的推論質問応答フレームワークです。垂直ドメイン知識ベース用の論理的推論質問応答ソリューションを構築するために使用されます。 KAG は、従来の RAG ベクトル類似度計算の曖昧さと、OpenIE によって導入された GraphRAG のノイズ問題を効果的に克服できます。 KAG は、論理的推論、マルチホップの事実に基づく質問への回答などをサポートします。</td>
     </tr>
+	<tr>
+    <td width="80"> <img src="https://raw.githubusercontent.com/TencentCloudADP/youtu-graphrag/refs/heads/main/assets/logo.png" alt="Youtu-GraphRAGのアイコン" width="64" height="auto"/> </td>
+    <td> <a href="https://github.com/TencentCloudADP/Youtu-GraphRAG"> Youtu-GraphRAG </a> </td>
+    <td>Youtu-GraphRAGは、スキーマを通じてグラフの構築、インデックス化、検索を垂直的に統合する新しいグラフ検索拡張生成（GraphRAG）のパラダイムを提案します。これはGraphRAGをエンタープライズレベルアプリケーションへ進化させ、人的介入を最小限に抑えつつシームレスなクロスドメイン適応を可能にします。その特徴は、(i) 動的スキーマ境界抽出、(ii) 包括的なコミュニティ検出アルゴリズム、そして (iii) 反復的な反省と推論のためのスキーマ主導クエリ分解です。</td>
+</tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

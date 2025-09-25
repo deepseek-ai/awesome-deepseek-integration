@@ -529,6 +529,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/OpenSPG/KAG/blob/master/README.md"> KAG </a> </td>
         <td> KAG es un marco de razonamiento lógico y preguntas y respuestas basado en el motor <a href="https://github.com/OpenSPG/openspg">OpenSPG</a> y modelos de lenguaje grandes, que se utiliza para construir soluciones de razonamiento lógico y preguntas y respuestas para bases de conocimiento de dominio vertical. KAG puede superar eficazmente la ambigüedad del cálculo de similitud vectorial tradicional de RAG y el problema de ruido introducido por GraphRAG mediante OpenIE. KAG admite razonamiento lógico y preguntas y respuestas de hechos de múltiples saltos, etc.</td>
     </tr>
+	<tr>
+    <td width="80"> <img src="https://raw.githubusercontent.com/TencentCloudADP/youtu-graphrag/refs/heads/main/assets/logo.png" alt="Icono de Youtu-GraphRAG" width="64" height="auto"/> </td>
+    <td> <a href="https://github.com/TencentCloudADP/Youtu-GraphRAG"> Youtu-GraphRAG </a> </td>
+    <td>Youtu-GraphRAG propone un nuevo paradigma de generación aumentada por recuperación en grafos (GraphRAG) que unifica verticalmente la construcción, indexación y recuperación de grafos mediante esquemas. Avanza el GraphRAG hacia aplicaciones de nivel empresarial, permitiendo una adaptación perfecta entre dominios con mínima intervención humana, mediante (i) una extracción dinámica acotada por esquemas; (ii) un algoritmo integral de detección de comunidades y (iii) una descomposición de consultas guiada por esquemas para la reflexión iterativa y el razonamiento.</td>
+</tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
