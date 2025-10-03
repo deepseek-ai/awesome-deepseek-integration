@@ -817,6 +817,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://code.visualstudio.com/docs/intelligentapps/overview"> AI Toolkit </a> </td>
         <td> AI Toolkit for Visual Studio Code is a comprehensive extension that empowers developers and AI engineers to build, test, and deploy intelligent applications using generative AI models. </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/gitCommitGenie/Genie.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Nouvelle-Lune/git-commit-genie/blob/main/README.md"> Git Commit Genie </a> </td>
+        <td> Git Commit Genie uses mainstream large language models to generate standardized commit messages, supporting custom commit message templates and multi-step reasoning. It can perform intelligent repository analysis to provide better context for commit message generation. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
