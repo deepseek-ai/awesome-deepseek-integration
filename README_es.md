@@ -728,6 +728,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
             <td> <a href="https://code.visualstudio.com/docs/intelligentapps/overview"> AI Toolkit </a> </td>
             <td> AI Toolkit para Visual Studio Code es una extensión integral que permite a desarrolladores e ingenieros de IA construir, probar y desplegar aplicaciones inteligentes utilizando modelos de IA generativa. </td>
         </tr>
+        <tr>
+            <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/gitCommitGenie/Genie.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+            <td> <a href="https://github.com/Nouvelle-Lune/git-commit-genie/blob/main/README.md"> Git Commit Genie </a> </td>
+            <td> Git Commit Genie utiliza modelos de lenguaje grandes para generar mensajes de commit estandarizados, compatible con plantillas de mensajes de commit personalizadas y razonamiento de múltiples pasos. Puede realizar análisis inteligente de repositorios para proporcionar mejor contexto para la generación de mensajes de commit. </td>
+        </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

@@ -609,6 +609,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
             <td> <a href="https://code.visualstudio.com/docs/intelligentapps/overview"> AI Toolkit </a> </td>
             <td> Visual Studio Code 用 AI Toolkit は、開発者や AI エンジニアが生成 AI モデルを使用してインテリジェントなアプリケーションを構築、テスト、およびデプロイすることを可能にする包括的な拡張機能です。 </td>
         </tr>
+        <tr>
+            <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/gitCommitGenie/Genie.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+            <td> <a href="https://github.com/Nouvelle-Lune/git-commit-genie/blob/main/README.md"> Git Commit Genie </a> </td>
+            <td> Git Commit Genie は主要な大規模言語モデルを使用して標準的なコミットメッセージを生成し、カスタムコミットメッセージテンプレートと多段階推論をサポートします。リポジトリのインテリジェント分析を実行し、コミットメッセージ生成のためのより良いコンテキストを提供できます。 </td>
+        </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
