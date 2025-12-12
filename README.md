@@ -532,6 +532,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> is a flexible, high-performance framework for building, running, and evaluating autonomous agents. Beyond topping the benchmarks, this framework delivers powerful agent capabilities, e.g. data analysis, file processing, and deep research, all with open-source models. </td>
     </tr>
+    <tr>
+        <td width=80> <img src="https://adk-rust.com/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/zavora-ai/adk-rust">ADK-Rust</a> </td>
+        <td> A flexible, modular framework for building production-ready AI agents in Rust. Model-agnostic (Gemini, OpenAI, Anthropic, DeepSeek), with multiple agent types (LLM, Graph, Workflow, Realtime), built-in tools (browser automation, MCP, UI generation), and production features (sessions, artifacts, telemetry). </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
