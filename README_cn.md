@@ -295,6 +295,12 @@
         <td>如知AI笔记是一款智能化的AI知识管理工具，致力于为用户提供一站式的知识管理和应用服务，包括AI搜索探索、AI结果转笔记、笔记管理与整理、知识演示与分享等。集成了DeepSeek深度思考模型，提供更稳定、更高质量的输出。</td>
     </tr>
     <tr>
+        <td> <img src="./docs/resumemakeroffer/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="http://app.resumemakeroffer.com/?from=github_awesome_deepseek">AI简历姬</a> </td>
+        <td>AI简历姬是一款由AI驱动的智能职业文档创作平台，提供一站式简历生成与优化服务，包括AI内容生成、智能排版设计、竞争力分析与职位匹配、专业模板选择及多格式导出等功能。集成先进AI模型，帮助求职者在激烈的市场竞争中脱颖而出，获得更专业、更有针对性的简历输出。</td>
+    </tr>
+    
+    <tr>
         <td> <img src="https://athenalab.ai/assets/favicon/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://athenalab.ai/">Athena</a> </td>
         <td>世界上首个具有先进认知架构和类人推理能力的自主通用人工智能，旨在解决复杂的现实世界挑战。</td>

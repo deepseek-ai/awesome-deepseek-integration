@@ -369,6 +369,11 @@ With these functionalities, the AI assistant can summarize key points within an 
 ​        <td> <a href="docs/ruzhiai_note/README.md">RuZhi AI Notes</a> </td>
 ​        <td>RuZhi AI Notes is an intelligent knowledge management tool powered by AI, providing one-stop knowledge management and application services including AI search & exploration, AI results to notes conversion, note management & organization, knowledge presentation & sharing. Integrated with DeepSeek model to provide more stable and higher quality outputs.</td>
 ​    </tr>
+ <tr>
+​        <td> <img src="./docs/resumemakeroffer/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
+​        <td> <a href="http://app.resumemakeroffer.com/?from=github_awesome_deepseek">ResumeMakerOffer</a> </td>
+​        <td>ResumeMakerOffer is an intelligent career document creation platform powered by AI, providing one-stop resume building and optimization services including AI-powered content generation, smart formatting & design, competitive analysis & job matching, professional template selection, and multi-format export capabilities. Integrated with advanced AI models to deliver more professional and targeted resume outputs that help job seekers stand out in competitive markets.</td>
+​    </tr>
 ​    <tr>
 ​        <td> <img src="https://cdn.link-ai.tech/doc/CoW%20logo.png" alt="Icon" width="64" height="auto" /> </td>
 ​        <td> <a href="https://github.com/zhayujie/chatgpt-on-wechat">Chatgpt-on-Wechat</a> </td>
