@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td> <img src="https://amoy-tech.com/images/favicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://studio.amoy-tech.com">Amoy Studio</a> </td>
+        <td> Hong Kong-based AI productivity studio with multi-model support including DeepSeek (V3, R1), offering chat, content creation, professional translation, image generation, and visual recognition — no VPN required.</td>
+    </tr>  
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>

@@ -404,6 +404,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
     </tr>
+	<tr>
+	    <td> <img src="https://amoy-tech.com/images/favicon.png" alt="Icon" width="64" height="auto" /> </td>
+	    <td> <a href="https://studio.amoy-tech.com">Amoy Studio</a> </td>
+	    <td> 香港の AI 生産性スタジオ。DeepSeek（V3、R1）を含むマルチモデル対応で、チャット、コンテンツ作成、プロ翻訳、画像生成、視覚認識を提供 — VPN不要。</td>
+	</tr>	
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
