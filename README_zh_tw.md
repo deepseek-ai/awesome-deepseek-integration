@@ -992,6 +992,11 @@
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API 讓使用者只需透過一個 API，就能以企業級的方式存取 200 種以上的模型。 這包括 Deepseek R1 和 V3，以及封閉和開源模型。 所有服務的正常運行時間均為 99%，並提供 24/7 全天候的人力支援。</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/OfoxAI/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://ofox.ai"> OfoxAI </a> </td>
+        <td> OfoxAI 是統一的大模型 API 閘道，透過一個 OpenAI 相容的 API 即可存取 DeepSeek R1、V3 及 50+ 其他模型（GPT、Claude、Gemini、Qwen 等）。支援自動故障轉移、供應商路由、提示快取及中國大陸直連。99.9% SLA，按量付費。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
