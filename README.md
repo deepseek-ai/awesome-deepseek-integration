@@ -11,6 +11,7 @@ Integrate the DeepSeek API into popular softwares. Access [DeepSeek Open Platfor
 English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md) / [繁體中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_zh_tw.md) / [日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md) / [Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md)
 
 <a href="https://trendshift.io/repositories/12798" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12798" alt="deepseek-ai%2Fawesome-deepseek-integration | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 </div>
 
 ## Table of Contents
@@ -20,8 +21,9 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
   - [Project List](#project-list)
     - [Applications](#applications)
     - [AI Agent frameworks](#ai-agent-frameworks)
-    - [Data AI Applications frameworks](#data-ai-applications-frameworks)
     - [RAG frameworks](#rag-frameworks)
+    - [Data AI Applications frameworks](#data-ai-applications-frameworks)
+    - [RAG frameworks](#rag-frameworks-1)
     - [FHE (Fully Homomorphic Encryption) frameworks](#fhe-fully-homomorphic-encryption-frameworks)
     - [Solana frameworks](#solana-frameworks)
     - [Synthetic data curation](#synthetic-data-curation)
@@ -42,7 +44,7 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
 
 ## Project List
 
-###  <span id="applications">Applications</span>
+### <span id="applications">Applications</span>
 
 <table>
     <tr>
@@ -557,11 +559,21 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/Krusty84/TCPresaleDreamland/refs/heads/main/tcPresaleDreamland/Resources/AppIcon.appiconset/tcDreamLandAppIcon-64.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://apps.apple.com/us/app/tcpresaledreamland/id6752539188">One API</a> </td>
+        <td>TCPresaleDreamland is your ultimate macOS based tool for creating stunning, realistic-looking Teamcenter demo data in seconds.
+        Tailored for Presale's Engineers, Solution Architects, and demo warriors, this lightweight, one-click tool generates Items, BOMs faster than you can say "impress the stakeholders!"
+        No need for real integrations or deep product knowledge – TCPresaleDreamland auto-generates mock data that looks professional, letting you focus on nailing that presentation.
+        Perfect for those last-minute "Can you show this use case?" moments or when you're tired of building fake data by hand.
+        This application requires a valid Teamcenter license (e.g., Author, Consumer) and valid DeepSeek API key to access its features.
+        The source code for this application is here: https://github.com/Krusty84/TCPresaleDreamland</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="agent">AI Agent frameworks</span>
+### <span id="agent">AI Agent frameworks</span>
 
 <table>
     <tr>
@@ -660,7 +672,7 @@ With these functionalities, the AI assistant can summarize key points within an 
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="data">Data AI Applications frameworks</span>
+### <span id="data">Data AI Applications frameworks</span>
 
 <table>
     <tr>
@@ -675,7 +687,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="rag">RAG frameworks</span>
+### <span id="rag">RAG frameworks</span>
 
 <table>
     <tr>
@@ -707,7 +719,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="fhe">FHE (Fully Homomorphic Encryption) frameworks</span>
+### <span id="fhe">FHE (Fully Homomorphic Encryption) frameworks</span>
 
 <table>
     <tr>
@@ -719,7 +731,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="solana">Solana frameworks</span>
+### <span id="solana">Solana frameworks</span>
 
 <table>
     <tr>
@@ -731,7 +743,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="sythetic">Synthetic data curation</span>
+### <span id="sythetic">Synthetic data curation</span>
 
 <table>
     <tr>
@@ -753,7 +765,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="im">IM Application Plugins</span>
+### <span id="im">IM Application Plugins</span>
 
 <table>
     <tr>
@@ -790,7 +802,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="office">Office Addin</span>
+### <span id="office">Office Addin</span>
 
 <table>
     <tr>
@@ -812,7 +824,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="browser">Browser Extensions</span>
+### <span id="browser">Browser Extensions</span>
 
 <table>
     <tr>
@@ -931,10 +943,9 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
 </table>
 
-
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="vscode">VS Code Extensions</span>
+### <span id="vscode">VS Code Extensions</span>
 
 <table>
     <tr>
@@ -986,7 +997,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="vs">Visual Studio Extensions</span>
+### <span id="vs">Visual Studio Extensions</span>
 
 <table>
     <tr>
@@ -1008,7 +1019,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="neovim">neovim Extensions</span>
+### <span id="neovim">neovim Extensions</span>
 
 <table>
     <tr>
@@ -1035,7 +1046,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="jetbrains">JetBrains Extensions</span>
+### <span id="jetbrains">JetBrains Extensions</span>
 
 <table>
     <tr>
@@ -1072,7 +1083,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="discord">Discord Bots</span>
+### <span id="discord">Discord Bots</span>
 
 <table>
     <tr>
@@ -1084,7 +1095,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="codeeditor">Native AI Code Editor</span>
+### <span id="codeeditor">Native AI Code Editor</span>
 
 <table>
     <tr>
@@ -1106,7 +1117,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="emacs">Emacs</span>
+### <span id="emacs">Emacs</span>
 
 <table>
     <tr>
@@ -1123,7 +1134,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="security">Security</span>
+### <span id="security">Security</span>
 
 <table>
     <tr>
@@ -1140,7 +1151,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="providers">Providers</span>
+### <span id="providers">Providers</span>
 
 <table>
     <tr>
@@ -1152,7 +1163,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="others">Others</span>
+### <span id="others">Others</span>
 
 <table>
     <tr>
