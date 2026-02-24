@@ -37,6 +37,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     - [Editor de Código Nativo con IA](#editor-de-código-nativo-con-ia)
     - [Emacs](#emacs)
     - [Seguridad](#seguridad)
+    - [Proveedores](#proveedores)
     - [Otros](#otros)
     - [Historial de Estrellas](#historial-de-estrellas)
 
@@ -914,6 +915,23 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <img src="./docs/tencent/hunyuan.png"  alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/tencent/AI-Infra-Guard"> AI-Infra-Guard </a> </td>
         <td> Herramienta para evaluar la seguridad de infraestructuras de IA y detectar riesgos potenciales.</td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
+
+###  <span id="providers">Proveedores</span>
+
+<table>
+    <tr>
+        <td> <img src="./docs/aimlapi/aimlapi_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
+        <td> AI/ML API ofrece a los usuarios acceso empresarial a más de 200 modelos con una sola API. Esto incluye DeepSeek R1 y V3, junto con modelos de código abierto y cerrado. Todo con un 99% de tiempo de actividad y soporte humano 24/7.</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/OfoxAI/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://ofox.ai"> OfoxAI </a> </td>
+        <td> OfoxAI es una puerta de enlace API unificada para LLM que proporciona acceso a DeepSeek R1, V3 y más de 50 modelos (GPT, Claude, Gemini, Qwen, etc.) a través de una única API compatible con OpenAI. Incluye conmutación automática por error, enrutamiento de proveedores, caché de prompts y conexión directa desde China. 99.9% SLA, pago por uso.</td>
     </tr>
 </table>
 

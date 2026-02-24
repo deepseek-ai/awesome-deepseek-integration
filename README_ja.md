@@ -33,6 +33,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     - [JetBrains 拡張機能](#jetbrains-拡張機能)
     - [AI コードエディタ](#ai-コードエディタ)
     - [Emacs](#emacs)
+    - [プロバイダー](#プロバイダー)
     - [その他](#その他)
 
 ## プロジェクト一覧
@@ -797,6 +798,23 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/milanglacier/minuet-ai.el"> Minuet AI </a> </td>
         <td>コードでインテリジェンスとダンス💃</td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
+###  <span id="providers">プロバイダー</span>
+
+<table>
+    <tr>
+        <td> <img src="./docs/aimlapi/aimlapi_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
+        <td> AI/ML API は、1 つの API で 200 以上のモデルにエンタープライズグレードでアクセスできます。DeepSeek R1 や V3 をはじめ、クローズドおよびオープンソースモデルを含みます。99% の稼働率と 24/7 の人的サポート付き。</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/OfoxAI/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://ofox.ai"> OfoxAI </a> </td>
+        <td> OfoxAI は統合 LLM API ゲートウェイです。1 つの OpenAI 互換 API で DeepSeek R1、V3 および 50 以上のモデル（GPT、Claude、Gemini、Qwen など）にアクセスできます。自動フェイルオーバー、プロバイダールーティング、プロンプトキャッシュ、中国ダイレクト接続に対応。99.9% SLA、従量課金制。</td>
     </tr>
 </table>
 

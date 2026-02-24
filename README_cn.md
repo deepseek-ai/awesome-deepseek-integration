@@ -34,6 +34,7 @@
     - [JetBrains 插件](#jetbrains-插件)
     - [AI Code编辑器](#ai-code编辑器)
     - [安全](#安全)
+    - [供应商](#供应商)
     - [其它](#其它)
 
 ## 项目列表
@@ -912,6 +913,23 @@
         <td> <img src="./docs/tencent/hunyuan.png"  alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/tencent/AI-Infra-Guard"> AI-Infra-Guard </a> </td>
         <td> 腾讯混元安全-AI基础设施安全评估工具，发现和检测AI系统中的潜在安全风险。</td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
+###  <span id="providers">供应商</span>
+
+<table>
+    <tr>
+        <td> <img src="./docs/aimlapi/aimlapi_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
+        <td> AI/ML API 让用户只需通过一个 API，就能以企业级的方式访问 200 种以上的模型。包括 DeepSeek R1 和 V3，以及闭源和开源模型。99% 正常运行时间，24/7 全天候人工支持。</td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/OfoxAI/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://ofox.ai"> OfoxAI </a> </td>
+        <td> OfoxAI 是统一的大模型 API 网关，通过一个 OpenAI 兼容的 API 即可接入 DeepSeek R1、V3 及 50+ 其他模型（GPT、Claude、Gemini、Qwen 等）。支持自动故障转移、供应商路由、提示缓存及国内直连。99.9% SLA，按量付费。</td>
     </tr>
 </table>
 

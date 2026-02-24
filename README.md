@@ -1148,6 +1148,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/OfoxAI/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://ofox.ai"> OfoxAI </a> </td>
+        <td> OfoxAI is a unified LLM API gateway providing access to DeepSeek R1, V3 and 50+ other models (GPT, Claude, Gemini, Qwen, etc.) through a single OpenAI-compatible API. Features include automatic failover, provider routing, prompt caching, and China direct connect. 99.9% SLA, pay-as-you-go.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
