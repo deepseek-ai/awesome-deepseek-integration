@@ -1,0 +1,6 @@
+pandas>=1.5.0
+openpyxl>=3.0.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+numpy>=1.23.0
+python-dateutil>=2.8.0
