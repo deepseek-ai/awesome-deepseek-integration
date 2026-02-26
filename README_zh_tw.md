@@ -8,7 +8,7 @@
 
 將 DeepSeek API 整合到流行的軟體中。前往 [DeepSeek 開放平台](https://platform.deepseek.com/) 獲取 API 金鑰。
 
-[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/[簡體中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)/繁體中文/[日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md)/[Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md)
+[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md) / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md) / 繁體中文 / [日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md) / [Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md)
 </div>
 
 </br>

@@ -491,7 +491,7 @@
     <tr>
         <td> <img src="https://yomo.run/yomo-logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/yomo/README.md">YoMo</a> </td>
-        <td> Stateful Serverless LLM Function Calling Framework with Strongly-typed Language Support </td>
+        <td> 一个有状态的无服务器大语言模型（LLM）函數调用框架，支持强类型语言。 </td>
     </tr>
     <tr>
         <td> <img src="https://alice.fun/alice-logo.png" alt="图标" width="64" height="auto" /> </td>
