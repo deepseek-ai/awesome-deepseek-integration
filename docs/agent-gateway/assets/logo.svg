@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="12" fill="#8b5cf6"/>
+  <text x="32" y="26" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-size="10" font-weight="700">AGENT</text>
+  <text x="32" y="44" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-size="10" font-weight="700">GATEWAY</text>
+</svg>
