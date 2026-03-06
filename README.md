@@ -563,7 +563,12 @@ With these functionalities, the AI assistant can summarize key points within an 
 
 ###  <span id="agent">AI Agent frameworks</span>
 
-<table>
+<table> 
+  <tr>
+        <td> <img src="https://raw.githubusercontent.com/frankie336/entities_api/master/assets/projectdavid_logo.png" alt="Icon" width="64" height="auto" style="border-radius: 10px" /> </td>
+        <td> <a href="https://github.com/project-david-ai/platform">Project David</a> </td>
+        <td>An open-source LLM orchestration platform offering a self-hosted alternative to the OpenAI Assistants API. It features built-in tools, memory, and Level 4 multi-step agentic workflows, allowing developers to seamlessly integrate DeepSeek models for advanced state orchestration and scalable function call management.</td>
+    </tr>
     <tr>
         <td width=80> <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/mascot_smol.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/huggingface/smolagents/tree/main"> smolagents </a> </td>
