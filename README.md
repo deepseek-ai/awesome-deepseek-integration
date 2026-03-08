@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+  <tr>
+        <td width=80> <img src="https://bytecalculators.com/wp-content/uploads/2026/02/favicon.png" alt="Icon" width="64" height="64" /> </td>
+        <td> <a href="https://bytecalculators.com/deepseek-ai-token-cost-calculator"> DeepSeek Cost Simulator </a> </td>
+        <td> <a href="https://bytecalculators.com/deepseek-ai-token-cost-calculator"> DeepSeek vs GPT-5.2 Cost Simulator </a>: A high-precision 2026 AI economics tool. It calculates real-world API costs by factoring in the "Retry Tax" (reasoning failure rates), context caching, and batch processing. Built for developers and startups to optimize their AI margins. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
