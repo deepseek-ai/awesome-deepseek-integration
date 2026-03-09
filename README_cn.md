@@ -478,6 +478,11 @@
 ###  <span id="agent">AI Agent 框架</span>
 
 <table>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/arikusi/deepseek-mcp-server/main/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/arikusi/deepseek-mcp-server">DeepSeek MCP Server</a> </td>
+        <td> DeepSeek AI 的 MCP 服务器，支持聊天、推理、多轮会话、函数调用和成本追踪。提供远程托管和本地 stdio 两种方式。</td>
+    </tr>
         <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/DMontgomery40/deepseek-mcp-server/blob/main/README.md">DeepSeek MCP Server</a> </td>
