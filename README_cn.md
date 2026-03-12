@@ -830,6 +830,11 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README_cn.md"> OAI Compatible Provider for Copilot </a> </td>
         <td> 开源的 VS Code 扩展，可在 GitHub Copilot 中使用 OpenAI 兼容的推理提供商。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/lessweb/deepcode/main/resources/deepcoding_icon.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/lessweb/deepcode/blob/main/README_cn.md"> Deep Code </a> </td>
+        <td> 开源扩展，是基于DeepSeek Agent能力、专为DeepSeek模型优化的编码助手，支持Skills。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
