@@ -72,6 +72,11 @@
         <td> 一鍵將AI模型部署在你的電腦上，操作可視化，內建精美聊天界面，可線上分享供他人共用，支援 DeepSeek 等其他模型，並提供聯網搜索及第三方API支持。</td>
     </tr>
     <tr>
+        <td><img src="docs/AhaKnowChat/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/AhaKnowChat/README_zh_tw.md">AhaKnow Chat</a></td>
+        <td>一個本地優先的 AI 對話工作台，可透過 OpenAI-compatible API 直接接入 DeepSeek，支援話題/執行緒組織、角色重用、多角色同時對話，以及瀏覽器本地儲存。Web 版可作為靜態 Vite 應用部署到 Vercel。</td>
+    </tr>
+    <tr>
         <td> <img src="docs/dingtalk/assets/dingtalk_icon.png" alt="Icon" width="64" height="auto" /></td>
         <td> <a href="https://www.dingtalk.com/">釘釘</a></td>
         <td> 釘釘 AI 助理融合了釘釘平台的多項 AI 產品功能，以智能化的方式輔助企業日常工作流程。釘釘 AI 助理具備多種智能能力，包括但不限於智能溝通、智能協同、智能管理等。通過這些功能，AI 助理能夠在企業內部歸納要點、生成會議紀要，並且能夠為用戶推送相關工作任務和日程提醒。此外，釘釘 AI 助理還能夠通過知識庫的能力，智能地回答員工關於企業行政流程、人力資源政策等多個方面的常見問題。</td>

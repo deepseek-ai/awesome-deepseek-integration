@@ -77,6 +77,11 @@
         <td>一键把AI模型部署在你电脑，操作可视化，内置精美聊天界面，可在线分享他人共用，支持 DeepSeek 等其他模型，支持联网搜索和第三方API</td>
     </tr>
     <tr>
+        <td><img src="docs/AhaKnowChat/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/AhaKnowChat/README_cn.md">AhaKnow Chat</a></td>
+        <td>一个本地优先的 AI 对话工作台，可通过 OpenAI-compatible API 直接接入 DeepSeek，支持话题/线程组织、角色复用、多角色同时对话，以及浏览器本地存储。Web 版可直接作为静态 Vite 应用部署到 Vercel。</td>
+    </tr>
+    <tr>
         <td><img src="docs/dingtalk/assets/dingtalk_icon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.dingtalk.com/">钉钉</a></td>
         <td>钉钉 AI 助理，它融合了钉钉平台的多项 AI 产品功能，以智能化的方式辅助企业日常的工作流程。钉钉 AI 助理具备多种智能能力，包括但不限于智能沟通、智能协同、智能管理等。通过这些功能，AI 助理能够在企业内部中归纳要点、生成会议纪要，并且能够为用户推送相关工作任务和日程提醒。此外，钉钉 AI 助理还能够通过知识库的能力智能地回答员工企业的行政流程、人力资源政策等多个方面的常见问题。</td>
