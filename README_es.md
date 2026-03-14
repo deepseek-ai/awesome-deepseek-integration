@@ -61,6 +61,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td>Implementa modelos de IA en tu computadora con un solo clic, operación visualizada, interfaz de chat incorporada y elegante, se puede compartir en línea para uso compartido con otros, compatible con modelos como DeepSeek, búsqueda en la web y API de terceros.</td>
     </tr>
     <tr>
+        <td><img src="docs/AhaKnowChat/assets/logo.png" alt="Icono" width="64" height="auto" /></td>
+        <td><a href="docs/AhaKnowChat/README_es.md">AhaKnow Chat</a></td>
+        <td>Un espacio de trabajo de chat con IA local-first para APIs compatibles con OpenAI como DeepSeek, con hilos por tema, roles reutilizables, lluvia de ideas con múltiples roles y almacenamiento local en el navegador. El cliente web puede desplegarse como una app Vite estática en Vercel.</td>
+    </tr>
+    <tr>
         <td><img src="docs/dingtalk/assets/dingtalk_icon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.dingtalk.com/">DingTalk</a></td>
         <td>El Asistente de IA de DingTalk integra múltiples funciones de productos de IA de la plataforma DingTalk para asistir de manera inteligente en los flujos de trabajo diarios de las empresas. El Asistente de IA de DingTalk cuenta con diversas capacidades inteligentes, incluyendo, entre otras, comunicación inteligente, colaboración inteligente y gestión inteligente. A través de estas funciones, el asistente de IA puede resumir puntos clave dentro de la empresa, generar actas de reuniones y enviar a los usuarios recordatorios de tareas laborales y horarios relevantes. Además, el Asistente de IA de DingTalk puede utilizar su base de conocimientos para responder de manera inteligente a preguntas frecuentes de los empleados sobre los procesos administrativos de la empresa, las políticas de recursos humanos y otros temas relacionados.</td>
