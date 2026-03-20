@@ -480,7 +480,7 @@
 <table>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/arikusi/deepseek-mcp-server/main/icon.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/arikusi/deepseek-mcp-server">DeepSeek MCP Server</a> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/MCP/README_cn.md">DeepSeek MCP Server (Remote)</a> </td>
         <td> DeepSeek AI 的 MCP 服务器，支持聊天、推理、多轮会话、函数调用和成本追踪。提供远程托管和本地 stdio 两种方式。</td>
     </tr>
         <tr>

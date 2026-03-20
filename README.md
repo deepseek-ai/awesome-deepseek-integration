@@ -576,7 +576,7 @@ With these functionalities, the AI assistant can summarize key points within an 
      </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/arikusi/deepseek-mcp-server/main/icon.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/arikusi/deepseek-mcp-server">DeepSeek MCP Server</a> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/MCP/README.md">DeepSeek MCP Server (Remote)</a> </td>
         <td> MCP server for DeepSeek AI with chat, reasoning, multi-turn sessions, function calling, and cost tracking. Hosted remote and local stdio.</td>
     </tr>
     <tr>
