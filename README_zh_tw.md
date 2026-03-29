@@ -466,11 +466,11 @@
         <td>支援 SRT/ASS/VTT/LRC 格式的批量字幕翻譯工具，兼容 DeepSeek 等多種大模型接口和機器翻譯接口。</td>
     </tr>
     <tr>
-    <tr>
-<td><img src="docs/WenYanTrans/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
-<td><a href="docs/WenYanTrans/README_zh_tw.md">WenYanTrans</a></td>
-<td>文言文分析工具，使用DeepSeek模型幫助學習者理解古典中文文本。採用結構化五步分析法，提供即時進度追蹤，專注於讓文言文學習變得輕鬆無痛。</td>
-</tr>
+        <tr>
+            <td> <img src="docs/WenYanTrans/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+            <td> <a href="docs/WenYanTrans/README_zh_tw.md">WenYanTrans</a> </td>
+            <td>文言文分析工具，使用DeepSeek模型幫助學習者理解古典中文文本。採用結構化五步分析法，提供即時進度追蹤，專注於讓文言文學習變得輕鬆無痛。</td>
+        </tr>
         <td width=80> <img src="docs/turtlenoir/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> 基於 DeepSeek 的 AI 主持人海龜湯 / 側向思維解謎產品，可單人或者多人遊玩。AI 進行控場與吐槽，圍繞「是 / 否 / 無關」的問答推進推理；提供沉浸式玩法（更強劇情氛圍與節奏引導）、引導提示與防卡關機制，同時結合向量檢索 + DeepSeek 進行題目去重，並提供內容審核能力。適合輕量腦洞訓練與在線陪玩。 </td>
