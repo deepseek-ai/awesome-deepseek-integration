@@ -431,6 +431,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td width=80> <img src="docs/turtlenoir/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> Un juego de enigmas de pensamiento lateral tipo "Sopa de Tortuga" con un anfitrión de IA basado en DeepSeek, disponible para uno o varios jugadores. La IA modera la partida e interactúa con humor, guiando la deducción mediante respuestas de "Sí / No / Irrelevante". Ofrece una experiencia inmersiva con una fuerte atmósfera narrativa, gestión del ritmo y un sistema de pistas para evitar bloqueos. Integra búsqueda vectorial y DeepSeek para evitar la repetición de acertijos e incluye moderación de contenido. Ideal para entrenar la creatividad y como entretenimiento social en línea. </td>
+    <tr>
+<td><img src="docs/WenYanTrans/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+<td><a href="docs/WenYanTrans/README_es.md">WenYanTrans</a></td>
+<td>Una aplicación web con IA para analizar y comprender textos en chino clásico usando modelos DeepSeek. Ofrece un método estructurado de análisis en cinco pasos, seguimiento en tiempo real del progreso y un enfoque educativo para hacer accesible el chino clásico sin dificultad.</td>
+</tr>
     </tr>
 </table>
 

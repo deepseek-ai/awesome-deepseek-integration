@@ -398,6 +398,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://raw.githubusercontent.com/songquanpeng/one-api/main/web/default/public/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API は LLM API 管理＆キー再配布システムで、OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek など複数のプロバイダーを統一 API で管理できます。シングルバイナリ、Docker 対応、すぐに使えます。</td>
+    <tr>
+<td><img src="docs/WenYanTrans/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+<td><a href="docs/WenYanTrans/README_ja.md">WenYanTrans</a></td>
+<td>DeepSeekモデルを使用して古典中国語のテキストを分析・理解するAIパワードのWebアプリケーション。構造化された五段階分析法、リアルタイム進捗追跡、古典中国語を苦痛なくアクセス可能にする教育フォーカスを特徴とします。</td>
+</tr>
     </tr>
     <tr>
         <td> <img src="https://github.com/guyoung/AIMatrices/raw/main/docs/assets/logo/ai-matrices1.png" alt="AIMatrices 图标" width="64" height="auto" /> </td>
