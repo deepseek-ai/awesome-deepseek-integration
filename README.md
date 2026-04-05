@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/Peakstone-Labs/hormuz-agent-sandbox/main/frontend/public/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/hormuz-simulator/README.md">Strait of Hormuz Simulator</a></td>
+        <td>A multi-agent geopolitical sandbox where 4 nations are each controlled by an independent LLM agent. The free trial pool is powered by DeepSeek V3, providing 20 free simulation rounds. Features real-time SSE streaming, 11 scenario modifiers, oil market agent, and bilingual support.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
