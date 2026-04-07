@@ -19,6 +19,7 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
   - [Table of Contents](#table-of-contents)
   - [Project List](#project-list)
     - [Applications](#applications)
+- [Home Assistant](#home-assistant)
     - [AI Agent frameworks](#ai-agent-frameworks)
     - [Data AI Applications frameworks](#data-ai-applications-frameworks)
     - [RAG frameworks](#rag-frameworks)
@@ -43,6 +44,11 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
 ## Project List
 
 ###  <span id="applications">Applications</span>
+
+### <span id="home-assistant">Home Assistant</span>
+
+- [DeepSeek Home Assistant Integration](https://github.com/iret33/deepseek-ha-integration) - Official DeepSeek AI integration for Home Assistant, bringing advanced language model capabilities to smart homes with full conversation agent support, UI-based configuration, and multiple model options.
+
 
 <table>
     <tr>
