@@ -362,9 +362,15 @@
         <td>LawAgent是tensorbounce团队出品的知识库结合AI Agent的法律AI产品,拥有上千万官方法律相关知识库数据，用户可自定义知识库，专业模式结合DeepSeek-R1的推理能力应用在用户的法律分析、合同审查、文书生成、文件翻译等法律场景。</td>
     </tr>
     <tr>
-        <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://github.com/jiqi136/DS-AI">实时联网AI助手</a></td>
-        <td>AI助手支持DeepSeek-V3.1接口直连最强Claude Code代码模型，无需网络中转即可使用（成本直降90%）。 支持图片、PDF文件读取及免费生成图片；可自定义接入其他AI模型；支持调用本地浏览器实时联网检索海量网页内容。另提供R1等免费模型选择。</td>
+        <td><img src="https://h1.appinn.me/file/1775785742057_20.ico" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/jiqi136/Ai-Assistant">小说写作&Ai编程助手</a></td>
+        <td>【公开源码】小说写作&Ai编程助手，具备以下核心优势：
+            模型聚合：原生支持最新的 DeepSeek，并可无缝接入 Gemini、Claude、GPT 及通义千问、Kimi 等国内外顶尖模型，实现一站式智能体验。
+            多模态能力：精准识别图片与 PDF 内容，并支持调用先进模型进行高质量的文生图。
+            安全与管理：对话记录在本地加密存储（SQLite），提供便捷的历史搜索、收藏与分类。
+            精准上下文控制：可任意编辑或删除单条对话，精确掌控上下文，激发 AI 最佳表现。
+            原生流畅体验：基于自研的轻量级 GUI 框架，专为 AI 交互设计，提供如打字机般流畅的流式输出。
+        </td>
     </tr>
     <tr>
         <td width=80> <img src="docs/AlphaBot/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
