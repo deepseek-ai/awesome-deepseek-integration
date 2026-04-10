@@ -421,7 +421,7 @@
     </tr>
     <tr>
         <td> <img src="https://www.tensorbounce.com/logo.png" alt="Icon" width="64" height="auto" /></td>
-        <td> <a href="https://github.com/jiqi136/DS-AI">LawAgent</a></td>
+        <td> <a href="https://www.tensorbounce.com/">LawAgent</a></td>
         <td> LawAgent 是 Tensorbounce 團隊出品的知識庫結合 AI Agent 的法律 AI 產品，擁有上千萬官方法律相關知識庫數據，也允許客製化的知識庫配置。專業模式利用 DeepSeek-R1 的推理能力，協助使用者進行法律分析、合約審查、文件產生、檔案翻譯及其他法律情境。</td>
     </tr>
     <tr>
@@ -430,10 +430,15 @@
         <td> AlphaBot 是一款智慧型股票分析助手，結合多源資料與 AI 分析技術，提供技術分析、預測、風險評估等功能，協助投資人做出以資料為導向的交易決策。 支援一鍵部署，操作簡單，支援Windows/Linux/MacOS等平台。</td>
     </tr>
     <tr>
-        <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://github.com/jiqi136/DS-AI">即時連網AI助手</a></td>
-        <td> AI助手支援DeepSeek-V3.1介面直連最強Claude Code代碼模型，無需網路中轉即可使用（成本直降90%）。 支援圖片、PDF檔案讀取及免費生成圖片；可自訂接入其他AI模型；支援呼叫本地瀏覽器即時聯網檢索海量網頁內容。另提供R1等免費模型選擇。
-</td>
+        <td><img src="https://h1.appinn.me/file/1775785742057_20.ico" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/jiqi136/Ai-Assistant">小說寫作& AI程式助理</a></td>
+        <td>  【公開原始碼】小說寫作 & AI 程式助理，具備以下核心優勢：
+            模型聚合：原生支援最新的 DeepSeek，並可無縫接入 Gemini、Claude、GPT 及通義千問、Kimi 等國內外頂尖模型，實現一站式智慧體驗。
+            多模態能力：精準辨識圖片與 PDF 內容，並支援調用先進模型進行高品質的文生圖。
+            安全與管理：對話記錄於本機端加密儲存（SQLite），提供便捷的歷史搜尋、收藏與分類。
+            精準上下文控制：可任意編輯或刪除單條對話，精確掌控上下文，激發 AI 最佳表現。
+            原生流暢體驗：基於自主研發的輕量級 GUI 框架，專為 AI 互動設計，提供如打字機般流暢的串流輸出。
+        </td>
 	</tr>
     <tr>
         <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>

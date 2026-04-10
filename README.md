@@ -452,15 +452,21 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> AlphaBot is an intelligent stock analysis assistant that integrates multi-source data with AI analysis technology to provide technical analysis, predictions, and risk assessment, helping investors make data-driven trading decisions. It supports one-click deployment, easy operation，Support Windows/Linux/MacOS and other platforms</td>
     </tr>
     <tr>
-        <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://github.com/jiqi136/DS-AI">Real-time Web-Access AI Assistant</a></td>
-        <td>The AI assistant supports direct API access to the strongest Claude Code model via the DeepSeek-V3.1 interface, enabling usage without network relay (costs slashed by 90%). It supports image and PDF file parsing with free image generation capabilities, allows custom integration of other AI models, and enables real-time web searches by connecting to local browsers for vast online content retrieval. Alternatively, free models online content retrieval. Alternatively, free models like R1 are also available.
-</td>
+        <td><img src="https://h1.appinn.me/file/1775785742057_20.ico" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/jiqi136/Ai-Assistant">Fiction Writing & AI Coding Assistant</a></td>
+        <td>   [Open Source] Fiction Writing & AI Coding Assistant, featuring the following core advantages:
+            Model Aggregation: Natively supports the latest DeepSeek, and seamlessly integrates with top-tier models worldwide including Gemini, Claude, GPT, Qwen, and Kimi, delivering a one-stop intelligent experience.
+            Multimodal Capabilities: Accurately recognizes content from images and PDFs, and supports high-quality text-to-image generation via advanced models.
+            Security & Management: Conversation history is encrypted and stored locally (SQLite), with convenient history search, favorites, and categorization.
+            Precise Context Control: Edit or delete individual dialogue entries at will, allowing precise context management to elicit peak AI performance.
+            Native Fluid Experience: Built on a proprietary lightweight GUI framework tailored for AI interaction, offering a typewriter-smooth streaming output.
+        </td>
     </tr>
     <tr>
-    <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
-    <td><a href="https://www.remio.ai/">remio</a></td>
-    <td>remio is an AI-powered personal knowledge hub that builds personalized knowledge bases by automatically capturing browsed web content, parsing local files, and integrating personal notes. It enables search and natural language Q&A within your personal knowledge base for instant insights while offering smart writing assistance—adapting to your style to streamline drafting, refining, and completing content with ease. Designed with local-first storage, remio prioritizes data privacy while centralizing fragmented information for maximum productivity.</td>
+        <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.remio.ai/">remio</a></td>
+        <td>remio is an AI-powered personal knowledge hub that builds personalized knowledge bases by automatically capturing browsed web content, parsing local files, and integrating personal notes. It enables search and natural language Q&A within your personal knowledge base for instant insights while offering smart writing assistance—adapting to your style to streamline drafting, refining, and completing content with ease. Designed with local-first storage, remio prioritizes data privacy while centralizing fragmented information for maximum productivity.
+        </td>
     </tr> 
     <tr>
     <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>

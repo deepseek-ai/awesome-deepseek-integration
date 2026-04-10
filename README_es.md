@@ -396,10 +396,15 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td>LawAgent es un producto de IA legal desarrollado por el equipo de Tensorbounce, que integra una base de conocimientos con capacidades de Agente IA. Cuenta con un vasto repositorio de decenas de millones de datos oficiales relacionados con el ámbito legal y también permite configuraciones personalizadas de la base de conocimientos. El modo profesional aprovecha las capacidades de razonamiento de DeepSeek-R1 para asistir a los usuarios en análisis legales, revisión de contratos, generación de documentos, traducción de archivos y otros escenarios legales.</td>
     </tr>
     <tr>
-        <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-<td><a href="https://github.com/jiqi136/DS-AI">Asistente de IA con conexión en tiempo real</a></td>
-<td> BEl asistente de IA admite conexión directa a la interfaz DeepSeek-V3.1 con el potente modelo de código Claude Code, permitiendo su uso sin intermediarios de red (reducción de costes del 90%). Soporta lectura de imágenes y archivos PDF con generación gratuita de imágenes; permite integración personalizada con otros modelos de IA; habilita búsqueda en tiempo real en la web mediante navegador local. Además, ofrece opciones gratuitas como el modelo R1.
-</td>
+        <td><img src="https://h1.appinn.me/file/1775785742057_20.ico" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/jiqi136/Ai-Assistant">Escritura de novelas y asistente de programación con IA</a></td>
+        <td> [Código abierto] Escritura de novelas y asistente de programación con IA, con las siguientes ventajas principales:
+            Agregación de modelos: Compatibilidad nativa con el último DeepSeek e integración perfecta con Gemini, Claude, GPT, Tongyi Qianwen, Kimi y otros modelos líderes nacionales e internacionales, ofreciendo una experiencia inteligente todo en uno.
+            Capacidad multimodal: Reconocimiento preciso de contenido en imágenes y PDF, con soporte para generación de imágenes de alta calidad mediante modelos avanzados.
+            Seguridad y gestión: Historial de conversaciones almacenado localmente con cifrado (SQLite), con búsqueda ágil, favoritos y clasificación.
+            Control preciso del contexto: Posibilidad de editar o eliminar cualquier mensaje individual, dominando con exactitud el contexto para obtener el máximo rendimiento de la IA.
+            Experiencia fluida nativa: Basada en un framework GUI ligero de desarrollo propio, diseñado específicamente para la interacción con IA, con salida en flujo continua tan fluida como una máquina de escribir.
+        </td>
 	</tr>
     <tr>
     <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
