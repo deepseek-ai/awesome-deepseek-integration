@@ -404,6 +404,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
     </tr>
+    <tr>
+        <td> <img src="docs/shunshi-ai/assets/logo.png" alt="アイコン" width="64" height="auto" style="border-radius: 15px" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/shunshi-ai/README.md">Shunshi.AI (順時 AI)</a> </td>
+        <td> DeepSeek API を活用した対話型四柱推命アシスタント。生年月日時から真太陽時補正された命式を算出し、その命式に基づいて人生設計・仕事・恋愛などの相談に答えます。中文 / English / 日本語 / 한국어 の多言語対応。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

@@ -432,6 +432,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> Un juego de enigmas de pensamiento lateral tipo "Sopa de Tortuga" con un anfitrión de IA basado en DeepSeek, disponible para uno o varios jugadores. La IA modera la partida e interactúa con humor, guiando la deducción mediante respuestas de "Sí / No / Irrelevante". Ofrece una experiencia inmersiva con una fuerte atmósfera narrativa, gestión del ritmo y un sistema de pistas para evitar bloqueos. Integra búsqueda vectorial y DeepSeek para evitar la repetición de acertijos e incluye moderación de contenido. Ideal para entrenar la creatividad y como entretenimiento social en línea. </td>
     </tr>
+    <tr>
+        <td> <img src="docs/shunshi-ai/assets/logo.png" alt="Icono" width="64" height="auto" style="border-radius: 15px" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/shunshi-ai/README.md">Shunshi.AI</a> </td>
+        <td> Asistente conversacional de metafísica china (Bazi / 四柱推命 / 사주팔자) impulsado por la API de DeepSeek. Calcula una carta natal corregida al tiempo solar verdadero y responde preguntas sobre trayectoria de vida, carrera y relaciones a partir de esa carta. Multilingüe (中文 / English / 日本語 / 한국어). </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
