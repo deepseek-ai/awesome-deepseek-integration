@@ -470,6 +470,11 @@
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> 基於 DeepSeek 的 AI 主持人海龜湯 / 側向思維解謎產品，可單人或者多人遊玩。AI 進行控場與吐槽，圍繞「是 / 否 / 無關」的問答推進推理；提供沉浸式玩法（更強劇情氛圍與節奏引導）、引導提示與防卡關機制，同時結合向量檢索 + DeepSeek 進行題目去重，並提供內容審核能力。適合輕量腦洞訓練與在線陪玩。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/shunshi-ai/assets/logo.png" alt="圖示" width="64" height="auto" style="border-radius: 15px" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/shunshi-ai/README.md">順時 AI (Shunshi.AI)</a> </td>
+        <td> 基於 DeepSeek API 的對話式命理助手：以八字排盤（四柱 / 四柱推命 / 사주팔자）為根基，結合真太陽時修正得到準確命盤後，再由大模型圍繞這張盤回答人生規劃、事業、感情等問題。支援中文 / English / 日本語 / 한국어 多語言。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>

@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td> <img src="docs/shunshi-ai/assets/logo.png" alt="Icon" width="64" height="auto" style="border-radius: 15px" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/shunshi-ai/README.md">Shunshi.AI</a> </td>
+        <td> Conversational Chinese-metaphysics assistant (Bazi / 四柱推命 / 사주팔자) powered by the DeepSeek API. Computes a true-solar-time corrected birth chart and then answers life-path, career, and relationship questions grounded in that chart. Multilingual (中文 / English / 日本語 / 한국어). </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
