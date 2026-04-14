@@ -1153,6 +1153,7 @@ The purpose is to build infrastructure in the field of large models, through the
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 ###  <span id="others">Others</span>
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 <table>
     <tr>
