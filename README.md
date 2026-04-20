@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/172139148?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Aider-AI/aider">Aider</a> </td>
+        <td> AI pair programming in your terminal. Aider lets you edit code in your local git repository through chat, with first-class support for DeepSeek Chat and DeepSeek Reasoner (see <a href="https://aider.chat/docs/llms/deepseek.html">setup docs</a>).</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
