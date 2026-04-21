@@ -1310,6 +1310,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/informatico-madrid/blackwell-linux-infra-optimizer"> Blackwell Linux Infra Optimizer </a> </td>
         <td> Optimized vLLM stack for NVIDIA Blackwell (SM_120) and Linux Kernel 6.14. Achieving 59.0 t/s on DeepSeek-R1-32B using native FlashInfer backend. </td>
     </tr>
+    <tr>
+        <td style="font-size: 64px">&#128176;</td>
+        <td> <a href="https://github.com/cahthuranag/allratestoday-deepseek"> AllRatesToday &times; DeepSeek </a> </td>
+        <td> Plug real-time currency exchange rates into DeepSeek via function calling. Python package with agent wrapper and CLI; 5 tools for current rate, conversion, historical data (1d/7d/30d/1y), currency list, and FX news across 160+ currencies. Works with <code>deepseek-chat</code> and <code>deepseek-reasoner</code>. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
