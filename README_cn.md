@@ -489,6 +489,11 @@
         <td> 一个专为 AI 智能体开发设计的 Rust 语言框架，致力于构建高度可组合、自主运行且具备永久记忆能力的 AI 智能体网络。 </td>
     </tr>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/esengine" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/reasonix/README.md">Reasonix</a> </td>
+        <td> 专为 DeepSeek 深度优化的 TypeScript Agent 框架。通过不可变前缀的 Cache-First Loop 实现 85-95% 的 prefix 缓存命中率、R1 思考链结构化提取、自洽分支采样、以及完整的工具调用修复层（Schema 自动扁平化、tool call 捞取、JSON 截断修复、调用风暴熔断）。基于 Ink 的 TUI 实时显示缓存/成本面板。实测相比 Claude Sonnet 4.6 节省 93.9%。</td>
+    </tr>
+    <tr>
         <td> <img src="https://yomo.run/yomo-logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/yomo/README.md">YoMo</a> </td>
         <td> Stateful Serverless LLM Function Calling Framework with Strongly-typed Language Support </td>
