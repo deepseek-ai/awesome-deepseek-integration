@@ -590,6 +590,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td>A Rust framework for AI agent development, designed to build a highly composable, autonomous, and perpetually memorizing network of AI agents.</td>
     </tr>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/esengine" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/reasonix/README.md">Reasonix</a> </td>
+        <td>A DeepSeek-native agent framework for TypeScript. Immutable-prefix Cache-First Loop (85–95% prefix cache hit), R1 Thought Harvesting into typed plan state, self-consistency branching, and a Tool-Call Repair layer (schema flatten, scavenge, truncation recovery, storm breaker). Ink-based TUI with live cache/cost panel. Measured 93.9% cost savings vs Claude Sonnet 4.6 on real multi-turn chat.</td>
+    </tr>
+    <tr>
         <td> <img src="https://www.dreams.fun/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/daydreamsai/daydreams">Daydreams</a> </td>
         <td>Daydreams is a generative crosschain agent framework for executing anything onchain. Autonomous and easy to build on enabling the next generation of agents.</td>
