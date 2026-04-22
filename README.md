@@ -948,6 +948,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Meet Cline, an AI assistant that can use your CLI aNd Editor. </td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/RooCodeInc/Roo-Code/main/apps/web-roo-code/public/apple-touch-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/RooCodeInc/Roo-Code"> Roo Code </a> </td>
+        <td> Roo Code gives you a whole dev team of AI agents in your code editor, with a dedicated DeepSeek provider including reasoning-mode support. </td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/Sitoi/ai-commit/refs/heads/main/images/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Sitoi/ai-commit/blob/main/README.md"> AI Commit </a> </td>
         <td> Use AI to generate git commit messages in VS Code. </td>
