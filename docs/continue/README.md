@@ -20,22 +20,40 @@ Modify the `config.yaml` file to add the `DeepSeek` model configuration, replaci
 name: Local Assistant
 version: 1.0.0
 schema: v1
+
 models:
-  - name: DeepSeek
+  # Chat
+  - name: DeepSeek Chat
     provider: deepseek
-    model: deepseek-chat
+    model: deepseek-v4-flash # or deepseek-v4-pro
     apiKey: YOUR_DEEPSEEK_API_KEY
-    apiBase: https://api.deepseek.com/beta
+    apiBase: https://api.deepseek.com
     roles:
       - chat
       - edit
       - apply
       - summarize
-      - autocomplete
     contextLength: 128000
     defaultCompletionOptions:
       temperature: 0.0
+      maxTokens: 4096
+
+  # Autocomplete
+  - name: DeepSeek Autocomplete
+    provider: openai
+    model: deepseek-v4-flash # or deepseek-v4-pro
+    apiKey: YOUR_DEEPSEEK_API_KEY
+    apiBase: https://api.deepseek.com/beta
+    useLegacyCompletionsEndpoint: true
+    roles:
+      - autocomplete
+    defaultCompletionOptions:
+      temperature: 0.0
       maxTokens: 256
+    autocompleteOptions:
+      debounceDelay: 300
+      maxPromptTokens: 2048
+
 context:
   - provider: code
   - provider: docs
