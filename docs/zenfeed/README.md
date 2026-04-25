@@ -8,8 +8,8 @@ To use DeepSeek, add an entry to the `llms` list in your configuration file. Her
 
 ```yaml
 llms:
-  - name: my-deepseek-chat  # A unique name for this configuration
+  - name: my-deepseek-v4-flash  # A unique name for this configuration
     provider: deepseek        # Specify the provider as deepseek
     api_key: sk-xxxxxxxxxxx # Replace with your actual DeepSeek API key
-    model: deepseek-chat      # Specify the desired DeepSeek model (e.g., deepseek-chat, deepseek-coder)
+    model: deepseek-v4-flash      # Specify the desired DeepSeek model
 ```

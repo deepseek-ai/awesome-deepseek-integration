@@ -61,15 +61,15 @@ Add this to your `claude_desktop_config.json`:
   - Response: Lists all available configuration options via the model-config resource.
 - User: "What is the current temperature setting?"
   - Response: Displays the current temperature setting.
-- User: "Start a multi-turn conversation. With the following settings: model: 'deepseek-chat', make it not too creative, and 
+- User: "Start a multi-turn conversation. With the following settings: model: 'deepseek-v4-flash', make it not too creative, and 
    allow 8000 tokens."
   - Response: *Starts a multi-turn conversation with the specified settings.*
 
-### Automatic Model Fallback if R1 is down
+### Automatic Model Fallback
 
-- If the primary model (R1) is down (called `deepseek-reasoner` in the server), the server will automatically attempt to try with v3 (called `deepseek-chat` in the server) 
-> Note: You can switch back and forth anytime as well, by just giving your prompt and saying "use `deepseek-reasoner`" or "use `deepseek-chat`"
-- V3 is recommended for general purpose use, while R1 is recommended for more technical and complex queries, primarily due to speed and token useage
+- If the primary model is unavailable, the server will automatically attempt to use another configured DeepSeek model.
+> Note: You can switch back and forth anytime as well, by just giving your prompt and saying "use `deepseek-v4-pro`" or "use `deepseek-v4-flash`"
+- `deepseek-v4-flash` is recommended for general purpose use, while `deepseek-v4-pro` is recommended for more technical and complex queries.
 
 ###  Resource discovery for available models and configurations:
    * Custom model selection
@@ -124,7 +124,7 @@ The inspector will open in your browser and connect to the server via stdio tran
 - Debug server responses
 - Monitor server performance
 
-Note: The server uses DeepSeek's R1 model (deepseek-reasoner) by default, which provides state-of-the-art performance for reasoning and general tasks.
+Note: The server uses `deepseek-v4-pro` by default.
 
 ## License
 
