@@ -23,7 +23,7 @@ schema: v1
 models:
   - name: DeepSeek
     provider: deepseek
-    model: deepseek-chat
+    model: deepseek-flash
     apiKey: YOUR_DEEPSEEK_API_KEY
     apiBase: https://api.deepseek.com/beta
     roles:

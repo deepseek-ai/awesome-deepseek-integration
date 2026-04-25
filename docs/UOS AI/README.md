@@ -34,8 +34,8 @@ It offers unique cross-application capabilities, enabling deep integration with 
 2. Enter any name you like in the "Account".
 3. Enter your API key in the "APIKey".
 4. Add the name of the model you want to use in the "Model Name".
-   -  For DeepSeek-V3, enter: deepseek-chat
-   - For DeepSeek-R1, enter: deepseek-reasoner
+   -  For DeepSeek-V3, enter: deepseek-flash
+   - For DeepSeek-R1, enter: deepseek-pro
 5. Enter the following request address to "Domain": https://api.deepseek.com/chat/completions
 
 ![image](assets/custom-v3-en.png)

@@ -61,14 +61,14 @@ Add this to your `claude_desktop_config.json`:
   - Response: Lists all available configuration options via the model-config resource.
 - User: "What is the current temperature setting?"
   - Response: Displays the current temperature setting.
-- User: "Start a multi-turn conversation. With the following settings: model: 'deepseek-chat', make it not too creative, and 
+- User: "Start a multi-turn conversation. With the following settings: model: 'deepseek-flash', make it not too creative, and 
    allow 8000 tokens."
   - Response: *Starts a multi-turn conversation with the specified settings.*
 
 ### Automatic Model Fallback if R1 is down
 
-- If the primary model (R1) is down (called `deepseek-reasoner` in the server), the server will automatically attempt to try with v3 (called `deepseek-chat` in the server) 
-> Note: You can switch back and forth anytime as well, by just giving your prompt and saying "use `deepseek-reasoner`" or "use `deepseek-chat`"
+- If the primary model (R1) is down (called `deepseek-pro` in the server), the server will automatically attempt to try with v3 (called `deepseek-flash` in the server) 
+> Note: You can switch back and forth anytime as well, by just giving your prompt and saying "use `deepseek-pro`" or "use `deepseek-flash`"
 - V3 is recommended for general purpose use, while R1 is recommended for more technical and complex queries, primarily due to speed and token useage
 
 ###  Resource discovery for available models and configurations:
@@ -124,7 +124,7 @@ The inspector will open in your browser and connect to the server via stdio tran
 - Debug server responses
 - Monitor server performance
 
-Note: The server uses DeepSeek's R1 model (deepseek-reasoner) by default, which provides state-of-the-art performance for reasoning and general tasks.
+Note: The server uses DeepSeek's R1 model (deepseek-pro) by default, which provides state-of-the-art performance for reasoning and general tasks.
 
 ## License
 

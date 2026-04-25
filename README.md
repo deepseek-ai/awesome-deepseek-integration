@@ -510,7 +510,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td> <img src="https://obsidian.md/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/TarsLab/obsidian-tars">Obsidian Tars</a></td>
-        <td> Integrate LLM conversations into Obsidian's note editing, with deepseek-reasoner's CoT output in callout format. </td>
+        <td> Integrate LLM conversations into Obsidian's note editing, with deepseek-pro's CoT output in callout format. </td>
     </tr>
     <tr>
         <td> <img src="https://www.chatbotbuilder.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>

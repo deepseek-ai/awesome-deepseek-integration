@@ -414,7 +414,7 @@
     <tr>
         <td> <img src="https://obsidian.md/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/TarsLab/obsidian-tars">Obsidian Tars</a></td>
-        <td> 把大模型对话融入到 Obsidian 的笔记编辑, deepseek-reasoner 的思维链以 callout 格式输出。 </td>
+        <td> 把大模型对话融入到 Obsidian 的笔记编辑, deepseek-pro 的思维链以 callout 格式输出。 </td>
     </tr>
     <tr>
         <td> <img src="https://www.chatbotbuilder.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>

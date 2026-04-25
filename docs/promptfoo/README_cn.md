@@ -29,7 +29,7 @@ export DEEPSEEK_API_KEY=your_api_key
 
 ```yaml
 providers:
-  - deepseek:deepseek-reasoner # DeepSeek-R1
+  - deepseek:deepseek-pro # DeepSeek-R1
   - openai:o1
 
 prompts:

@@ -34,7 +34,7 @@ Navigate to the "AI" tab in Settings and configure the following:
 * Configure the endpoint URL and model details:
 
   * URI: `https://api.deepseek.com`​
-  * Model: `deepseek-chat`​
+  * Model: `deepseek-flash`​
   * Temperature: 1.3
 
 ​![image](assets/image-20250122162241-32a4oma.png)​

@@ -34,7 +34,7 @@ bridge:
     providers:
       deepseek:
         api_key: <DEEPSEEK_API_KEY>
-        model: deepseek-reasoner
+        model: deepseek-pro
 ```
 
 Start the server:

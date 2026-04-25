@@ -33,13 +33,13 @@
 "oaicopilot.baseUrl": "https://api.deepseek.com/v1",
 "oaicopilot.models": [
   {
-      "id": "deepseek-chat",
+      "id": "deepseek-flash",
       "owned_by": "deepseek",
       "context_length": 128000,
       "max_tokens": 8000
   },
   {
-      "id": "deepseek-reasoner",
+      "id": "deepseek-pro",
       "owned_by": "deepseek",
       "context_length": 128000,
       "max_tokens": 16000

@@ -27,7 +27,7 @@ return {
     config = function()
       require("llm").setup({
         url = "https://api.deepseek.com/chat/completions",
-        model = "deepseek-chat",
+        model = "deepseek-flash",
         api_type = "openai",
         max_tokens = 4096,
         temperature = 0.3,

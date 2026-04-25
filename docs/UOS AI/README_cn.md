@@ -34,8 +34,8 @@ UOS AI是Deepin操作系统中功能强大的AI助手应用。
 2. 在「账号名称」中随意填写名称。
 3. 在「APIKey」中填写您的API key。
 4. 「模型名」添加要使用的模型名称。
-   -  DeepSeek-V3填写：deepseek-chat
-   - DeepSeek-R1填写：deepseek-reasoner
+   -  DeepSeek-V3填写：deepseek-flash
+   - DeepSeek-R1填写：deepseek-pro
 
 5. 「请求地址」填写：https://api.deepseek.com/chat/completions
 
