@@ -45,9 +45,9 @@ docker run --name codegate -d -p 8989:8989 -p 9090:9090 -p 8990:8990 \
 
 ```json
 {
-    "title": "Deepseek-r1",
+    "title": "Deepseek-v4-pro",
     "provider": "openai",
-    "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+    "model": "deepseek-v4-pro",
     "apiKey": "YOUR_DEEPSEEK_API_KEY",
     "apiBase": "http://localhost:8989/openai",
 }

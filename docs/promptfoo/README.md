@@ -29,7 +29,7 @@ Create a configuration file `promptfooconfig.yaml`:
 
 ```yaml
 providers:
-  - deepseek:deepseek-pro # DeepSeek-R1
+  - deepseek:deepseek-v4-pro
   - openai:o1
 
 prompts:
@@ -61,7 +61,7 @@ promptfoo view
 
 ## Example Project
 
-Check out our [example](https://github.com/promptfoo/promptfoo/tree/main/examples/deepseek-r1-vs-openai-o1) that compares r1 and o1 on MMLU.
+Check out our [example](https://github.com/promptfoo/promptfoo/tree/main/examples/deepseek-r1-vs-openai-o1) that compares DeepSeek and o1 on MMLU.
 
 ## Resources
 

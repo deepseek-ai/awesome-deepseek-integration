@@ -29,12 +29,12 @@ vi /mnt/tomcat8/webapps/ROOT/WEB-INF/classes/application.properties
 ````
 Then append a few lines of configuration at the very end:  
 ````
-# The request URL of the large model interface. For example, the following is the request URL of Huawei DeepSeek. Additionally, the request URL of GiteeAI is https://ai.gitee.com/v1/chat/completions , You can obtain and fill in the information for other platforms by yourself. 
-translate.service.deepSeek.url=https://infer-modelarts-cn-southwest-2.modelarts-infer.com/v1/infers/fd53915b-8935-48fe-be70-449d76c0fc87/v1/chat/completions
+# The request URL of the large model interface.
+translate.service.deepSeek.url=https://api.deepseek.com/chat/completions
 # Access token
-translate.service.deepSeek.key=QM8jrVl98lTluLhzCaO4i9PFv-caRk6U7kDL-H6CIyApytMG69jO33aasO1GnduQak8fGI7dtpmbsM98Qh3ywA
-# Which model to use? Here, it is advisable to use DeepSeek-V3 by default, and there is no need to make any changes.  
-translate.service.deepSeek.model=DeepSeek-V3
+translate.service.deepSeek.key=YOUR_DEEPSEEK_API_KEY
+# Which model to use? Here, it is advisable to use deepseek-v4-flash by default, and there is no need to make any changes.  
+translate.service.deepSeek.model=deepseek-v4-flash
 # The maximum number of tokens for a single AI operation. If not set, the default value is 3000. You can just use this default value here.  
 translate.service.deepSeek.max_tokens=3000
 ````
@@ -86,4 +86,3 @@ This is just the use in the most common scenario. In addition, for various frame
 
 # Open-source repository
 https://github.com/xnx3/translate  
-

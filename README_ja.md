@@ -48,7 +48,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <tr>
         <td><img src="docs/eechat/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/Lucassssss/eechat">eechat</a></td>
-        <td>シンプルで使いやすい大規模言語モデルのローカル展開ツールです。DeepSeek-R1、DLlama 3、Phi-4、Mistral、Gemma 3などのオープンソースモデルのローカルでのプライバシー保護された展開をサポートし、リモートの大規模言語モデルAPIの呼び出しにも対応しています。</td>
+        <td>シンプルで使いやすい大規模言語モデルのローカル展開ツールです。DeepSeek、DLlama 3、Phi-4、Mistral、Gemma 3などのオープンソースモデルのローカルでのプライバシー保護された展開をサポートし、リモートの大規模言語モデルAPIの呼び出しにも対応しています。</td>
     </tr>
     <tr>
         <td><img src="docs/aingdesk/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
@@ -271,12 +271,12 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <tr>
         <td> <img src="./docs/TigerGPT/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://ttm.financial/gpt">TigerGPT</a> </td>
-        <td>TigerGPT は、OpenAI に基づく最初の金融 AI 投資アシスタントで、虎のグループによって開発されています。TigerGPT は、投資家に対して、深い推理をサポートするオンライン Q&A サービスを提供することを目的としています。2025年2月18日、TigerGPT は DeepSeek-R1 モデルを正式に統合し、ユーザーにオンライン Q&A サービスを提供することで、深い推理をサポートします。 </td>
+        <td>TigerGPT は、OpenAI に基づく最初の金融 AI 投資アシスタントで、虎のグループによって開発されています。TigerGPT は、投資家に対して、深い推理をサポートするオンライン Q&A サービスを提供することを目的としています。2025年2月18日、TigerGPT は DeepSeek を正式に統合し、ユーザーにオンライン Q&A サービスを提供することで、深い推理をサポートします。 </td>
     </tr>
     <tr>
         <td> <img src="./docs/HIX.AI/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://hix.ai">HIX.AI</a> </td>
-        <td>DeepSeek を無料でお試しいただき、 HIX.AI で AI チャットを無制限にお楽しみください。AI チャット、ライティング、コーディングなどに DeepSeek R1 をご利用ください。今すぐ次世代の AI チャットを体験してください!</td>
+        <td>DeepSeek を無料でお試しいただき、 HIX.AI で AI チャットを無制限にお楽しみください。AI チャット、ライティング、コーディングなどに DeepSeek をご利用ください。今すぐ次世代の AI チャットを体験してください!</td>
     </tr>
     <tr>
         <td> <img src="https://github.com/sharmt1411/askanywhere/blob/main/icon/Depth_8,_Frame_0explore-%E8%A7%92%E6%A0%87.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
@@ -286,7 +286,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <tr>
         <td> <img src="https://github.com/OJZen/1chat/raw/refs/heads/main/doc/assets/icon.ico?raw=true" alt="アイコン" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/OJZen/1chat">1chat</a> </td>
-        <td>DeepSeek-R1モデルとローカルでチャットできるiOSアプリです。</td>
+        <td>DeepSeekモデルとローカルでチャットできるiOSアプリです。</td>
     </tr>
     <tr>
         <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI チャットボット" width="64" height="auto" /> </td>
@@ -296,7 +296,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <tr>
         <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
         <td> <a href="https://popai.pro">PopAi</a> </td>
-        <td>PopAiがDeepSeek R1を発表！PopAiで遅延のない、超高速なパフォーマンスをお楽しみください。 オンライン検索のオン/オフをシームレスに切り替え可能です。</td>
+        <td>PopAiがDeepSeekを発表！PopAiで遅延のない、超高速なパフォーマンスをお楽しみください。 オンライン検索のオン/オフをシームレスに切り替え可能です。</td>
     </tr>
     <tr>
         <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
@@ -316,12 +316,12 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <tr>
         <td><img src="https://www.tensorbounce.com/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
-        <td>LawAgentは、Tensorbounceチームによって開発された、知識ベースとAIエージェント機能を統合した法律AI製品です。公式の法律関連データを数千万件も保有しており、カスタム知識ベースの設定も可能です。プロフェッショナルモードでは、DeepSeek-R1の推論能力を活用し、ユーザーの法律分析、契約審査、文書生成、ファイル翻訳などの法律シーンをサポートします。</td>
+        <td>LawAgentは、Tensorbounceチームによって開発された、知識ベースとAIエージェント機能を統合した法律AI製品です。公式の法律関連データを数千万件も保有しており、カスタム知識ベースの設定も可能です。プロフェッショナルモードでは、DeepSeekを活用し、ユーザーの法律分析、契約審査、文書生成、ファイル翻訳などの法律シーンをサポートします。</td>
     </tr>
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
 <td><a href="https://github.com/jiqi136/DS-AI">リアルタイム接続可能なAIアシスタント</a></td>
-<td> AIアシスタントはDeepSeek-V3.1インターフェイスによる最強Claude Codeコードモデルの直連をサポートし、ネットワーク中継サーサーバーを経由せずに利用可能（コスト90%削減）。 画像・PDFファイルの読み込みと無料画像生成機能を搭載；他のAIモデルのカスタム接続が可能；ローカルブラウザを呼び出してリアルタイムWeb検索を実現。さらにR1など無料モデルも選択可能。
+<td> AIアシスタントはDeepSeekインターフェイスによる最強Claude Codeコードモデルの直連をサポートし、ネットワーク中継サーバーを経由せずに利用可能です。画像・PDFファイルの読み込みと無料画像生成機能を搭載し、他のAIモデルのカスタム接続やローカルブラウザによるリアルタイムWeb検索も可能です。
 </td>
 	</tr>
     <tr>
@@ -362,7 +362,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <tr>
         <td> <img src="https://obsidian.md/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/TarsLab/obsidian-tars">Obsidian Tars</a></td>
-        <td> Obsidianのノート編集にLLMの会話を統合し、deepseek-reasonerのチェーン・オブ・ソート(CoT)出力をコールアウト形式で表示します。 </td>
+        <td> Obsidianのノート編集にLLMの会話を統合し、DeepSeekの思考出力をコールアウト形式で表示します。 </td>
     </tr>
         <tr>
         <td> <img src="https://www.chatbotbuilder.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -372,12 +372,12 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <tr>
         <td> <img src="https://bibigpt.co/icons/lucid/icon_32x32@2x.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="http://bibigpt.co">BibiGPT</a> </td>
-        <td> <a href="http://bibigpt.co">BibiGPT</a> は、ビリビリ動画、YouTube、小紅書、ポッドキャストなどの主要プラットフォームのコンテンツ分析と要約をサポートするAI音声・動画アシスタントで、音声・動画コンテンツの素早い視聴、簡単な検索、効果的な活用を実現します。コンテンツの要約、インタラクティブなQ&A、記事生成などの機能を提供。動画ファイルのアップロード、メモアプリの連携、DeepSeek R1とV3モデルをサポート。 </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> は、ビリビリ動画、YouTube、小紅書、ポッドキャストなどの主要プラットフォームのコンテンツ分析と要約をサポートするAI音声・動画アシスタントで、音声・動画コンテンツの素早い視聴、簡単な検索、効果的な活用を実現します。コンテンツの要約、インタラクティブなQ&A、記事生成などの機能を提供。動画ファイルのアップロード、メモアプリの連携、DeepSeekモデルをサポート。 </td>
     </tr>
     <tr>
         <td> <img src="https://lobehub.com/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://lobehub.com/ja/docs/usage/providers/deepseek">LobeChat</a> </td>
-        <td> <a href="https://lobehub.com">LobeChat</a> - オープンソースのモダンな AI チャットフレームワーク。DeepSeek R1、ナレッジベース（ファイルアップロード/知識管理/RAG）、マルチモーダル機能（画像認識/音声合成/プラグイン/アーティファクト）に対応。わずか1クリックで、独自の DeepSeek アプリケーションを無料でデプロイ可能。</td>
+        <td> <a href="https://lobehub.com">LobeChat</a> - オープンソースのモダンな AI チャットフレームワーク。DeepSeek、ナレッジベース（ファイルアップロード/知識管理/RAG）、マルチモーダル機能（画像認識/音声合成/プラグイン/アーティファクト）に対応。わずか1クリックで、独自の DeepSeek アプリケーションを無料でデプロイ可能。</td>
     </tr>
         <tr>
         <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
@@ -439,7 +439,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <tr>
         <td width=80> <img src="docs/BotSharp/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/SciSharp/BotSharp"> BotSharp </a> </td>
-        <td> BotSharpは、オープンソースのマルチエージェントアプリケーション開発フレームワークです。シンプルなチャットボットからマルチエージェントの協調、複雑なタスク（例：Text To SQL）まで、すぐに使える方法を提供し、大規模モデルの能力を既存のビジネスシステムに迅速に統合できます。さらに、ナレッジベースや会話管理機能も内蔵しています。このフレームワークはDeepSeek V3モデルで詳細にテストされており、DeepSeek V3の性能のおかげで、他のクローズドソースモデルに劣らないパフォーマンスを発揮します。</td>
+        <td> BotSharpは、オープンソースのマルチエージェントアプリケーション開発フレームワークです。シンプルなチャットボットからマルチエージェントの協調、複雑なタスク（例：Text To SQL）まで、すぐに使える方法を提供し、大規模モデルの能力を既存のビジネスシステムに迅速に統合できます。さらに、ナレッジベースや会話管理機能も内蔵しています。このフレームワークはDeepSeekモデルで詳細にテストされており、DeepSeekの性能のおかげで、他のクローズドソースモデルに劣らないパフォーマンスを発揮します。</td>
     </tr>
      <tr>
         <td width=80> <img src="docs/eino/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>

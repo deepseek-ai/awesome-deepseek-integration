@@ -20,7 +20,7 @@ UOS AI是Deepin操作系统中功能强大的AI助手应用。
 
 1. 打开 UOS AI 的「设置」选项，在「模型配置」中选择「在线模型-添加」，进入UOS AI的添加模型界面。
 
-2. 在「模型类型」中选择「DeepSeek-R1」。
+2. 在「模型类型」中选择「DeepSeek」。
 
 3. 在「账号名称」中随意填写名称。
 
@@ -34,8 +34,8 @@ UOS AI是Deepin操作系统中功能强大的AI助手应用。
 2. 在「账号名称」中随意填写名称。
 3. 在「APIKey」中填写您的API key。
 4. 「模型名」添加要使用的模型名称。
-   -  DeepSeek-V3填写：deepseek-flash
-   - DeepSeek-R1填写：deepseek-pro
+   -  flash填写：deepseek-v4-flash
+   - pro填写：deepseek-v4-pro
 
 5. 「请求地址」填写：https://api.deepseek.com/chat/completions
 

@@ -18,9 +18,9 @@ It offers unique cross-application capabilities, enabling deep integration with 
 
 ## Default Option
 
-1. Open the "Settings" option in UOS AI, select "DeepSeek-R1" in the "Model Configuration" under "Online model-Add" to enter the UOS AI model addition interface.
+1. Open the "Settings" option in UOS AI, select "DeepSeek" in the "Model Configuration" under "Online model-Add" to enter the UOS AI model addition interface.
 
-2. Select "DeepSeek-R1" in the "LLM".
+2. Select "DeepSeek" in the "LLM".
 
 3. Fill in any name in the "Account".
 
@@ -34,8 +34,8 @@ It offers unique cross-application capabilities, enabling deep integration with 
 2. Enter any name you like in the "Account".
 3. Enter your API key in the "APIKey".
 4. Add the name of the model you want to use in the "Model Name".
-   -  For DeepSeek-V3, enter: deepseek-flash
-   - For DeepSeek-R1, enter: deepseek-pro
+   -  For flash, enter: deepseek-v4-flash
+   - For pro, enter: deepseek-v4-pro
 5. Enter the following request address to "Domain": https://api.deepseek.com/chat/completions
 
 ![image](assets/custom-v3-en.png)

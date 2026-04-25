@@ -4,7 +4,7 @@
 
 # 通过 Wordware 使用 DeepSeek
 
-<a href="https://www.wordware.ai/">Wordware</a> 是一个工具包，让任何人都能仅使用自然语言来构建、迭代和部署他们的 AI 技术栈。Wordware 是将 DeepSeek V3 和 R1 集成到您的 LLM 应用程序中最简单和最快速的方式。
+<a href="https://www.wordware.ai/">Wordware</a> 是一个工具包，让任何人都能仅使用自然语言来构建、迭代和部署他们的 AI 技术栈。Wordware 是将 DeepSeek V4 集成到您的 LLM 应用程序中最简单和最快速的方式。
 
 ## 教程
 
@@ -20,7 +20,7 @@
 
 ![use v3](assets/v3.jpg)
 
-### 使用 R1 进行更高级的推理
+### 使用 DeepSeek V4 Pro 进行更高级的推理
 
 ![use r1](assets/r1.jpg)
 

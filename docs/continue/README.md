@@ -23,7 +23,7 @@ schema: v1
 models:
   - name: DeepSeek
     provider: deepseek
-    model: deepseek-flash
+    model: deepseek-v4-flash
     apiKey: YOUR_DEEPSEEK_API_KEY
     apiBase: https://api.deepseek.com/beta
     roles:
@@ -32,7 +32,7 @@ models:
       - apply
       - summarize
       - autocomplete
-    contextLength: 128000
+    contextLength: 1048576
     defaultCompletionOptions:
       temperature: 0.0
       maxTokens: 256

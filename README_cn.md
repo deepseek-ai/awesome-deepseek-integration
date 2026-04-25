@@ -69,7 +69,7 @@
     <tr>
         <td><img src="docs/eechat/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/Lucassssss/eechat">eechat</a></td>
-        <td>简洁易用的大模型本地部署工具，支持开源模型 DeepSeek-R1， DLlama 3, Phi-4, Mistral, Gemma 3 等模型的本地化隐私部署，同时支持远程大模型API调用。</td>
+        <td>简洁易用的大模型本地部署工具，支持开源模型 DeepSeek、DLlama 3、Phi-4、Mistral、Gemma 3 等模型的本地化隐私部署，同时支持远程大模型API调用。</td>
     </tr>
     <tr>
         <td><img src="docs/aingdesk/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
@@ -314,12 +314,12 @@
     <tr>
         <td> <img src="./docs/TigerGPT/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.laohu8.com/gpt">TigerGPT</a> </td>
-        <td>TigerGPT 是老虎集团开发的，业内首个基于 OpenAI 的金融 AI 投资助理。TigerGPT 旨在为投资者提供智能化的投资决策支持。2025年2月18日，TigerGPT 正式接入 DeepSeek-R1 模型，为用户提供支持深度推理的在线问答服务。 </td>
+        <td>TigerGPT 是老虎集团开发的，业内首个基于 OpenAI 的金融 AI 投资助理。TigerGPT 旨在为投资者提供智能化的投资决策支持。2025年2月18日，TigerGPT 正式接入 DeepSeek，为用户提供支持深度推理的在线问答服务。 </td>
     </tr>
     <tr>
         <td> <img src="./docs/HIX.AI/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://hix.ai">HIX.AI</a> </td>
-        <td>免费试用 DeepSeek，在 HIX.AI 上享受无限量的 AI 聊天。使用 DeepSeek R1 进行 AI 聊天、写作、编码等。立即体验下一代 AI 聊天！</td>
+        <td>免费试用 DeepSeek，在 HIX.AI 上享受无限量的 AI 聊天。使用 DeepSeek 进行 AI 聊天、写作、编码等。立即体验下一代 AI 聊天！</td>
     </tr>
     <tr>
         <td> <img src="https://github.com/sharmt1411/askanywhere/blob/main/icon/Depth_8,_Frame_0explore-%E8%A7%92%E6%A0%87.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
@@ -339,7 +339,7 @@
     <tr>
         <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
         <td> <a href="https://popai.pro">PopAi</a> </td>
-        <td>PopAi推出DeepSeek R1！享受无延迟、闪电般快速的性能，尽在PopAi。轻松切换在线搜索开/关。</td>
+        <td>PopAi推出DeepSeek。享受无延迟、闪电般快速的性能，尽在PopAi。轻松切换在线搜索开/关。</td>
     </tr>
     <tr>
         <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
@@ -359,12 +359,12 @@
     <tr>
         <td><img src="https://www.tensorbounce.com/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
-        <td>LawAgent是tensorbounce团队出品的知识库结合AI Agent的法律AI产品,拥有上千万官方法律相关知识库数据，用户可自定义知识库，专业模式结合DeepSeek-R1的推理能力应用在用户的法律分析、合同审查、文书生成、文件翻译等法律场景。</td>
+        <td>LawAgent是tensorbounce团队出品的知识库结合AI Agent的法律AI产品,拥有上千万官方法律相关知识库数据，用户可自定义知识库，专业模式结合DeepSeek应用在用户的法律分析、合同审查、文书生成、文件翻译等法律场景。</td>
     </tr>
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/jiqi136/DS-AI">实时联网AI助手</a></td>
-        <td>AI助手支持DeepSeek-V3.1接口直连最强Claude Code代码模型，无需网络中转即可使用（成本直降90%）。 支持图片、PDF文件读取及免费生成图片；可自定义接入其他AI模型；支持调用本地浏览器实时联网检索海量网页内容。另提供R1等免费模型选择。</td>
+        <td>AI助手支持DeepSeek接口直连最强Claude Code代码模型，无需网络中转即可使用（成本直降90%）。支持图片、PDF文件读取及免费生成图片；可自定义接入其他AI模型；支持调用本地浏览器实时联网检索海量网页内容。</td>
     </tr>
     <tr>
         <td width=80> <img src="docs/AlphaBot/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -414,7 +414,7 @@
     <tr>
         <td> <img src="https://obsidian.md/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/TarsLab/obsidian-tars">Obsidian Tars</a></td>
-        <td> 把大模型对话融入到 Obsidian 的笔记编辑, deepseek-pro 的思维链以 callout 格式输出。 </td>
+        <td> 把大模型对话融入到 Obsidian 的笔记编辑，DeepSeek 的思维过程以 callout 格式输出。 </td>
     </tr>
     <tr>
         <td> <img src="https://www.chatbotbuilder.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -424,12 +424,12 @@
     <tr>
         <td> <img src="https://bibigpt.co/icons/lucid/icon_32x32@2x.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="http://bibigpt.co">BibiGPT</a> </td>
-        <td> <a href="http://bibigpt.co">BibiGPT</a> 是一款AI音视频助理，支持B站、油管、小红书、小宇宙播客等主流平台的内容分析和总结，让音视频看得快、搜得到、用得好。提供内容摘要、智能问答和文章生成等功能。支持视频文件上传、笔记应用集成和DeepSeek R1及V3模型。 </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> 是一款AI音视频助理，支持B站、油管、小红书、小宇宙播客等主流平台的内容分析和总结，让音视频看得快、搜得到、用得好。提供内容摘要、智能问答和文章生成等功能。支持视频文件上传、笔记应用集成和DeepSeek模型。 </td>
     </tr>
     <tr>
         <td> <img src="https://lobehub.com/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://lobehub.com/zh/docs/usage/providers/deepseek">LobeChat</a> </td>
-        <td> <a href="https://lobehub.com">LobeChat</a> - 一款开源的现代化 AI 对话框架。支持 DeepSeek R1、知识库（文件上传/知识管理/RAG）、多模态能力（视觉/语音合成/插件/创作）。一键免费部署专属 DeepSeek 应用，打造您的私人 AI 助手。</td>
+        <td> <a href="https://lobehub.com">LobeChat</a> - 一款开源的现代化 AI 对话框架。支持 DeepSeek、知识库（文件上传/知识管理/RAG）、多模态能力（视觉/语音合成/插件/创作）。一键免费部署专属 DeepSeek 应用，打造您的私人 AI 助手。</td>
     </tr>
     <tr>
         <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
@@ -516,7 +516,7 @@
     <tr>
         <td width=80> <img src="docs/BotSharp/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/SciSharp/BotSharp"> BotSharp </a> </td>
-        <td> BotSharp 是一个开源的多智能体应用开发框架，从简单的聊天机器人，再到多智能体协作，以及复杂的任务如【Text To Sql】框架都提供了开箱即用的使用方法，可以快速的将大模型的能力接入到现有的业务系统中，并且内置知识库和会话管理功能等，框架使用DeepSeek V3的模型进行了详细的测试，得益于DeepSeek V3的性能，框架的表现不输其他的闭源的模型。 </td>
+        <td> BotSharp 是一个开源的多智能体应用开发框架，从简单的聊天机器人，再到多智能体协作，以及复杂的任务如【Text To Sql】框架都提供了开箱即用的使用方法，可以快速的将大模型的能力接入到现有的业务系统中，并且内置知识库和会话管理功能等，框架使用DeepSeek模型进行了详细的测试，得益于DeepSeek的性能，框架的表现不输其他的闭源的模型。 </td>
     </tr>
     <tr>
         <td width=80> <img src="docs/eino/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>

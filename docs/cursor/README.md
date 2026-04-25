@@ -7,7 +7,7 @@
 ## Just follow these steps:
 
 1. in Cursor Settings disable all models
-2. add `deepseek-coder` as new model
+2. add `deepseek-v4-pro` as new model
 3. in Open AI API Key add https://api.deepseek.com/beta as URL - add your API key.
 
 # UI

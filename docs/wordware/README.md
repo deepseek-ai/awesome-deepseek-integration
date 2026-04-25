@@ -4,7 +4,7 @@
 
 # Use DeepSeek Through Wordware
 
-<a href="https://www.wordware.ai/">Wordware</a> is a toolkit that enables anyone to build, iterate, and deploy their AI stack with just natural language. Wordware is the easiest and fastest way to integrate both DeepSeek V3 and R1 into your LLM applications.
+<a href="https://www.wordware.ai/">Wordware</a> is a toolkit that enables anyone to build, iterate, and deploy their AI stack with just natural language. Wordware is the easiest and fastest way to integrate DeepSeek V4 into your LLM applications.
 
 ## Tutorial
 
@@ -20,7 +20,7 @@
 
 ![use v3](assets/v3.jpg)
 
-### Use R1 for more advanced reasoning.
+### Use DeepSeek V4 Pro for more advanced reasoning.
 
 ![use r1](assets/r1.jpg)
 

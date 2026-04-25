@@ -23,8 +23,8 @@
 * 在文本框中输入你的DeepSeek API密钥
 * 配置端点URL和模型详细信息：
 
-  * URI: `https://api.deepseek.com/v1/`​
-  * 模型: `deepseek-flash`​
+  * URI: `https://api.deepseek.com`​
+  * 模型: `deepseek-v4-flash`​
   * 温度: 1.3
 
 ​![image](assets/image-20250122162241-32a4oma.png)​

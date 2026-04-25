@@ -8,8 +8,8 @@ zenfeed 支持通过在其配置文件的 `llms` 部分进行设置，来使用 
 
 ```yaml
 llms:
-  - name: my-deepseek-flash  # 为此配置指定一个唯一的名称
+  - name: my-deepseek-v4-flash  # 为此配置指定一个唯一的名称
     provider: deepseek        # 指定提供商为 deepseek
     api_key: sk-xxxxxxxxxxx # 替换为你的 DeepSeek API 密钥
-    model: deepseek-flash      # 指定所需的 DeepSeek 模型（例如：deepseek-flash, deepseek-coder）
+    model: deepseek-v4-flash      # 指定所需的 DeepSeek 模型
 ```

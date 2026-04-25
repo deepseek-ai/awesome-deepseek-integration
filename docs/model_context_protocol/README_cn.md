@@ -61,14 +61,14 @@ npm install -g deepseek-mcp-server
   - 响应：通过 model-config 资源列出所有可用的配置选项。
 - 用户：“当前的温度（temperature）设置是多少？”
   - 响应：显示当前温度设置。
-- 用户：“开始一个多轮对话。使用如下设置：model: 'deepseek-flash'，创意度不要太高，并且允许 8000 个 token。”
+- 用户：“开始一个多轮对话。使用如下设置：model: 'deepseek-v4-flash'，创意度不要太高，并且允许 8000 个 token。”
   - 响应：使用指定设置启动一个多轮对话。
 
-### 当 R1 出现故障时自动回退到其他模型
+### 自动回退到其他模型
 
-- 如果主模型（R1，服务器中称为 `deepseek-pro`）出现故障，服务器会自动尝试使用 v3（服务器中称为 `deepseek-flash`）
-- 你也可以随时在对话中切换，只需在对话中输入提示并说“使用 `deepseek-pro`”或“使用 `deepseek-flash`”
-- v3 更适用于通用场景；R1 更适用于处理较为复杂的技术性问题，主要得益于速度和 token 使用的优化
+- 如果主模型不可用，服务器会自动尝试使用另一个已配置的 DeepSeek 模型。
+- 你也可以随时在对话中切换，只需在对话中输入提示并说“使用 `deepseek-v4-pro`”或“使用 `deepseek-v4-flash`”
+- `deepseek-v4-flash` 更适用于通用场景，`deepseek-v4-pro` 更适用于处理较为复杂的技术性问题。
 
 ### 资源发现：可用的模型和配置
 
@@ -121,7 +121,7 @@ MCP Inspector 将在你的浏览器中打开，并通过 stdio 传输连接到�
 - 调试服务器响应
 - 监控服务器性能
 
-注意：服务器默认使用 DeepSeek 的 R1 模型（`deepseek-pro`），它在推理和通用任务方面具有最先进的性能。
+注意：服务器默认使用 `deepseek-v4-pro`。
 
 ## 许可证
 

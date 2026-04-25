@@ -56,9 +56,9 @@ the following configuration:
 
 ```json
 {
-    "title": "Deepseek-r1",
+    "title": "Deepseek-v4-pro",
     "provider": "openai",
-    "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+    "model": "deepseek-v4-pro",
     "apiKey": "YOUR_DEEPSEEK_API_KEY",
     "apiBase": "http://localhost:8989/openai",
 }

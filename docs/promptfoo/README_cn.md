@@ -29,7 +29,7 @@ export DEEPSEEK_API_KEY=your_api_key
 
 ```yaml
 providers:
-  - deepseek:deepseek-pro # DeepSeek-R1
+  - deepseek:deepseek-v4-pro
   - openai:o1
 
 prompts:
@@ -61,7 +61,7 @@ promptfoo view
 
 ## 示例项目
 
-查看我们的[示例](https://github.com/promptfoo/promptfoo/tree/main/examples/deepseek-r1-vs-openai-o1)，展示了 r1 和 o1 在 MMLU 上的比较。
+查看我们的[示例](https://github.com/promptfoo/promptfoo/tree/main/examples/deepseek-r1-vs-openai-o1)，展示了 DeepSeek 和 o1 在 MMLU 上的比较。
 
 ## 资源
 
