@@ -46,6 +46,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 <table>
     <tr>
+        <td><img src="docs/YaoAgents/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://yaoagents.com">Yao Agents</a></td>
+        <td>Una aplicación de escritorio AI local-first con más de 30 expertos de IA integrados. Crea herramientas, sitios web, dashboards, presentaciones y automatiza flujos de trabajo, todo ejecutándose en tu propia máquina. Compatible con DeepSeek V4 Pro/Flash, con colaboración entre dispositivos mediante Tai Link. Construido sobre el motor de código abierto <a href="https://github.com/YaoApp/yao">Yao Engine</a>.</td>
+    </tr>
+    <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>Un asistente de IA de integración de sistema de código abierto para la plataforma Android, que admite el uso casi completo de mcp y es altamente compatible con el sistema Android. El software ofrece alta personalización y bajo umbral de aprendizaje, con herramientas incorporadas para operaciones de archivos, búsquedas, clics automáticos, conversión de formatos y una página web API de DeepSeek integrada.</td>

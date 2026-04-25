@@ -46,6 +46,11 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
 
 <table>
     <tr>
+        <td><img src="docs/YaoAgents/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://yaoagents.com">Yao Agents</a></td>
+        <td>A local-first desktop AI application with 30+ built-in AI experts. Build tools, websites, dashboards, presentations, and automate workflows — all running on your own machine. Supports DeepSeek V4 Pro/Flash, with multi-device collaboration via Tai Link. Powered by the open-source <a href="https://github.com/YaoApp/yao">Yao Engine</a>.</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) is a flagship AI client explicitly tailored for watchOS and iOS. It features a watch-first design, aesthetic UI, seamless sync between devices, and deep system integration. Supports multiple models including DeepSeek, redefining AI interaction on your wrist.</td>

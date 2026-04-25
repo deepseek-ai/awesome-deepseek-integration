@@ -41,6 +41,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
+        <td><img src="docs/YaoAgents/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://yaoagents.com">Yao Agents</a></td>
+        <td>ローカルファーストのデスクトップ AI アプリ。30 以上の AI エキスパートを内蔵し、ツール作成・Web サイト構築・ダッシュボード・プレゼン資料の作成、自律的に動く Robot によるワークフロー自動化まで、すべてローカルで完結。DeepSeek V4 Pro/Flash に対応し、Tai Link でデバイス間連携も可能。オープンソースの <a href="https://github.com/YaoApp/yao">Yao Engine</a> をベースに構築。</td>
+    </tr>
+    <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>Androidプラットフォーム向けのオープンソースシステム統合AIアシスタントで、ほぼ完全なmcp使用をサポートし、Androidシステムと高い互換性を持っています。このソフトウェアは高度なカスタマイズと低い学習障壁を特徴とし、ファイル操作、検索、自動クリック、フォーマット変換などの組み込みツールと統合DeepSeek APIウェブページを備えています。</td>

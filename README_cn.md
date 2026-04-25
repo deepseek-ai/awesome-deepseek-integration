@@ -42,6 +42,11 @@
 
 <table>
     <tr>
+        <td><img src="docs/YaoAgents/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://yaoagents.com">Yao Agents</a></td>
+        <td>一款本地优先的桌面 AI 应用，内置 30+ AI 专家。随手造工具、搭网站、做数据看板、写 PPT，还能创建自主运行的 Robot 实现工作流自动化。支持 DeepSeek V4 Pro/Flash，通过 Tai Link 可跨设备协同。基于开源的 <a href="https://github.com/YaoApp/yao">Yao Engine</a> 构建。</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) 是一款专为 watchOS 与 iOS 深度定制的旗舰级 AI 客户端。它拥有“腕上智核”的独立交互体验、极简的律动美学设计以及全端联动的无缝体验。支持 DeepSeek 等多种模型，重塑你手腕上的 AI 交互维度。</td>

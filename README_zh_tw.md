@@ -46,6 +46,11 @@
 ###  <span id="applications">應用</span>
 
 <table>
+    <tr>
+        <td><img src="docs/YaoAgents/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://yaoagents.com">Yao Agents</a></td>
+        <td>一款本地優先的桌面 AI 應用，內建 30+ AI 專家。隨手做工具、架網站、建數據看板、做簡報，還能建立自主運作的 Robot 實現工作流程自動化。支援 DeepSeek V4 Pro/Flash，透過 Tai Link 可跨裝置協作。基於開源的 <a href="https://github.com/YaoApp/yao">Yao Engine</a> 打造。</td>
+    </tr>
         <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
