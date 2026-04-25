@@ -28,12 +28,12 @@ vi /mnt/tomcat8/webapps/ROOT/WEB-INF/classes/application.properties
 ````
 その後、最後にいくつかの設定を追加します： 
 ````
-# 大規模モデルインターフェースリクエストURL
-translate.service.deepSeek.url=https://api.deepseek.com/chat/completions
+# 大規模モデルインターフェースリクエストURL、例えば以下のものはHuawei DeepSeekのリクエストURLです。また、GiteeAIのリクエストURLは https://ai.gitee.com/v1/chat/completions 他のプラットフォームからは自分で取得して入力できます
+translate.service.deepSeek.url=https://infer-modelarts-cn-southwest-2.modelarts-infer.com/v1/infers/fd53915b-8935-48fe-be70-449d76c0fc87/v1/chat/completions
 # アクセストークン
-translate.service.deepSeek.key=YOUR_DEEPSEEK_API_KEY
-# どのモデルを使用するか、ここではデフォルトで deepseek-v4-flash を使用すればよく、変更する必要はありません。
-translate.service.deepSeek.model=deepseek-v4-flash
+translate.service.deepSeek.key=QM8jrVl98lTluLhzCaO4i9PFv-caRk6U7kDL-H6CIyApytMG69jO33aasO1GnduQak8fGI7dtpmbsM98Qh3ywA
+# どのモデルを使用するか、ここではデフォルトで DeepSeek-V3 を使用すればよく、変更する必要はありません。
+translate.service.deepSeek.model=DeepSeek-V3
 # AIの単回の最大トークン数、設定しない場合デフォルトは3000で、ここではデフォルトでこれを使用すれば良いです。
 translate.service.deepSeek.max_tokens=3000
 ````

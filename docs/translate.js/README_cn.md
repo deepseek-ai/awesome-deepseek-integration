@@ -29,12 +29,12 @@ vi /mnt/tomcat8/webapps/ROOT/WEB-INF/classes/application.properties
 ````
 然后再最后面追加几行配置：  
 ````
-# 大模型接口请求URL
-translate.service.deepSeek.url=https://api.deepseek.com/chat/completions
+# 大模型接口请求URL, 比如下面的是华为DeepSeek的请求URL的，另外像是GiteeAI的请求URL是 https://ai.gitee.com/v1/chat/completions 其他的平台的可自行获取填入
+translate.service.deepSeek.url=https://infer-modelarts-cn-southwest-2.modelarts-infer.com/v1/infers/fd53915b-8935-48fe-be70-449d76c0fc87/v1/chat/completions
 # 访问令牌
-translate.service.deepSeek.key=YOUR_DEEPSEEK_API_KEY
-# 使用哪个模型，这里默认使用 deepseek-v4-flash 即可，无需更改
-translate.service.deepSeek.model=deepseek-v4-flash
+translate.service.deepSeek.key=QM8jrVl98lTluLhzCaO4i9PFv-caRk6U7kDL-H6CIyApytMG69jO33aasO1GnduQak8fGI7dtpmbsM98Qh3ywA
+# 使用哪个模型，这里默认使用 DeepSeek-V3 即可，无需更改
+translate.service.deepSeek.model=DeepSeek-V3
 # AI单次的最大token数量,不设置默认是3000，这里可以默认用这个即可
 translate.service.deepSeek.max_tokens=3000
 ````
@@ -137,4 +137,3 @@ https://github.com/xnx3/translate
 * **[增加对指定标签的属性进行翻译](http://translate.zvo.cn/231504.html)**，可以增加对指定html标签的某个或某些属性进行翻译。比如element、vue 等框架，有些自定义的标签属性，想让其也正常翻译
 * **[本地语种也进行强制翻译](http://translate.zvo.cn/289574.html)**，切换为中文时，即使本地语种设置的是中文，网页中只要不是中文的元素，都会被翻译为要显示的语种
 * **[自定义通过翻译API进行时的监听事件](http://translate.zvo.cn/379207.html)**，当通过翻译API进行文本翻译时的整个过程进行监听，做一些自定义处理，比如翻译API请求前要做些什么、请求翻译API完成并在DOM渲染完毕后触发些什么。
-
