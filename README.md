@@ -548,6 +548,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td>A batch subtitle translator supporting SRT/ASS/VTT/LRC formats, compatible with DeepSeek and various other LLMs and machine translation interfaces.</td>
     </tr>
     <tr>
+        <td><img src="docs/Worldloom/assets/icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/Worldloom/README.md">WorldLoom</a></td>
+        <td><a href="https://worldloom.top/">WorldLoom</a> is an AI-driven multi-world text adventure RPG. It supports DeepSeek and other LLMs for opening generation, story progression, action options, character state updates, NPC memory, and dynamic situation tracking, allowing players to create characters and weave their own timelines across different worlds.</td>
+    </tr>
+    <tr>
         <td width=80> <img src="docs/turtlenoir/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> An AI-hosted lateral thinking puzzle game (Situation Puzzles / "Turtle Soup") powered by DeepSeek, supporting both single-player and multiplayer modes. The AI moderator manages the game flow and provides witty commentary, guiding the deduction process through standard "Yes / No / Irrelevant" Q&A. Features include an immersive gameplay mode, smart hints, puzzle deduplication, and content moderation. Perfect for casual brain training and online social gaming. </td>

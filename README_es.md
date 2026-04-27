@@ -428,6 +428,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td>Herramienta de traducción de subtítulos por lotes para formatos SRT/ASS/VTT/LRC, compatible con DeepSeek y otras interfaces de LLM y traducción automática.</td>
     </tr>
     <tr>
+        <td><img src="docs/Worldloom/assets/icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/Worldloom/README.md">WorldLoom</a></td>
+        <td><a href="https://worldloom.top/">WorldLoom</a> es un RPG de aventura textual multiuniverso impulsado por IA. Integra DeepSeek y otros LLM para generar aperturas, avanzar historias, crear opciones de acción, actualizar estados de personajes, mantener memoria de NPC y seguir situaciones dinámicas, permitiendo a los jugadores crear personajes y tejer sus propias líneas temporales en distintos mundos.</td>
+    </tr>
+    <tr>
         <td width=80> <img src="docs/turtlenoir/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> Un juego de enigmas de pensamiento lateral tipo "Sopa de Tortuga" con un anfitrión de IA basado en DeepSeek, disponible para uno o varios jugadores. La IA modera la partida e interactúa con humor, guiando la deducción mediante respuestas de "Sí / No / Irrelevante". Ofrece una experiencia inmersiva con una fuerte atmósfera narrativa, gestión del ritmo y un sistema de pistas para evitar bloqueos. Integra búsqueda vectorial y DeepSeek para evitar la repetición de acertijos e incluye moderación de contenido. Ideal para entrenar la creatividad y como entretenimiento social en línea. </td>

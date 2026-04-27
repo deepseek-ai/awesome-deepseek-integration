@@ -427,6 +427,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td>フロントエンド開発者向けのAI i 18 n、2行のjsはhtmlの全自動翻訳を実現し、数十言語のワンクリック切り替えで、ページを変更する必要がなく、言語プロファイルがなく、数十個の微調整拡張命令をサポートし、SEOに友好的である。また、標準テキスト翻訳APIインタフェースを開放する</td>
     </tr>
     <tr>
+        <td><img src="docs/Worldloom/assets/icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/Worldloom/README.md">WorldLoom</a></td>
+        <td><a href="https://worldloom.top/">WorldLoom</a> は、AI 駆動のマルチワールド型テキストアドベンチャー RPG です。DeepSeek などの大規模言語モデルを利用して、導入生成、物語進行、行動選択肢、キャラクター状態更新、NPC メモリ、動的な状況追跡を行い、プレイヤーは異なる世界観でキャラクターを作成し、自分だけのタイムラインを紡げます。</td>
+    </tr>
+    <tr>
         <td width=80> <img src="docs/turtlenoir/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> DeepSeekをベースにしたAI司会者によるウミガメのスープ（水平思考パズル）ゲームで、シングルプレイやマルチプレイに対応しています。AIがゲームの進行やツッコミを行い、「はい / いいえ / 無関係」の回答で推理を進めます。没入感のあるゲームプレイ（より強いストーリーの雰囲気とリズム誘導）、ヒント機能、行き詰まり防止メカニズムを提供し、ベクトル検索 + DeepSeek を組み合わせて問題の重複を防ぎ、コンテンツのモデレーション機能も備えています。気軽な脳トレやオンラインでの交流に適しています。 </td>
