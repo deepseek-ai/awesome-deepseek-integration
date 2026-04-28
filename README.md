@@ -1148,6 +1148,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
+    <tr>
+        <td> <img src="https://futurmix.ai/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://futurmix.ai"> FuturMix </a> </td>
+        <td> FuturMix is a unified AI gateway that provides access to DeepSeek and 22+ models through a single OpenAI-compatible API endpoint. Features 99.99% SLA, automatic failover, and cost-effective pricing.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
