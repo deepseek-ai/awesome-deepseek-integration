@@ -1084,23 +1084,30 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="codeeditor">Native AI Code Editor</span>
+### <span id="codeeditor">Native AI Code Editor</span>
 
 <table>
     <tr>
-        <td> <img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://www.cursor.com/"> Cursor </a> </td>
-        <td>‍The AI Code Editor based on VS Code</td>
+        <td><img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" alt="Cursor logo" width="64" height="auto" /></td>
+        <td><a href="https://www.cursor.com/">Cursor</a></td>
+        <td>
+            AI-native fork of the VS Code stack—chat, agent, and composer built in.<br />
+            <strong>Community:</strong>
+            <a href="https://forum.cursor.com/t/using-deepseek-v4-pro-cloud-in-cursor-via-local-ollama-and-gitlens-lessons-from-the-reasoning-content-mess/159239">
+                DeepSeek V4 (<code>deepseek-v4-pro:cloud</code>) through local Ollama + GitLens
+            </a>
+            when direct DeepSeek routing hits thinking/tool (<code>reasoning_content</code>) friction—agent-focused notes, subagent limits called out.
+        </td>
     </tr>
     <tr>
-        <td> <img src="https://exafunction.github.io/public/images/windsurf/windsurf-app-icon.svg" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://codeium.com/windsurf"> WindSurf </a> </td>
-        <td>Another AI Code Editor based on VS Code by Codeium</td>
+        <td><img src="https://exafunction.github.io/public/images/windsurf/windsurf-app-icon.svg" alt="Windsurf logo" width="64" height="auto" /></td>
+        <td><a href="https://codeium.com/windsurf">Windsurf</a></td>
+        <td>Codeium’s VS Code–based AI editor: inline edits, flows, and agent-style assistance out of the box.</td>
     </tr>
     <tr>
-        <td> <img src="docs/wusigram/assets/logo-512.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/wusigram/README.md"> 无思微程序 </a> </td>
-        <td>A mobile AI code writing and running tool. DeepSeek Programming Companion</td>
+        <td><img src="docs/wusigram/assets/logo-512.png" alt="无思微程序 logo" width="64" height="auto" /></td>
+        <td><a href="docs/wusigram/README.md">无思微程序</a></td>
+        <td>Mobile-first AI coding companion—write and run snippets on the go with DeepSeek-powered help.</td>
     </tr>
 </table>
 
