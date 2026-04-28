@@ -992,6 +992,11 @@
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API 讓使用者只需透過一個 API，就能以企業級的方式存取 200 種以上的模型。 這包括 Deepseek R1 和 V3，以及封閉和開源模型。 所有服務的正常運行時間均為 99%，並提供 24/7 全天候的人力支援。</td>
     </tr>
+    <tr>
+        <td> <img src="https://futurmix.ai/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://futurmix.ai"> FuturMix </a> </td>
+        <td> FuturMix 是一個統一的 AI 閘道器，透過單一 OpenAI 相容 API 端點提供 DeepSeek 及 22+ 種模型的存取。具備 99.99% SLA、自動故障轉移及高性價比定價。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
