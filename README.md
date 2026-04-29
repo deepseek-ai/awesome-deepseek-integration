@@ -1095,8 +1095,8 @@ The purpose is to build infrastructure in the field of large models, through the
             <strong>Community:</strong>
             <a href="https://forum.cursor.com/t/using-deepseek-v4-pro-cloud-in-cursor-via-local-ollama-and-gitlens-lessons-from-the-reasoning-content-mess/159239">
                 DeepSeek V4 (<code>deepseek-v4-pro:cloud</code>) through local Ollama + GitLens
-            </a>
-            when direct DeepSeek routing hits thinking/tool (<code>reasoning_content</code>) friction—agent-focused notes, subagent limits called out.
+            </a>.
+            Useful when direct DeepSeek routing hits thinking/tool (<code>reasoning_content</code>) friction; includes agent-focused notes and calls out subagent limits.
         </td>
     </tr>
     <tr>
