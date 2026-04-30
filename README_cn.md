@@ -529,6 +529,11 @@
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，采用开源模型即可实现例如数据分析、文件处理、深度研究等功能。 </td>
     </tr>
+    <tr>
+        <td width=80> <img src="https://raw.githubusercontent.com/JackChen-me/open-multi-agent/main/.github/brand/logo-mark-light.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/open-multi-agent/README_cn.md">open-multi-agent</a> </td>
+        <td> 一个 TypeScript 原生的多智能体编排框架。其目标驱动的 Coordinator 会自动将单个目标拆解为并行任务 DAG，内置共享记忆、MCP 支持和实时追踪。DeepSeek 作为一等公民提供商接入，<code>deepseek-chat</code>（V3）与 <code>deepseek-reasoner</code>（思考模式）均可通过专用 adapter 开箱即用。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
