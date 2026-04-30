@@ -620,6 +620,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatrices is a lightweight, high-performance, scalable, and open source AI application rapid building platform designed to provide developers with an efficient and convenient AI application development experience. It integrates multiple advanced technologies and tools to help users quickly build, deploy, and maintain AI applications without having to write complex code from scratch.</td>
     </tr>
+    <tr>
+        <td width=80> <img src="https://raw.githubusercontent.com/JackChen-me/open-multi-agent/main/.github/brand/logo-mark-light.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/open-multi-agent/README.md">open-multi-agent</a> </td>
+        <td> A TypeScript-native multi-agent orchestration framework with a goal-driven Coordinator that turns a single goal into a parallel task DAG. Ships with shared memory, MCP support, and live tracing. DeepSeek is a first-class provider: both <code>deepseek-chat</code> (V3) and <code>deepseek-reasoner</code> (thinking mode) work out of the box via a dedicated adapter. </td>
+    </tr>
 </table>
 
 ### RAG frameworks
