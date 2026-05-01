@@ -432,6 +432,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> Un juego de enigmas de pensamiento lateral tipo "Sopa de Tortuga" con un anfitrión de IA basado en DeepSeek, disponible para uno o varios jugadores. La IA modera la partida e interactúa con humor, guiando la deducción mediante respuestas de "Sí / No / Irrelevante". Ofrece una experiencia inmersiva con una fuerte atmósfera narrativa, gestión del ritmo y un sistema de pistas para evitar bloqueos. Integra búsqueda vectorial y DeepSeek para evitar la repetición de acertijos e incluye moderación de contenido. Ideal para entrenar la creatividad y como entretenimiento social en línea. </td>
     </tr>
+    <tr>
+        <td><img src="docs/MateClaw/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/MateClaw/README.md">MateClaw</a></td>
+        <td>MateClaw es un sistema operativo personal de IA de código abierto construido sobre Spring Boot + Spring AI Alibaba, con soporte integrado para DeepSeek V4 Pro y V4 Flash. Un único JAR despliega el mismo agente en la consola web, la aplicación de escritorio, el widget incrustable, el SDK de plugins Java y 8 canales de mensajería (DingTalk, Feishu, WeChat Work, WeChat, Telegram, Discord, QQ, Slack), con conmutación por error multi-proveedor, agentes ReAct + Plan-and-Execute, un LLM Wiki con citas, ciclo de vida de memoria, MCP y Tool Guard.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

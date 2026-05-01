@@ -404,6 +404,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
     </tr>
+    <tr>
+        <td><img src="docs/MateClaw/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/MateClaw/README.md">MateClaw</a></td>
+        <td>MateClaw は Spring Boot + Spring AI Alibaba 上に構築されたオープンソースの個人向け AI オペレーティングシステムで、DeepSeek V4 Pro と V4 Flash をビルトインモデルとしてサポートします。1 つの JAR で、同一のエージェントを Web コンソール、デスクトップアプリ、埋め込み可能なウィジェット、Java プラグイン SDK、8 つの IM チャネル（DingTalk、Feishu、WeChat Work、WeChat、Telegram、Discord、QQ、Slack）に展開できます。マルチベンダーフェイルオーバー、ReAct + Plan-and-Execute エージェント、引用付き LLM Wiki、メモリライフサイクル、MCP、Tool Guard を備えています。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
