@@ -470,6 +470,11 @@
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> 基於 DeepSeek 的 AI 主持人海龜湯 / 側向思維解謎產品，可單人或者多人遊玩。AI 進行控場與吐槽，圍繞「是 / 否 / 無關」的問答推進推理；提供沉浸式玩法（更強劇情氛圍與節奏引導）、引導提示與防卡關機制，同時結合向量檢索 + DeepSeek 進行題目去重，並提供內容審核能力。適合輕量腦洞訓練與在線陪玩。 </td>
     </tr>
+    <tr>
+        <td><img src="docs/MateClaw/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/MateClaw/README.md">MateClaw</a></td>
+        <td>MateClaw 是一個開源的個人 AI 作業系統，基於 Spring Boot + Spring AI Alibaba 構建，內建 DeepSeek V4 Pro 與 V4 Flash 模型支援。一個 JAR 讓同一個 Agent 同時出現在 Web 控制台、桌面端、可嵌入網頁元件、Java 外掛 SDK 與 8 個 IM 通道（釘釘、飛書、企業微信、微信、Telegram、Discord、QQ、Slack）；附帶多供應商容錯、ReAct + Plan-and-Execute Agent 編排、帶引用的 LLM Wiki、記憶生命週期、MCP 與 Tool Guard。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
