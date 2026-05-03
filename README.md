@@ -1310,6 +1310,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/informatico-madrid/blackwell-linux-infra-optimizer"> Blackwell Linux Infra Optimizer </a> </td>
         <td> Optimized vLLM stack for NVIDIA Blackwell (SM_120) and Linux Kernel 6.14. Achieving 59.0 t/s on DeepSeek-R1-32B using native FlashInfer backend. </td>
     </tr>
+    <tr>
+        <td> <img src="https://img.shields.io/badge/Z-Search-0f766e.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/wd041216-bit/zero-api-key-web-search"> Zero-API-Key Web Search </a> </td>
+        <td> Search infrastructure for AI agents: MCP-native web search, claim verification, page reading, and citation-ready evidence reports. Free by default (DuckDuckGo), with optional production-grade Bright Data SERP (7 engines) and Web Unlocker. Works with DeepSeek via MCP or function calling. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
