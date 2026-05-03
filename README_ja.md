@@ -404,6 +404,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
     </tr>
+    <tr>
+        <td><img src="docs/Tokeny/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.tokeny-ai.com/">Tokeny</a></td>
+        <td>Tokeny は、ローカルで動作する AI エージェントのデスクトップアプリです。単なるチャットを超え、ツールの呼び出し、ファイルの読み書き、コマンドの実行、マルチステップの計画と意思決定など、実際の操作を遂行できます。詳細は<a href="https://www.tokeny-ai.com/docs">ドキュメント</a>を参照してください。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

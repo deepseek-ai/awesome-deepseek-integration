@@ -470,6 +470,11 @@
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> 基於 DeepSeek 的 AI 主持人海龜湯 / 側向思維解謎產品，可單人或者多人遊玩。AI 進行控場與吐槽，圍繞「是 / 否 / 無關」的問答推進推理；提供沉浸式玩法（更強劇情氛圍與節奏引導）、引導提示與防卡關機制，同時結合向量檢索 + DeepSeek 進行題目去重，並提供內容審核能力。適合輕量腦洞訓練與在線陪玩。 </td>
     </tr>
+    <tr>
+        <td><img src="docs/Tokeny/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.tokeny-ai.com/">Tokeny</a></td>
+        <td>Tokeny 是一款本地執行的 AI Agent 桌面應用，不只是聊天，更能真正執行操作——調用工具、讀寫檔案、執行命令、多步規劃與決策。詳見<a href="https://www.tokeny-ai.com/docs">文檔</a>。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
