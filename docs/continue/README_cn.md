@@ -1,4 +1,4 @@
-<img src="https://github.com/continuedev/continue/blob/main/docs/static/img/logo.png?raw=true" width="64" height="auto" />
+<img src="https://github.com/continuedev/continue/blob/main/docs/logo/light.svg?raw=true" width="64" height="auto" />
 
 # [Continue](https://continue.dev/)
 
@@ -20,21 +20,32 @@ name: Local Assistant
 version: 1.0.0
 schema: v1
 models:
-  - name: DeepSeek
+  - name: DeepSeek V4 Pro
     provider: deepseek
-    model: deepseek-chat
+    model: deepseek-v4-pro
     apiKey: YOUR_DEEPSEEK_API_KEY
-    apiBase: https://api.deepseek.com/beta
+    apiBase: https://api.deepseek.com
     roles:
       - chat
       - edit
       - apply
       - summarize
-      - autocomplete
     contextLength: 128000
     defaultCompletionOptions:
       temperature: 0.0
-      maxTokens: 256
+      maxTokens: 4096
+  - name: DeepSeek V4 Flash FIM
+    provider: deepseek
+    model: deepseek-v4-flash
+    apiKey: YOUR_DEEPSEEK_API_KEY
+    apiBase: https://api.deepseek.com
+    roles:
+      - autocomplete
+    contextLength: 1048576
+    defaultCompletionOptions:
+      temperature: 0.0
+      maxTokens: 4096
+      maxPromptTokens: 65536
 context:
   - provider: code
   - provider: docs
@@ -43,4 +54,5 @@ context:
   - provider: problems
   - provider: folder
   - provider: codebase
+
 ```
