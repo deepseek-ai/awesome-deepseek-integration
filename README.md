@@ -560,7 +560,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td><img src="docs/ByeType/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ByeType/README.md">ByeType</a></td>
-        <td><a href="https://github.com/lixiaojie001/byetype">ByeType</a> is an AI voice input and image text extraction tool driven by editable Markdown prompts. Customize vocabulary, formatting rules, and output styles to match your jargon and writing habits. Press a hotkey to dictate, or F6 to capture a screen region — the AI returns clean, formatted text auto-pasted into any app. Supports DeepSeek and other multimodal models via your own API key. Available on macOS, Windows, and iOS Shortcuts.</td>
+        <td><a href="https://github.com/lixiaojie001/byetype">ByeType</a> is an AI voice input and image text extraction tool driven by editable Markdown prompts. Customize vocabulary, formatting rules, and output styles to match your jargon and writing habits. Press your hotkey to dictate, or capture a screen region — the AI returns clean, formatted text auto-pasted into any app. Supports DeepSeek and other multimodal models via your own API key. Available on macOS, Windows, and iOS Shortcuts.</td>
     </tr>
 </table>
 

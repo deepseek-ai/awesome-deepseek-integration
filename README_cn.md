@@ -474,7 +474,7 @@
     <tr>
         <td><img src="docs/ByeType/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ByeType/README_cn.md">ByeType</a></td>
-        <td><a href="https://github.com/lixiaojie001/byetype">ByeType</a> 是一款由 Markdown 提示词驱动的 AI 语音输入与图像文字提取工具。通过编辑提示词自定义专有词汇、格式化规则和输出风格，让结果贴合你的行业术语和写作习惯。按下快捷键即可说话转写，或按 F6 截图取词，AI 返回干净、已格式化的文本并自动粘贴到任何输入框。支持使用你自己的 API Key 调用 DeepSeek 及多模态模型，覆盖 macOS、Windows 和 iOS 快捷指令。</td>
+        <td><a href="https://github.com/lixiaojie001/byetype">ByeType</a> 是一款由 Markdown 提示词驱动的 AI 语音输入与图像文字提取工具。通过编辑提示词自定义专有词汇、格式化规则和输出风格，让结果贴合你的行业术语和写作习惯。按下自定义快捷键即可说话转写或截图取词，AI 返回干净、已格式化的文本并自动粘贴到任何输入框。支持使用你自己的 API Key 调用 DeepSeek 及多模态模型，覆盖 macOS、Windows 和 iOS 快捷指令。</td>
     </tr>
 </table>
 

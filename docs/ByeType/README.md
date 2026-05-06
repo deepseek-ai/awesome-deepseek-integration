@@ -11,8 +11,8 @@ ByeType talks to AI providers via standard APIs and supports DeepSeek alongside 
 ## Features
 
 - 🎙️ **Voice to text** — press a hotkey, speak, get clean text auto-pasted into any app
-- 🖼️ **Image text extraction** — press F6 to capture a region, AI reads the text and copies it to your clipboard. Smart enough to merge hard line breaks in terminal/PDF screenshots and reconstruct code blocks split by line numbers
-- 📝 **Markdown-driven prompts** — vocabulary, formatting rules, and tone are all editable Markdown files. Switch between styles (casual, formal, translation, email polish, etc.) with different hotkeys
+- 🖼️ **Image text extraction** — capture a screen region with your hotkey, AI reads the text and copies it to your clipboard. Smart enough to merge hard line breaks in terminal/PDF screenshots and reconstruct code blocks split by line numbers
+- 📝 **Markdown-driven prompts** — vocabulary, formatting rules, and tone are all editable Markdown files. Bind different output styles (casual, formal, translation, email polish, etc.) to your own hotkeys for one-press switching
 - 🌐 **Cross-platform** — macOS, Windows, and iPhone / iPad via iOS Shortcuts
 - 🪶 **Lightweight** — ~8 MB install, no local model files
 
