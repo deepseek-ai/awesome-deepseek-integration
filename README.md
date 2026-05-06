@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td><img src="docs/ByeType/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/ByeType/README.md">ByeType</a></td>
+        <td><a href="https://github.com/lixiaojie001/byetype">ByeType</a> is an AI voice input and image text extraction tool driven by editable Markdown prompts. Customize vocabulary, formatting rules, and output styles to match your jargon and writing habits. Press your hotkey to dictate, or capture a screen region — the AI returns clean, formatted text auto-pasted into any app. Supports DeepSeek and other multimodal models via your own API key. Available on macOS, Windows, and iOS Shortcuts.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
