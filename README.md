@@ -990,6 +990,12 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <table>
     <tr>
+        <td> </td>
+        <td> <a href="https://github.com/iqmeta/vs2026-copilot-deepseek-v4"> C# DeepSeek Github Copilot Proxy for Visual Studio 2026 Ollama Provider </a> </td>
+        <td> A high-performance, ultra-low-overhead HTTP proxy that connects GitHub Copilot and Ollama clients to the DeepSeek API. Built with .NET 10 and ASP.NET Core minimal APIs for maximum throughput and minimal allocations.
+</td>
+    </tr>
+    <tr>
         <td> <img src="https://merryyellow.gallerycdn.vsassets.io/extensions/merryyellow/comment2gpt/2.0.5/1739475434185/Microsoft.VisualStudio.Services.Icons.Default" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://marketplace.visualstudio.com/items?itemName=MerryYellow.Comment2GPT"> Comment2GPT </a> </td>
         <td> Use OpenAI ChatGPT, Google Gemini, Anthropic Claude, DeepSeek and Ollama through your comments </td>
