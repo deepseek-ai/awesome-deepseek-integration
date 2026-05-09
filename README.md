@@ -1241,6 +1241,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> 🚀 Sharpen Your Code, Ship with Confidence – Elevate Your Workflow with Deepseek Code Review 🚀 </td>
     </tr>
     <tr>
+        <td> DR </td>
+        <td> <a href="https://github.com/jolovicdev/ds-review"> DS-Review </a> </td>
+        <td> Focused GitHub PR reviewer built on DeepSeek-V4 and Blackgeorge. Runs as a BYOK GitHub Action or self-hosted GitHub App, with diff-scoped findings and inline review comments. </td>
+    </tr>
+    <tr>
         <td> <img src="http://gptlocalhost.com/wp-content/uploads/2025/01/icon_1024.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://youtu.be/T1my2gqi-7Q"> GPTLocalost </a> </td>
         <td> Use DeepSeek-R1 in Microsoft Word Locally. No inference costs. </td>
