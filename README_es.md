@@ -386,6 +386,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td>Esta extensión puede ayudar a los desarrolladores a traducir anotaciones, cadenas, consejos de código, mensajes de error y nombres de variables en el Código.</td>
     </tr>
     <tr>
+        <td><img src="./docs/doco_translate/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://docotranslate.com">Doco Translate</a></td>
+        <td><a href="https://docotranslate.com">Doco Translate</a> es una aplicación de traducción de PDF para macOS que preserva el diseño del documento mientras traduce el contenido, con soporte para múltiples proveedores de LLM, incluyendo DeepSeek.</td>
+    </tr>
+    <tr>
         <td><img src="https://github.com/Richasy/Bili.Copilot/raw/master/assets/StoreLogo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/Richasy/Bili.Copilot">Bili.Copilot</a></td>
         <td>Cliente de escritorio Windows de terceros en la estación b, una aplicación nativa construida con el SDK de la aplicación Windows.</td>

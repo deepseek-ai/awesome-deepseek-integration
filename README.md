@@ -437,6 +437,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td>PDF Math Translate is an AI-based full-text bilingual translation tool that fully preserves the layout of PDF documents.</td>
     </tr>
     <tr>
+        <td><img src="./docs/doco_translate/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://docotranslate.com">Doco Translate</a></td>
+        <td><a href="https://docotranslate.com">Doco Translate</a> is a macOS PDF translation app that preserves document layout while translating content with multiple LLM providers, including DeepSeek.</td>
+    </tr>
+    <tr>
         <td><img src="https://github.com/Richasy/Bili.Copilot/raw/master/assets/StoreLogo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/Richasy/Bili.Copilot">Bili.Copilot</a></td>
         <td>Bilibili third-party Windows desktop client, a native application built with the Windows App SDK.</td>

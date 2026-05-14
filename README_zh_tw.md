@@ -415,6 +415,11 @@
         <td> PDFMathTranslate 是一款以 AI 為基礎的全文雙語翻譯工具，可完全保留 PDF 文件的版面設計。</td>
     </tr>
     <tr>
+        <td><img src="./docs/doco_translate/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://docotranslate.com">Doco Translate</a></td>
+        <td><a href="https://docotranslate.com">Doco Translate</a> 是一款 macOS PDF 翻譯應用，能夠在翻譯內容的同時保留文件佈局，支援包括 DeepSeek 在內的多種 LLM 服務商。</td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/Richasy/Bili.Copilot/raw/master/assets/StoreLogo.png" alt="Icon" width="64" height="auto" /></td>
         <td> <a href="https://github.com/Richasy/Bili.Copilot">嗶哩助理</a></td>
         <td> Bilibili 第三方 Windows 桌面用戶端，使用 Windows App SDK 構建的原生應用。</td>
