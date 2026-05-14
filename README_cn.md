@@ -352,6 +352,11 @@
         <td>PDFMathTranslate是一款基于 AI 完整保留排版的 PDF 文档全文双语翻译工具。</td>
     </tr>
     <tr>
+        <td><img src="./docs/doco_translate/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://docotranslate.com">Doco Translate</a></td>
+        <td><a href="https://docotranslate.com">Doco Translate</a> 是一款 macOS PDF 翻译应用，能够在翻译内容的同时保留文档布局，支持包括 DeepSeek 在内的多种 LLM 服务商。</td>
+    </tr>
+    <tr>
         <td><img src="https://github.com/Richasy/Bili.Copilot/raw/master/assets/StoreLogo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/Richasy/Bili.Copilot">哔哩助理</a></td>
         <td>B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用。</td>
