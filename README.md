@@ -1148,6 +1148,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
+    <tr>
+        <td style="font-size: 64px">&#9889;</td>
+        <td> <a href="https://quicksilverpro.io/"> QuickSilver Pro </a> </td>
+        <td> An OpenAI-compatible inference API serving the DeepSeek V3 and R1 series alongside other open-weight LLMs and the Google Gemini family. Drop-in: only the base URL and key change.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
