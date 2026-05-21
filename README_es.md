@@ -509,6 +509,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> es un marco flexible y de alto rendimiento para construir, ejecutar y evaluar agentes autónomos. Más allá de encabezar los puntos de referencia (benchmarks), este marco ofrece capacidades potentes para agentes, como análisis de datos, procesamiento de archivos e investigación profunda, todo ello con modelos de código abierto. </td>
     </tr>
+    <tr>
+        <td> <img src="docs/deepseek-kit/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/deepseek-kit/README.md">deepseek-kit</a> </td>
+        <td>Un marco de Agent TypeScript ligero con adaptación nativa a DeepSeek. Llamadas a herramientas precisas en modo de pensamiento, salida estructurada confiable y máxima tasa de acierto de caché.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
