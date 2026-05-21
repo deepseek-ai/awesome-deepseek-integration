@@ -1090,7 +1090,14 @@ The purpose is to build infrastructure in the field of large models, through the
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.cursor.com/"> Cursor </a> </td>
-        <td>‍The AI Code Editor based on VS Code</td>
+        <td>
+            The AI Code Editor based on VS Code<br />
+            <strong>Community:</strong>
+            <a href="https://forum.cursor.com/t/using-deepseek-v4-pro-cloud-in-cursor-via-local-ollama-and-gitlens-lessons-from-the-reasoning-content-mess/159239">
+                DeepSeek V4 (<code>deepseek-v4-pro:cloud</code>) through local Ollama + GitLens
+            </a>.
+            Useful when direct DeepSeek routing hits thinking/tool (<code>reasoning_content</code>) friction; includes agent-focused notes and calls out subagent limits.
+        </td>
     </tr>
     <tr>
         <td> <img src="https://exafunction.github.io/public/images/windsurf/windsurf-app-icon.svg" alt="Icon" width="64" height="auto" /> </td>
