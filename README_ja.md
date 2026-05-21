@@ -451,6 +451,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> は、自律エージェントを構築、実行、および評価するための柔軟で高性能なフレームワークです。ベンチマークテストで最高の成績を収めるだけでなく、このフレームワークは、オープンソースモデルを使用して、データ分析、ファイル処理、詳細な調査などの強力なエージェント機能を提供します。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/deepseek-kit/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/deepseek-kit/README.md">deepseek-kit</a> </td>
+        <td>DeepSeekにネイティブレベルで適応した軽量TypeScript Agentフレームワーク。思考モードでの正確なツール呼び出し、信頼性の高い構造化出力、最大キャッシュヒット率を実現。</td>
+    </tr>
 
 </table>
 

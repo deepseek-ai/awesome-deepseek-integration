@@ -547,6 +547,11 @@
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> 是一個靈活、高性能的框架，用於構建、運行和評估自主智能體。除了在基準測試中名列前茅，該框架還提供了強大的智能體能力，採用開源模型即可實現例如數據分析、文件處理、深度研究等功能。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/deepseek-kit/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/deepseek-kit/README_cn.md">deepseek-kit</a> </td>
+        <td>輕量級 TypeScript Agent 框架，原生級 DeepSeek 適配。思維模式精準工具呼叫、可靠結構化輸出、最大快取命中率。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>

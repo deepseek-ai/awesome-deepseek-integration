@@ -620,6 +620,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatrices is a lightweight, high-performance, scalable, and open source AI application rapid building platform designed to provide developers with an efficient and convenient AI application development experience. It integrates multiple advanced technologies and tools to help users quickly build, deploy, and maintain AI applications without having to write complex code from scratch.</td>
     </tr>
+    <tr>
+        <td> <img src="docs/deepseek-kit/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/deepseek-kit/README.md">deepseek-kit</a> </td>
+        <td>A lightweight TypeScript Agent framework with native-level DeepSeek adaptation. Precise tool calling in thinking mode, reliable structured output, and maximum cache hit rate.</td>
+    </tr>
 </table>
 
 ### RAG frameworks
