@@ -112,6 +112,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td><a href="./docs/xhai_browser/README.md">xhai Browser</a></td>
         <td>xhai Browser is an Android desktop management & AI browser, DeepSeek is the default AI dialog engine.It has the ultimate performance (0.2 seconds to start), slim size (apk 3M), no ads, ultra-fast ad blocking, multi-screen classification, screen navigation, multi-search box, a box multiple search!</td>
     </tr>
+ <tr>
+    <td><img src="https://raw.githubusercontent.com/rajit2004/DeepSeekWidget/main/screenshots/deepseek.jpg" alt="DeepSeekWidget" width="64" height="auto" /></td>
+    <td><a href="https://github.com/rajit2004/DeepSeekWidget">DeepSeekWidget</a></td>
+    <td>Android home screen widget for one‑tap access to DeepSeek chat with voice input support.</td>
+</tr>
     <tr>
         <td><img src="https://i.imgur.com/FkbmMVG.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://intellibar.app/">IntelliBar</a></td>
