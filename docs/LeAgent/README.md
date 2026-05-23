@@ -21,7 +21,7 @@ Configure in Settings → Provider Management → add DeepSeek with your API key
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/vixues/LeAgent/main/docs/assets/screenshots/hero-en.jpg" width="720" />
+<img src="https://i.imgur.com/rcNFnFd.png" width="720" />
 
 ## Download & Get Started
 
