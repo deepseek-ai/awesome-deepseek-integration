@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/LeAgent/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/vixues/LeAgent">LeAgent</a> </td>
+        <td> LeAgent 是一款开源桌面 AI 智能体，集多轮对话、可视化工作流编辑器、100+ 内置工具、Agent Skills、MCP 及声明式规则引擎于一体。原生支持 DeepSeek 作为首选大模型提供商，具备分层模型路由和认知记忆能力。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
