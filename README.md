@@ -1102,6 +1102,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="docs/wusigram/README.md"> 无思微程序 </a> </td>
         <td>A mobile AI code writing and running tool. DeepSeek Programming Companion</td>
     </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/3425350?v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/LichAmnesia/openseek"> OpenSeek </a> </td>
+        <td>Open-source TUI coding agent (TypeScript / Bun) with native DeepSeek V4 support, real-time prefix cache hit rate display in cost meter, real MCP client + server, LSP feedback loop (tsserver / rust-analyzer / pyright / gopls / clangd), and 27 providers. Defaults to DeepSeek V4. Apache-2.0, <code>npm install -g openseek</code>.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>

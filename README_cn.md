@@ -901,6 +901,11 @@
         <td> <a href="docs/wusigram/README_cn.md"> 无思微程序 </a> </td>
         <td> 移动端AI编程和运行工具，DeepSeek编程搭档 </td>
     </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/3425350?v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/LichAmnesia/openseek"> OpenSeek </a> </td>
+        <td> 开源 TUI 编程 Agent（TypeScript / Bun），原生支持 DeepSeek V4，实时显示 prefix cache 命中率，真 MCP 客户端 + LSP feedback loop（tsserver / rust-analyzer / pyright / gopls / clangd），27 个 provider，默认走 DeepSeek V4。Apache-2.0，<code>npm install -g openseek</code>。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
