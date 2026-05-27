@@ -404,6 +404,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
     </tr>
+    <tr>
+        <td> <img src="docs/FateStar/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://fatestar.top">FateStar</a> </td>
+        <td> <a href="https://fatestar.top">FateStar</a> は紫微斗数（三合派）、八字、西洋占星を統合した中国占星 AI プラットフォーム。バックエンドは DeepSeek-V4：<code>deepseek-v4-pro</code>（Thinking モード）でチェーン・オブ・ソート推論、<code>deepseek-v4-flash</code> で基本的な命盤生成。1M コンテキストで中国術数の全典籍を一度に投入でき、解読は原文へ遡って引用可能。fatestar.top のモデル選択 UI では 2 つの V4 エンドポイントをユーザーに直接公開。DeepSeek が運用コストの約 90% を占める。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

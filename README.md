@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td> <img src="docs/FateStar/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/FateStar/README.md">FateStar</a> </td>
+        <td> <a href="https://fatestar.top">FateStar</a> is a Chinese metaphysics AI platform combining Zi Wei Dou Shu (San He school), BaZi (Four Pillars), and Western astrology. Runs on DeepSeek-V4: <code>deepseek-v4-pro</code> (Thinking mode) for chain-of-thought chart inference, <code>deepseek-v4-flash</code> (Non-Thinking) for fast chart generation. The 1M context window fits the full Chinese metaphysics canon in a single prompt; readings cite back to canonical text. The fatestar.top model selector exposes both V4 endpoints to end users. DeepSeek accounts for approximately 90% of our inference cost.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>

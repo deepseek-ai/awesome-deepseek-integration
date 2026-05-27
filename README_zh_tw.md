@@ -470,6 +470,11 @@
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> 基於 DeepSeek 的 AI 主持人海龜湯 / 側向思維解謎產品，可單人或者多人遊玩。AI 進行控場與吐槽，圍繞「是 / 否 / 無關」的問答推進推理；提供沉浸式玩法（更強劇情氛圍與節奏引導）、引導提示與防卡關機制，同時結合向量檢索 + DeepSeek 進行題目去重，並提供內容審核能力。適合輕量腦洞訓練與在線陪玩。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/FateStar/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://fatestar.top">FateStar</a> </td>
+        <td> <a href="https://fatestar.top">FateStar</a> 是一個把紫微斗數（三合派）、八字、西洋占星揉在一起的中文命理 AI 平台。後端跑 DeepSeek-V4：<code>deepseek-v4-pro</code>（Thinking 模式）跑鏈式推理，<code>deepseek-v4-flash</code> 跑基礎命盤。1M 上下文一次塞下整套中文術數典籍，解讀能溯源到古書原文。fatestar.top 底部模型選項直接暴露兩個 V4 端點給使用者。DeepSeek 占營運成本約 90%。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
