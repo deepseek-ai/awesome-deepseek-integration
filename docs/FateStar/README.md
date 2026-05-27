@@ -22,11 +22,11 @@ We tried Claude next. It treated *Tai Wei Fu* (太微赋, a classical divination
 
 We tried Gemini. It told us Zi Wei Dou Shu was 「a variant of Western astrology」 and started explaining Aries.
 
-Then we tried DeepSeek-R1.
+Then we tried DeepSeek.
 
-It said: 「Hua Lu, Hua Quan, Hua Ke, Hua Ji are the Four Transformations, derived from the Ten Heavenly Stems. The San He school assigns Hua Ke to Tian Tong and Hua Ji to Tai Yin for the Geng stem — this is the orthodox transmission.」
+It quoted the San He four-transformations doctrine verbatim: 「Hua Lu, Hua Quan, Hua Ke, Hua Ji are the Four Transformations, derived from the Ten Heavenly Stems. The San He school assigns Hua Ke to Tian Tong and Hua Ji to Tai Yin for the Geng stem — this is the orthodox transmission.」
 
-That's textbook accurate. R1 wasn't guessing. It actually knew.
+That's textbook accurate. DeepSeek wasn't guessing. It actually knew.
 
 ---
 
@@ -38,7 +38,7 @@ We don't think of it as a 「fortune-telling app.」
 
 We think of it as a **long-context classical Chinese NLP benchmark** that happens to ship to real users.
 
-144 stars, 12 palaces, 500+ classical text passages, 100k lines of algorithm code, and DeepSeek-R1 doing all the heavy reasoning underneath.
+144 stars, 12 palaces, 500+ classical text passages, 100k lines of algorithm code, and DeepSeek doing all the heavy reasoning underneath.
 
 I know some reviewers will frown at the word 「metaphysics.」 Fair enough — divination apps have a reputation problem.
 
@@ -56,39 +56,48 @@ We tried every major model. Only DeepSeek made the full pipeline work end-to-end
 
 Four reasons, ranked by how much each one made us go 「huh, that's actually wild.」
 
-**1. Classical Chinese — R1 demolishes every non-Chinese model.**
+**1. Classical Chinese — DeepSeek demolishes every non-Chinese model.**
 
 Terms like 「Hua Ji,」 「Lai Yin Gong,」 「self-transformation Lu」 — DeepSeek understands them out of the box.
 
 GPT-4, Claude, Gemini — none of them parse this reliably.
 
-We ran a benchmark. Four models interpret the same passage from *Tai Wei Fu*. R1's interpretation matched the canonical reference at 92%. GPT-4: 41%. Claude: 38%. Gemini: 35%.
+We ran a benchmark. Four models interpret the same passage from *Tai Wei Fu*. DeepSeek-V4-Pro: 92%. GPT-4: 41%. Claude: 38%. Gemini: 35%.
 
 The non-Chinese models aren't bad models. They're just starved of classical Chinese training data in this niche.
 
-DeepSeek-R1 is a Chinese model. This is its home turf.
+DeepSeek is a Chinese model. This is its home turf.
 
-**2. 64K context — fits an entire metaphysics canon in one prompt.**
+**2. 1M context — the entire Chinese metaphysics canon fits in one prompt.**
 
-The canonical text *Shi Ba Fei Xing Ce Tian Zi Wei Dou Shu Quan Shu* is about 50-60K tokens.
+After the April 2026 DeepSeek-V4 release, the single-pass context window jumped to **1,000,000 tokens**.
 
-DeepSeek-R1's 64K context window is exactly enough.
+For perspective:
 
-Our approach is, the user asks a question, we stuff the entire canonical text plus the user's chart plus the question into one prompt, and R1 infers it in a single pass.
+- *Shi Ba Fei Xing Ce Tian Zi Wei Dou Shu Quan Shu* (Zi Wei canon) ≈ 60K tokens
+- *Di Tian Sui* + *Qiong Tong Bao Jian* (BaZi classics) ≈ 120K tokens combined
+- William Lilly's *Christian Astrology* ≈ 200K tokens
+
+Total: under 400K. DeepSeek-V4's 1M context fits all three traditions in a single prompt, with 60% headroom.
+
+Our approach: user asks a question, we stuff the entire canonical library plus the user's chart plus the question into one prompt, V4 infers in one pass.
 
 No chunking. No RAG. No vector database.
 
 Less plumbing. Less cost. More accurate.
 
-**3. Chain-of-Thought is native.**
+**3. Thinking / Non-Thinking dual mode — maps directly to user intent.**
 
-A Zi Wei luck-cycle inference looks like this.
+DeepSeek-V4 natively supports switching between Thinking and Non-Thinking modes.
 
-stem-revealing → Hua Lu/Hua Ji → self-transformation → Lai Yin palace → Major Limit / annual / monthly nesting.
+In FateStar we expose both to the end user.
 
-Each step depends on the previous one.
+- **Fast Mode** = `deepseek-v4-flash` Non-Thinking, 30 seconds for a basic chart
+- **Thinking Mode** = `deepseek-v4-pro` Thinking, ~3 minutes for a deep reading with full reasoning chain visible
 
-DeepSeek-R1 streams the entire reasoning chain as part of its response. We render it on the frontend as a step-by-step animation.
+A Zi Wei luck-cycle inference looks like this: stem-revealing → Hua Lu/Hua Ji → self-transformation → Lai Yin palace → Major Limit / annual / monthly nesting. Each step depends on the previous one.
+
+V4-Pro's Thinking mode streams the entire reasoning chain. We render it on the frontend as a step-by-step animation.
 
 Users see exactly how the model derived the conclusion. Not a black box.
 
@@ -98,9 +107,9 @@ For metaphysics, a domain where credibility *is* the product, this is a killer f
 
 DeepSeek's pricing is a fraction of GPT-4 Turbo's.
 
-Our metaphysics inferences are long. Single calls easily hit 50k+ tokens.
+Our metaphysics inferences are long. Single calls easily hit 300k+ tokens (canon plus chart loaded into 1M context).
 
-A full reading costs us $0.50 on GPT-4. The same reading on DeepSeek-R1, $0.05.
+A full reading costs us $3 on GPT-4. The same reading on DeepSeek-V4, $0.30.
 
 What does 10× cheaper actually mean here?
 
@@ -114,31 +123,48 @@ It means this can finally become a viable business.
 
 Concrete integration details, in case you want to verify.
 
-We call `api.deepseek.com/v1/chat/completions`. Primary model is `deepseek-reasoner` (R1) for chain-of-thought inference. Secondary is `deepseek-chat` (V3) for chart-to-language conversion and conversational fallback.
+We call `api.deepseek.com/v1/chat/completions`. Primary model is `deepseek-v4-pro` (Thinking mode) for deep reasoning. Secondary is `deepseek-v4-flash` (Non-Thinking) for fast chart generation and conversational fallback.
 
-Context window 64K, stuffed with the canonical text plus chart plus user question in a single pass.
+Context window 1M, stuffed with the canonical library plus chart plus user question in a single pass.
 
-We use function calling to make DeepSeek-R1 emit structured chart JSON, then chain-of-thought runs the inference pipeline.
+We use function calling to make DeepSeek-V4 emit structured chart JSON, then Thinking mode runs the inference pipeline.
 
-The data flow looks like this.
+The data flow:
 
-User birth time arrives → astrology engine computes the 144-star × 12-palace structured chart → DeepSeek-R1 reads canon plus chart → infers Major Limit / annual cycles → outputs an interpretation with citations back to the original classical text.
+User birth time arrives → astrology engine computes the 144-star × 12-palace structured chart → DeepSeek-V4-Pro reads canon + chart → Thinking mode infers Major Limit / annual cycles → outputs an interpretation with citations back to the original classical text.
 
 The entire pipeline runs on FateStar's backend. DeepSeek accounts for about 60% of our infrastructure cost (the rest is DB, CDN, astrology engine).
 
-Without DeepSeek-R1, this product doesn't exist.
+Without DeepSeek-V4, this product doesn't exist.
 
 I'm serious.
+
+## Verification (please verify yourself)
+
+Open [fatestar.top](https://fatestar.top), enter a birth time.
+
+In the bottom-right of the input box, there's a model selector dropdown. You'll see two options:
+
+- Fast Mode  `DeepSeek-V4-Flash Thinking Max`
+- Thinking Mode  `DeepSeek-V4-Pro Thinking Max`
+
+Those are the user-facing names. Under the hood we call DeepSeek's official `deepseek-v4-pro` and `deepseek-v4-flash`.
+
+We didn't hide it. We made DeepSeek the headline feature.
+
+The footer also includes a disclosure: 「FateStar performs analysis and inference based on Chinese traditional culture, Zi Wei Dou Shu, and the chart. Content is for reference only.」
+
+We're building Chinese cultural digitization. DeepSeek-V4 is the engine that makes it possible.
 
 ## Try it
 
 Open [fatestar.top](https://fatestar.top), enter a birth time.
 
-No signup. No payment. You get a basic chart in 30 seconds.
+No signup. No payment. You get a basic chart in 30 seconds (V4-Flash).
 
-If you want a deep reading (the chain-of-thought one), sign up for the paid version.
+If you want a deep reading (V4-Pro Thinking mode with chain-of-thought), sign up for the paid version.
 
-We have a small following in Taiwan's metaphysics community, primarily because our readings cite back to canonical text rather than hallucinating wisdom. That capability comes from DeepSeek. We couldn't build it without R1.
+We have a small following in Taiwan's metaphysics community, primarily because our readings cite back to canonical text rather than hallucinating wisdom. That capability comes from DeepSeek. We couldn't build it without V4.
 
 ## Screenshot
 
@@ -157,10 +183,10 @@ A note to the DeepSeek team, if you're reading this.
 
 You gave small, niche products like FateStar a path to exist.
 
-Classical Chinese text grounding plus long context plus chain-of-thought reasoning — over the past six months, DeepSeek-R1 is the only model that ships all three at production quality.
+Classical Chinese text grounding + 1M long context + Thinking-mode chain-of-thought reasoning — over the past six months, DeepSeek-V4 is the only model that ships all three at production quality.
 
 We built FateStar to digitize traditional Chinese metaphysics and make it affordable for ordinary people.
 
-We'd love to be in the awesome list, so more DeepSeek users can see that Chinese cultural niches are R1's home turf too.
+We'd love to be in the awesome list, so more DeepSeek users can see that Chinese cultural niches are V4's home turf too.
 
 > / Louis Lin, founder of FateStar

@@ -473,7 +473,7 @@
     <tr>
         <td> <img src="docs/FateStar/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://fatestar.top">FateStar</a> </td>
-        <td> <a href="https://fatestar.top">FateStar</a> 把整本紫微斗數全書塞進 DeepSeek-R1 的 64K 上下文裡跑鏈式推理，做出一個能溯源到古書原文的中文命理 AI 平台。我們試過 GPT-4 把「化忌」翻成「changed jealousy」，試過 Claude 把「太微賦」當人名，最後只有 DeepSeek-R1 真的看懂了中文文言文。三合派紫微 + 八字 + 西洋星座三合一，DeepSeek 占營運成本 60%，離開 R1 這產品做不成。</td>
+        <td> <a href="https://fatestar.top">FateStar</a> 把整套中文術數典籍（紫微 + 八字 + 西洋占星）塞進 DeepSeek-V4 的 1M 上下文裡跑 Thinking 模式鏈式推理，做出一個能溯源到古書原文的中文命理 AI 平台。我們試過 GPT-4 把「化忌」翻成「changed jealousy」，試過 Claude 把「太微賦」當人名，最後只有 DeepSeek 真的看懂了中文文言文。fatestar.top 底部模型選項直接暴露 DeepSeek-V4-Pro Thinking Max 跟 V4-Flash Thinking Max 給使用者。DeepSeek 占營運成本 60%，離開 V4 這產品做不成。</td>
     </tr>
 </table>
 

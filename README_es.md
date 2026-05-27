@@ -435,7 +435,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <tr>
         <td> <img src="docs/FateStar/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://fatestar.top">FateStar</a> </td>
-        <td> <a href="https://fatestar.top">FateStar</a> mete el canon completo del Zi Wei Dou Shu (astrología purpúrea china) en los 64K de contexto de DeepSeek-R1 y ejecuta razonamiento Chain-of-Thought con citas al texto clásico original. Probamos GPT-4 (tradujo "Hua Ji" como "changed jealousy"), Claude (trató <i>Tai Wei Fu</i> como nombre de persona), Gemini (confundió Zi Wei con astrología occidental). Solo DeepSeek-R1 entendió el chino clásico de verdad. Zi Wei (escuela San He) + BaZi + astrología occidental en una sola plataforma. DeepSeek representa el 60% del coste de infraestructura — sin R1, este producto no existe.</td>
+        <td> <a href="https://fatestar.top">FateStar</a> mete el canon completo de la metafísica china (Zi Wei + BaZi + astrología occidental) en el contexto de 1M de DeepSeek-V4 y ejecuta razonamiento Chain-of-Thought en modo Thinking con citas al texto clásico original. Probamos GPT-4 (tradujo "Hua Ji" como "changed jealousy"), Claude (trató <i>Tai Wei Fu</i> como nombre de persona), Gemini (confundió Zi Wei con astrología occidental). Solo DeepSeek entendió el chino clásico de verdad. El selector de modelos de fatestar.top expone <code>DeepSeek-V4-Pro Thinking Max</code> y <code>V4-Flash Thinking Max</code> directamente al usuario. DeepSeek = 60% de nuestro coste de infraestructura — sin V4, este producto no existe.</td>
     </tr>
 </table>
 
