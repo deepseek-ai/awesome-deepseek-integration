@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/FateStar/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/FateStar/README_cn.md">FateStar</a> </td>
+        <td> <a href="https://fatestar.top">FateStar</a> 是一款基于 DeepSeek 的 AI 命理平台，主打三合派紫微斗数 + 八字 + 西洋星座三合一解读，通过双轨干支算法与古书锚定（太微赋、紫微斗数全书等），输出有出处、有逻辑、可复算的命理报告。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

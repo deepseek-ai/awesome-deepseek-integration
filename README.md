@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td> <img src="docs/FateStar/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/FateStar/README.md">FateStar</a> </td>
+        <td> <a href="https://fatestar.top">FateStar</a> is a DeepSeek-powered AI fortune-telling platform that unifies Zi Wei Dou Shu (Purple Star Astrology, San He school), BaZi (Four Pillars), and Western astrology in a single workspace. A dual-track Gan Zhi engine and classical-text grounding (Tai Wei Fu, Zi Wei Dou Shu Quan Shu) produce readings that are cited, auditable, and reproducible.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
