@@ -12,15 +12,13 @@
 
 ---
 
-Last year we asked GPT-4 to read a passage from *Zi Wei Dou Shu Quan Shu*, the foundational text of Chinese Purple Star metaphysics.
+Last year we tried feeding *Zi Wei Dou Shu Quan Shu*, the foundational text of Chinese Purple Star metaphysics, to several major LLMs.
 
-It translated 「Hua Ji」 (化忌, a metaphysical transformation operator) as 「changed jealousy.」
+The results were rough.
 
-I knew, in that moment, we needed a different model.
+Classical Chinese terms came back as nonsense English. Classical text titles got mistaken for people's names. One model insisted Zi Wei Dou Shu is "just a variant of Western astrology" and started explaining Aries.
 
-We tried Claude next. It treated *Tai Wei Fu* (太微赋, a classical divination treatise) as if it were a person's name.
-
-We tried Gemini. It told us Zi Wei Dou Shu was 「a variant of Western astrology」 and started explaining Aries.
+That's when we knew. To actually understand classical Chinese metaphysics, we needed a model raised on Chinese culture.
 
 Then we tried DeepSeek.
 
@@ -48,23 +46,21 @@ It's literally a **classical Chinese text grounding + structured multi-step reas
 
 And the only model that hits this benchmark, as of today, is DeepSeek.
 
-## Why DeepSeek (not GPT, not Claude, not Gemini)
+## Why DeepSeek
 
 We're not on DeepSeek's payroll. We honestly wish we were.
 
-We tried every major model. Only DeepSeek made the full pipeline work end-to-end.
+We tried every major LLM. Only DeepSeek made the full pipeline work end-to-end.
 
 Four reasons, ranked by how much each one made us go 「huh, that's actually wild.」
 
-**1. Classical Chinese — DeepSeek demolishes every non-Chinese model.**
+**1. Classical Chinese — DeepSeek is the home-turf model.**
 
 Terms like 「Hua Ji,」 「Lai Yin Gong,」 「self-transformation Lu」 — DeepSeek understands them out of the box.
 
-GPT-4, Claude, Gemini — none of them parse this reliably.
+We didn't run a rigorous benchmark, but the gap is obvious from daily use. Hand the same *Tai Wei Fu* passage to DeepSeek-V4 and it returns the San He doctrine verbatim, with palace numbering and stem-transformation references intact.
 
-We didn't run a rigorous benchmark, but the gap is obvious from daily use. Hand the same *Tai Wei Fu* passage to four models — only DeepSeek-V4 returns the San He doctrine verbatim. The non-Chinese models either mistranslate (GPT-4 rendered 「Hua Ji」 as 「changed jealousy」) or hallucinate (Gemini explained it as Western astrology).
-
-The non-Chinese models aren't bad models. They're just starved of classical Chinese training data in this niche.
+Models trained primarily on English-dominant corpora struggle with this niche — they're starved of classical Chinese training data.
 
 DeepSeek is a Chinese model. This is its home turf.
 
@@ -103,13 +99,13 @@ Users see exactly how the model derived the conclusion. Not a black box.
 
 For metaphysics, a domain where credibility *is* the product, this is a killer feature.
 
-**4. About 10× cheaper than GPT-4 or Claude.**
+**4. Economics that let metaphysics AI reach ordinary users.**
 
-DeepSeek's pricing is a fraction of GPT-4 Turbo's.
+DeepSeek's pricing makes a heavy-context, heavy-call product like ours actually viable.
 
 Our metaphysics inferences are long. Single calls easily hit 300k+ tokens (canon plus chart loaded into 1M context).
 
-Running the same reading on GPT-4 would cost roughly 10× what we pay DeepSeek-V4.
+Running the same reading on a closed-source frontier model from a US lab would cost at least 10× what we pay DeepSeek-V4.
 
 What does 10× cheaper actually mean here?
 

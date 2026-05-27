@@ -407,7 +407,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <tr>
         <td> <img src="docs/FateStar/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://fatestar.top">FateStar</a> </td>
-        <td> <a href="https://fatestar.top">FateStar</a> は中国術数の全典籍（紫微 + 八字 + 西洋占星）を丸ごと DeepSeek-V4 の 1M コンテキストに投入し、Thinking モードで原文へ遡れる Chain-of-Thought 推論を行う中国占星 AI プラットフォーム。GPT-4 は「化忌」を「changed jealousy」と誤訳、Claude は『太微賦』を人名と勘違い、Gemini は紫微斗数を西洋占星術の亜種と説明。最終的に DeepSeek だけが古典中国語を本当に理解していた。fatestar.top のモデル選択 UI では <code>DeepSeek-V4-Pro Thinking Max</code> と <code>V4-Flash Thinking Max</code> をユーザーに直接公開。DeepSeek が運用コストの 90% を占める、V4 なしでは成立しないプロダクト。</td>
+        <td> <a href="https://fatestar.top">FateStar</a> は中国術数の全典籍（紫微 + 八字 + 西洋占星）を丸ごと DeepSeek-V4 の 1M コンテキストに投入し、Thinking モードで原文へ遡れる Chain-of-Thought 推論を行う中国占星 AI プラットフォーム。市場の主要 LLM を一通り試した結果、古典中国語のこのニッチを本当に理解できたのは DeepSeek だけだった。fatestar.top のモデル選択 UI では <code>DeepSeek-V4-Pro Thinking Max</code> と <code>V4-Flash Thinking Max</code> をユーザーに直接公開。DeepSeek が運用コストの 90% を占める、V4 なしでは成立しないプロダクト。</td>
     </tr>
 </table>
 

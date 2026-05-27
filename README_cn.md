@@ -474,7 +474,7 @@
     <tr>
         <td> <img src="docs/FateStar/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/FateStar/README_cn.md">FateStar</a> </td>
-        <td> <a href="https://fatestar.top">FateStar</a> 把整套中文术数典籍（紫微 + 八字 + 西洋占星）塞进 DeepSeek-V4 的 1M 上下文里跑 Thinking 模式链式推理，做出一个能溯源到古书原文的中文命理 AI 平台。我们试过 GPT-4 把「化忌」翻成「changed jealousy」，试过 Claude 把「太微赋」当人名，最后只有 DeepSeek 真的看懂了中文文言文。fatestar.top 底部模型选项直接暴露 DeepSeek-V4-Pro Thinking Max 跟 V4-Flash Thinking Max 给用户。DeepSeek 占运营成本 90%，离开 V4 这产品做不成。</td>
+        <td> <a href="https://fatestar.top">FateStar</a> 把整套中文术数典籍（紫微 + 八字 + 西洋占星）塞进 DeepSeek-V4 的 1M 上下文里跑 Thinking 模式链式推理，做出一个能溯源到古书原文的中文命理 AI 平台。试过市面上所有主流大模型，只有 DeepSeek 真的看懂了中文文言文这种 niche。fatestar.top 底部模型选项直接暴露 DeepSeek-V4-Pro Thinking Max 跟 V4-Flash Thinking Max 给用户。DeepSeek 占运营成本 90%，离开 V4 这产品做不成。</td>
     </tr>
 </table>
 
