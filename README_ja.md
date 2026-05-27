@@ -404,6 +404,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
     </tr>
+    <tr>
+        <td> <img src="docs/FateStar/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://fatestar.top">FateStar</a> </td>
+        <td> <a href="https://fatestar.top">FateStar</a> は紫微斗数の古典全書を丸ごと DeepSeek-R1 の 64K コンテキストに投入し、原文へ遡れる Chain-of-Thought 推論を行う中国占星 AI プラットフォーム。GPT-4 は「化忌」を「changed jealousy」と誤訳、Claude は『太微賦』を人名と勘違い、Gemini は紫微斗数を西洋占星術の亜種と説明。最終的に DeepSeek-R1 だけが古典中国語を本当に理解していた。三合派紫微 + 八字 + 西洋占星の三位一体。DeepSeek が運用コストの 60% を占める、R1 なしでは成立しないプロダクト。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

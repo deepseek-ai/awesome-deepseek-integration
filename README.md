@@ -560,7 +560,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td> <img src="docs/FateStar/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/FateStar/README.md">FateStar</a> </td>
-        <td> <a href="https://fatestar.top">FateStar</a> is a DeepSeek-powered AI fortune-telling platform that unifies Zi Wei Dou Shu (Purple Star Astrology, San He school), BaZi (Four Pillars), and Western astrology in a single workspace. A dual-track Gan Zhi engine and classical-text grounding (Tai Wei Fu, Zi Wei Dou Shu Quan Shu) produce readings that are cited, auditable, and reproducible.</td>
+        <td> <a href="https://fatestar.top">FateStar</a> stuffs the entire Zi Wei Dou Shu canon into DeepSeek-R1's 64K context window and runs chain-of-thought metaphysics inference that cites back to the original classical Chinese text. We tried GPT-4 (it translated "Hua Ji" as "changed jealousy"), Claude (treated <i>Tai Wei Fu</i> as a person's name), Gemini (confused Zi Wei with Western astrology). Only DeepSeek-R1 actually understood classical Chinese. San He Purple Star + BaZi + Western astrology in one platform. DeepSeek accounts for 60% of our infra cost — without R1 this product doesn't exist.</td>
     </tr>
 </table>
 
