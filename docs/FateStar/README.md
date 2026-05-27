@@ -62,7 +62,7 @@ Terms like 「Hua Ji,」 「Lai Yin Gong,」 「self-transformation Lu」 — De
 
 GPT-4, Claude, Gemini — none of them parse this reliably.
 
-We ran a benchmark. Four models interpret the same passage from *Tai Wei Fu*. DeepSeek-V4-Pro: 92%. GPT-4: 41%. Claude: 38%. Gemini: 35%.
+We didn't run a rigorous benchmark, but the gap is obvious from daily use. Hand the same *Tai Wei Fu* passage to four models — only DeepSeek-V4 returns the San He doctrine verbatim. The non-Chinese models either mistranslate (GPT-4 rendered 「Hua Ji」 as 「changed jealousy」) or hallucinate (Gemini explained it as Western astrology).
 
 The non-Chinese models aren't bad models. They're just starved of classical Chinese training data in this niche.
 
@@ -109,7 +109,7 @@ DeepSeek's pricing is a fraction of GPT-4 Turbo's.
 
 Our metaphysics inferences are long. Single calls easily hit 300k+ tokens (canon plus chart loaded into 1M context).
 
-A full reading costs us $3 on GPT-4. The same reading on DeepSeek-V4, $0.30.
+Running the same reading on GPT-4 would cost roughly 10× what we pay DeepSeek-V4.
 
 What does 10× cheaper actually mean here?
 
@@ -133,7 +133,7 @@ The data flow:
 
 User birth time arrives → astrology engine computes the 144-star × 12-palace structured chart → DeepSeek-V4-Pro reads canon + chart → Thinking mode infers Major Limit / annual cycles → outputs an interpretation with citations back to the original classical text.
 
-The entire pipeline runs on FateStar's backend. DeepSeek accounts for about 60% of our infrastructure cost (the rest is DB, CDN, astrology engine).
+The entire pipeline runs on FateStar's backend. DeepSeek accounts for about 90% of our infrastructure cost (the rest is DB, CDN, astrology engine).
 
 Without DeepSeek-V4, this product doesn't exist.
 

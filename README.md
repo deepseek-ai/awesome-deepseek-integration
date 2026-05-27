@@ -560,7 +560,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td> <img src="docs/FateStar/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/FateStar/README.md">FateStar</a> </td>
-        <td> <a href="https://fatestar.top">FateStar</a> stuffs the entire Chinese metaphysics canon (Zi Wei + BaZi + Western astrology) into DeepSeek-V4's 1M context window and runs Thinking-mode chain-of-thought inference that cites back to the original classical text. We tried GPT-4 (translated "Hua Ji" as "changed jealousy"), Claude (treated <i>Tai Wei Fu</i> as a person's name), Gemini (confused Zi Wei with Western astrology). Only DeepSeek actually understood classical Chinese. The fatestar.top model selector exposes <code>DeepSeek-V4-Pro Thinking Max</code> and <code>V4-Flash Thinking Max</code> directly to users. DeepSeek = 60% of our infra cost — without V4, this product doesn't exist.</td>
+        <td> <a href="https://fatestar.top">FateStar</a> stuffs the entire Chinese metaphysics canon (Zi Wei + BaZi + Western astrology) into DeepSeek-V4's 1M context window and runs Thinking-mode chain-of-thought inference that cites back to the original classical text. We tried GPT-4 (translated "Hua Ji" as "changed jealousy"), Claude (treated <i>Tai Wei Fu</i> as a person's name), Gemini (confused Zi Wei with Western astrology). Only DeepSeek actually understood classical Chinese. The fatestar.top model selector exposes <code>DeepSeek-V4-Pro Thinking Max</code> and <code>V4-Flash Thinking Max</code> directly to users. DeepSeek = 90% of our infra cost — without V4, this product doesn't exist.</td>
     </tr>
 </table>
 

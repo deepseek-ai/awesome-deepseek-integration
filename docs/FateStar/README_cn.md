@@ -74,7 +74,7 @@ FateStar 是一个把**紫微斗数（三合派）**、**八字四柱**、**西�
 
 GPT-4、Claude、Gemini 没一个能稳定理解。
 
-我们做过 benchmark，让四个模型解读同一段太微赋。DeepSeek-V4-Pro 给出的解释跟《紫微斗数全书》原文匹配度 92%，GPT-4 是 41%，Claude 是 38%，Gemini 是 35%。
+我们没做过严谨的 benchmark，但日常用下来感受很明显。同一段太微赋丢给四个模型解读，DeepSeek 直接给出三合派的教科书原文，海外模型要么翻车（GPT-4 把「化忌」翻成 changed jealousy）要么瞎掰（Gemini 当成西方占星讲）。
 
 不是说海外模型菜，是中文古籍这个 niche 它们训练数据吃得太少。
 
@@ -119,7 +119,7 @@ DeepSeek 的官方定价是 GPT-4 Turbo 的零头。
 
 我们做命理这种长上下文推理，单次调用 token 数动辄 30 万起（古籍加命盘塞满 1M context）。
 
-用 GPT-4 一份报告成本 3 美元，用 DeepSeek-V4 一份 0.3 美元。
+同样的报告丢给 GPT-4 跑，成本大概是 DeepSeek-V4 的 10 倍。
 
 10 倍的差距是啥概念呢？
 
@@ -143,7 +143,7 @@ DeepSeek 的官方定价是 GPT-4 Turbo 的零头。
 
 用户出生时间进来 → 排盘引擎算 144 星 × 12 宫的结构化数据 → DeepSeek-V4-Pro 读古籍加命盘 → Thinking 模式推理出流年大限 → 输出溯源到古书原文的报告。
 
-整套链路在 FateStar 后端跑，DeepSeek 占成本结构的 60%（剩下是数据库加 CDN 加排盘引擎）。
+整套链路在 FateStar 后端跑，DeepSeek 占成本结构的 90%（剩下是数据库加 CDN 加排盘引擎）。
 
 没有 DeepSeek-V4，这事真做不成。
 
