@@ -560,7 +560,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td> <img src="docs/FateStar/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/FateStar/README.md">FateStar</a> </td>
-        <td> <a href="https://fatestar.top">FateStar</a> stuffs the entire Chinese metaphysics canon (Zi Wei + BaZi + Western astrology) into DeepSeek-V4's 1M context window and runs Thinking-mode chain-of-thought inference that cites back to the original classical text. After trying every major LLM, DeepSeek was the only one that actually understood classical Chinese in this niche. The fatestar.top model selector exposes <code>DeepSeek-V4-Pro Thinking Max</code> and <code>V4-Flash Thinking Max</code> directly to users. DeepSeek = 90% of our infra cost — without V4, this product doesn't exist.</td>
+        <td> <a href="https://fatestar.top">FateStar</a> is a Chinese metaphysics AI platform combining Zi Wei Dou Shu (San He school), BaZi (Four Pillars), and Western astrology. Runs on DeepSeek-V4: <code>deepseek-v4-pro</code> (Thinking mode) for chain-of-thought chart inference, <code>deepseek-v4-flash</code> (Non-Thinking) for fast chart generation. The 1M context window fits the full Chinese metaphysics canon in a single prompt; readings cite back to canonical text. The fatestar.top model selector exposes both V4 endpoints to end users. DeepSeek accounts for approximately 90% of our inference cost.</td>
     </tr>
 </table>
 

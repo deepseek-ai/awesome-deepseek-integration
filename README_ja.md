@@ -407,7 +407,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <tr>
         <td> <img src="docs/FateStar/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://fatestar.top">FateStar</a> </td>
-        <td> <a href="https://fatestar.top">FateStar</a> は中国術数の全典籍（紫微 + 八字 + 西洋占星）を丸ごと DeepSeek-V4 の 1M コンテキストに投入し、Thinking モードで原文へ遡れる Chain-of-Thought 推論を行う中国占星 AI プラットフォーム。市場の主要 LLM を一通り試した結果、古典中国語のこのニッチを本当に理解できたのは DeepSeek だけだった。fatestar.top のモデル選択 UI では <code>DeepSeek-V4-Pro Thinking Max</code> と <code>V4-Flash Thinking Max</code> をユーザーに直接公開。DeepSeek が運用コストの 90% を占める、V4 なしでは成立しないプロダクト。</td>
+        <td> <a href="https://fatestar.top">FateStar</a> は紫微斗数（三合派）、八字、西洋占星を統合した中国占星 AI プラットフォーム。バックエンドは DeepSeek-V4：<code>deepseek-v4-pro</code>（Thinking モード）でチェーン・オブ・ソート推論、<code>deepseek-v4-flash</code> で基本的な命盤生成。1M コンテキストで中国術数の全典籍を一度に投入でき、解読は原文へ遡って引用可能。fatestar.top のモデル選択 UI では 2 つの V4 エンドポイントをユーザーに直接公開。DeepSeek が運用コストの約 90% を占める。</td>
     </tr>
 </table>
 

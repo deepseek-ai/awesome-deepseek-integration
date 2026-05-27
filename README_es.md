@@ -435,7 +435,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <tr>
         <td> <img src="docs/FateStar/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://fatestar.top">FateStar</a> </td>
-        <td> <a href="https://fatestar.top">FateStar</a> mete el canon completo de la metafísica china (Zi Wei + BaZi + astrología occidental) en el contexto de 1M de DeepSeek-V4 y ejecuta razonamiento Chain-of-Thought en modo Thinking con citas al texto clásico original. Tras probar todos los LLM principales del mercado, solo DeepSeek entendió de verdad el chino clásico en este nicho. El selector de modelos de fatestar.top expone <code>DeepSeek-V4-Pro Thinking Max</code> y <code>V4-Flash Thinking Max</code> directamente al usuario. DeepSeek = 90% de nuestro coste de infraestructura — sin V4, este producto no existe.</td>
+        <td> <a href="https://fatestar.top">FateStar</a> es una plataforma de IA para metafísica china que combina Zi Wei Dou Shu (escuela San He), BaZi (Cuatro Pilares) y astrología occidental. Backend en DeepSeek-V4: <code>deepseek-v4-pro</code> (modo Thinking) para inferencia chain-of-thought, <code>deepseek-v4-flash</code> (Non-Thinking) para generación rápida de cartas. El contexto de 1M permite cargar el canon completo de metafísica china en un único prompt; las lecturas citan el texto clásico original. El selector de modelos de fatestar.top expone ambos endpoints V4 al usuario. DeepSeek representa aproximadamente el 90% de nuestro coste de inferencia.</td>
     </tr>
 </table>
 
