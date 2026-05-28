@@ -1236,6 +1236,21 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Open-source platform for LLM observability, evaluations, and prompt optimization for DeepSeek applications. </td>
     </tr>
     <tr>
+        <td> <img src="https://github.com/future-agi.png?size=128" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/future-agi/traceAI"> Future AGI traceAI </a> </td>
+        <td> Open-source OpenTelemetry-native tracing for LLM and agent apps; auto-captures DeepSeek chat completions, tool calls, retrieval steps, and token usage across Python, TypeScript, Java, and C# with no vendor lock-in. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/future-agi.png?size=128" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/future-agi/ai-evaluation"> Future AGI ai-evaluation </a> </td>
+        <td> Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation (works with DeepSeek as judge or judged model), and guardrail scanners (jailbreak, PII, prompt-injection) for DeepSeek-powered applications. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/future-agi.png?size=128" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/future-agi/agent-command-center-sdk"> Future AGI Agent Command Center </a> </td>
+        <td> OpenAI-compatible gateway for managing and routing AI agent requests; route DeepSeek traffic alongside other providers with a unified API surface. </td>
+    </tr>
+    <tr>
         <td> CR </td>
         <td> <a href="https://github.com/hustcer/deepseek-review"> deepseek-review </a> </td>
         <td> 🚀 Sharpen Your Code, Ship with Confidence – Elevate Your Workflow with Deepseek Code Review 🚀 </td>
