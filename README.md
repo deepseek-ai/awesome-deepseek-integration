@@ -1310,6 +1310,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/informatico-madrid/blackwell-linux-infra-optimizer"> Blackwell Linux Infra Optimizer </a> </td>
         <td> Optimized vLLM stack for NVIDIA Blackwell (SM_120) and Linux Kernel 6.14. Achieving 59.0 t/s on DeepSeek-R1-32B using native FlashInfer backend. </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/future-agi/future-agi/main/frontend/public/logo/logo_silver.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://docs.futureagi.com"> Future AGI </a> </td>
+        <td> Open-source e2e agent engineering and optimization platform with OpenTelemetry tracing, evaluations, and experiments for DeepSeek applications via the <a href="https://pypi.org/project/traceAI-deepseek/">traceAI-deepseek</a> package. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
