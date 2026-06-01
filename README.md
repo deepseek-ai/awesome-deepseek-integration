@@ -1322,3 +1322,5 @@ The purpose is to build infrastructure in the field of large models, through the
 ### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=deepseek-ai/awesome-deepseek-integration&type=Date)](https://star-history.com/#deepseek-ai/awesome-deepseek-integration&Date)
+
+- [AI Tools Hub](https://cloud1-d4g787x2022795b0b-1435432994.tcloudbaseapp.com/hub.html) - 21 DeepSeek-powered tools (Roast Master, Fortune Teller, etc.) with crypto payments.
