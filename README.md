@@ -1196,6 +1196,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> An N8N community node that supports direct integration with the DeepSeek API into workflows. </td>
     </tr>
     <tr>
+        <td style="font-size: 64px">⛴</td>
+        <td> <a href="https://www.ferryapi.io/"> FerryAPI </a> </td>
+        <td> OpenAI-compatible AI API gateway for DeepSeek and other model APIs, with prepaid balance, usage billing, customer API keys, and provider account pools. </td>
+    </tr>
+    <tr>
         <td> <img src="https://framerusercontent.com/images/TSKshn2UFdTyvUi85EDMIXrXgs.png?scale-down-to=512" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Portkey-AI/gateway"> Portkey AI </a> </td>
         <td> Portkey is a unified API for interacting with over 1600+ LLM models, offering advanced tools for control, visibility, and security in your DeepSeek apps. Python & Node SDK available. </td>
