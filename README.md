@@ -1206,6 +1206,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format. Supports DeepSeek AI with cost tracking as well. </td>
     </tr>
     <tr>
+        <td> <img src="https://github.com/user-attachments/assets/afbbc4fa-3475-4aa9-a35d-3956f63d6bad" alt="Icon" width="64" height="auto"/> </td>
+        <td> <a href="https://github.com/ghominejad/litellm-logger"> LiteLLM Logger </a> </td>
+        <td> A lightweight, self-hosted proxy to route AI clients (like Claude Code) to DeepSeek with one command. Features local JSON logging and tool schema deduplication. </td>
+    </tr>
+    <tr>
         <td> <img src="https://i.postimg.cc/k5Z4YWjt/Screenshot-2025-01-23-at-6-08-01-PM.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/mem0ai/mem0"> Mem0 </a> </td>
         <td> Mem0 enhances AI assistants with an intelligent memory layer, enabling personalized interactions and continuous learning over time. </td>
