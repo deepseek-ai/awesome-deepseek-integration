@@ -1148,6 +1148,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/coderplan/coderplan_logo.svg" alt="CoderPlan" width="64" height="auto" /> </td>
+        <td> <a href="https://coderplan.ai">CoderPlan</a> </td>
+        <td> CoderPlan is a unified LLM API gateway providing OpenAI-compatible access to DeepSeek R1, V3, and 30+ models. Pay-per-use with transparent billing, supporting Claude Code, Codex CLI and other AI coding tools.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
