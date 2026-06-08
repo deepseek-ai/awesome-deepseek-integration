@@ -1148,6 +1148,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
+    <tr>
+        <td> &nbsp; </td>
+        <td> <a href="https://gadgethumans.com/deepseek-api/"> GadgetHumans DeepSeek Proxy </a> </td>
+        <td> OpenAI-compatible DeepSeek V4 Flash proxy. $5/month for 10,000 requests/day. No DeepSeek account needed. Instant API key via Stripe checkout. Endpoint: <code>api.gadgethumans.com</code>.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
