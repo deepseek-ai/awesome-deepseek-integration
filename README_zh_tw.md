@@ -88,7 +88,7 @@
     </tr>
     </tr>
     <tr>
-        <td> <img src="https://4everlogo.4everland.store/logo/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td> <img src="./docs/4EVERChat/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README.md">4EVERChat</a></td>
         <td> <a href="https://chat.4everland.org/">4EVERChat</a> 是一個整合數百個 LLM 的智慧模型選擇平台，實現模型效能的即時比較。利用 <a href="https://www.4everland.org/">4EVERLAND</a> AI RPC 的統一 API 端點，實現免費切換模型，並自動選擇響應快速且成本低的組合。</td>
     </tr>

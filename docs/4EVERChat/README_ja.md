@@ -1,4 +1,4 @@
-<img src="https://4everlogo.4everland.store/icons/1024.png" width="128" height="auto" /> 
+<img src="./assets/logo.png" width="128" height="auto" /> 
 
 # [4EVERChat](https://chat.4everland.org/)
 
@@ -18,15 +18,15 @@
 
 ####  4EVERChat
 
-<img src="https://markdown.4everland.store/4everchat_ui.jpg" />
+<img src="./assets/4everchat_ui.jpg" />
 
 #### 4EVER AI RPC
 
-<img src="https://markdown.4everland.store/4eveairpc_ui.png" />
+<img src="./assets/4eveairpc_ui.png" />
 
 
 
 ## Deepseek モデルを追加
 
-<img src="https://markdown.4everland.store/4everchat_models.jpg" />
+<img src="./assets/4everchat_models.jpg" />
 

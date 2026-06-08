@@ -76,7 +76,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 <td> <a href="https://github.com/aws-samples/swift-chat">SwiftChat</a> es una aplicación de chat con IA ultrarrápida y multiplataforma construida con React Native. Ofrece rendimiento nativo en Android, iOS, iPad, tabletas Android y macOS. Incluye funciones como chat en tiempo real, soporte enriquecido de Markdown (tablas, bloques de código, LaTeX), generación de imágenes con IA, indicaciones personalizables del sistema, cambio rápido de modelo y capacidades multimodales. Compatible con múltiples proveedores de IA como DeepSeek, Amazon Bedrock, Ollama y modelos compatibles con OpenAI, con una interfaz limpia y alto rendimiento.</td>
     </tr>
     <tr>
-        <td><img src="https://4everlogo.4everland.store/logo/logo.png" alt="Icono" width="64" height="auto" /></td>
+        <td><img src="./docs/4EVERChat/assets/logo.png" alt="Icono" width="64" height="auto" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README.md">4EVERChat</a></td>
         <td><a href="https://chat.4everland.org/">4EVERChat</a> es una plataforma de selección de modelos inteligentes que integra cientos de LLMs, permitiendo la comparación en tiempo real del rendimiento de los modelos. Aprovechando el endpoint unificado de API de <a href="https://www.4everland.org/">4EVERLAND</a> AI RPC, logra cambios de modelo sin costo y selecciona automáticamente combinaciones con respuestas rápidas y costos bajos.</td>
     </tr>
