@@ -992,6 +992,11 @@
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API 讓使用者只需透過一個 API，就能以企業級的方式存取 200 種以上的模型。 這包括 Deepseek R1 和 V3，以及封閉和開源模型。 所有服務的正常運行時間均為 99%，並提供 24/7 全天候的人力支援。</td>
     </tr>
+    <tr>
+        <td> <img src="docs/dgrid/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/dgrid/README.md">DGrid AI Gateway</a> </td>
+        <td> <a href="https://dgrid.ai/">DGrid AI Gateway</a> 基於去中心化、開放、社群驅動的 AI 推理網路，提供統一 API 存取 200+ 主流模型，涵蓋 DeepSeek 最新全系列：DeepSeek-V4-Pro、DeepSeek-V4-Flash、DeepSeek-R1、DeepSeek-V3.2 等。API Key 可直接接入 Claude Code、Codex、Cursor。相容 OpenAI，支援自動容錯移轉、可觀測性與限流管理。按 Token 計費，無需訂閱。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>

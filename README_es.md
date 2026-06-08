@@ -919,6 +919,18 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
 
+###  <span id="providers">Proveedores</span>
+
+<table>
+    <tr>
+        <td> <img src="docs/dgrid/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/dgrid/README.md">DGrid AI Gateway</a> </td>
+        <td> <a href="https://dgrid.ai/">DGrid AI Gateway</a> ofrece una API unificada para acceder a más de 200 modelos de IA líderes a través de una red de inferencia descentralizada, abierta y impulsada por la comunidad — incluyendo la línea completa de DeepSeek: DeepSeek-V4-Pro, DeepSeek-V4-Flash, DeepSeek-R1, DeepSeek-V3.2 y más. Compatible con la API de OpenAI; conecta tu clave directamente en Claude Code, Codex o Cursor. Incluye fallback automático, observabilidad y gestión de límites de tasa. Pago por token, sin suscripción.</td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
+
 ###  <span id="others">Otros</span>
 
 <table>
