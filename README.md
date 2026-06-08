@@ -103,7 +103,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     </tr>
     </tr>
     <tr>
-        <td><img src="https://4everlogo.4everland.store/logo/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><img src="./docs/4EVERChat/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README.md">4EVERChat</a></td>
         <td><a href="https://chat.4everland.org/">4EVERChat</a> is an intelligent model selection platform integrating hundreds of LLMs, enabling real-time comparison of model performance. Leveraging <a href="https://www.4everland.org/">4EVERLAND</a> AI RPC's unified API endpoint, it achieves cost-free model switching and automatically selects combinations with fast responses and low costs.</td>
     </tr>

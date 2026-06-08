@@ -1,4 +1,4 @@
-<img src="https://4everlogo.4everland.store/icons/1024.png" width="128" height="auto" /> 
+<img src="./assets/logo.png" width="128" height="auto" /> 
 
 # [4EVERChat](https://chat.4everland.org/)
 
@@ -22,15 +22,15 @@ Its underlying technology relies on [4EVERLAND AI RPC](https://docs.4everland.or
 
 ####  4EVERChat
 
-<img src="https://markdown.4everland.store/4everchat_ui.jpg" />
+<img src="./assets/4everchat_ui.jpg" />
 
 #### 4EVER AI RPC
 
-<img src="https://markdown.4everland.store/4eveairpc_ui.png" />
+<img src="./assets/4eveairpc_ui.png" />
 
 
 
 ## Add Deepseek Model
 
-<img src="https://markdown.4everland.store/4everchat_models.jpg" />
+<img src="./assets/4everchat_models.jpg" />
 

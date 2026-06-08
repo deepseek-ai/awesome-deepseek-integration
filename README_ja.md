@@ -71,7 +71,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 <td> <a href="https://github.com/aws-samples/swift-chat">SwiftChat</a> は React Native で構築された超高速なクロスプラットフォームAIチャットアプリケーションです。Android、iOS、macOSでネイティブなパフォーマンスを提供します。リアルタイムストリーミングチャット、豊富なMarkdownサポート、AI画像生成、カスタマイズ可能なシステムプロンプト、クイックモデル切り替え、マルチモーダル機能などを備えています。DeepSeek、Amazon Bedrock、Ollama、OpenAI 互換モデルなど複数のAIプロバイダーをサポートし、シンプルなUIと高性能を実現しています。</td>
     </tr>
  <tr>
-    <td><img src="https://4everlogo.4everland.store/logo/logo.png" alt="Icon" width="64" height="auto" /></td>
+    <td><img src="./docs/4EVERChat/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
     <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/4EVERChat/README_ja.md">4EVERChat</a></td>
     <td><a href="https://chat.4everland.org/">4EVERChat</a>は、数百のLLMを統合したインテリジェントなモデル選択プラットフォームで、モデルのパフォーマンスをリアルタイムで比較可能です。<a href="https://www.4everland.org/">4EVERLAND</a> AI RPCの統一APIエンドポイントを活用し、コストフリーでモデル切り替えを実現し、応答が速くコストの低い組み合わせを自動的に選択します。</td>
 </tr>
