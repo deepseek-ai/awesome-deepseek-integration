@@ -727,6 +727,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/sendaifun/solana-agent-kit"> Solana Agent Kit </a> </td>
         <td>An open-source toolkit for connecting AI agents to Solana protocols. Now, any agent, using any Deepseek LLM, can autonomously perform 60+ Solana actions: </td>
     </tr>
+    <tr>
+        <td> <img src="https://intel.twzrd.xyz/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://intel.twzrd.xyz"> TWZRD Agent Intel </a> </td>
+        <td>Trust scoring for AI agents on Solana. Verify agent wallet identity and reputation before x402 micropayments in DeepSeek-powered multi-agent pipelines. Free MCP: <code>{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}</code></td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
