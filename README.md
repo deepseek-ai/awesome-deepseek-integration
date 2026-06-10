@@ -51,6 +51,11 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
         <td>ETOS LLM Studio (ELS) is a flagship AI client explicitly tailored for watchOS and iOS. It features a watch-first design, aesthetic UI, seamless sync between devices, and deep system integration. Supports multiple models including DeepSeek, redefining AI interaction on your wrist.</td>
     </tr>
     <tr>
+        <td><img src="https://raw.githubusercontent.com/rajit2004/DeepSeekWidget/main/screenshots/deepseek.jpg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/rajit2004/DeepSeekWidget">DeepSeekWidget</a></td>
+        <td>A lightweight, open-source Android home screen widget providing one-tap access to DeepSeek's chat, voice, and camera features. No unlocking, no menus, zero tracking. APK size ~1 MB.</td>
+    </tr>
+    <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>An open-source system integration AI assistant for the Android platform, supporting almost complete mcp usage and highly compatible with the Android system. The software features both high customization and a low learning threshold, with built-in tools for file operations, searches, automatic clicks, format conversions, and an integrated DeepSeek API webpage.</td>
