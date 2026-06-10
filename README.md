@@ -1310,6 +1310,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/informatico-madrid/blackwell-linux-infra-optimizer"> Blackwell Linux Infra Optimizer </a> </td>
         <td> Optimized vLLM stack for NVIDIA Blackwell (SM_120) and Linux Kernel 6.14. Achieving 59.0 t/s on DeepSeek-R1-32B using native FlashInfer backend. </td>
     </tr>
+    <tr>
+        <td style="font-size: 64px">❄️</td>
+        <td> <a href="docs/permafrost/README.md"> Permafrost </a> </td>
+        <td> A cache-aligning proxy + Claude Code plugin that freezes the prompt prefix so DeepSeek's automatic context cache always hits — measured 64% cost reduction on real Claude Code traffic via the Anthropic-compatible endpoint. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
