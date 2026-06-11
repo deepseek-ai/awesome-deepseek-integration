@@ -46,6 +46,11 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
 
 <table>
     <tr>
+        <td><img src="docs/friday-ai/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/friday-ai/README.md">Friday AI</a></td>
+        <td><a href="https://github.com/friday-ai-codes/friday-ai">Friday AI</a> is an open-source, self-hosted AI development automation platform that turns requirements from Feishu (Lark) Project into reviewable Pull Requests. It orchestrates the full pipeline — requirement analysis, Graph RAG codebase research, technical design generation, containerized AI coding agents, and automatic branch/PR creation — with DeepSeek's official Anthropic-compatible API as a built-in model provider preset.</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) is a flagship AI client explicitly tailored for watchOS and iOS. It features a watch-first design, aesthetic UI, seamless sync between devices, and deep system integration. Supports multiple models including DeepSeek, redefining AI interaction on your wrist.</td>
