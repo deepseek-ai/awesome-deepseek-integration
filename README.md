@@ -1236,6 +1236,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Open-source platform for LLM observability, evaluations, and prompt optimization for DeepSeek applications. </td>
     </tr>
     <tr>
+        <td> <img src="https://mcpbeacon.asia/favicon.ico" alt="MCP Beacon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/AriLee2020/mcp-beacon"> MCP Beacon </a> </td>
+        <td> One-line AI agent observability SDK. Monitor costs, detect dead loops, track per-agent token usage for DeepSeek, OpenAI, and Anthropic. Like an electricity meter for your AI agents. (TypeScript, MIT) </td>
+    </tr>
+    <tr>
         <td> CR </td>
         <td> <a href="https://github.com/hustcer/deepseek-review"> deepseek-review </a> </td>
         <td> 🚀 Sharpen Your Code, Ship with Confidence – Elevate Your Workflow with Deepseek Code Review 🚀 </td>
