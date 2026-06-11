@@ -42,6 +42,11 @@
 
 <table>
     <tr>
+        <td><img src="docs/friday-ai/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/friday-ai/README.md">Friday AI</a></td>
+        <td><a href="https://github.com/friday-ai-codes/friday-ai">Friday AI</a> 是一个开源、可自托管的 AI 开发自动化平台，把飞书项目中的需求自动变成可审查的代码 PR：需求分析、Graph RAG 代码检索、技术方案生成、容器化 AI 编码代理执行、自动建分支提 PR，全链路可编排、可观测。内置 DeepSeek 官方 Anthropic 兼容端点作为模型供应商预设，开箱即用。</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) 是一款专为 watchOS 与 iOS 深度定制的旗舰级 AI 客户端。它拥有“腕上智核”的独立交互体验、极简的律动美学设计以及全端联动的无缝体验。支持 DeepSeek 等多种模型，重塑你手腕上的 AI 交互维度。</td>
