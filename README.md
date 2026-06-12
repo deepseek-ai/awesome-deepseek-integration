@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td width=80> <img src="https://raw.githubusercontent.com/yinxinhai0128/deepseek-tide/main/desktop/build/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/yinxinhai0128/deepseek-tide">DeepSeek-Tide</a> </td>
+        <td> A zero-config Windows desktop app to use DeepSeek as a coding agent — no terminal; plain-language change summaries, one-click undo, live cost; bilingual (EN/中文). </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
