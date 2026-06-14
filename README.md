@@ -982,6 +982,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/littleCareless/dish-ai-commit"> Dish AI Commit </a> </td>
         <td> An AI-powered VS Code extension that automatically generates standardized Git/SVN commit messages, PR summaries, and weekly reports using DeepSeek and other AI providers. </td>
     </tr>
+    <tr>
+        <td> <img src="https://tocodex.com/icons/logo-512.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://tocodex.com">ToCodex</a> </td>
+        <td> An open-source enterprise-grade general-purpose AI coding agent, supporting both official and third-party models with flexible integration. DeepSeek is integrated as a top-listed built-in model provider in ToCodex, visible in the onboarding provider selector, the settings provider list, and the official website model showcase, alongside MCP tools, custom modes, scheduled tasks, BYOK, and configurable model routing. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>

@@ -830,6 +830,11 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README_cn.md"> OAI Compatible Provider for Copilot </a> </td>
         <td> 开源的 VS Code 扩展，可在 GitHub Copilot 中使用 OpenAI 兼容的推理提供商。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://tocodex.com/icons/logo-512.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://tocodex.com">ToCodex</a> </td>
+        <td> 开源的企业级 AI 编程 Agent 通用工具，支持官方模型与第三方模型自由接入。DeepSeek 已作为 ToCodex 的重点内置模型供应商，出现在首次配置供应商选择器、设置页供应商列表以及官方网站模型展示区，同时支持 MCP 工具、自定义模式、定时任务、BYOK 与可配置模型路由。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
