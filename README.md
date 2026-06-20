@@ -1149,6 +1149,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
 </table>
+    <tr>
+        <td> 🌍 </td>
+        <td> <a href="https://flowbarai.com"> FlowBar </a> </td>
+        <td> Unified API for 50+ AI models (GPT, Claude, Gemini, DeepSeek, Qwen, GLM, Kimi). OpenAI compatible. Pay via WeChat, Alipay, USDT, PayPal. 5-10% below OpenRouter.</td>
+    </tr>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
