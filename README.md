@@ -123,6 +123,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td><a href="https://www.gptbots.ai/">GPTBots</a> is a no-code AI agent building platform that integrates major international LLMs, including Deepseek. It offers modules for RAG-based knowledge storage/retrieval, tool customization/calling, and workflow orchestration. Additionally, it allows agents to be integrated into multiple mainstream platforms (such as WhatsApp, Telegram, etc.), providing end-to-end AI solutions for businesses and helping them stand out in the AI era.</td>
     </tr>
     <tr>
+        <td><img src="docs/AICraft/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/AICraft/README.md">AICraft</a></td>
+        <td>AICraft is an open-source desktop AI Agent launcher that makes AI capability management as simple as Minecraft mod management — a visual interface for LLM Skills, MCP, RAG, and Memory modules.</td>
+    </tr>
+    <tr>
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
         <td>DeepChat is a fully free desktop smart assistant, with a powerful DeepSeek large model, supporting multi-round conversations, internet search, file uploads, knowledge bases, and more.</td>

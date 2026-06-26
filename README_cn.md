@@ -112,6 +112,11 @@
         <td> <a href="https://www.gptbots.ai/zh_CN">GPTBots</a> 是一个无代码的 AI Agent 构建平台，集成了包括 Deepseek 在内的国际主流 LLM，并提供了基于 RAG 的知识存储/检索，工具自定义/调用，工作流编排等模块，并可将 Agent 集成至多个主流平台（WhatsApp、Telegram 等），为企业提供端到端的 AI 解决方案，助力企业在 AI 时代脱颖而出。</td>
     </tr>
     <tr>
+        <td><img src="docs/AICraft/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/AICraft/README.md">AICraft</a></td>
+        <td>AICraft 是一个开源桌面 AI Agent 启动器，让 AI 能力管理像 Minecraft mod 管理一样简单——用可视化界面管理 LLM 的 Skill、MCP、RAG、记忆等能力模块。</td>
+    </tr>
+    <tr>
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
         <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
         <td>DeepChat 是一款完全免费的桌面端智能助手，内置强大的 DeepSeek 大模型，支持多轮对话、联网搜索、文件上传、知识库等多种功能。</td>
