@@ -565,6 +565,11 @@ With these functionalities, the AI assistant can summarize key points within an 
 
 <table>
     <tr>
+        <td width=80> <img src="docs/llm-box/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/llm-box/README.md">llm-box</a> </td>
+        <td> Terminal-first AI workflow engine built with Go. Compose AI automations with simple YAML workflows, native DeepSeek API support. Features natural language workflow creation, 20+ built-in nodes, single binary deployment, and 15+ LLM providers.</td>
+    </tr>
+    <tr>
         <td width=80> <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/mascot_smol.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/huggingface/smolagents/tree/main"> smolagents </a> </td>
         <td> The simplest way to build great agents. Agents write python code to call tools and orchestrate other agents. Priority support for open models like DeepSeek-R1!  </td>

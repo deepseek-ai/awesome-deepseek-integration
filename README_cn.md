@@ -479,6 +479,11 @@
 
 <table>
         <tr>
+        <td> <img src="docs/llm-box/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/llm-box/README_cn.md">llm-box</a> </td>
+        <td> 终端优先的 AI 工作流引擎，使用 Go 语言开发。通过 YAML 编排 AI 自动化任务，原生支持 DeepSeek API。支持自然语言创建工作流、20+ 内置节点、单二进制部署、15+ 模型兼容。</td>
+    </tr>
+    <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/DMontgomery40/deepseek-mcp-server/blob/main/README.md">DeepSeek MCP Server</a> </td>
         <td> 用于 DeepSeek 高级语言模型的 Model Context Protocol 服务器</td>
