@@ -661,6 +661,11 @@
         <td> 基於 NoneBot 框架，提供智慧聊天和深度思考功能，支援 QQ、飛書、Discord、TG 等多個平台。</td>
     </tr>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/73147033?v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/happysnaker/qq-ai-bot">qq-ai-bot<br/>（QQ, OneBot 11, NapCat, LLOneBot）</a> </td>
+        <td> 面向 OneBot 11 / NapCat / LLOneBot 的自託管 QQ ↔ AI 機器人腳手架，支援 ACP 相容 agent。很適合作為 DeepSeek 等本地 / 自託管 agent 的 QQ 接入層，內建會話持久化、進度回傳、`/metrics` 與 Docker 示範棧。</td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/Soulter/AstrBot/raw/refs/heads/master/dashboard/src/assets/images/logo-normal.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Soulter/AstrBot/">AstrBot<br/>（QQ, 微信, 企業微信, 飛書, TG 等）</a> </td>
         <td> 易上手的大模型多平台聊天機器人及開發框架。支援長期記憶、RAG、LLM 代理(agents)和外掛程式整合。</td>
