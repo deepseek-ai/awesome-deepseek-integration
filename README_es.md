@@ -621,6 +621,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/KomoriDev/nonebot-plugin-deepseek">NoneBot<br/>（QQ, Lark, Discord, TG, etc.）</a> </td>
         <td> Basado en el marco NoneBot, proporciona funciones de chat inteligente y pensamiento profundo, compatible con QQ, Lark, Discord, TG y más plataformas.</td>
     </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/73147033?v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/happysnaker/qq-ai-bot">qq-ai-bot<br/>（QQ, OneBot 11, NapCat, LLOneBot）</a> </td>
+        <td> Un scaffold autoalojado de bot QQ ↔ AI para OneBot 11 / NapCat / LLOneBot con agentes compatibles con ACP. Encaja bien como capa de integración orientada a QQ para agentes locales basados en DeepSeek, con sesiones persistentes, streaming de progreso, `/metrics` y una pila demo con Docker.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
