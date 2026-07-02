@@ -41,6 +41,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
+        <td><img src="docs/AionUi/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/AionUi/README.md">AionUi</a></td>
+        <td>macOS、Windows、Linux に対応した、無料・ローカル・オープンソースのマルチエージェント デスクトップアプリ。内蔵の DeepSeek プラットフォームに自分の API キーを設定するだけで接続でき、20 以上の AI CLI や OpenAI 互換エンドポイントにも対応。複数のエージェントとセッションを 1 つのアプリで並行して実行でき、データは常にローカルに保存されます。</td>
+    </tr>
+    <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>Androidプラットフォーム向けのオープンソースシステム統合AIアシスタントで、ほぼ完全なmcp使用をサポートし、Androidシステムと高い互換性を持っています。このソフトウェアは高度なカスタマイズと低い学習障壁を特徴とし、ファイル操作、検索、自動クリック、フォーマット変換などの組み込みツールと統合DeepSeek APIウェブページを備えています。</td>

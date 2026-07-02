@@ -46,6 +46,11 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
 
 <table>
     <tr>
+        <td><img src="docs/AionUi/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/AionUi/README.md">AionUi</a></td>
+        <td>A free, local, open-source multi-agent desktop app for macOS, Windows, and Linux. Connect the built-in DeepSeek platform with your own API key, alongside 20+ AI CLIs and any OpenAI-compatible endpoint, and run multiple agents and sessions in one place with your data kept local.</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) is a flagship AI client explicitly tailored for watchOS and iOS. It features a watch-first design, aesthetic UI, seamless sync between devices, and deep system integration. Supports multiple models including DeepSeek, redefining AI interaction on your wrist.</td>
