@@ -46,6 +46,11 @@
 ###  <span id="applications">應用</span>
 
 <table>
+    <tr>
+        <td><img src="docs/AionUi/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/AionUi/README.md">AionUi</a></td>
+        <td>一款免費、本地、開源的多 Agent 桌面應用，支援 macOS、Windows 和 Linux。選擇內建的 DeepSeek 平台並填入你自己的 API Key 即可接入，同時相容 20+ AI CLI 及任意相容 OpenAI 的介面，讓你在一個應用裡並行執行多個 Agent 與多工作階段，資料始終留在本機。</td>
+    </tr>
         <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>

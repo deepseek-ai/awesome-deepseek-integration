@@ -46,6 +46,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 <table>
     <tr>
+        <td><img src="docs/AionUi/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/AionUi/README.md">AionUi</a></td>
+        <td>Una aplicación de escritorio multiagente gratuita, local y de código abierto para macOS, Windows y Linux. Conecta la plataforma DeepSeek integrada con tu propia clave API, junto con más de 20 CLI de IA y cualquier endpoint compatible con OpenAI, y ejecuta varios agentes y sesiones en un solo lugar manteniendo tus datos en local.</td>
+    </tr>
+    <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>Un asistente de IA de integración de sistema de código abierto para la plataforma Android, que admite el uso casi completo de mcp y es altamente compatible con el sistema Android. El software ofrece alta personalización y bajo umbral de aprendizaje, con herramientas incorporadas para operaciones de archivos, búsquedas, clics automáticos, conversión de formatos y una página web API de DeepSeek integrada.</td>

@@ -42,6 +42,11 @@
 
 <table>
     <tr>
+        <td><img src="docs/AionUi/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/AionUi/README.md">AionUi</a></td>
+        <td>一款免费、本地、开源的多 Agent 桌面应用，支持 macOS、Windows 和 Linux。选择内置的 DeepSeek 平台并填入你自己的 API Key 即可接入，同时兼容 20+ AI CLI 及任意兼容 OpenAI 的接口，让你在一个应用里并行运行多个 Agent 与多会话，数据始终留在本机。</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) 是一款专为 watchOS 与 iOS 深度定制的旗舰级 AI 客户端。它拥有“腕上智核”的独立交互体验、极简的律动美学设计以及全端联动的无缝体验。支持 DeepSeek 等多种模型，重塑你手腕上的 AI 交互维度。</td>
