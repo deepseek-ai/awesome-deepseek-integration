@@ -557,6 +557,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> NoneBotフレームワークを基に、インテリジェントな会話と深い思考機能をサポートします。QQ/飛書/Discord/Telegram等多种多様なメッセージプラットフォームに対応しています </td>
     </tr>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/73147033?v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/happysnaker/qq-ai-bot">qq-ai-bot<br/>（QQ, OneBot 11, NapCat, LLOneBot）</a> </td>
+        <td> OneBot 11 / NapCat / LLOneBot 向けのセルフホスト型 QQ ↔ AI ボットスキャフォールドで、ACP 互換エージェントをサポートします。DeepSeek などのローカル / セルフホスト型エージェントを QQ に接続する統合レイヤーとして使いやすく、セッション永続化、進捗ストリーミング、`/metrics`、Docker デモスタックを備えています。</td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/Soulter/AstrBot/raw/refs/heads/master/dashboard/src/assets/images/logo-normal.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Soulter/AstrBot/">AstrBot<br/>（QQ, WeChat, WeCom, Lark, TG, etc.）</a> </td>
         <td> 大規模言語モデルをサポートするマルチプラットフォームチャットボットおよび開発フレームワーク。RAG、長期記憶、ウェブ検索などの各種LLMエージェント機能をサポートし、プラグイン開発にも対応。</td>

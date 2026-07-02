@@ -782,6 +782,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Nekro Agent is a smart and elegant AI agent execution framework. At its core, it leverages a powerful and flexible prompt engineering system to guide AI in generating code and executing it within a secure sandbox. It delivers robust cross-platform event stream processing through a native multi-platform adapter architecture, seamlessly supporting major platforms like OneBot v11 (QQ), Discord, Minecraft, and Bilibili Live (powering V-Tuber performances). The project also boasts a highly extensible plugin system, a shared ecosystem for personas and plugins, and supports efficient interactions in complex, multi-user group chats. Its goal is to offer both users and developers a developer-friendly intelligent hub that is extremely efficient, highly flexible, and easy to use. </td>
     </tr>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/73147033?v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/happysnaker/qq-ai-bot">qq-ai-bot<br/>（QQ, OneBot 11, NapCat, LLOneBot）</a> </td>
+        <td> Self-hosted QQ ↔ AI bot scaffold for OneBot 11 / NapCat / LLOneBot with ACP-compatible agents. Works well as a QQ-facing integration layer for DeepSeek-backed local agents, with persistent sessions, progress streaming, `/metrics`, and a Docker demo stack.</td>
+    </tr>
+    <tr>
         <td> <img src="https://www.lanyingim.com/img/header/dock_lanying.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.lanyingim.com">蓝莺IM<br/></a> </td>
         <td> <b>AI Chatbot SDK with IM cloud service</b>, <br/> Cross-platform (iOS, Android, Web, PC, Linux) <a href="https://github.com/maxim-top/maxim-bistro">chat SDK</a> and AI Agent platform. <br/> Easily integrates into apps, and supports WeChat and official accounts. <br/> Native DeepSeek support, no API-Key needed.</td>

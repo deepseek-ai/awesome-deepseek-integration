@@ -644,6 +644,11 @@
         <td> Nekro Agent 是一个智能优雅的 AI 代理执行框架，其核心是通过强大灵活的提示词构建系统，引导 AI 生成代码并在安全的沙盒环境中执行。它通过原生的多平台适配器架构实现了强大的跨平台事件流处理能力，能够无缝支持 OneBot v11 (QQ)、Discord、Minecraft 和 B站直播(驱动VTB进行演出) 等多种主流平台。项目还拥有高度可扩展的插件系统、人设与插件共享生态，并支持在复杂的群聊多人交互场景中进行高效互动。目标是为用户和开发者提供极致高效、高自由度与易用性的开发友好型智能中枢。</td>
     </tr>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/73147033?v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/happysnaker/qq-ai-bot">qq-ai-bot<br/>（QQ, OneBot 11, NapCat, LLOneBot）</a> </td>
+        <td> 面向 OneBot 11 / NapCat / LLOneBot 的自托管 QQ ↔ AI 机器人脚手架，支持 ACP 兼容 agent。很适合作为 DeepSeek 等本地 / 自托管 agent 的 QQ 接入层，内置会话持久化、进度回传、`/metrics` 和 Docker 演示栈。</td>
+    </tr>
+    <tr>
         <td> <img src="https://www.lanyingim.com/img/header/dock_lanying.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.lanyingim.com">蓝莺IM<br/></a> </td>
         <td> <b>AI Chatbot SDK 和云服务</b>，<br>包括一个跨平台（iOS、安卓、网页、PC、Linux等）的<a href="https://github.com/maxim-top/maxim-bistro">聊天SDK</a>和一个AI Agent平台。<br/> 可嵌入应用APP，支持对接微信、公众号。<br/> 原生支持DeepSeek，无需单独配置API-Key。</td>
