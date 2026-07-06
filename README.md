@@ -54,6 +54,8 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>An open-source system integration AI assistant for the Android platform, supporting almost complete mcp usage and highly compatible with the Android system. The software features both high customization and a low learning threshold, with built-in tools for file operations, searches, automatic clicks, format conversions, and an integrated DeepSeek API webpage.</td>
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
     </tr>
     <tr>
         <td><img src="docs/openEuler Intelligence/intelligence_icon.png" alt="Icon" width="64" height="auto" /></td>
