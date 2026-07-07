@@ -1206,6 +1206,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format. Supports DeepSeek AI with cost tracking as well. </td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/Fast-Editor/Lynkr/main/docs/og-image.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Fast-Editor/Lynkr"> Lynkr </a> </td>
+        <td> Self-hosted LLM gateway that routes AI coding tools (Claude Code, Cursor, Codex CLI) by request complexity. Supports DeepSeek as the reasoning/complex tier, with tool-output compression, prompt caching, and semantic caching. Apache-2.0, Node.js. </td>
+    </tr>
+    <tr>
         <td> <img src="https://i.postimg.cc/k5Z4YWjt/Screenshot-2025-01-23-at-6-08-01-PM.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/mem0ai/mem0"> Mem0 </a> </td>
         <td> Mem0 enhances AI assistants with an intelligent memory layer, enabling personalized interactions and continuous learning over time. </td>
