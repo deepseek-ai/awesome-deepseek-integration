@@ -241,7 +241,12 @@
         <td> <a href="https://github.com/LiberSonora/LiberSonora">LiberSonora</a> </td>
         <td> LiberSonora，寓意"自由的声音"，是一个 AI 赋能的、强大的、开源有声书工具集，包含智能字幕提取、AI标题生成、多语言翻译等功能，支持 GPU 加速、批量离线处理 </td>
     </tr>
-    <tr>
+        <tr>
+        <td><img src="docs/ClariRec/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://clarirec.com/">ClariRec</a></td>
+        <td>ClariRec 是一款原生 macOS OCR 与翻译工具。默认用系统 Vision 完成本地 OCR，并支持用 DeepSeek 等 BYOK 引擎翻译；无需注册 ClariRec 账号。详见 <a href="docs/ClariRec/README_cn.md">接入说明</a>。</td>
+    </tr>
+<tr>
         <td> <img src="https://raw.githubusercontent.com/ripperhe/Bob/master/docs/_media/icon_128.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://bobtranslate.com/">Bob</a></td>
         <td> <a href="https://bobtranslate.com/">Bob</a> 是一款 macOS 平台的翻译和 OCR 软件，您可以在任何应用程序中使用 Bob 进行翻译和 OCR，即用即走！ </td>
