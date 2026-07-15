@@ -298,6 +298,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> LiberSonora, meaning "Voice of Freedom", is an AI-powered, robust, open-source audiobook toolkit that includes features like intelligent subtitle extraction, AI title generation, multilingual translation, with support for GPU acceleration and batch offline processing.</td>
     </tr>
     <tr>
+        <td><img src="docs/ClariRec/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://clarirec.com/">ClariRec</a></td>
+        <td>ClariRec is a native macOS OCR and translation app. On-device Vision OCR for screenshots, clipboard, and files, plus BYOK translation with DeepSeek and other providers — no ClariRec account required. See <a href="docs/ClariRec/README.md">setup guide</a>.</td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/ripperhe/Bob/master/docs/_media/icon_128.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://bobtranslate.com/">Bob</a></td>
         <td> <a href="https://bobtranslate.com/">Bob</a> is a macOS translation & OCR tool ready to use in any app — right out of the box!</td>
