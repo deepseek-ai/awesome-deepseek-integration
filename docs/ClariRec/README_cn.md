@@ -31,7 +31,7 @@ ClariRec 是一款原生 macOS OCR 与翻译工具。默认用系统 Vision 在�
 内置默认（无需自行填写端点）：
 
 - 端点：`https://api.deepseek.com/chat/completions`
-- 默认模型：`deepseek-v4-flash`
+- 默认模型：`deepseek-v4-flash`（可在 DeepSeek 提供商设置中自定义模型名）
 
 API Key 保存在 macOS 钥匙串中。ClariRec 直连 DeepSeek 官方 API，不经过任何代理或中间服务器。
 

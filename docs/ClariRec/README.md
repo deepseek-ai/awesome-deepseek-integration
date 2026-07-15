@@ -31,7 +31,7 @@ ClariRec is a native macOS OCR and translation app. It extracts text from screen
 Built-in defaults (no endpoint setup required):
 
 - Endpoint: `https://api.deepseek.com/chat/completions`
-- Default model: `deepseek-v4-flash`
+- Default model: `deepseek-v4-flash` (the model name can be changed in the DeepSeek provider settings)
 
 Your key is stored in the macOS Keychain. ClariRec talks to DeepSeek’s official API directly — no proxy or intermediate server.
 
