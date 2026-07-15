@@ -81,6 +81,11 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
         <td>OpenRouter provides a unified API that gives you access to hundreds of AI models through a single endpoint, while automatically handling fallbacks and selecting the most cost-effective options. Get started with just a few lines of code using your preferred SDK or framework.</td>
     </tr>
     <tr>
+        <td><img src="https://flintapi.ai/favicon.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://flintapi.ai/">FlintAPI</a></td>
+        <td>Smart Routing engine that auto-decomposes prompts into sub-tasks and dispatches each to the best-suited model (DeepSeek V4, Qwen3.7, Kimi K2.6, GLM-5.1). $5 free credit, no card. One OpenAI-compatible endpoint — zero model-selection code. <a href="https://flintapi.ai/blog/smart-routing-vs-aggregation">Learn how Smart Routing beats aggregation</a>.</td>
+    </tr>
+    <tr>
         <td><img src="docs/aingdesk/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/aingdesk/AingDesk">AingDesk</a></td>
         <td>One-click deployment of AI models on your computer with a visual interface, featuring an elegant chat UI. It allows online sharing for collaborative use, supports various models like DeepSeek, and enables web search and third-party API integration.</td>
