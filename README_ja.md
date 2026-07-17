@@ -404,6 +404,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
     </tr>
+    <tr>
+        <td width=80> <img src="https://raw.githubusercontent.com/Orkas-AI/Orkas/main/src/resources/icons/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://orkas.ai/?source=awesome_deepseek">Orkas</a> </td>
+        <td>Orkas は MIT ライセンスのローカルファーストなマルチエージェント・デスクトップアプリです。Commander が調査、コーディング、データ分析、文書、メディアを担当する専門エージェントを連携させ、ユーザー自身の API キーで DeepSeek を直接設定できます。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
