@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td width=80> <img src="https://raw.githubusercontent.com/Orkas-AI/Orkas/main/src/resources/icons/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://orkas.ai/?source=awesome_deepseek">Orkas</a> </td>
+        <td>Orkas is an MIT-licensed, local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media. It supports direct DeepSeek API configuration with users' own keys.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
