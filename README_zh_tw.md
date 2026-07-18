@@ -470,6 +470,11 @@
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> 基於 DeepSeek 的 AI 主持人海龜湯 / 側向思維解謎產品，可單人或者多人遊玩。AI 進行控場與吐槽，圍繞「是 / 否 / 無關」的問答推進推理；提供沉浸式玩法（更強劇情氛圍與節奏引導）、引導提示與防卡關機制，同時結合向量檢索 + DeepSeek 進行題目去重，並提供內容審核能力。適合輕量腦洞訓練與在線陪玩。 </td>
     </tr>
+    <tr>
+        <td width=80> <img src="https://raw.githubusercontent.com/Orkas-AI/Orkas/main/src/resources/icons/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://orkas.ai/?source=awesome_deepseek">Orkas</a> </td>
+        <td>Orkas 是一款採用 MIT 授權、本機優先的多智慧體桌面應用程式。Commander 可協調研究、程式設計、資料分析、文件與媒體等專業智慧體，並支援使用者以自己的 API Key 直接設定 DeepSeek。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>

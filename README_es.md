@@ -432,6 +432,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> Un juego de enigmas de pensamiento lateral tipo "Sopa de Tortuga" con un anfitrión de IA basado en DeepSeek, disponible para uno o varios jugadores. La IA modera la partida e interactúa con humor, guiando la deducción mediante respuestas de "Sí / No / Irrelevante". Ofrece una experiencia inmersiva con una fuerte atmósfera narrativa, gestión del ritmo y un sistema de pistas para evitar bloqueos. Integra búsqueda vectorial y DeepSeek para evitar la repetición de acertijos e incluye moderación de contenido. Ideal para entrenar la creatividad y como entretenimiento social en línea. </td>
     </tr>
+    <tr>
+        <td width=80> <img src="https://raw.githubusercontent.com/Orkas-AI/Orkas/main/src/resources/icons/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://orkas.ai/?source=awesome_deepseek">Orkas</a> </td>
+        <td>Orkas es una aplicación de escritorio multiagente, local y con licencia MIT, en la que un Commander coordina agentes especializados en investigación, programación, análisis de datos, documentos y contenido multimedia. Permite configurar directamente la API de DeepSeek con la clave del usuario.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
