@@ -1102,6 +1102,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="docs/wusigram/README.md"> 无思微程序 </a> </td>
         <td>A mobile AI code writing and running tool. DeepSeek Programming Companion</td>
     </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/280842444?s=200&v=4" alt="San icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/genai-io/san"> San </a> </td>
+        <td>A fast, open terminal agent harness with native DeepSeek API support, pluggable models, MCP, skills, and permission-gated tools.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
