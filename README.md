@@ -1105,7 +1105,7 @@ The purpose is to build infrastructure in the field of large models, through the
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/280842444?s=200&v=4" alt="San icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/genai-io/san"> San </a> </td>
-        <td>A minimal, fast terminal agent harness: one ~12 MB native binary for macOS, Linux, and Windows, with native DeepSeek API support.</td>
+        <td>A minimal, fast terminal agent harness: one ~12 MB native binary for any device, with native DeepSeek API support.</td>
     </tr>
 </table>
 
