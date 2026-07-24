@@ -22,6 +22,7 @@ AiPy 原生支持 OpenAI 兼容接口，可直接接入 DeepSeek 模型。
 | **API 密钥** | 你的 [DeepSeek API Key](https://platform.deepseek.com/api_keys) |
 | **模型** | `deepseek-v4-pro` |
 4. 保存配置，DeepSeek 即可在 AiPy 中使用，也可点击设为默认，将DeepSeek模型设置为默认使用模型。
+<img width="1276" height="811" alt="aipy-setting" src="https://github.com/user-attachments/assets/15c43f7d-3689-4f42-99ea-1867c841806e" />
 
 #### 3. 开始使用
 配置完成后，在 AiPy 主界面的对话框中：
@@ -31,6 +32,8 @@ AiPy 原生支持 OpenAI 兼容接口，可直接接入 DeepSeek 模型。
    - "帮我把这 100 个文件按日期重命名"
    - "帮我写一份年终总结 PPT"
 2. AiPy 会自动组建专家团队，分步骤完成任务。
+<img width="1345" height="870" alt="aipy-screen" src="https://github.com/user-attachments/assets/2b960c37-6373-42d8-bd13-139d28adde02" />
+
 
 #### 4. 进阶用法
 完成 DeepSeek 配置后，你可以在 AiPy 的以下场景中充分发挥其能力：
