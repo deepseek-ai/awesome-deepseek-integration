@@ -509,6 +509,12 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> es un marco flexible y de alto rendimiento para construir, ejecutar y evaluar agentes autónomos. Más allá de encabezar los puntos de referencia (benchmarks), este marco ofrece capacidades potentes para agentes, como análisis de datos, procesamiento de archivos e investigación profunda, todo ello con modelos de código abierto. </td>
     </tr>
+	 <tr>
+        <td width=80> <img src="docs/AiPy/assets/LOGO.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/AiPy/README.md"> AiPy </a> </td>
+        <td> <a href="docs/AiPy/README.md"> AiPy </a> es una plataforma general de agentes IA accesible para usuarios sin conocimientos técnicos. No se requieren conocimientos de programación: solo tienes que describir tus necesidades en lenguaje sencillo, y AiPy creará automáticamente un equipo de agentes IA para resolver tareas complejas de forma colaborativa. Admite escenarios como desarrollo de proyectos, análisis de datos, generación de documentos, creación de imágenes y producción de vídeos. Se puede añadir rápidamente el modelo DeepSeek y configurarlo como modelo predeterminado.</td>
+    </tr>
+
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

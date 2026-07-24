@@ -547,6 +547,11 @@
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> 是一個靈活、高性能的框架，用於構建、運行和評估自主智能體。除了在基準測試中名列前茅，該框架還提供了強大的智能體能力，採用開源模型即可實現例如數據分析、文件處理、深度研究等功能。 </td>
     </tr>
+	 <tr>
+        <td width=80> <img src="docs/AiPy/assets/LOGO.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/AiPy/README.md"> AiPy </a> </td>
+        <td> <a href="docs/AiPy/README.md"> AiPy </a> 是一款小白使用者也能使用的通用 AI 智慧體平台。使用者無需懂程式設計，只需用白話描述需求，AiPy 就能自動組建 AI 團隊，協作完成複雜任務。支援專案開發、資料分析、文件產生、圖片製作、影片製作等場景，可快速新增 DeepSeek 模型並設定為預設使用。</td>
+    </tr>	
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>

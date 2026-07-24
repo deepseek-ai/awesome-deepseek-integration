@@ -451,6 +451,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> は、自律エージェントを構築、実行、および評価するための柔軟で高性能なフレームワークです。ベンチマークテストで最高の成績を収めるだけでなく、このフレームワークは、オープンソースモデルを使用して、データ分析、ファイル処理、詳細な調査などの強力なエージェント機能を提供します。 </td>
     </tr>
+	 <tr>
+        <td width=80> <img src="docs/AiPy/assets/LOGO.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/AiPy/README.md"> AiPy </a> </td>
+        <td> <a href="docs/AiPy/README.md"> AiPy </a> 初心者でも利用可能な汎用 AI エージェントプラットフォームです。プログラミングの知識は不要で、自然言語で要件を記述するだけで、AiPy が自動的に AI チームを編成し、複雑なタスクを協働で実行します。プロジェクト開発、データ分析、ドキュメント作成、画像制作、動画制作などのシナリオに対応。DeepSeek モデルを素早く追加し、標準利用モデルとして設定可能です。</td>
+    </tr>
 
 </table>
 
