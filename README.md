@@ -656,6 +656,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> is a flexible, high-performance framework for building, running, and evaluating autonomous agents. Beyond topping the benchmarks, this framework delivers powerful agent capabilities, e.g. data analysis, file processing, and deep research, all with open-source models. </td>
     </tr>
+      <tr>
+        <td width=80> <img src="docs/AiPy/assets/LOGO.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/AiPy/README.md"> AiPy </a> </td>
+        <td> <a href="docs/AiPy/README.md"> AiPy </a> It is a general-purpose AI agent platform accessible even for non-technical users. No programming knowledge is required. Users only need to describe their requirements in plain language, and AiPy can automatically assemble an AI team to collaboratively complete complex tasks. It supports scenarios including project development, data analysis, document generation, image creation and video production. The DeepSeek model can be quickly added and set as the default model.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
