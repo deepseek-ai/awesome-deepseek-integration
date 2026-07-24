@@ -512,7 +512,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 	 <tr>
         <td width=80> <img src="docs/AiPy/assets/LOGO.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/AiPy/README.md"> AiPy </a> </td>
-        <td> <a href="docs/AiPy/README.md"> AiPy </a>AiPy es una plataforma general de agentes IA accesible para usuarios sin conocimientos técnicos. No se requieren conocimientos de programación: solo tienes que describir tus necesidades en lenguaje sencillo, y AiPy creará automáticamente un equipo de agentes IA para resolver tareas complejas de forma colaborativa. Admite escenarios como desarrollo de proyectos, análisis de datos, generación de documentos, creación de imágenes y producción de vídeos. Se puede añadir rápidamente el modelo DeepSeek y configurarlo como modelo predeterminado.</td>
+        <td> <a href="docs/AiPy/README.md"> AiPy </a> es una plataforma general de agentes IA accesible para usuarios sin conocimientos técnicos. No se requieren conocimientos de programación: solo tienes que describir tus necesidades en lenguaje sencillo, y AiPy creará automáticamente un equipo de agentes IA para resolver tareas complejas de forma colaborativa. Admite escenarios como desarrollo de proyectos, análisis de datos, generación de documentos, creación de imágenes y producción de vídeos. Se puede añadir rápidamente el modelo DeepSeek y configurarlo como modelo predeterminado.</td>
     </tr>
 
 </table>
