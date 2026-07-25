@@ -683,6 +683,11 @@
 
 <table>
     <tr>
+        <td><img src="./docs/astra-translate/assets/icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="./docs/astra-translate/README_cn.md">Astra Translate</a></td>
+        <td>轻量、供应商中立的网页翻译扩展（Manifest V3）：视口优先的整页翻译、流式批量上屏、划词翻译与词典模式、按站点学习的词汇表。内置 DeepSeek 预设，填入 API Key 即可开箱即用。</td>
+    </tr>
+    <tr>
         <td><img src="./docs/SelectTranslate/assets/icon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://selecttranslate.com/">精挑翻译</a></td>
         <td>一款免费开放的 AI 翻译插件，拥有双语网页翻译、择优翻译（文案翻译）、输入翻译、PDF 翻译等创新实用的翻译功能。</td>

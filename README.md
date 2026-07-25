@@ -816,6 +816,11 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <table>
     <tr>
+        <td><img src="./docs/astra-translate/assets/icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="./docs/astra-translate/README.md">Astra Translate</a></td>
+        <td>A lightweight, provider-neutral webpage translation extension (Manifest V3) with viewport-first full-page translation, streaming batch apply, selection & dictionary mode, and per-site learned glossaries. Ships with a built-in DeepSeek preset — paste your API key and it works out of the box.</td>
+    </tr>
+    <tr>
         <td><img src="./docs/SelectTranslate/assets/icon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://selecttranslate.com/">SelectTranslate</a></td>
         <td>A free and open AI translation extension, with innovative and practical translation functions such as bilingual webpage translation, AI-selected translation (copy translation), input translation, and PDF translation.
