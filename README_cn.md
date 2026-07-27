@@ -529,6 +529,11 @@
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，采用开源模型即可实现例如数据分析、文件处理、深度研究等功能。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/apoet/Agent4API/main/logo.png" alt="Agent4API 图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/apoet/Agent4API">Agent4API</a> </td>
+        <td>Agent4API 可一键将 Swagger/OpenAPI 定义转换为受管控的工具、技能和 AI 智能体。它通过 OpenAI 兼容的提供商支持 DeepSeek，并可通过 MCP、OpenAI/Anthropic 兼容 API、浏览器聊天及嵌入式聊天对外提供智能体服务。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
