@@ -1127,6 +1127,11 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <table>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/299565789?v=4" alt="BailingHub icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/bailinghub/bailinghub"> BailingHub </a> </td>
+        <td> Open-source, self-hosted governance control plane for DeepSeek agents operating existing business systems. It routes proposed actions through allowlists, trusted subjects, human approval, audit trails, and idempotent execution while business systems retain final authorization. <a href="https://github.com/bailinghub/bailinghub/tree/main/docs/integrations/deepseek">DeepSeek integration guide</a>.</td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/lukehinds/awesome-deepseek-integration/blob/codegate/docs/codegate/assets/codegate.png"  alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/stacklok/codegate/"> CodeGate </a> </td>
         <td> CodeGate: secure AI code generation</td>
