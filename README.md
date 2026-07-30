@@ -559,8 +559,8 @@ With these functionalities, the AI assistant can summarize key points within an 
     </tr>
     <tr>
         <td> <img src="https://raw.githubusercontent.com/rocketride-org/rocketride-server/c5cde38f4507e81bc58dfd41d4c5d642feb2569a/packages/shared-ui/src/assets/rocketride/rocketride.svg" alt="RocketRide" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/rocketride-org/rocketride-server">RocketRide</a> </td>
-        <td>RocketRide is an open-source AI workflow and agent platform with native DeepSeek API support for building LLM pipelines, agents, and RAG workflows.</td>
+        <td> <a href="https://cloud.rocketride.ai/">RocketRide</a> </td>
+        <td>RocketRide is a developer platform for building, deploying, and operating production AI systems, with native DeepSeek API support.</td>
     </tr>
 </table>
 
