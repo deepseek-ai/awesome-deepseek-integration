@@ -529,6 +529,13 @@
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，采用开源模型即可实现例如数据分析、文件处理、深度研究等功能。 </td>
     </tr>
+
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/deepseek-ai/awesome-deepseek-integration/main/docs/jig/assets/jig-mark-color.svg" alt="图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/jig/README_cn.md">Jig</a> </td>
+        <td> Python 多 Agent 编排框架，具备执行前 Agent Firewall、4 层记忆架构和 DeepSeek 原生优化（SHA-256 前缀缓存、CostAwareRouter、Tool-Call Repair）。 </td>
+    </tr>
+
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

@@ -620,6 +620,13 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatrices is a lightweight, high-performance, scalable, and open source AI application rapid building platform designed to provide developers with an efficient and convenient AI application development experience. It integrates multiple advanced technologies and tools to help users quickly build, deploy, and maintain AI applications without having to write complex code from scratch.</td>
     </tr>
+
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/deepseek-ai/awesome-deepseek-integration/main/docs/jig/assets/jig-mark-color.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/jig/README.md">Jig</a> </td>
+        <td>Python multi-agent orchestration framework with pre-execution Agent Firewall, 4-layer memory, and DeepSeek-native optimizations (SHA-256 prefix caching, CostAwareRouter, Tool-Call Repair).</td>
+    </tr>
+
 </table>
 
 ### RAG frameworks
