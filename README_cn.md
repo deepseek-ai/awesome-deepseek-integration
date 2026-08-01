@@ -531,7 +531,7 @@
     </tr>
 
     <tr>
-        <td> <img src="https://avatars.githubusercontent.com/u/72914563?v=4" alt="图标" width="64" height="auto" /> </td>
+        <td> <img src="https://raw.githubusercontent.com/deepseek-ai/awesome-deepseek-integration/main/docs/jig/assets/jig-mark-color.svg" alt="图标" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/jig/README_cn.md">Jig</a> </td>
         <td> Python 多 Agent 编排框架，具备执行前 Agent Firewall、4 层记忆架构和 DeepSeek 原生优化（SHA-256 前缀缓存、CostAwareRouter、Tool-Call Repair）。 </td>
     </tr>

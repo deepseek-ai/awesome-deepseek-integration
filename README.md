@@ -622,7 +622,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     </tr>
 
     <tr>
-        <td> <img src="https://avatars.githubusercontent.com/u/72914563?v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://raw.githubusercontent.com/deepseek-ai/awesome-deepseek-integration/main/docs/jig/assets/jig-mark-color.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/jig/README.md">Jig</a> </td>
         <td>Python multi-agent orchestration framework with pre-execution Agent Firewall, 4-layer memory, and DeepSeek-native optimizations (SHA-256 prefix caching, CostAwareRouter, Tool-Call Repair).</td>
     </tr>

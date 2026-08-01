@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" fill="none">
+  <!-- Jig Logo · Minimal Shield · Color (Navy + Emerald) -->
+  <g transform="translate(100,30)">
+    <circle cx="0" cy="0" r="12" stroke="#10B981" stroke-width="5.5" fill="none"/>
+    <g stroke="#10B981" stroke-width="5.5" stroke-linecap="round">
+      <line x1="0" y1="-18" x2="0" y2="-22"/>
+      <line x1="0" y1="-18" x2="0" y2="-22" transform="rotate(45)"/>
+      <line x1="0" y1="-18" x2="0" y2="-22" transform="rotate(90)"/>
+      <line x1="0" y1="-18" x2="0" y2="-22" transform="rotate(135)"/>
+      <line x1="0" y1="-18" x2="0" y2="-22" transform="rotate(180)"/>
+      <line x1="0" y1="-18" x2="0" y2="-22" transform="rotate(225)"/>
+      <line x1="0" y1="-18" x2="0" y2="-22" transform="rotate(270)"/>
+      <line x1="0" y1="-18" x2="0" y2="-22" transform="rotate(315)"/>
+    </g>
+  </g>
+  <line x1="36" y1="48" x2="82" y2="48" stroke="#1B2A4A" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="118" y1="48" x2="164" y2="48" stroke="#1B2A4A" stroke-width="5.5" stroke-linecap="round"/>
+  <circle cx="42" cy="40" r="3.5" fill="#1B2A4A"/>
+  <path d="M40 54 L40 130 Q40 165 58 180 Q76 192 100 192"
+        stroke="#1B2A4A" stroke-width="5.5" fill="none" stroke-linecap="round"/>
+  <line x1="100" y1="48" x2="100" y2="210" stroke="#1B2A4A" stroke-width="5.5" stroke-linecap="round"/>
+  <path d="M160 54 L160 72 Q160 84 148 84 L138 84"
+        stroke="#1B2A4A" stroke-width="5.5" fill="none" stroke-linecap="round"/>
+  <path d="M160 54 L160 130 Q160 165 142 180 Q124 192 100 192"
+        stroke="#1B2A4A" stroke-width="5.5" fill="none" stroke-linecap="round"/>
+</svg>
