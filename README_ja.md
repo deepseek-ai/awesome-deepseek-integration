@@ -451,7 +451,10 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> は、自律エージェントを構築、実行、および評価するための柔軟で高性能なフレームワークです。ベンチマークテストで最高の成績を収めるだけでなく、このフレームワークは、オープンソースモデルを使用して、データ分析、ファイル処理、詳細な調査などの強力なエージェント機能を提供します。 </td>
     </tr>
-
+        <td width=80> <img src="docs/gliding_horse/assets/logo.jpg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/doiito/gliding_horse"> Gliding Horse </a> </td>
+        <td> <a href="https://github.com/doiito/gliding_horse"> Gliding Horse </a> Rust で構築された産業グレードのオープンソース AI エージェント OS で、ターミナルコーディングアシスタント Gliding Code を備えています。PDCA ループによるマルチエージェントのオーケストレーション、永続的な知識グラフの維持、DeepSeek Responses API のネイティブサポート（最大 100 万トークンのコンテキスト）を実現します。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

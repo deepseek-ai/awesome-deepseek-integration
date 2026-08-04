@@ -509,6 +509,10 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> es un marco flexible y de alto rendimiento para construir, ejecutar y evaluar agentes autónomos. Más allá de encabezar los puntos de referencia (benchmarks), este marco ofrece capacidades potentes para agentes, como análisis de datos, procesamiento de archivos e investigación profunda, todo ello con modelos de código abierto. </td>
     </tr>
+        <td width=80> <img src="docs/gliding_horse/assets/logo.jpg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/doiito/gliding_horse"> Gliding Horse </a> </td>
+        <td> <a href="https://github.com/doiito/gliding_horse"> Gliding Horse </a> Un sistema operativo de agentes de IA de grado industrial y código abierto construido en Rust, con el asistente de codificación Gliding Code. Orquesta flujos de trabajo multiagente con un ciclo PDCA, mantiene un grafo de conocimiento persistente y soporta de forma nativa la API Responses de DeepSeek con hasta 1M de tokens de contexto. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
