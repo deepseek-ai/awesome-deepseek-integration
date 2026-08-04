@@ -547,6 +547,10 @@
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> 是一個靈活、高性能的框架，用於構建、運行和評估自主智能體。除了在基準測試中名列前茅，該框架還提供了強大的智能體能力，採用開源模型即可實現例如數據分析、文件處理、深度研究等功能。 </td>
     </tr>
+        <td width=80> <img src="docs/gliding_horse/assets/logo.jpg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/doiito/gliding_horse"> Gliding Horse </a> </td>
+        <td> <a href="https://github.com/doiito/gliding_horse"> Gliding Horse </a> 一個以 Rust 建構的開源工業級 AI 智慧體作業系統，內建終端編碼助手 Gliding Code。透過 PDCA 循環編排多智慧體工作流程，維護持久化知識圖譜，並原生支援 DeepSeek Responses API 與高達 100 萬 token 的上下文。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>

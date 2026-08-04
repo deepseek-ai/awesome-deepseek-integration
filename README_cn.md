@@ -471,6 +471,10 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+        <td width=80> <img src="docs/gliding_horse/assets/logo.jpg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/doiito/gliding_horse"> Gliding Horse </a> </td>
+        <td> <a href="https://github.com/doiito/gliding_horse"> Gliding Horse </a> 一个基于 Rust 构建的开源工业级 AI 智能体操作系统，内置终端编码助手 Gliding Code。通过 PDCA 循环编排多智能体工作流，维护持久化知识图谱，并原生支持 DeepSeek Responses API 与高达 100 万 token 的上下文。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
