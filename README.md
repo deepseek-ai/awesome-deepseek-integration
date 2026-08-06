@@ -46,6 +46,11 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
 
 <table>
     <tr>
+        <td><img src="docs/OpenMinis/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/OpenMinis/README.md">OpenMinis</a></td>
+        <td>OpenMinis is a free, fully open-source (GPL-3.0) private on-device AI agent for iOS, iPadOS, macOS and Android. Bring your own model — DeepSeek and any OpenAI-compatible endpoint are supported, with per-conversation model switching — and give the agent a real computer: a full Alpine Linux shell running on-device (iSH/PRoot), browser automation, deep system integration (HealthKit, Calendar, Reminders, HomeKit, Clipboard and more), extensible SKILL.md skills, persistent memory and workspaces. Everything runs privately on your device with API keys stored in the Keychain. 3.3k+ stars on GitHub.</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) is a flagship AI client explicitly tailored for watchOS and iOS. It features a watch-first design, aesthetic UI, seamless sync between devices, and deep system integration. Supports multiple models including DeepSeek, redefining AI interaction on your wrist.</td>

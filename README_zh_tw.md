@@ -47,6 +47,11 @@
 
 <table>
         <tr>
+        <td><img src="docs/OpenMinis/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/OpenMinis/README.md">OpenMinis</a></td>
+        <td>OpenMinis 是一款完全免費開源（GPL-3.0）的私有端側 AI Agent，支援 iOS、iPadOS、macOS 與 Android 平台。自帶模型（BYO Model）——支援 DeepSeek 及任意 OpenAI 相容 API，可依對話自由切換模型；更重要的是它給 AI 一台真正的電腦：裝置端內建完整 Alpine Linux 沙箱（iOS 基於 iSH、Android 基於 PRoot），可安裝套件、執行腳本、讀寫真實檔案，並深度整合 HealthKit、行事曆、提醒事項、HomeKit、剪貼簿等系統能力，支援瀏覽器自動化、可擴充的 SKILL.md 技能體系、持久記憶與 Workspaces。所有資料與 API Key 僅存於裝置本地（Keychain），隱私優先，無資料收集。GitHub 3.3k+ stars。</td>
+    </tr>
+    <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>面向安卓平台的開源系統集成 AI 助手，支持幾乎完整的 mcp 使用，與安卓系統高度兼容。軟件同時具備高度自定義和低門檻的上手體驗，內建文件操作、搜索、自動點擊、格式轉換等工具，並整合了 DeepSeek API 網頁。</td>
