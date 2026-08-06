@@ -47,7 +47,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 <table>
     <tr>
         <td><img src="docs/OpenMinis/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="docs/OpenMinis/README.md">OpenMinis</a></td>
+        <td><a href="docs/OpenMinis/README_es.md">OpenMinis</a></td>
         <td>OpenMinis es un agente de IA privado en el dispositivo, gratuito y totalmente de código abierto (GPL-3.0), para iOS, iPadOS, macOS y Android. Trae tu propio modelo (BYO Model): compatible con DeepSeek y cualquier API compatible con OpenAI, con cambio de modelo por conversación. Además le da al agente un ordenador real: un shell completo de Alpine Linux en el dispositivo (iSH en iOS, PRoot en Android), automatización de navegador, integración profunda con el sistema (HealthKit, Calendario, Recordatorios, HomeKit, Portapapeles y más), skills extensibles en formato SKILL.md, memoria persistente y workspaces. Todo se ejecuta de forma privada en tu dispositivo, con las claves API guardadas en el Keychain y sin recopilación de datos. +3.3k estrellas en GitHub.</td>
     </tr>
     <tr>
