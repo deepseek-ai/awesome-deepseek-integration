@@ -41,6 +41,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
+        <td><img src="docs/OpenMinis/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/OpenMinis/README_ja.md">OpenMinis</a></td>
+        <td>OpenMinis は、iOS・iPadOS・macOS・Android 向けの完全無料・完全オープンソース（GPL-3.0）のプライベートなオンデバイス AI エージェントです。Bring Your Own Model 方式で、DeepSeek や OpenAI 互換 API をサポートし、会話ごとにモデルを自由に切り替えられます。さらに、デバイス上で動作する本格的な Alpine Linux シェル（iOS は iSH、Android は PRoot ベース）、ブラウザ自動化、HealthKit・カレンダー・リマインダー・HomeKit・クリップボードなどの深いシステム統合、拡張可能な SKILL.md スキル、永続メモリ、Workspaces を備えています。データと API キーはすべてデバイス内（Keychain）に保存され、データ収集なしのプライバシー最優先設計。GitHub で 3.3k+ スターを獲得しています。</td>
+    </tr>
+    <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>Androidプラットフォーム向けのオープンソースシステム統合AIアシスタントで、ほぼ完全なmcp使用をサポートし、Androidシステムと高い互換性を持っています。このソフトウェアは高度なカスタマイズと低い学習障壁を特徴とし、ファイル操作、検索、自動クリック、フォーマット変換などの組み込みツールと統合DeepSeek APIウェブページを備えています。</td>

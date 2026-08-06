@@ -42,6 +42,11 @@
 
 <table>
     <tr>
+        <td><img src="docs/OpenMinis/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/OpenMinis/README_cn.md">OpenMinis</a></td>
+        <td>OpenMinis 是一款完全免费开源（GPL-3.0）的私有端侧 AI Agent，覆盖 iOS、iPadOS、macOS 与 Android 平台。自带模型（BYO Model）——支持 DeepSeek 及任意 OpenAI 兼容 API，可按对话自由切换模型；更重要的是它给 AI 一台真正的电脑：设备端内置完整 Alpine Linux 沙箱（iOS 基于 iSH、Android 基于 PRoot），可安装软件包、执行脚本、读写真实文件，并深度集成 HealthKit、日历、提醒事项、HomeKit、剪贴板等系统能力，支持浏览器自动化、可扩展的 SKILL.md 技能体系、持久记忆与 Workspaces。所有数据与 API Key 仅存于设备本地（Keychain），隐私优先，无数据收集。GitHub 3.3k+ stars。</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) 是一款专为 watchOS 与 iOS 深度定制的旗舰级 AI 客户端。它拥有“腕上智核”的独立交互体验、极简的律动美学设计以及全端联动的无缝体验。支持 DeepSeek 等多种模型，重塑你手腕上的 AI 交互维度。</td>
