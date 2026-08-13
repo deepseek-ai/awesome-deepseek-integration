@@ -25,7 +25,7 @@ models:
     provider: deepseek
     model: deepseek-chat
     apiKey: YOUR_DEEPSEEK_API_KEY
-    apiBase: https://api.deepseek.com/beta
+    apiBase: https://api.deepseek.com/
     roles:
       - chat
       - edit
@@ -45,3 +45,7 @@ context:
   - provider: folder
   - provider: codebase
 ```
+
+## Modify the settings of the Continue plugin
+Change the timeout to '3000ms'
+<img width="589" height="888" alt="image" src="https://github.com/user-attachments/assets/bad9a829-34f2-44b1-bcc9-d6b804615158" />
