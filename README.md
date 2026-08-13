@@ -580,6 +580,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> Model Context Protocol server for DeepSeek's advanced language models.</td>
     </tr>
     <tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/deepseek-harness">DeepSeek Harness (dsh)</a> </td>
+        <td> DeepSeek official open-source agent runtime (2026-08-13): everything-is-a-plugin on Cordis, web + headless profiles. Community handbook (bilingual, 10 chapters): https://github.com/Electricitysheep/dsh-handbook </td>
+    </tr>
         <td> <img src="https://raw.githubusercontent.com/superagentxai/superagentX/refs/heads/master/docs/logo/icononly_transparent_nobuffer.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/superagentx/README.md">SuperAgentX</a> </td>
         <td>SuperAgentX: A Lightweight Open Source AI Framework Built for Autonomous Multi-Agent Applications with Artificial General Intelligence (AGI) Capabilities.</td>
