@@ -1,4 +1,4 @@
-<img width="440" height="496" alt="image" src="https://github.com/user-attachments/assets/fa41c95c-e98d-4234-bfeb-760966cf818b" /><img src="https://github.com/continuedev/continue/blob/main/docs/static/img/logo.png?raw=true" width="64" height="auto" />
+<img src="https://github.com/continuedev/continue/blob/main/docs/static/img/logo.png?raw=true" width="64" height="auto" />
 
 # [Continue](https://continue.dev/)
 
