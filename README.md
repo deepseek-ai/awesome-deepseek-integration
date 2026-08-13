@@ -1152,7 +1152,7 @@ The purpose is to build infrastructure in the field of large models, through the
     <tr>
         <td> 🌍 </td>
         <td> <a href="https://flowbarai.com"> FlowBar </a> </td>
-        <td> Unified API for 50+ AI models (GPT, Claude, Gemini, DeepSeek, Qwen, GLM, Kimi). OpenAI compatible. Pay via WeChat, Alipay, USDT, PayPal. 5-10% below OpenRouter.</td>
+        <td> Unified API for 50+ AI models (GPT, Claude, Gemini, DeepSeek, Qwen, GLM, Kimi). OpenAI compatible. Pay via Waffo (430+ local methods, Apple/Google Pay), WeChat, Alipay, USDT/USDC, PayPal. 5-10% below OpenRouter.</td>
     </tr>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
