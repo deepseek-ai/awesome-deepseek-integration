@@ -887,6 +887,11 @@
 
 <table>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/GCWing/BitFun/main/src/web-ui/public/Logo-ICON-128.png" alt="BitFun 图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/GCWing/BitFun"> BitFun </a> </td>
+        <td> 面向真实代码仓库的开源 AI Agent 工作台，支持包括 DeepSeek V4 Flash 和 V4 Pro 在内的官方 DeepSeek API，也可接入其他模型提供商。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://global.discourse-cdn.com/flex020/uploads/cursor1/original/2X/a/a4f78589d63edd61a2843306f8e11bad9590f0ca.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.cursor.com/"> Cursor </a> </td>
         <td> 基于VS Code进行扩展的AI Code编辑器 </td>
