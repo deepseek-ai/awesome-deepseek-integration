@@ -1088,6 +1088,11 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <table>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/GCWing/BitFun/main/src/web-ui/public/Logo-ICON-128.png" alt="BitFun icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/GCWing/BitFun"> BitFun </a> </td>
+        <td>An open-source AI agent workbench for real repositories. It supports the official DeepSeek API, including DeepSeek V4 Flash and V4 Pro, alongside other model providers.</td>
+    </tr>
+    <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.cursor.com/"> Cursor </a> </td>
         <td>‍The AI Code Editor based on VS Code</td>
