@@ -24,7 +24,7 @@ models:
     provider: deepseek
     model: deepseek-chat
     apiKey: YOUR_DEEPSEEK_API_KEY
-    apiBase: https://api.deepseek.com/beta
+    apiBase: https://api.deepseek.com/
     roles:
       - chat
       - edit
@@ -44,3 +44,7 @@ context:
   - provider: folder
   - provider: codebase
 ```
+
+## 修改continue插件的设置
+将超时时间改为3000ms
+<img width="589" height="888" alt="image" src="https://github.com/user-attachments/assets/17fa5925-b8e1-4384-a748-d839c3aff48e" />
