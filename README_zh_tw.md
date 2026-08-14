@@ -478,6 +478,11 @@
 
 <table>
     <tr>
+        <td><img src="https://raw.githubusercontent.com/baiyuscc13724-max/deepseek-harness-desktop/main/build/icon.png" alt="Harness Desktop 圖示" width="64" height="auto" /></td>
+        <td><a href="https://github.com/baiyuscc13724-max/deepseek-harness-desktop">Harness Desktop</a></td>
+        <td>官方 DeepSeek Harness Web UI 的社群維護 Windows 用戶端，提供簡體中文安裝程式、可攜版、校驗更新、可持續保存的主題與自訂背景。</td>
+    </tr>
+    <tr>
         <td width=80> <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/mascot_smol.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/huggingface/smolagents/tree/main"> smolagents </a> </td>
         <td> 建立優質智慧體的最簡單方式。開發者撰寫 Python 程式碼來調用工具並協調其他智慧體。優先支援像 DeepSeek-R1 這樣的開放模型！</td>

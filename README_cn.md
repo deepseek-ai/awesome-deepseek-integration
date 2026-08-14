@@ -42,6 +42,11 @@
 
 <table>
     <tr>
+        <td><img src="https://raw.githubusercontent.com/baiyuscc13724-max/deepseek-harness-desktop/main/build/icon.png" alt="Harness Desktop 图标" width="64" height="auto" /></td>
+        <td><a href="https://github.com/baiyuscc13724-max/deepseek-harness-desktop">Harness Desktop</a></td>
+        <td>官方 DeepSeek Harness Web UI 的社区维护 Windows 客户端，提供简体中文安装包、便携版、校验更新、可持久化主题和自定义背景。</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) 是一款专为 watchOS 与 iOS 深度定制的旗舰级 AI 客户端。它拥有“腕上智核”的独立交互体验、极简的律动美学设计以及全端联动的无缝体验。支持 DeepSeek 等多种模型，重塑你手腕上的 AI 交互维度。</td>

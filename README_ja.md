@@ -41,6 +41,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
+        <td><img src="https://raw.githubusercontent.com/baiyuscc13724-max/deepseek-harness-desktop/main/build/icon.png" alt="Harness Desktop アイコン" width="64" height="auto" /></td>
+        <td><a href="https://github.com/baiyuscc13724-max/deepseek-harness-desktop">Harness Desktop</a></td>
+        <td>公式 DeepSeek Harness Web UI を使用するコミュニティ運営の Windows クライアント。簡体字中国語インストーラー、ポータブル版、検証付き更新、永続テーマ、カスタム背景を提供します。</td>
+    </tr>
+    <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>Androidプラットフォーム向けのオープンソースシステム統合AIアシスタントで、ほぼ完全なmcp使用をサポートし、Androidシステムと高い互換性を持っています。このソフトウェアは高度なカスタマイズと低い学習障壁を特徴とし、ファイル操作、検索、自動クリック、フォーマット変換などの組み込みツールと統合DeepSeek APIウェブページを備えています。</td>
