@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/jeremy9682/dsh-cursor-codex/main/registry/dsh-acp/icon.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/jeremy9682/dsh-cursor-codex">dsh-cursor-codex</a></td>
+        <td>Connect DeepSeek Harness (dsh) to the Cursor editor and Codex CLI: ACP agent bundle, zero-dependency MCP server, delegation skills, and config templates.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
