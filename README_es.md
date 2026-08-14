@@ -46,6 +46,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 <table>
     <tr>
+        <td><img src="https://raw.githubusercontent.com/baiyuscc13724-max/deepseek-harness-desktop/main/build/icon.png" alt="Icono de Harness Desktop" width="64" height="auto" /></td>
+        <td><a href="https://github.com/baiyuscc13724-max/deepseek-harness-desktop">Harness Desktop</a></td>
+        <td>Un cliente comunitario de Windows para la interfaz web oficial de DeepSeek Harness, con instalador en chino simplificado, versión portátil, actualizaciones verificadas, temas persistentes y fondos personalizados.</td>
+    </tr>
+    <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>Un asistente de IA de integración de sistema de código abierto para la plataforma Android, que admite el uso casi completo de mcp y es altamente compatible con el sistema Android. El software ofrece alta personalización y bajo umbral de aprendizaje, con herramientas incorporadas para operaciones de archivos, búsquedas, clics automáticos, conversión de formatos y una página web API de DeepSeek integrada.</td>

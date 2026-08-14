@@ -46,6 +46,11 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
 
 <table>
     <tr>
+        <td><img src="https://raw.githubusercontent.com/baiyuscc13724-max/deepseek-harness-desktop/main/build/icon.png" alt="Harness Desktop icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/baiyuscc13724-max/deepseek-harness-desktop">Harness Desktop</a></td>
+        <td>A community-maintained Windows client for the official DeepSeek Harness Web UI, with a Simplified Chinese installer, portable build, verified desktop updates, persistent themes and custom backgrounds.</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) is a flagship AI client explicitly tailored for watchOS and iOS. It features a watch-first design, aesthetic UI, seamless sync between devices, and deep system integration. Supports multiple models including DeepSeek, redefining AI interaction on your wrist.</td>
