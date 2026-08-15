@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/fendouai/deepseek-harness-desktop/master/assets/screenshots/desktop-home.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/fendouai/deepseek-harness-desktop">DeepSeek Harness Desktop</a></td>
+        <td>A Tauri 2 desktop app that packages DeepSeek Harness — the plugin-native AI agent workspace — with the complete Web UI, a supervised local sidecar, and a bundled Node.js 24 runtime. Local by design, cross-platform (macOS/Linux/Windows), MIT licensed.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
