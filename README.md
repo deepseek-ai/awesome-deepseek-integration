@@ -565,6 +565,11 @@ With these functionalities, the AI assistant can summarize key points within an 
 
 <table>
     <tr>
+        <td width=80> <img src="https://avatars.githubusercontent.com/u/271874822?s=200&v=4" alt="SandBase" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/sandbaseai/sandbase-harness">SandBase Harness</a> </td>
+        <td>Local-first managed agent runtime with durable sessions, sandboxed execution, MCP, audit, replay, and verified DeepSeek V4 reasoning controls.</td>
+    </tr>
+    <tr>
         <td width=80> <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/mascot_smol.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/huggingface/smolagents/tree/main"> smolagents </a> </td>
         <td> The simplest way to build great agents. Agents write python code to call tools and orchestrate other agents. Priority support for open models like DeepSeek-R1!  </td>
