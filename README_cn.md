@@ -529,6 +529,11 @@
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，采用开源模型即可实现例如数据分析、文件处理、深度研究等功能。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/labmimors/dsh-mcp-lens/main/site/favicon.svg" alt="MCP Lens 图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/labmimors/dsh-mcp-lens">MCP Lens</a> </td>
+        <td>一个开源的 DeepSeek Harness 插件，通过两个面向模型的接口管理大型 MCP 工具目录，按需连接 MCP 服务器，并执行工作区级工具允许/拒绝策略。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
