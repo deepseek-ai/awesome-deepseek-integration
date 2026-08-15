@@ -478,6 +478,11 @@
 ###  <span id="agent">AI Agent 框架</span>
 
 <table>
+    <tr>
+        <td width=80> <img src="https://avatars.githubusercontent.com/u/271874822?s=200&v=4" alt="SandBase" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/sandbaseai/sandbase-harness">SandBase Harness</a> </td>
+        <td>本地优先的托管智能体运行时，提供持久会话、沙箱执行、MCP、审计与回放，并已验证支持 DeepSeek V4 推理强度控制。</td>
+    </tr>
         <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/DMontgomery40/deepseek-mcp-server/blob/main/README.md">DeepSeek MCP Server</a> </td>
