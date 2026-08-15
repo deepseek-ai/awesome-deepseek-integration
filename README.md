@@ -44,7 +44,7 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
 
 ###  <span id="applications">Applications</span>
 
-<table>
+<table>    <tr>        <td><img src="https://raw.githubusercontent.com/Moresyl/dsh-studio/main/src-tauri/icons/icon.png" alt="DSH Studio icon" width="64" height="auto" /></td>        <td><a href="https://github.com/Moresyl/dsh-studio">DSH Studio</a></td>        <td>DSH Studio is an open-source cross-platform desktop host for DeepSeek Harness, providing one-click setup, lifecycle management, and an embedded web UI on Windows, macOS, and Linux.</td>    </tr>
     <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
