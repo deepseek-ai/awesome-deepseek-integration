@@ -620,6 +620,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatrices is a lightweight, high-performance, scalable, and open source AI application rapid building platform designed to provide developers with an efficient and convenient AI application development experience. It integrates multiple advanced technologies and tools to help users quickly build, deploy, and maintain AI applications without having to write complex code from scratch.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/labmimors/dsh-mcp-lens/main/site/favicon.svg" alt="MCP Lens icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/labmimors/dsh-mcp-lens">MCP Lens</a> </td>
+        <td>An open-source DeepSeek Harness plugin that keeps large MCP catalogs behind two model-facing interfaces, connects MCP servers lazily, and enforces workspace tool allow/deny controls.</td>
+    </tr>
 </table>
 
 ### RAG frameworks
