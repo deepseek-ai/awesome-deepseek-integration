@@ -557,6 +557,12 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+
+  <tr>
+        <td> <img src="https://freeaudiototext.com/logo.png" alt="FreeAudioToText Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/double2dev/freeaudiototext-mcp">FreeAudioToText MCP</a> </td>
+        <td> An official MCP server that enables DeepSeek agents to natively transcribe local audio/video files and generate meeting minutes. Powered by high-performance models, it guarantees 100% data privacy without uploading media to the cloud. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
