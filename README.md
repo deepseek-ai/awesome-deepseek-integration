@@ -1148,6 +1148,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/flowbar/logo.png" alt="FlowBar" width="64" height="auto" /> </td>
+        <td> <a href="https://flowbarai.com"> FlowBar </a> </td>
+        <td> Unified OpenAI-compatible API for 85+ models, including DeepSeek V4, GPT-5.6, Claude Opus 4.8, Gemini 3.5, Qwen 3.7, and Kimi K3. Pay with Waffo (430+ local methods across 50 countries, Apple/Google Pay), WeChat, Alipay, USDT/USDC. 5-10% below OpenRouter on Chinese models.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
