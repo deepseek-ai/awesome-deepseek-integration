@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td><img src="docs/deepseek-harness-macos/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/luochenw/deepseek-harness-macos">DeepSeek Harness for macOS</a></td>
+        <td>An independent, unofficial native SwiftUI/AppKit macOS client for DeepSeek Harness (dsh) — no WebView or Electron. Native three-pane session UI with streaming transcripts, a live subagent overlay, menu bar presence and system notifications for approvals; bundles Node.js and the complete dsh runtime so it runs with zero global installs. MIT licensed.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
