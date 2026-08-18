@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/github/actions.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Lixiaoyiao/deepseek-harness-action">DeepSeek Harness for GitHub</a></td>
+        <td>基于社区维护的 DeepSeek Harness 运行时的 GitHub Action，支持 PR Review、CI 诊断、受信任修复与 Issue→PR 自动化（社区维护 / 非官方）</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
@@ -1012,3 +1017,7 @@
 ### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=deepseek-ai/awesome-deepseek-integration&type=Date)](https://star-history.com/#deepseek-ai/awesome-deepseek-integration&Date)
+
+
+
+
