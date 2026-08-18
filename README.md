@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/github/actions.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Lixiaoyiao/deepseek-harness-action">DeepSeek Harness for GitHub</a></td>
+        <td>Community-maintained GitHub Action for PR review, CI diagnosis, trusted repository fix, and Issue → PR automation using DeepSeek Harness (unofficial).</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
@@ -1317,3 +1322,7 @@ The purpose is to build infrastructure in the field of large models, through the
 ### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=deepseek-ai/awesome-deepseek-integration&type=Date)](https://star-history.com/#deepseek-ai/awesome-deepseek-integration&Date)
+
+
+
+
