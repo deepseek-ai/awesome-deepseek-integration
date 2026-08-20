@@ -529,6 +529,11 @@
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，采用开源模型即可实现例如数据分析、文件处理、深度研究等功能。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/sprites/assets/sprites-logo.svg" alt="Sprites 图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/superfly/sprites-deepseek-plugin">Sprites for DeepSeek Harness</a> </td>
+        <td>由 Fly.io 维护的 Sprites DeepSeek Harness 插件，提供 OAuth 认证的 MCP 工具和内置工作流技能。Sprites 是隔离、持久且可创建检查点的 Linux 环境，适用于构建、测试、实验和长期运行服务。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

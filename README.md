@@ -620,6 +620,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatrices is a lightweight, high-performance, scalable, and open source AI application rapid building platform designed to provide developers with an efficient and convenient AI application development experience. It integrates multiple advanced technologies and tools to help users quickly build, deploy, and maintain AI applications without having to write complex code from scratch.</td>
     </tr>
+    <tr>
+        <td> <img src="docs/sprites/assets/sprites-logo.svg" alt="Sprites logo" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/superfly/sprites-deepseek-plugin">Sprites for DeepSeek Harness</a> </td>
+        <td>A Fly.io-maintained DeepSeek Harness plugin for Sprites that provides OAuth-authenticated MCP tools and a built-in workflow skill. Sprites are isolated, persistent, checkpointable Linux environments for builds, tests, experiments, and long-running services.</td>
+    </tr>
 </table>
 
 ### RAG frameworks
