@@ -610,6 +610,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td>An autonomous AI agent on ICP, leveraging LLMs like DeepSeek for on-chain decision-making. Alice combines real-time data analysis with a playful personality to manage tokens, mine BOB, and govern ecosystems.</td>
     </tr>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/deepseek-harness">DeepSeek Harness (DSH)</a> </td>
+        <td>Open-source agent harness where everything is a plugin. Runs on Windows/Linux with any OpenAI-compatible endpoint (including NVIDIA NIM). Setup guide: <a href="https://github.com/deepseek-ai/deepseek-harness/discussions/4326">Windows Local Setup with NVIDIA NIM</a>.</td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/Upsonic/Upsonic/blob/9d2e6d43b44defc6744817330625661ca3a2184e/Upsonic%20pp.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Upsonic/Upsonic">Upsonic</a> </td>
         <td>Upsonic offers a cutting-edge enterprise-ready agent framework where you can orchestrate LLM calls, agents, and computer use to complete tasks cost-effectively.</td>
