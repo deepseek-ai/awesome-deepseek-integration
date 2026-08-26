@@ -656,6 +656,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> is a flexible, high-performance framework for building, running, and evaluating autonomous agents. Beyond topping the benchmarks, this framework delivers powerful agent capabilities, e.g. data analysis, file processing, and deep research, all with open-source models. </td>
     </tr>
+    <tr>
+        <td><img src="docs/falsify/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/falsify/README.md">falsify</a></td>
+        <td>The scientific thinking protocol for AI agents — a single-Markdown skill that installs a 5-stage falsification protocol (axioms → hypothesis → adversarial test → evidence → calibrated verdict) on DeepSeek Harness, Codex, Claude Code, Cursor and 20+ agents. Ships with 28 eval cases; install via npx falsify-skill or skills.sh.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
