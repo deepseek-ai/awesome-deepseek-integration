@@ -565,6 +565,11 @@ With these functionalities, the AI assistant can summarize key points within an 
 
 <table>
     <tr>
+        <td><img src="https://avatars.githubusercontent.com/u/197203477?s=200&v=4" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/1frank-art/occurrence-development-logic">Occurrence-Development Logic (ODL)</a></td>
+        <td>A runtime configuration discipline layer for Agent output discipline and long-horizon consistency: four-step occurrence-development logic (sentence-type splitting, spatiotemporal tree, classified responses, self-check), loadable as a System Prompt or DeepSeek Harness skill. MIT.</td>
+    </tr>
+  <tr>
         <td width=80> <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/mascot_smol.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/huggingface/smolagents/tree/main"> smolagents </a> </td>
         <td> The simplest way to build great agents. Agents write python code to call tools and orchestrate other agents. Priority support for open models like DeepSeek-R1!  </td>

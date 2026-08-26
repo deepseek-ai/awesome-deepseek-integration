@@ -479,6 +479,11 @@
 
 <table>
         <tr>
+        <td><img src="https://avatars.githubusercontent.com/u/197203477?s=200&v=4" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/1frank-art/occurrence-development-logic">发生发展逻辑模型（ODL）</a></td>
+        <td>面向 Agent 输出纪律与长程一致性的运行时配置纪律层：四步发生发展逻辑（句型拆分、时空树定位、按类回应、自检），以 System Prompt 或 DeepSeek Harness skill 加载。MIT。</td>
+    </tr>
+ <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/DMontgomery40/deepseek-mcp-server/blob/main/README.md">DeepSeek MCP Server</a> </td>
         <td> 用于 DeepSeek 高级语言模型的 Model Context Protocol 服务器</td>
