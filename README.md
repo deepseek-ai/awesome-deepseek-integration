@@ -620,6 +620,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatrices is a lightweight, high-performance, scalable, and open source AI application rapid building platform designed to provide developers with an efficient and convenient AI application development experience. It integrates multiple advanced technologies and tools to help users quickly build, deploy, and maintain AI applications without having to write complex code from scratch.</td>
     </tr>
+<tr>
+        <td> 📘 </td>
+        <td> <a href="https://github.com/sandbaseai/deepseek-harness-handbook">DeepSeek Harness Handbook</a> </td>
+        <td>Community-maintained, source-backed field guide for the DeepSeek Harness agent runtime. 148 canonical guides covering model routing, tools, approval, sandboxing, plugins, MCP, ACP, and operational runbooks with recovery paths. Multilingual. Apache-2.0.</td>
+    </tr>
 </table>
 
 ### RAG frameworks
