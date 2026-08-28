@@ -623,7 +623,7 @@ With these functionalities, the AI assistant can summarize key points within an 
 <tr>
         <td> 📘 </td>
         <td> <a href="https://github.com/sandbaseai/deepseek-harness-handbook">DeepSeek Harness Handbook</a> </td>
-        <td>Community-maintained, source-backed field guide for the DeepSeek Harness agent runtime. 115+ guides covering model routing, tools, approval, sandboxing, plugins, MCP, ACP, and operational runbooks with recovery paths. Multilingual. Apache-2.0.</td>
+        <td>Community-maintained, source-backed field guide for the DeepSeek Harness agent runtime. 148 canonical guides covering model routing, tools, approval, sandboxing, plugins, MCP, ACP, and operational runbooks with recovery paths. Multilingual. Apache-2.0.</td>
     </tr>
 </table>
 
