@@ -1148,6 +1148,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
+    <tr>
+        <td style="font-size: 64px">🛰️</td>
+        <td> <a href="https://teamorouter.cn"> TeamoRouter </a> </td>
+        <td> TeamoRouter is an OpenAI-compatible API gateway serving DeepSeek V4 Pro and V4 Flash, with permanent free daily tiers of both (no credit card required). One key also speaks the Anthropic Messages protocol natively, so the same endpoint works for Claude Code, Codex and DeepSeek SDK apps.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
