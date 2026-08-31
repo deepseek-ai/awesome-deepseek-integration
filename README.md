@@ -1102,6 +1102,12 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="docs/wusigram/README.md"> 无思微程序 </a> </td>
         <td>A mobile AI code writing and running tool. DeepSeek Programming Companion</td>
     </tr>
+    <tr>
+        <td> <img src="docs/PairCode/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/hoonfeng/paircode"> PairCode </a> </td>
+        <td> A local-first AI coding assistant &amp; agent platform written in Go. DeepSeek is the built-in default provider of its Web IDE, powering a turn/step dual-loop agent runtime with everything-as-plugins UI, code graph, semantic search, persistent memory, sub-agent orchestration and MCP support. </td>
+    </tr>
+
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>

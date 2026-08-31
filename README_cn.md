@@ -901,6 +901,12 @@
         <td> <a href="docs/wusigram/README_cn.md"> 无思微程序 </a> </td>
         <td> 移动端AI编程和运行工具，DeepSeek编程搭档 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/PairCode/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/hoonfeng/paircode"> PairCode </a> </td>
+        <td> 基于 Go 的本地优先 AI 编程助手与 Agent 平台：内置 DeepSeek API 为默认模型供应商，Web IDE 搭载 turn/step 双循环 Agent 运行时，支持一切皆插件、代码图谱、语义搜索、持久记忆、子 Agent 编排与 MCP。 </td>
+    </tr>
+
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
