@@ -781,6 +781,12 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="docs/wusigram/README.md"> 无思微程序 </a> </td>
         <td>モバイルAIプログラミングおよび運用ツール、DeepSeekプログラミングパートナー</td>
     </tr>
+    <tr>
+        <td> <img src="docs/PairCode/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/hoonfeng/paircode"> PairCode </a> </td>
+        <td> Goで構築されたローカルファーストのAIコーディングアシスタント＆Agentプラットフォーム。DeepSeek APIをデフォルトプロバイダーとして内蔵し、turn/step二重ループのAgentランタイム、プラグイン化UI、コードグラフ、セマンティック検索、永続メモリ、サブエージェント編成、MCPをサポートします。 </td>
+    </tr>
+
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
