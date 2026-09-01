@@ -404,7 +404,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
     </tr>
-</table>
+    <tr>
+        <td width=80> <img src="https://raw.githubusercontent.com/EthanYoQ/AI-Novel-Writer/master/docs/assets/readme/ai-novel-writer-logo-transparent.png" alt="AI Novel Writer icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/EthanYoQ/AI-Novel-Writer">AI Novel Writer</a> </td>
+        <td>長編小説向けのオープンソースデスクトップワークスペースです。人物、世界観、プロット、章の執筆、レビュー、改稿を一つのプロジェクトで管理し、OpenAI 互換のモデル設定から DeepSeek を利用できます。</td>
+    </tr></table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 

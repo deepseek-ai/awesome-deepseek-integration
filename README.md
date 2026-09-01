@@ -557,7 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
-</table>
+    <tr>
+        <td width=80> <img src="https://raw.githubusercontent.com/EthanYoQ/AI-Novel-Writer/master/docs/assets/readme/ai-novel-writer-logo-transparent.png" alt="AI Novel Writer icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/EthanYoQ/AI-Novel-Writer">AI Novel Writer</a> </td>
+        <td>Open-source desktop workspace for long-form fiction. It organizes characters, worldbuilding, outlines, chapter drafting, review, and revision in one project, with DeepSeek support through its OpenAI-compatible model settings.</td>
+    </tr></table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
