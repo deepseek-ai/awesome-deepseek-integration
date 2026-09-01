@@ -471,7 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
-</table>
+    <tr>
+        <td width=80> <img src="https://raw.githubusercontent.com/EthanYoQ/AI-Novel-Writer/master/docs/assets/readme/ai-novel-writer-logo-transparent.png" alt="AI Novel Writer 图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/EthanYoQ/AI-Novel-Writer">AI 小说作家</a> </td>
+        <td>开源长篇小说创作桌面工作台，把人物、世界观、大纲、章节写作、审稿和修订组织在同一项目中，并可通过 OpenAI 兼容模型设置接入 DeepSeek。</td>
+    </tr></table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
