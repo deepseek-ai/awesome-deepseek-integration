@@ -432,7 +432,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> Un juego de enigmas de pensamiento lateral tipo "Sopa de Tortuga" con un anfitrión de IA basado en DeepSeek, disponible para uno o varios jugadores. La IA modera la partida e interactúa con humor, guiando la deducción mediante respuestas de "Sí / No / Irrelevante". Ofrece una experiencia inmersiva con una fuerte atmósfera narrativa, gestión del ritmo y un sistema de pistas para evitar bloqueos. Integra búsqueda vectorial y DeepSeek para evitar la repetición de acertijos e incluye moderación de contenido. Ideal para entrenar la creatividad y como entretenimiento social en línea. </td>
     </tr>
-</table>
+    <tr>
+        <td width=80> <img src="https://raw.githubusercontent.com/EthanYoQ/AI-Novel-Writer/master/docs/assets/readme/ai-novel-writer-logo-transparent.png" alt="AI Novel Writer icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/EthanYoQ/AI-Novel-Writer">AI Novel Writer</a> </td>
+        <td>Espacio de trabajo de escritorio y código abierto para novelas largas. Organiza personajes, mundo, esquemas, redacción de capítulos, revisión y reescritura en un solo proyecto, con acceso a DeepSeek mediante su configuración compatible con OpenAI.</td>
+    </tr></table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
 
