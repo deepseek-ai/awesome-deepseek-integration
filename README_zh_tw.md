@@ -470,7 +470,11 @@
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> 基於 DeepSeek 的 AI 主持人海龜湯 / 側向思維解謎產品，可單人或者多人遊玩。AI 進行控場與吐槽，圍繞「是 / 否 / 無關」的問答推進推理；提供沉浸式玩法（更強劇情氛圍與節奏引導）、引導提示與防卡關機制，同時結合向量檢索 + DeepSeek 進行題目去重，並提供內容審核能力。適合輕量腦洞訓練與在線陪玩。 </td>
     </tr>
-</table>
+    <tr>
+        <td width=80> <img src="https://raw.githubusercontent.com/EthanYoQ/AI-Novel-Writer/master/docs/assets/readme/ai-novel-writer-logo-transparent.png" alt="AI Novel Writer 圖示" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/EthanYoQ/AI-Novel-Writer">AI 小說作家</a> </td>
+        <td>開源長篇小說創作桌面工作臺，把人物、世界觀、大綱、章節寫作、審稿和修訂組織在同一專案中，並可透過 OpenAI 相容模型設定接入 DeepSeek。</td>
+    </tr></table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
 
