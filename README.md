@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <p align="center">
 <img width="1000px" alt="Awesome DeepSeek Integrations" src="docs/Awesome DeepSeek Integrations.png">
@@ -8,7 +8,7 @@
 
 Integrate the DeepSeek API into popular softwares. Access [DeepSeek Open Platform](https://platform.deepseek.com/) to get an API key.
 
-English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md) / [繁體中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_zh_tw.md) / [日本語](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md) / [Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md)
+English / [绠€浣撲腑鏂嘳(https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md) / [绻侀珨涓枃](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_zh_tw.md) / [鏃ユ湰瑾瀅(https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_ja.md) / [Espa帽ol](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md)
 
 <a href="https://trendshift.io/repositories/12798" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12798" alt="deepseek-ai%2Fawesome-deepseek-integration | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </div>
@@ -115,7 +115,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td><img src="https://i.imgur.com/FkbmMVG.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://intellibar.app/">IntelliBar</a></td>
-        <td>IntelliBar is a beautiful assistant for the Mac that lets you use advanced models like DeepSeek R1 with any app on your Mac — ex: edit emails in your mail app or summarize articles in your browser.</td>
+        <td>IntelliBar is a beautiful assistant for the Mac that lets you use advanced models like DeepSeek R1 with any app on your Mac 鈥?ex: edit emails in your mail app or summarize articles in your browser.</td>
     </tr>
     <tr>
         <td><img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
@@ -228,7 +228,7 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> ChatPDFLocal is an AI powered Mac OS App for helping to chat PDF, it works seamlessly with DeepSeek and other multiple AI models to improve your reading efficiency. </td>
     </tr>
     <tr>
-        <td> <img src="https://niceprompt.app/favicon.ico" alt="Icon" width="64" height="auto" /> </td> <td> <a href="https://niceprompt.app">Nice Prompt</a></td> <td> <a href="https://niceprompt.app">Nice Prompt</a> Organize, share and use your prompts in your code editor, with Cursor and VSCode。</td>
+        <td> <img src="https://niceprompt.app/favicon.ico" alt="Icon" width="64" height="auto" /> </td> <td> <a href="https://niceprompt.app">Nice Prompt</a></td> <td> <a href="https://niceprompt.app">Nice Prompt</a> Organize, share and use your prompts in your code editor, with Cursor and VSCode銆?/td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/193405629?s=200&v=4" alt="PHP Client" width="64" height="auto" /> </td>
@@ -300,7 +300,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td> <img src="https://raw.githubusercontent.com/ripperhe/Bob/master/docs/_media/icon_128.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://bobtranslate.com/">Bob</a></td>
-        <td> <a href="https://bobtranslate.com/">Bob</a> is a macOS translation & OCR tool ready to use in any app — right out of the box!</td>
+        <td> <a href="https://bobtranslate.com/">Bob</a> is a macOS translation & OCR tool ready to use in any app 鈥?right out of the box!</td>
     </tr>
     <tr>
         <td> <img src="https://agenticflow.ai/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
@@ -320,7 +320,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td> <img src="https://raw.githubusercontent.com/STranslate/STranslate/refs/heads/main/images/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://stranslate.zggsong.com/">STranslate</a></td>
-        <td> <a href="https://stranslate.zggsong.com/">STranslate</a>（Windows） is a ready-to-go translation ocr tool developed by WPF </td>
+        <td> <a href="https://stranslate.zggsong.com/">STranslate</a>锛圵indows锛?is a ready-to-go translation ocr tool developed by WPF </td>
     </tr>
     <tr>
         <td> <img src="https://devinci.onicai.com/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
@@ -356,8 +356,8 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://prompt.16x.engineer/">16x Prompt</a> is an AI coding tool with context management. It helps developers manage source code context and craft prompts for complex coding tasks on existing codebases.</td>
     </tr>
     <tr>
-        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/assets/favicon1.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/README.md"> Alpha Pai </a> </td>
+        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha娲?assets/favicon1.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha娲?README.md"> Alpha Pai </a> </td>
         <td> AI Research Assistant / The Next-Generation Financial Information Portal Driven by AI.<br>Proxy for investors to attend meetings and take notes, as well as providing search and Q&A services for financial information and quantitative analysis for investment research.</td>
     </tr>
         <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -429,7 +429,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://pot-app.com/">Pot</a></td>
-        <td> <a href="https://pot-app.com/">Pot</a> 🌈 A cross-platform software for text translation and recognition. </td>
+        <td> <a href="https://pot-app.com/">Pot</a> 馃寛 A cross-platform software for text translation and recognition. </td>
     </tr>
     <tr>
         <td><img src="https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/banner.png" alt="Icon" width="64" height="auto" /></td>
@@ -449,7 +449,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td width=80> <img src="docs/AlphaBot/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://alphabot.x-pai.com/">AlphaBot</a> </td>
-        <td> AlphaBot is an intelligent stock analysis assistant that integrates multi-source data with AI analysis technology to provide technical analysis, predictions, and risk assessment, helping investors make data-driven trading decisions. It supports one-click deployment, easy operation，Support Windows/Linux/MacOS and other platforms</td>
+        <td> AlphaBot is an intelligent stock analysis assistant that integrates multi-source data with AI analysis technology to provide technical analysis, predictions, and risk assessment, helping investors make data-driven trading decisions. It supports one-click deployment, easy operation锛孲upport Windows/Linux/MacOS and other platforms</td>
     </tr>
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
@@ -460,7 +460,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
     <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
     <td><a href="https://www.remio.ai/">remio</a></td>
-    <td>remio is an AI-powered personal knowledge hub that builds personalized knowledge bases by automatically capturing browsed web content, parsing local files, and integrating personal notes. It enables search and natural language Q&A within your personal knowledge base for instant insights while offering smart writing assistance—adapting to your style to streamline drafting, refining, and completing content with ease. Designed with local-first storage, remio prioritizes data privacy while centralizing fragmented information for maximum productivity.</td>
+    <td>remio is an AI-powered personal knowledge hub that builds personalized knowledge bases by automatically capturing browsed web content, parsing local files, and integrating personal notes. It enables search and natural language Q&A within your personal knowledge base for instant insights while offering smart writing assistance鈥攁dapting to your style to streamline drafting, refining, and completing content with ease. Designed with local-first storage, remio prioritizes data privacy while centralizing fragmented information for maximum productivity.</td>
     </tr> 
     <tr>
     <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
@@ -480,7 +480,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td> </td>
         <td> <a href="https://github.com/SamYuan1990/i18n-agent-action">i18n-agent-action</a> </td>
-        <td> The i18n Agent is an AI-powered tool designed to streamline and automate internationalization (i18n) and localization (l10n) workflows. By leveraging advanced natural language processing (NLP) and machine learning, it helps developers, translators, and product teams efficiently manage multilingual content—eliminating manual errors and accelerating global deployments. </td>
+        <td> The i18n Agent is an AI-powered tool designed to streamline and automate internationalization (i18n) and localization (l10n) workflows. By leveraging advanced natural language processing (NLP) and machine learning, it helps developers, translators, and product teams efficiently manage multilingual content鈥攅liminating manual errors and accelerating global deployments. </td>
     </tr>
     <tr>
         <td> <img src="https://mindpal.space/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
@@ -540,7 +540,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td> <img src="https://www.weiyuai.cn/logo.png" alt="AI Customer Service" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Bytedesk/bytedesk">Bytedesk</a> </td>
-        <td> Enterprise IM Solution with AI powered live chat, email support, omni-channel customer service & team im，alternative to slack + zendesk/intercom.</td>
+        <td> Enterprise IM Solution with AI powered live chat, email support, omni-channel customer service & team im锛宎lternative to slack + zendesk/intercom.</td>
     </tr>
     <tr>
         <td><img src="https://raw.githubusercontent.com/rockbenben/subtitle-translator/main/public/logo.png" alt="Icon" width="64" height="auto" /></td>
@@ -616,9 +616,19 @@ With these functionalities, the AI assistant can summarize key points within an 
     </tr>
 
 <tr>
-        <td> <img src="https://github.com/guyoung/AIMatrices/raw/main/docs/assets/logo/ai-matrices1.png" alt="AIMatrices 图标" width="64" height="auto" /> </td>
+        <td> <img src="https://github.com/guyoung/AIMatrices/raw/main/docs/assets/logo/ai-matrices1.png" alt="AIMatrices 鍥炬爣" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatrices is a lightweight, high-performance, scalable, and open source AI application rapid building platform designed to provide developers with an efficient and convenient AI application development experience. It integrates multiple advanced technologies and tools to help users quickly build, deploy, and maintain AI applications without having to write complex code from scratch.</td>
+    </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/deepseek-harness">DeepSeek Harness</a> </td>
+        <td> DeepSeek Harness: Everything is a Plugin. Official agent harness by DeepSeek with a Cordis plugin architecture (210k+ stars). Community plugins are discoverable via the dsh-plugin topic. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/255665900?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/PerryLink/dsh-auto-review">dsh-auto-review</a> </td>
+        <td> Second-model approval plugin for DeepSeek Harness: a read-only reviewer subagent returns structured allow/deny/ask verdicts on sandbox-crossing actions, fail-closed and auditable (Apache-2.0, npm: dsh-auto-review). </td>
     </tr>
 </table>
 
@@ -631,7 +641,7 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td>A foundational protocol framework for trusted communication between agents. Any agents based on DeepSeek, By integrating with the <a href="https://docs.apro.com/attps">ATTPs</a> SDK, can access features such as agent registration, sending verifiable data, and retrieving verifiable data. So that it can make trusted communication with agents from other platforms. </td>
     </tr>
     <tr>
-        <td> <img src="docs/translate.js/assets/icon.png" alt="图标" width="64" height="auto" /> </td>
+        <td> <img src="docs/translate.js/assets/icon.png" alt="鍥炬爣" width="64" height="auto" /> </td>
         <td> <a href="docs/translate.js/README.md">translate.js</a> </td>
         <td> AI i18n for front-end developers. It can achieve fully automatic HTML translation with just two lines of JavaScript. You can switch among dozens of languages with a single click. There is no need to modify the page, no language configuration files are required, and it supports dozens of fine-tuning extension instructions. It is SEO-friendly. Moreover, it opens up a standard text translation API interface.  </td>
     </tr>
@@ -666,7 +676,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td width="80"> <img src="https://github.com/user-attachments/assets/a327d72f-755f-4256-8a37-32a518a55df3" alt="Icon" width="64" height="auto" /> </td>
         <td width="120"> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/dbgpt/README.md"> DB-GPT </a> </td>
-        <td> 🤖 DB-GPT is an open source AI native data app development framework with AWEL(Agentic Workflow Expression Language) and agents.
+        <td> 馃 DB-GPT is an open source AI native data app development framework with AWEL(Agentic Workflow Expression Language) and agents.
 The purpose is to build infrastructure in the field of large models, through the development of multiple technical capabilities such as multi-model management (SMMF), Text2SQL effect optimization, RAG framework and optimization, Multi-Agents framework collaboration, AWEL (agent workflow orchestration), etc. Which makes large model applications with data simpler and more convenient.
 
  </td>
@@ -763,17 +773,17 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
     <tr>
         <td> <img src="https://github.com/RockChinQ/LangBot/blob/master/res/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/RockChinQ/LangBot">LangBot<br/>（QQ, Lark, WeCom）</a> </td>
+        <td> <a href="https://github.com/RockChinQ/LangBot">LangBot<br/>锛圦Q, Lark, WeCom锛?/a> </td>
         <td> LLM-based IM bots framework, supports QQ, Lark, WeCom, and more platforms.</td>
     </tr>
     <tr>
         <td> <img src="https://nonebot.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/KomoriDev/nonebot-plugin-deepseek">NoneBot<br/>（QQ, Lark, Discord, TG, etc.）</a> </td>
+        <td> <a href="https://github.com/KomoriDev/nonebot-plugin-deepseek">NoneBot<br/>锛圦Q, Lark, Discord, TG, etc.锛?/a> </td>
         <td> Based on NoneBot framework, provide intelligent chat and deep thinking functions, supports QQ, Lark, Discord, TG, and more platforms.</td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/197911947?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/AstrBotDevs/AstrBot/">AstrBot<br/>（QQ, WeChat, WeCom, Lark, TG, etc.）</a> </td>
+        <td> <a href="https://github.com/AstrBotDevs/AstrBot/">AstrBot<br/>锛圦Q, WeChat, WeCom, Lark, TG, etc.锛?/a> </td>
         <td> User-friendly LLM-based multi-platform chatbot with a WebUI, supporting long-term-memory, RAG, LLM agents, and plugins integration.</td>
     </tr>
     <tr>
@@ -783,7 +793,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
     <tr>
         <td> <img src="https://www.lanyingim.com/img/header/dock_lanying.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://www.lanyingim.com">蓝莺IM<br/></a> </td>
+        <td> <a href="https://www.lanyingim.com">钃濊幒IM<br/></a> </td>
         <td> <b>AI Chatbot SDK with IM cloud service</b>, <br/> Cross-platform (iOS, Android, Web, PC, Linux) <a href="https://github.com/maxim-top/maxim-bistro">chat SDK</a> and AI Agent platform. <br/> Easily integrates into apps, and supports WeChat and official accounts. <br/> Native DeepSeek support, no API-Key needed.</td>
     </tr>
 </table>
@@ -801,7 +811,7 @@ The purpose is to build infrastructure in the field of large models, through the
       <tr>
         <td> <img src="https://www.aippt.cn/_nuxt/logo_cn.eYEokZzA.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.aippt.cn/">AiPPT</a> </td>
-        <td>AiPPT.com，chosen by over 20 million users，One sentence, one minute, one click to generate PPT。</td>
+        <td>AiPPT.com锛宑hosen by over 20 million users锛孫ne sentence, one minute, one click to generate PPT銆?/td>
     </tr>
     <tr>
         <td> <img src="https://github.com/office-sec/OfficeAI/blob/main/logo/logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -851,8 +861,8 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/c3d9d100-247a-41cc-97c1-10b01ed25e70" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/hcfy/README.md"> hcfy (划词翻译) </a> </td>
-        <td> hcfy (划词翻译) is a web browser extension to integrate multiple translation services. </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/hcfy/README.md"> hcfy (鍒掕瘝缈昏瘧) </a> </td>
+        <td> hcfy (鍒掕瘝缈昏瘧) is a web browser extension to integrate multiple translation services. </td>
     </tr>
     <tr>
         <td> <img src="https://static.eudic.net/web/trans/en_trans.png" alt="Icon" width="64" height="auto" /> </td>
@@ -911,7 +921,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
     <tr>
         <td> <img src="https://readfrog.mengxi.work/logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://readfrog.mengxi.work"> 🐸 Read Frog </a> </td>
+        <td> <a href="https://readfrog.mengxi.work"> 馃惛 Read Frog </a> </td>
         <td> Translate and understand any webpage in depth with AI assistance. </td>
     </tr>
     <tr>
@@ -1041,7 +1051,7 @@ The purpose is to build infrastructure in the field of large models, through the
     <tr>
         <td> <img src="https://ide.unitmesh.cc/img/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://ide.unitmesh.cc/quick-start"> AutoDev </a> </td>
-        <td>‍AutoDev is an open-source AI coding assistant in JetBrain's IDE. </td>
+        <td>鈥岮utoDev is an open-source AI coding assistant in JetBrain's IDE. </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/84a0175f-39a6-41b0-83e5-2ea15a4ac771" alt="Icon" width="64" height="auto" /> </td>
@@ -1090,7 +1100,7 @@ The purpose is to build infrastructure in the field of large models, through the
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.cursor.com/"> Cursor </a> </td>
-        <td>‍The AI Code Editor based on VS Code</td>
+        <td>鈥峊he AI Code Editor based on VS Code</td>
     </tr>
     <tr>
         <td> <img src="https://exafunction.github.io/public/images/windsurf/windsurf-app-icon.svg" alt="Icon" width="64" height="auto" /> </td>
@@ -1099,7 +1109,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
     <tr>
         <td> <img src="docs/wusigram/assets/logo-512.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/wusigram/README.md"> 无思微程序 </a> </td>
+        <td> <a href="docs/wusigram/README.md"> 鏃犳€濆井绋嬪簭 </a> </td>
         <td>A mobile AI code writing and running tool. DeepSeek Programming Companion</td>
     </tr>
 </table>
@@ -1117,7 +1127,7 @@ The purpose is to build infrastructure in the field of large models, through the
     <tr>
         <td> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/milanglacier/minuet-ai.el"> Minuet AI </a> </td>
-        <td>Dance with Intelligence in Your Code 💃</td>
+        <td>Dance with Intelligence in Your Code 馃拑</td>
     </tr>
 </table>
 
@@ -1161,7 +1171,7 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Open-source MLOps / LLMOps platform for build, test, deploy, and monitor AI applications with DeepSeek. </td>
     </tr>
     <tr>
-        <td style="font-size: 64px">🤖</td>
+        <td style="font-size: 64px">馃</td>
         <td> <a href="https://github.com/wangrongding/wechat-bot/blob/main/README.md"> Wechat-Bot </a></td>
         <td> A wechat robot based on WeChaty combined with DeepSeek and other Ai services. </td>
     </tr>
@@ -1238,7 +1248,7 @@ The purpose is to build infrastructure in the field of large models, through the
     <tr>
         <td> CR </td>
         <td> <a href="https://github.com/hustcer/deepseek-review"> deepseek-review </a> </td>
-        <td> 🚀 Sharpen Your Code, Ship with Confidence – Elevate Your Workflow with Deepseek Code Review 🚀 </td>
+        <td> 馃殌 Sharpen Your Code, Ship with Confidence 鈥?Elevate Your Workflow with Deepseek Code Review 馃殌 </td>
     </tr>
     <tr>
         <td> <img src="http://gptlocalhost.com/wp-content/uploads/2025/01/icon_1024.png" alt="Icon" width="64" height="auto" /> </td>
@@ -1247,7 +1257,7 @@ The purpose is to build infrastructure in the field of large models, through the
     </tr>
     <tr>
         <td> <img src="https://github.com/suqicloud/wp-ai-chat/raw/main/ic_logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/suqicloud/wp-ai-chat"> WordPress ai助手 </a> </td>
+        <td> <a href="https://github.com/suqicloud/wp-ai-chat"> WordPress ai鍔╂墜 </a> </td>
         <td> Docking Deepseek api for WordPress site ai conversation assistant, post generation, post summary plugin. </td>
     </tr>
     <tr>
