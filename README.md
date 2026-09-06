@@ -929,6 +929,12 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://www.chatgot.io/"> ChatGOT </a> </td>
         <td> A free AI chatbot assistant for enhancing productivity </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/JTCodeRRigan.png" alt="Icon" width="64" height="auto" style="border-radius: 10px" /> </td>
+        <td> <a href="https://github.com/JTCodeRRigan/JT-AI"> JT-AI </a> </td>
+        <td> Autonomous AI browser agent in a Chrome Side Panel. Features a collaborative multi-agent loop, seamless DeepSeek API integration, and an automated 2Captcha solver for uninterrupted navigation. </td>
+    </tr>
+  
 </table>
 
 
