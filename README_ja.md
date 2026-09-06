@@ -404,6 +404,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
     </tr>
+    <tr>
+        <td><img src="https://aidoge.ai/resource/TranslatingHackerNewsIcon.jpg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/translating-hacker-news/README_ja.md">Translating Hacker News</a></td>
+        <td>Translating Hacker News は、ストーリー、コメント、リンク先記事をその場で翻訳する iOS 向け Hacker News リーダーです。公式 DeepSeek API（BYOK）を採用し、高速・低コストで、HN 向けに翻訳プロンプトを編集できます。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
