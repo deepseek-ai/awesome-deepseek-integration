@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td><img src="https://aidoge.ai/resource/TranslatingHackerNewsIcon.jpg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/translating-hacker-news/README_cn.md">黑客新闻翻译</a></td>
+        <td>黑客新闻翻译是一款可将故事、评论和外链文章就地翻译的 iOS Hacker News 阅读器。接入 DeepSeek 官方 API（自备 Key），翻译速度快、成本低，并支持自定义提示词以适配 HN 讨论风格。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
