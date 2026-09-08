@@ -620,6 +620,16 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatrices is a lightweight, high-performance, scalable, and open source AI application rapid building platform designed to provide developers with an efficient and convenient AI application development experience. It integrates multiple advanced technologies and tools to help users quickly build, deploy, and maintain AI applications without having to write complex code from scratch.</td>
     </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/deepseek-harness">DeepSeek Harness</a> </td>
+        <td> DeepSeek Harness: Everything is a Plugin. Official agent harness by DeepSeek with a Cordis plugin architecture (210k+ stars). Community plugins are discoverable via the dsh-plugin topic. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/255665900?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/PerryLink/dsh-auto-review">dsh-auto-review</a> </td>
+        <td> Second-model approval plugin for DeepSeek Harness: a read-only reviewer subagent returns structured allow/deny/ask verdicts on sandbox-crossing actions, fail-closed and auditable (Apache-2.0, npm: dsh-auto-review). </td>
+    </tr>
 </table>
 
 ### RAG frameworks
