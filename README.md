@@ -620,6 +620,16 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatrices is a lightweight, high-performance, scalable, and open source AI application rapid building platform designed to provide developers with an efficient and convenient AI application development experience. It integrates multiple advanced technologies and tools to help users quickly build, deploy, and maintain AI applications without having to write complex code from scratch.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/ChenYu1991ppak/deepseek-harness-anatomy/main/assets/demo-ch02.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/ChenYu1991ppak/deepseek-harness-anatomy">DeepSeek Harness Anatomy</a> </td>
+        <td>A 17-chapter progressive source-study tutorial of DeepSeek Harness (dsh), deconstructing the agent engineering skeleton from the minimal agent loop to multi-agent delegation, compaction, and cross-process RPC. Each chapter comes with runnable Python teaching code.</td>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/ChenYu1991ppak/Pydsh/master/assets/pydsh.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/ChenYu1991ppak/Pydsh">pydsh</a> </td>
+        <td>A minimal Python educational reproduction of DeepSeek Harness: plugin loop, hooks, permissions, goals/plans — one command, zero config. Faithfully reproduces the Cordis plugin container, agent loop, session event stream, and LLM soft-mapping layer.</td>
+    </tr>
 </table>
 
 ### RAG frameworks
