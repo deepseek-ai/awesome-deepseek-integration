@@ -30,6 +30,7 @@
     - [Office插件](#office插件)
     - [浏览器插件](#浏览器插件)
     - [VS Code 插件](#vs-code-插件)
+    - [Visual Studio 插件](#visual-studio)
     - [neovim 插件](#neovim-插件)
     - [JetBrains 插件](#jetbrains-插件)
     - [AI Code编辑器](#ai-code编辑器)
@@ -829,6 +830,18 @@
         <td> <img src="https://github.com/JohnnyZ93/oai-compatible-copilot/blob/main/assets/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README_cn.md"> OAI Compatible Provider for Copilot </a> </td>
         <td> 开源的 VS Code 扩展，可在 GitHub Copilot 中使用 OpenAI 兼容的推理提供商。 </td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
+###  <span id="visual-studio">Visual Studio 插件</span>
+
+<table>
+    <tr>
+        <td> <img src="https://getiolys.com/img/brand-lab/13-code-compass-128.webp" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=iolys.iolys-visual-studio"> iolys </a> </td>
+        <td> 面向 Visual Studio 2026 中 C# 和 .NET 开发的 AI 编程助手，支持使用您自己的 API 密钥接入 DeepSeek，同时支持众多其他 AI 提供商和工具（Claude、ChatGPT/Codex、Kimi、Kiro、Ollama 等）。 <a href="https://getiolys.com/providers/deepseek?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome-deepseek-integration">DeepSeek 配置指南</a>. </td>
     </tr>
 </table>
 

@@ -30,7 +30,7 @@
     - [Office插件](#office插件)
     - [瀏覽器擴展](#瀏覽器擴展)
     - [VS Code 擴充功能](#vs-code-擴充功能)
-    - [Visual Studio 擴充功能](#visual-studio-擴充功能)
+    - [Visual Studio 擴充功能](#visual-studio)
     - [neovim 擴充功能](#neovim-擴充功能)
     - [JetBrains 擴充功能](#jetbrains-擴充功能)
     - [Discord 機器人](#discord-機器人)
@@ -830,9 +830,14 @@
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
 
-###  <span id="vs">Visual Studio 擴充功能</span>
+###  <span id="visual-studio">Visual Studio 擴充功能</span>
 
 <table>
+    <tr>
+        <td> <img src="https://getiolys.com/img/brand-lab/13-code-compass-128.webp" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=iolys.iolys-visual-studio"> iolys </a> </td>
+        <td> 適用於 Visual Studio 2026 中 C# 與 .NET 開發的 AI 程式設計助理，支援使用您自己的 API 金鑰串接 DeepSeek，同時支援眾多其他 AI 供應商與工具（Claude、ChatGPT/Codex、Kimi、Kiro、Ollama 等）。 <a href="https://getiolys.com/providers/deepseek?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome-deepseek-integration">DeepSeek 設定指南</a>. </td>
+    </tr>
     <tr>
         <td> <img src="https://merryyellow.gallerycdn.vsassets.io/extensions/merryyellow/comment2gpt/2.0.5/1739475434185/Microsoft.VisualStudio.Services.Icons.Default" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://marketplace.visualstudio.com/items?itemName=MerryYellow.Comment2GPT"> Comment2GPT </a> </td>
