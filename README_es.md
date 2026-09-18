@@ -432,6 +432,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> Un juego de enigmas de pensamiento lateral tipo "Sopa de Tortuga" con un anfitrión de IA basado en DeepSeek, disponible para uno o varios jugadores. La IA modera la partida e interactúa con humor, guiando la deducción mediante respuestas de "Sí / No / Irrelevante". Ofrece una experiencia inmersiva con una fuerte atmósfera narrativa, gestión del ritmo y un sistema de pistas para evitar bloqueos. Integra búsqueda vectorial y DeepSeek para evitar la repetición de acertijos e incluye moderación de contenido. Ideal para entrenar la creatividad y como entretenimiento social en línea. </td>
     </tr>
+    <tr>
+        <td> <img src="docs/kinetaios/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/kinetaios/README.md">KinetAios</a> </td>
+        <td> Un panel de agentes de IA multi-motor y local-first para Windows y macOS. Ejecuta Claude Code, Codex, DeepSeek y un motor ReAct integrado lado a lado en una ventana, con memoria a largo plazo entre motores (SQLite/FTS5), cliente+servidor MCP, más de 40 herramientas de agente e inyección de reglas de proyecto. Sin cuenta ni servidor intermedio: todo permanece en tu máquina. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

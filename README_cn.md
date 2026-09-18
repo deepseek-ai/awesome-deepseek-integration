@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/kinetaios/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/kinetaios/README.md">KinetAios</a> </td>
+        <td> 面向 Windows 与 macOS 的本地优先多引擎 AI Agent 桌面仪表盘。一个窗口并排运行 Claude Code、Codex、DeepSeek 与内置 ReAct 引擎，具备跨引擎长期记忆（SQLite/FTS5）、MCP 客户端+服务器双向集成、40+ Agent 工具与项目规则注入。无需账号、无中转服务器，数据全部留在本机。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

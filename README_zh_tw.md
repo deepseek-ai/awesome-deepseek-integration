@@ -470,6 +470,11 @@
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> 基於 DeepSeek 的 AI 主持人海龜湯 / 側向思維解謎產品，可單人或者多人遊玩。AI 進行控場與吐槽，圍繞「是 / 否 / 無關」的問答推進推理；提供沉浸式玩法（更強劇情氛圍與節奏引導）、引導提示與防卡關機制，同時結合向量檢索 + DeepSeek 進行題目去重，並提供內容審核能力。適合輕量腦洞訓練與在線陪玩。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/kinetaios/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/kinetaios/README.md">KinetAios</a> </td>
+        <td> 面向 Windows 與 macOS 的本地優先多引擎 AI Agent 桌面儀表板。一個視窗並排執行 Claude Code、Codex、DeepSeek 與內建 ReAct 引擎，具備跨引擎長期記憶（SQLite/FTS5）、MCP 客戶端+伺服器雙向整合、40+ Agent 工具與專案規則注入。無需帳號、無中轉伺服器，資料全部留在本機。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
