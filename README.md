@@ -982,6 +982,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/littleCareless/dish-ai-commit"> Dish AI Commit </a> </td>
         <td> An AI-powered VS Code extension that automatically generates standardized Git/SVN commit messages, PR summaries, and weekly reports using DeepSeek and other AI providers. </td>
     </tr>
+    <tr>
+        <td> <img src="docs/deepseeker-code/assets/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/deepseeker-code/README.md"> DeepSeeker-Code </a> </td>
+        <td> DeepSeeker-Code is a local-first AI coding assistant powered by the DeepSeek API. One self-built agentic engine, three entries: VS Code extension, terminal CLI, and a local HTTP API. Full toolchain (file/command/search/web), approval gateway, context compaction with recall, and MCP / Hooks / Skills extensibility. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
