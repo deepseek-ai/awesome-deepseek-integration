@@ -39,7 +39,7 @@ DeepSeeker-Code talks to the DeepSeek API directly; set your key and optionally 
 ```bash
 export DEEP_SEEK_API_KEY=sk-***                     # required
 export DEEP_SEEK_API_URL=https://api.deepseek.com   # optional
-export DEEP_SEEK_MODEL=deepseek-chat                # optional
+export DEEP_SEEK_MODEL=deepseek-v4-pro                # optional
 ```
 
 In the VS Code extension, set `deepseekerCode.apiKey` in Settings instead. Both entries keep configuration and sessions under `~/.deepseeker-code/`.

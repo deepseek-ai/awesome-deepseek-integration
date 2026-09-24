@@ -39,7 +39,7 @@ DeepSeeker-Code 直连 DeepSeek API，设置 key 后可选覆盖接入点或模�
 ```bash
 export DEEP_SEEK_API_KEY=sk-***                     # 必填
 export DEEP_SEEK_API_URL=https://api.deepseek.com   # 可选
-export DEEP_SEEK_MODEL=deepseek-chat                # 可选
+export DEEP_SEEK_MODEL=deepseek-v4-pro                # 可选
 ```
 
 VS Code 插件则在设置里填 `deepseekerCode.apiKey`。两个入口的配置与会话都存放在 `~/.deepseeker-code/`。
