@@ -700,6 +700,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
         <td> GitHub Copilot で OpenAI 互換の推論プロバイダーを使用するためのオープンソースの VS Code 拡張機能です。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/deepseeker-code/assets/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/deepseeker-code/README.md"> DeepSeeker-Code </a> </td>
+        <td> DeepSeeker-Code は DeepSeek API 駆動のローカル優先 AI コーディングアシスタントです。自前開発の agentic エンジン 1 つを、VS Code 拡張機能・ターミナル CLI・ローカル HTTP API の 3 つのエントリで共有します。ファイル / コマンド / 検索 / ウェブのツール群、承認ゲートウェイ、リコール付きコンテキスト圧縮、MCP / Hooks / Skills による拡張に対応。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

@@ -761,6 +761,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
         <td> Una extensión de código abierto para VS Code para usar proveedores de inferencia compatibles con OpenAI en GitHub Copilot. </td>
     </tr>
+    <tr>
+        <td> <img src="docs/deepseeker-code/assets/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/deepseeker-code/README.md"> DeepSeeker-Code </a> </td>
+        <td> DeepSeeker-Code es un asistente de programación con IA de ejecución local impulsado por la API de DeepSeek. Un motor agéntico propio con tres entradas: extensión de VS Code, CLI de terminal y API HTTP local. Incluye herramientas completas (archivos/comandos/búsqueda/web), pasarela de aprobación, compactación de contexto con recuperación y extensibilidad mediante MCP / Hooks / Skills. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
