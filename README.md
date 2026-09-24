@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td> <img src="docs/aibook/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/aibook/README.md">MiaoBiShuSheng (AIBook)</a> </td>
+        <td> MiaoBiShuSheng (AIBook) is an AI writing platform for general books, academic monographs, and serialized articles. It reads 10M+ characters of locally-uploaded reliable references in one pass and generates multiple books on a single topic at once, with outputs reaching over 1 million characters — supporting formulas, charts, citations, and HTML/DOCX/PDF export. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
