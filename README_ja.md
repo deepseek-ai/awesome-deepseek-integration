@@ -404,6 +404,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
     </tr>
+    <tr>
+        <td> <img src="docs/aibook/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/aibook/README.md">妙筆書生 MiaoBiShuSheng (AIBook)</a> </td>
+        <td> 妙筆書生（AIBook）は、一般書籍・専門書・連載記事の AI 執筆ツールです。1000万字以上のローカルな信頼できる参考資料を一度に読み込み、執筆テーマに関連する複数の書籍を一度に生成し、出力は100万字以上に達します。数式・図表・引用注記に対応し、HTML/DOCX/PDF にエクスポートできます。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

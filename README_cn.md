@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/aibook/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/aibook/README_cn.md">妙笔书生（AIBook）</a> </td>
+        <td> 妙笔书生是一般图书、专著与系列推文的 AI 创作工具：一次阅读千万字以上本地可靠参考资料，一次性生成与写作主题相关的多本图书，输出字数可达百万字以上，支持公式、图表、引文标注，可导出 HTML/DOCX/PDF。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

@@ -470,6 +470,11 @@
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> 基於 DeepSeek 的 AI 主持人海龜湯 / 側向思維解謎產品，可單人或者多人遊玩。AI 進行控場與吐槽，圍繞「是 / 否 / 無關」的問答推進推理；提供沉浸式玩法（更強劇情氛圍與節奏引導）、引導提示與防卡關機制，同時結合向量檢索 + DeepSeek 進行題目去重，並提供內容審核能力。適合輕量腦洞訓練與在線陪玩。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/aibook/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/aibook/README_cn.md">妙筆書生（AIBook）</a> </td>
+        <td> 妙筆書生是一般書籍、專著與系列推文的 AI 創作工具：一次閱讀千萬字以上本地可靠參考資料，一次性生成與寫作主題相關的多本圖書，輸出字數可達百萬字以上，支援公式、圖表、引文標註，可匯出 HTML/DOCX/PDF。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>

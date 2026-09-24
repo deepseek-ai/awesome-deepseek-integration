@@ -432,6 +432,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> Un juego de enigmas de pensamiento lateral tipo "Sopa de Tortuga" con un anfitrión de IA basado en DeepSeek, disponible para uno o varios jugadores. La IA modera la partida e interactúa con humor, guiando la deducción mediante respuestas de "Sí / No / Irrelevante". Ofrece una experiencia inmersiva con una fuerte atmósfera narrativa, gestión del ritmo y un sistema de pistas para evitar bloqueos. Integra búsqueda vectorial y DeepSeek para evitar la repetición de acertijos e incluye moderación de contenido. Ideal para entrenar la creatividad y como entretenimiento social en línea. </td>
     </tr>
+    <tr>
+        <td> <img src="docs/aibook/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/aibook/README.md">MiaoBiShuSheng (AIBook)</a> </td>
+        <td> MiaoBiShuSheng (AIBook) es una plataforma de escritura con IA para libros generales, monografías académicas y artículos seriados. Lee más de 10 millones de caracteres de material de referencia local y fiable de una sola vez y genera varios libros sobre un mismo tema en una sola pasada, con resultados de más de 1 millón de caracteres — con fórmulas, gráficos, citas y exportación a HTML/DOCX/PDF. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
