@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/jundizhou/easy-stock/main/desktop/assets/easy-stock.png" alt="easy-stock 图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/jundizhou/easy-stock">easy-stock</a> </td>
+        <td> easy-stock 是一套本地优先的 A 股 AI 智能投研工作台，整合行情总览、趋势题材雷达、连板梯队与情绪周期分析、个股 AI 报告、持仓巡检与大 V 复盘自动收集，AI Copilot 由用户自备的 DeepSeek API Key 驱动，研究记忆全部保存在本机。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
