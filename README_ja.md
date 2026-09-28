@@ -841,6 +841,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> Mem0は、AIアシスタントにインテリジェントなメモリレイヤーを追加し、パーソナライズされたインタラクションと継続的な学習を可能にします。 </td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/vshulcz/deja-vu/main/assets/icon-400.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/vshulcz/deja-vu"> deja-vu </a> </td>
+        <td> コーディングエージェントがすでにディスクに書いたセッションから作るローカルメモリ。DeepSeek Harness プラグイン（<code>dsh-deja</code>）で、DeepSeek Harness、Claude Code、Codex ほか 30 以上のエージェントの過去のセッションを呼び出します。モデルや API キーは不要です。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://geneplore.com/img/geneplore_color_logo_circular.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://geneplore.com/bot"> Geneplore AI </a> </td>
         <td> Geneplore AIは、Deepseek v3およびR1を搭載した最大のAI Discordボットの1つを運営しています。 </td>
