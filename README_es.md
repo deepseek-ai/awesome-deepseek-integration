@@ -761,6 +761,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
         <td> Una extensión de código abierto para VS Code para usar proveedores de inferencia compatibles con OpenAI en GitHub Copilot. </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/twinnydotdev/twinny/main/assets/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/twinnydotdev/twinny"> twinny </a> </td>
+        <td> Extensión gratuita y de código abierto para VS Code con autocompletado de código (FIM mediante /beta/completions de DeepSeek), chat, edición en línea y revisión de código, usando la API de DeepSeek o modelos locales. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

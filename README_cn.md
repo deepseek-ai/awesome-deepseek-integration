@@ -830,6 +830,11 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README_cn.md"> OAI Compatible Provider for Copilot </a> </td>
         <td> 开源的 VS Code 扩展，可在 GitHub Copilot 中使用 OpenAI 兼容的推理提供商。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/twinnydotdev/twinny/main/assets/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/twinnydotdev/twinny"> twinny </a> </td>
+        <td> 免费开源的 VS Code 扩展，支持代码补全（通过 DeepSeek 的 /beta/completions 进行 FIM 补全）、聊天、行内编辑和代码审查，可使用 DeepSeek API 或本地模型。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

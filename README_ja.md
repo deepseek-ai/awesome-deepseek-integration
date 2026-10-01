@@ -700,6 +700,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
         <td> GitHub Copilot で OpenAI 互換の推論プロバイダーを使用するためのオープンソースの VS Code 拡張機能です。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/twinnydotdev/twinny/main/assets/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/twinnydotdev/twinny"> twinny </a> </td>
+        <td> コード補完（DeepSeekの /beta/completions によるFIM）、チャット、インライン編集、コードレビューに対応した無料のオープンソースVS Code拡張機能。DeepSeek APIまたはローカルモデルで動作します。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

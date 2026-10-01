@@ -982,6 +982,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/littleCareless/dish-ai-commit"> Dish AI Commit </a> </td>
         <td> An AI-powered VS Code extension that automatically generates standardized Git/SVN commit messages, PR summaries, and weekly reports using DeepSeek and other AI providers. </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/twinnydotdev/twinny/main/assets/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/twinnydotdev/twinny"> twinny </a> </td>
+        <td> Free, open-source VS Code extension for code completion (FIM via DeepSeek's /beta/completions), chat, inline edit and code review, using the DeepSeek API or local models. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
