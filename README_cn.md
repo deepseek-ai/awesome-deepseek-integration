@@ -830,6 +830,11 @@
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README_cn.md"> OAI Compatible Provider for Copilot </a> </td>
         <td> 开源的 VS Code 扩展，可在 GitHub Copilot 中使用 OpenAI 兼容的推理提供商。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ai-input-output-system/assets/logo.svg?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ai-input-output-system/README.md"> AI Input/Output System </a> </td>
+        <td> 面向 VS Code 的本地优先 AI 请求路由器：简单请求由端侧 4B 模型直接回答，仅复杂请求转发到云端（可通过 OpenAI 兼容接口使用 DeepSeek）。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

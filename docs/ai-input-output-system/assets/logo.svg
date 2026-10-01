@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="AI Input/Output System">
+  <rect width="64" height="64" rx="14" fill="#0f172a" />
+  <circle cx="32" cy="13" r="5" fill="#e2e8f0" />
+  <path d="M32 18 V27" stroke="#e2e8f0" stroke-width="3" stroke-linecap="round" fill="none" />
+  <path d="M32 27 C32 36 16 34 16 41" stroke="#2dd4bf" stroke-width="3" stroke-linecap="round" fill="none" />
+  <path d="M32 27 C32 34 48 32 48 40" stroke="#60a5fa" stroke-width="3" stroke-linecap="round" fill="none" />
+  <rect x="10" y="43" width="12" height="12" rx="3" fill="#2dd4bf" />
+  <g fill="#60a5fa">
+    <circle cx="44" cy="45" r="5" />
+    <circle cx="51" cy="48" r="4" />
+    <rect x="41" y="48" width="13" height="7" rx="3.5" />
+  </g>
+</svg>
