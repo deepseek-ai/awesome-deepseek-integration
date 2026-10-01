@@ -982,6 +982,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/littleCareless/dish-ai-commit"> Dish AI Commit </a> </td>
         <td> An AI-powered VS Code extension that automatically generates standardized Git/SVN commit messages, PR summaries, and weekly reports using DeepSeek and other AI providers. </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ai-input-output-system/assets/logo.svg?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ai-input-output-system/README.md"> AI Input/Output System </a> </td>
+        <td> A local-first AI request router for VS Code: simple prompts are answered by an on-device 4B model, and only complex requests are forwarded to the cloud (DeepSeek via the OpenAI-compatible API). </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
