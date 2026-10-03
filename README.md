@@ -46,6 +46,11 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
 
 <table>
     <tr>
+        <td><img src="docs/lighttranslate/assets/logo.svg" alt="LightTranslate icon" width="64" height="auto" /></td>
+        <td><a href="docs/lighttranslate/README.md">LightTranslate (轻译)</a></td>
+        <td>An MIT-licensed Windows selection translation and English vocabulary lookup tool. Press Ctrl+Alt+Q to display streaming Chinese translations beside the cursor. Uses the user's own DeepSeek API key, stored locally with Windows DPAPI encryption. Windows installer and portable executable available.</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) is a flagship AI client explicitly tailored for watchOS and iOS. It features a watch-first design, aesthetic UI, seamless sync between devices, and deep system integration. Supports multiple models including DeepSeek, redefining AI interaction on your wrist.</td>

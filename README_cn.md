@@ -42,6 +42,11 @@
 
 <table>
     <tr>
+        <td><img src="docs/lighttranslate/assets/logo.svg" alt="轻译图标" width="64" height="auto" /></td>
+        <td><a href="docs/lighttranslate/README_cn.md">轻译 (LightTranslate)</a></td>
+        <td>MIT 开源的 Windows 划词翻译与英语查词工具。选中文字后按 Ctrl+Alt+Q，在鼠标旁查看流式中文译文；英文单词和短语可查看音标、用法、例句和词源。使用用户自己的 DeepSeek API Key，本机通过 Windows DPAPI 加密保存。提供安装包和便携 EXE。</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) 是一款专为 watchOS 与 iOS 深度定制的旗舰级 AI 客户端。它拥有“腕上智核”的独立交互体验、极简的律动美学设计以及全端联动的无缝体验。支持 DeepSeek 等多种模型，重塑你手腕上的 AI 交互维度。</td>
