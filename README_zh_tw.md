@@ -46,6 +46,11 @@
 ###  <span id="applications">應用</span>
 
 <table>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/mohitagw15856/pm-claude-skills/main/icon.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/mohitagw15856/pm-claude-skills">PM Skills</a></td>
+        <td>PM Skills 是一個開源的 Agent Skills 庫，包含一千兩百多個專業技能（PRD、週報、晉升答辯、勞動合同解讀、履歷等）。線上 Playground 可以用你自己的 DeepSeek API Key 執行任意技能，並提供中文技能包和 MCP 服務。</td>
+    </tr>
         <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>

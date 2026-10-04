@@ -42,6 +42,11 @@
 
 <table>
     <tr>
+        <td><img src="https://raw.githubusercontent.com/mohitagw15856/pm-claude-skills/main/icon.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/mohitagw15856/pm-claude-skills">PM Skills</a></td>
+        <td>PM Skills 是一个开源的 Agent Skills 库，包含一千两百多个专业技能（PRD、周报、晋升答辩、劳动合同解读、简历等）。在线 Playground 可以用你自己的 DeepSeek API Key 运行任意技能，并提供中文技能包和 MCP 服务。</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) 是一款专为 watchOS 与 iOS 深度定制的旗舰级 AI 客户端。它拥有“腕上智核”的独立交互体验、极简的律动美学设计以及全端联动的无缝体验。支持 DeepSeek 等多种模型，重塑你手腕上的 AI 交互维度。</td>
