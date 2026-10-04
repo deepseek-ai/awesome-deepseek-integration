@@ -41,6 +41,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
+        <td><img src="https://raw.githubusercontent.com/mohitagw15856/pm-claude-skills/main/icon.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/mohitagw15856/pm-claude-skills">PM Skills</a></td>
+        <td>PM Skills は、PRD・週報・契約書・履歴書など 1,200 以上の業務向け Agent Skills を収録したオープンソースライブラリです。ブラウザのプレイグラウンドで自分の DeepSeek API キーを使って任意のスキルを実行でき、中国語パックと MCP サーバーも提供します。</td>
+    </tr>
+    <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>Androidプラットフォーム向けのオープンソースシステム統合AIアシスタントで、ほぼ完全なmcp使用をサポートし、Androidシステムと高い互換性を持っています。このソフトウェアは高度なカスタマイズと低い学習障壁を特徴とし、ファイル操作、検索、自動クリック、フォーマット変換などの組み込みツールと統合DeepSeek APIウェブページを備えています。</td>

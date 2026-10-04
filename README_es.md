@@ -46,6 +46,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 <table>
     <tr>
+        <td><img src="https://raw.githubusercontent.com/mohitagw15856/pm-claude-skills/main/icon.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/mohitagw15856/pm-claude-skills">PM Skills</a></td>
+        <td>PM Skills es una biblioteca de código abierto con más de 1.200 Agent Skills para el trabajo profesional (PRD, informes semanales, contratos, CV). Su playground en el navegador ejecuta cualquier skill con DeepSeek usando tu propia clave, e incluye paquetes en chino y un servidor MCP.</td>
+    </tr>
+    <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>Un asistente de IA de integración de sistema de código abierto para la plataforma Android, que admite el uso casi completo de mcp y es altamente compatible con el sistema Android. El software ofrece alta personalización y bajo umbral de aprendizaje, con herramientas incorporadas para operaciones de archivos, búsquedas, clics automáticos, conversión de formatos y una página web API de DeepSeek integrada.</td>
