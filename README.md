@@ -46,6 +46,11 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
 
 <table>
     <tr>
+        <td><img src="docs/memdoor/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/guregodevo/memdoor">Memdoor</a></td>
+        <td>An open-source coding agent for the terminal that runs on your own API key, DeepSeek's included: describe a job in steps and it runs them as a checked, resumable workflow — one task file per step, a step done when its output exists, a gate where you approve. One static binary for macOS, Linux and Windows.</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) is a flagship AI client explicitly tailored for watchOS and iOS. It features a watch-first design, aesthetic UI, seamless sync between devices, and deep system integration. Supports multiple models including DeepSeek, redefining AI interaction on your wrist.</td>
