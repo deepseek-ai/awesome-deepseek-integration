@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td><img src="docs/deepseek-harness-android/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/guzhou079-arch/deepseek-harness-android">DeepSeek Harness for Android</a></td>
+        <td>把 DeepSeek Harness 打包成可直接安装的安卓 App：Agent 运行时、终端、文件工具与 21 款技能都在 APK 内运行，不需要 Termux 或 root。可通过 Shizuku 与无障碍做手机自动化（支持虚拟屏），还能在手机上自行编译、打包、签名。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td><img src="docs/deepseek-harness-android/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/guzhou079-arch/deepseek-harness-android">DeepSeek Harness for Android</a></td>
+        <td>DeepSeek Harness packaged as an installable Android app: the agent runtime, terminal, file tools and 21 bundled skills run inside the APK with no Termux or root needed. Shizuku and accessibility drive phone automation — including on a virtual display — and the app can compile, package and sign its own APK on the device.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
