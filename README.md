@@ -1310,6 +1310,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/informatico-madrid/blackwell-linux-infra-optimizer"> Blackwell Linux Infra Optimizer </a> </td>
         <td> Optimized vLLM stack for NVIDIA Blackwell (SM_120) and Linux Kernel 6.14. Achieving 59.0 t/s on DeepSeek-R1-32B using native FlashInfer backend. </td>
     </tr>
+    <tr>
+        <td> <img src="https://github.com/markus-global.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/markus-global/markus"> Markus </a> </td>
+        <td> Open-source AI workforce platform for building and running teams of AI agents; supports DeepSeek as a pluggable LLM provider. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
