@@ -46,6 +46,10 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
 
 <table>
     <tr>
+        <td><img src="docs/esp32-thinks/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/raulenchai/esp32-thinks">esp32-thinks</a></td>
+        <td>A personal AI voice assistant on the ESP32 — say "Hi, ESP" (on-chip esp-sr wake word) or press the knob, and it answers out loud with streaming sentence TTS while the model is still writing. The brain is three independent OpenAI-compatible endpoints (STT / chat / TTS), so the chat model can be DeepSeek — the QuickSilver preset runs deepseek-v4.1-flash with whisper-large-v3-turbo STT and chatterbox/qwen3-tts voices — or OpenAI, or any mix. Built on Meta's open-source muse-gadget-sdk, verified end-to-end on a Seeed SenseCAP Watcher.</td>
+    </tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) is a flagship AI client explicitly tailored for watchOS and iOS. It features a watch-first design, aesthetic UI, seamless sync between devices, and deep system integration. Supports multiple models including DeepSeek, redefining AI interaction on your wrist.</td>
