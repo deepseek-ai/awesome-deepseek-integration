@@ -929,6 +929,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://www.chatgot.io/"> ChatGOT </a> </td>
         <td> A free AI chatbot assistant for enhancing productivity </td>
     </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/kccarlos/DiscourseCopilot/main/public/icon128.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/kccarlos/DiscourseCopilot">DiscourseCopilot</a></td>
+        <td>An open-source Chrome extension that summarizes long Discourse forum topics and lets an AI agent search the whole forum, answering with links to the posts it used. Works with the DeepSeek API using your own key.</td>
+    </tr>
 </table>
 
 

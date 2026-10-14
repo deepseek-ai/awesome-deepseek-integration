@@ -783,6 +783,11 @@
         <td> <a href="https://www.chatgot.io/"> ChatGOT </a> </td>
         <td> 一个免费的AI聊天机器人助手，用于提高生产力 </td>
     </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/kccarlos/DiscourseCopilot/main/public/icon128.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/kccarlos/DiscourseCopilot">DiscourseCopilot</a></td>
+        <td>开源 Chrome 插件，用 AI 总结 Discourse 论坛长帖，或让 AI 在全站搜索并给出带帖子链接的答案。填入自己的 DeepSeek API key 即可使用。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
