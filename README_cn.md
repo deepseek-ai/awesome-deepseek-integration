@@ -529,6 +529,11 @@
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，采用开源模型即可实现例如数据分析、文件处理、深度研究等功能。 </td>
     </tr>
+    <tr>
+        <td width=80> <img src="https://octomind.run/apple-touch-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/muvon/octomind"> Octomind </a> </td>
+        <td> Octomind 是一个用 Rust 编写的开源 AI 编程智能体运行时：单一二进制文件，支持任意模型提供商（包括 DeepSeek），原生支持 MCP。可交互式运行、通过管道运行、作为守护进程运行、通过 WebSocket 运行，或作为 ACP 智能体运行。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
