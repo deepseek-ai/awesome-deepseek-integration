@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/CatVinci-Studio/Textus/main/src-tauri/icons/128x128@2x.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/CatVinci-Studio/Textus">Textus</a> </td>
+        <td> Textus 是一款免费开源的所见即所得 Markdown 编辑器，支持 macOS、Windows 和 Linux。可选的 AI 写作助手支持 DeepSeek 等 20 多家模型：灰色补全按 Tab 接受、逐句修改建议、页边批注。无需账号，无遥测。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

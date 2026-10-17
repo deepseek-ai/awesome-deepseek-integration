@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/CatVinci-Studio/Textus/main/src-tauri/icons/128x128@2x.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/CatVinci-Studio/Textus">Textus</a> </td>
+        <td> Textus is a free, open-source WYSIWYG Markdown editor for macOS, Windows and Linux. Its optional AI writing assistant works with DeepSeek and 20+ other providers: grey inline completions accepted with Tab, sentence-by-sentence edit proposals and margin comments. No account, no telemetry. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
