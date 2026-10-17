@@ -1310,6 +1310,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/informatico-madrid/blackwell-linux-infra-optimizer"> Blackwell Linux Infra Optimizer </a> </td>
         <td> Optimized vLLM stack for NVIDIA Blackwell (SM_120) and Linux Kernel 6.14. Achieving 59.0 t/s on DeepSeek-R1-32B using native FlashInfer backend. </td>
     </tr>
+    <tr>
+        <td>  </td>
+        <td> <a href="https://github.com/StarkL/deepseek-search-mcp"> deepseek-search-mcp </a> </td>
+        <td> Official-spec DeepSeek Search & Fetch MCP Server. Provides real-time web search with rerank scoring and dense summary extraction for Claude Code, Cursor, Cline, and Windsurf. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
