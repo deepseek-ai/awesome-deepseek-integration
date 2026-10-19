@@ -1148,6 +1148,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
+    <tr>
+        <td> <img src="https://fikraapi.co.ke/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://fikraapi.co.ke"> Fikra API </a> </td>
+        <td> Fikra API serves DeepSeek-family models (V4.1 Flash $0.045/M input, $0.09/M output, 1M context; the 1017 build is $0.05/$0.11) plus GLM 5.3/5.2, Kimi K3, StepFun Step 5 and Qwen 3.8 27B through an OpenAI-compatible endpoint. Per-token USD, $1 minimum top-up, M-Pesa and card payments. Key base URL: https://api.fikraapi.co.ke/v1</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
