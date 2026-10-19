@@ -42,6 +42,11 @@
 
 <table>
     <tr>
+        <td><img src="docs/Real/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/Real/README.md">Real</a></td>
+        <td>Windows 上的本地 AI Agent 工作台。给它一个文件夹和一句话需求，它自己读文件、改文件、跑命令、看报错，一轮轮改到交付；支持 DeepSeek 与智谱 GLM 随时切换，危险操作有确认门，全程可审计。</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) 是一款专为 watchOS 与 iOS 深度定制的旗舰级 AI 客户端。它拥有“腕上智核”的独立交互体验、极简的律动美学设计以及全端联动的无缝体验。支持 DeepSeek 等多种模型，重塑你手腕上的 AI 交互维度。</td>
