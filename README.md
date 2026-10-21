@@ -590,7 +590,7 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td>A Rust framework for AI agent development, designed to build a highly composable, autonomous, and perpetually memorizing network of AI agents.</td>
     </tr>
     <tr>
-        <td> <img src="https://www.dreams.fun/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://www.daydreams.systems/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/daydreamsai/daydreams">Daydreams</a> </td>
         <td>Daydreams is a generative crosschain agent framework for executing anything onchain. Autonomous and easy to build on enabling the next generation of agents.</td>
     </tr>
