@@ -671,6 +671,11 @@ The purpose is to build infrastructure in the field of large models, through the
 
  </td>
     </tr>
+    <tr>
+        <td width="80"> <img src="https://raw.githubusercontent.com/pixeltable/pixeltable/main/docs/resources/pixeltable-logo-large.png" alt="Icon" width="64" height="auto" /> </td>
+        <td width="120"> <a href="https://docs.pixeltable.com/howto/providers/working-with-deepseek"> Pixeltable </a> </td>
+        <td> Open-source multimodal data infrastructure: run DeepSeek models as incrementally computed columns over tables of documents, images, video and audio. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
