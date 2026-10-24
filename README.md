@@ -929,6 +929,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://www.chatgot.io/"> ChatGOT </a> </td>
         <td> A free AI chatbot assistant for enhancing productivity </td>
     </tr>
+    <tr>
+        <td><img src="docs/deepseek-toolbox/assets/icon.png" alt="DeepSeek Toolbox" width="64" height="auto" /></td>
+        <td><a href="docs/deepseek-toolbox/README.md">DeepSeek Toolbox</a></td>
+        <td>Free, open-source Chrome extension for chat.deepseek.com with folders, pinned messages, a prompt library, prompt chains, chat export, and bulk deletion.</td>
+    </tr>
 </table>
 
 

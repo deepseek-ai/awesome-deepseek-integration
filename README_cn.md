@@ -783,6 +783,11 @@
         <td> <a href="https://www.chatgot.io/"> ChatGOT </a> </td>
         <td> 一个免费的AI聊天机器人助手，用于提高生产力 </td>
     </tr>
+    <tr>
+        <td><img src="docs/deepseek-toolbox/assets/icon.png" alt="DeepSeek Toolbox" width="64" height="auto" /></td>
+        <td><a href="docs/deepseek-toolbox/README_cn.md">DeepSeek Toolbox</a></td>
+        <td>一款为 chat.deepseek.com 添加文件夹、消息固定、提示词库、提示词链、对话导出和批量删除功能的免费开源 Chrome 扩展。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
