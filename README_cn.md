@@ -530,6 +530,41 @@
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，采用开源模型即可实现例如数据分析、文件处理、深度研究等功能。 </td>
     </tr>
 </table>
+    <tr>
+        <td> <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/mascot_smol.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/huggingface/smolagents/tree/main"> smolagents </a> </td>
+        <td> 构建优秀智能体的最简方式。智能体通过编写 Python 代码来调用工具并编排其他智能体，对 DeepSeek-R1 等开放模型提供优先支持！ </td>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/superagentxai/superagentX/refs/heads/master/docs/logo/icononly_transparent_nobuffer.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/superagentx/README.md">SuperAgentX</a> </td>
+        <td>SuperAgentX：一款轻量级开源 AI 框架，专为具备通用人工智能（AGI）能力的自主多智能体应用而构建。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://www.dreams.fun/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/daydreamsai/daydreams">Daydreams</a> </td>
+        <td>Daydreams 是一个生成式跨链智能体框架，可在链上执行任意操作。自主且易于构建，助力下一代智能体的诞生。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://rig.rs/assets/favicon.png" alt="Icon" width="64" height="auto" alt="Rig (Rust)" /> </td>
+        <td> <a href="https://rig.rs">RIG</a> </td>
+        <td>使用 Rust 构建模块化、可扩展的 LLM 应用。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/longevity-genie/chat-ui/11c6647c83f9d2de21180b552474ac5ffcf53980/static/geneticsgenie/icon-128x128.png" alt="Icon" width="64" height="auto"/> </td>
+        <td> <a href="https://github.com/longevity-genie/just-agents">Just-Agents</a> </td>
+        <td>一个轻量、直观的 LLM 智能体库——拒绝过度设计，只保留简单！</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/Upsonic/Upsonic/blob/9d2e6d43b44defc6744817330625661ca3a2184e/Upsonic%20pp.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Upsonic/Upsonic">Upsonic</a> </td>
+        <td>Upsonic 提供一个前沿的企业级智能体框架，你可以借助它以高性价比的方式编排 LLM 调用、智能体和计算机操作来完成任务。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/guyoung/AIMatrices/raw/main/docs/assets/logo/ai-matrices1.png" alt="AIMatrices 图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
+        <td>AIMatrices 是一个轻量级、高性能、可扩展的开源 AI 应用快速构建平台，旨在为开发者提供高效便捷的 AI 应用开发体验。它集成了多种先进技术和工具，帮助用户快速构建、部署和维护 AI 应用，而无需从零编写复杂代码。</td>
+    </tr>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
