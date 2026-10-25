@@ -1148,6 +1148,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/reVoleupo/paidyun-brand/main/paidyun-logo-round-256.png"  alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://paidyun.xyz"> Paidyun AI </a> </td>
+        <td> AI API relay gateway exposing DeepSeek V4 and 60+ models from OpenAI, Anthropic, Gemini, Grok and Chinese open-weight vendors on a single OpenAI-compatible endpoint, with a public pricing JSON at /api/pricing; prepaid pay-as-you-go with USDT top-up from $1. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
