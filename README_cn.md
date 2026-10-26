@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" alt="DeepSeek CLI" width="64" height="auto" /> </td>
+        <td> <a href="docs/deepseek-cli/README_cn.md">DeepSeek CLI</a> </td>
+        <td> 一个使用纯 Rust 编写的极速、轻量级 DeepSeek-V3 和 DeepSeek-R1 命令行终端客户端与代码助手。支持实时思维链流式展示、交互式 REPL、会话导出、多文件上下文及 Unix 管道。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
