@@ -890,6 +890,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/sally-suite/open-office-copilot">Open Office Copilot</a> </td>
         <td> Open Office Copilot は、Microsoft Office と Google Workspace をサポートするオープンソースの Office アシスタントで、AI-Agent をベースにしています。Word での執筆、PowerPoint でのスライド生成、Excel でのデータ分析、Outlook でのメール作成などを支援します。</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/OakcoderX/solopup-memory/main/icon.svg" alt="SoloPup Memory" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/OakcoderX/solopup-memory"> SoloPup Memory </a> </td>
+        <td> DeepSeek Harness 向けの MIT ライセンスのテキスト記憶プラグイン（公開ベータ）。原文の参照元、全体／プロジェクト範囲、修正履歴を保持。語句一致検索を使用し、モデル API は別途課金される場合があります。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

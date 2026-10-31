@@ -952,6 +952,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a></td>
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a> es una clasificación impulsada por la comunidad donde los mejores prompts llegan a lo más alto.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/OakcoderX/solopup-memory/main/icon.svg" alt="SoloPup Memory" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/OakcoderX/solopup-memory"> SoloPup Memory </a> </td>
+        <td> Complemento de memoria de texto para DeepSeek Harness, de código abierto MIT y en beta pública. Conserva referencias al texto original, alcance global o por proyecto e historial de correcciones. Recuperación léxica; las API de modelos pueden tener coste. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
