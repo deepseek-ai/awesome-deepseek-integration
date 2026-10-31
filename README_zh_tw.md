@@ -1124,6 +1124,11 @@
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a></td>
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a> 是一個由社群驅動的排行榜，讓最優秀的提示詞脫穎而出。</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/OakcoderX/solopup-memory/main/icon.svg" alt="SoloPup Memory" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/OakcoderX/solopup-memory"> SoloPup Memory </a> </td>
+        <td> DeepSeek Harness 的 MIT 開源文字記憶外掛（公開測試版），保留原文來源、全域／專案範圍與修訂歷史。使用詞彙比對檢索；模型 API 可能收費。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
