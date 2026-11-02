@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/heymrun/heym/main/docs/readme-assets/logo.svg" alt="Heym" width="64" height="auto" /></td>
+        <td><a href="docs/heym/README.md">Heym</a></td>
+        <td>Self-hosted agent workflow runtime connecting DeepSeek through OpenAI-compatible credentials, with a visual editor, execution traces, evaluations, and approval checkpoints. MIT with Commons Clause.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
