@@ -529,6 +529,11 @@
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，采用开源模型即可实现例如数据分析、文件处理、深度研究等功能。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/chunonesoft/open-superagent/main/docs/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/chunonesoft/open-superagent">open-superagent</a> </td>
+        <td>基于 DeepSeek Harness 的主动式编程智能体：在 GitHub、自建 GitLab、飞书或钉钉里 @ 它派活，它自动开工单、在独立会话中写代码，并在原对话里用 PR/MR 交付。dsh-superagent-prototype 的社区维护版，新增自建 GitLab 和钉钉支持。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
