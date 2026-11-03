@@ -183,6 +183,11 @@
         <td> 一款為生產者設計的強大桌面 AI 助手。</td>
     </tr>
     <tr>
+        <td><img src="docs/myassis/assets/logo.png" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
+        <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/myassis/README.md">My Assis</a></td>
+        <td>My Assis 是一款本地優先、可自帶 Key 的 AI 助手，支援 Windows 與 iOS/Android，內建 Agent 團隊與工具呼叫，並深度支援 DeepSeek V4（deepseek-v4-pro 與 deepseek-flash、1M 上下文，以及可選的最強推理檔 reasoning_effort=max）。</td>
+    </tr>
+    <tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/tomemo/README.md"> ToMemo (iOS, ipadOS) </a> </td>
         <td> 一款短語簿 + 剪貼板歷史 + 鍵盤的 iOS App，整合 AI 巨型建模，用於快速鍵盤輸出。</td>

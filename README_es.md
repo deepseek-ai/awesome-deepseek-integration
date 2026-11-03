@@ -171,6 +171,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td>Un asistente de IA de escritorio poderoso para productores</td>
     </tr>
     <tr>
+        <td><img src="docs/myassis/assets/logo.png" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
+        <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/myassis/README.md">My Assis</a></td>
+        <td>My Assis es un asistente de IA local para Windows e iOS/Android que permite usar tu propia clave (bring-your-own-key) con varios proveedores de modelos, con un equipo de agentes, invocación de herramientas y una integración profunda con DeepSeek V4 (deepseek-v4-pro y deepseek-flash, contexto de 1M y un nivel máximo de razonamiento reasoning_effort=max opcional).</td>
+    </tr>
+    <tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icono" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/tomemo/README.md"> ToMemo (iOS, ipadOS) </a> </td>
         <td> Una aplicación de iOS que combina un libro de frases, registro del portapapeles y teclado, con modelado macro de IA integrado para una salida rápida desde el teclado.</td>

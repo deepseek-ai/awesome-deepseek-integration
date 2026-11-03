@@ -147,6 +147,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td>プロデューサーのための強力なデスクトップAIアシスタント</td>
     </tr>
     <tr>
+        <td><img src="docs/myassis/assets/logo.png" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
+        <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/myassis/README.md">My Assis</a></td>
+        <td>My Assis は、Windows と iOS/Android に対応したローカルファーストの AI アシスタントです。API キーを持ち込んで複数のモデルを利用でき、エージェントチームとツール呼び出しを備え、DeepSeek V4（deepseek-v4-pro と deepseek-flash、1M（100 万トークン）のコンテキスト、任意で選べる最大推論強度 reasoning_effort=max）を深くサポートしています。</td>
+    </tr>
+    <tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/tomemo/README.md"> ToMemo (iOS, ipadOS) </a> </td>
         <td> フレーズブック+クリップボード履歴+キーボードiOSアプリで、キーボードでの迅速な出力にAIマクロモデリングを統合しています。</td>

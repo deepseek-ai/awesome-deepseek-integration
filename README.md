@@ -198,6 +198,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td>A powerful desktop AI assistant for producer</td>
     </tr>
     <tr>
+        <td><img src="docs/myassis/assets/logo.png" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
+        <td><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/myassis/README.md">My Assis</a></td>
+        <td>My Assis is a local-first, bring-your-own-key AI assistant for Windows and iOS/Android, with an agent team and tool calling, and deep support for DeepSeek V4 (deepseek-v4-pro and deepseek-flash, 1M context, and an optional maximum reasoning_effort=max tier).</td>
+    </tr>
+    <tr>
         <td> <img src="https://tomemo.top/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/tomemo/README.md"> ToMemo (iOS, ipadOS) </a> </td>
         <td> A phrasebook + clipboard history + keyboard iOS app with integrated AI macromodeling for quick output use in the keyboard.</td>
