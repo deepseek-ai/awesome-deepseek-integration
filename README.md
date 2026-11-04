@@ -46,6 +46,11 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
 
 <table>
     <tr>
+        <td><img src="docs/myassistant/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/myassistant/README.md">My Assistant</a></td>
+        <td>A polished chat client for your own API key, with DeepSeek tuned per call: the reasoning model only on hard asks, settings per task, provider-specific retries, file edits of any size returned byte-exact, and a pass that checks every part of your message was answered. Web (installable), Google Play and Microsoft Store, 20 languages.</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) is a flagship AI client explicitly tailored for watchOS and iOS. It features a watch-first design, aesthetic UI, seamless sync between devices, and deep system integration. Supports multiple models including DeepSeek, redefining AI interaction on your wrist.</td>
