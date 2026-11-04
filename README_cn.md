@@ -42,6 +42,11 @@
 
 <table>
     <tr>
+        <td><img src="docs/myassistant/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/myassistant/README_cn.md">My Assistant</a></td>
+        <td>自带 API 密钥的大模型聊天客户端，针对 DeepSeek 单独调优：难题才走推理模型、按任务分别调参、针对 DeepSeek 的重试策略、任意大小的文件编辑后逐字节原样返回，并有一道检查确认回复覆盖了你消息里的每一个问题。网页版（可安装）、Google Play、Microsoft Store，20 种语言。</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) 是一款专为 watchOS 与 iOS 深度定制的旗舰级 AI 客户端。它拥有“腕上智核”的独立交互体验、极简的律动美学设计以及全端联动的无缝体验。支持 DeepSeek 等多种模型，重塑你手腕上的 AI 交互维度。</td>

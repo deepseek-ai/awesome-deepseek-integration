@@ -41,6 +41,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
+        <td><img src="docs/myassistant/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/myassistant/README.md">My Assistant</a></td>
+        <td>自分の API キーで使う洗練されたチャットクライアント。DeepSeek 向けに呼び出しごとに最適化：難しい質問だけ推論モデルへ、タスク別の設定、プロバイダー別の再試行、どんなサイズのファイル編集もバイト単位でそのまま返却、メッセージの全項目に答えたかを確認するパス。Web（インストール可）、Google Play、Microsoft Store、20 言語。</td>
+    </tr>
+    <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>Androidプラットフォーム向けのオープンソースシステム統合AIアシスタントで、ほぼ完全なmcp使用をサポートし、Androidシステムと高い互換性を持っています。このソフトウェアは高度なカスタマイズと低い学習障壁を特徴とし、ファイル操作、検索、自動クリック、フォーマット変換などの組み込みツールと統合DeepSeek APIウェブページを備えています。</td>
