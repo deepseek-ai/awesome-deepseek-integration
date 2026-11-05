@@ -412,6 +412,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> Potencia RSS con IA, filtra, resume y envía automáticamente información importante para superar la sobrecarga de información. </td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/synrise25/rss-pod/main/docs/assets/rss-pod-logo.png" alt="Icono" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/synrise25/rss-pod">rss-pod</a> </td>
+        <td> Aplicación autoalojada que convierte artículos RSS en pódcasts conversacionales con DeepSeek y síntesis de voz, con generación programada y reproductor web. </td>
+    </tr>
+    <tr>
         <td> <img src="docs/NoteGen/NoteGen.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
         <td> NoteGen es una aplicación multiplataforma de notas Markdown que se enfoca en utilizar inteligencia artificial para construir un puente entre la recopilación de información y la escritura, organizando conocimientos fragmentados en notas legibles. </td>
