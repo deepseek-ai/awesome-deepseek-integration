@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td style="font-size: 64px">🔊</td>
+        <td> <a href="https://github.com/open-speaker-llm/xiaomi_ai_llm">xiaomi_ai_llm</a> </td>
+        <td> A client running on the Xiaomi AI Speaker MDZ-25-DA (S12A). Native commands (lights, weather) stay with XiaoAI; open questions go straight from the speaker to DeepSeek (or GLM, Kimi, MiniMax, any OpenAI-compatible API), spoken via EdgeTTS, with wake-word-free follow-ups and optional DeepSeek web search. Requires opening the speaker and serial/SSH access. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
