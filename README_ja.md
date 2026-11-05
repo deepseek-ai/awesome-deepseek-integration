@@ -41,6 +41,12 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
+        <td> <img src="docs/kinetaios/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/kinetaios/README.md">KinetAios</a> </td>
+        <td> Windows と macOS 向けのローカルファースト・マルチエンジン AI エージェントダッシュボード。Claude Code、Codex、DeepSeek、内蔵 ReAct エンジンを 1 つのウィンドウで並列実行し、エンジン横断の長期記憶（SQLite/FTS5）、MCP クライアント+サーバーの双方向統合、40+ エージェントツール、プロジェクトルール注入を備える。アカウント不要、中継サーバーなし、データはすべてローカルに保存。 </td>
+    </tr>
+
+    <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>Androidプラットフォーム向けのオープンソースシステム統合AIアシスタントで、ほぼ完全なmcp使用をサポートし、Androidシステムと高い互換性を持っています。このソフトウェアは高度なカスタマイズと低い学習障壁を特徴とし、ファイル操作、検索、自動クリック、フォーマット変換などの組み込みツールと統合DeepSeek APIウェブページを備えています。</td>
@@ -403,11 +409,6 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://github.com/guyoung/AIMatrices/raw/main/docs/assets/logo/ai-matrices1.png" alt="AIMatrices 图标" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
-    </tr>
-    <tr>
-        <td> <img src="docs/kinetaios/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/kinetaios/README.md">KinetAios</a> </td>
-        <td> Windows と macOS 向けのローカルファースト・マルチエンジン AI エージェントダッシュボード。Claude Code、Codex、DeepSeek、内蔵 ReAct エンジンを 1 つのウィンドウで並列実行し、エンジン横断の長期記憶（SQLite/FTS5）、MCP クライアント+サーバーの双方向統合、40+ エージェントツール、プロジェクトルール注入を備える。アカウント不要、中継サーバーなし、データはすべてローカルに保存。 </td>
     </tr>
 </table>
 
