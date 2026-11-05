@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/nodetool-ai/nodetool/main/marketing/public/logo.png" alt="NodeTool" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/nodetool-ai/nodetool">NodeTool</a> </td>
+        <td> <a href="https://nodetool.ai/">NodeTool</a> 是一个开源、以智能体为核心的创作工作台，支持 macOS、Windows 和 Linux。它的聊天智能体和节点工作流可通过 DeepSeek API 使用 DeepSeek 的对话模型和推理模型。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
