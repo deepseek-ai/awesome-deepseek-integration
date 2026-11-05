@@ -473,6 +473,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> Empower RSS with AI, automatically filter, summarize, and push important information to overcome information overload. </td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/synrise25/rss-pod/main/docs/assets/rss-pod-logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/synrise25/rss-pod">rss-pod</a> </td>
+        <td> Self-hosted RSS-to-podcast app that turns articles into multi-speaker conversations using DeepSeek and TTS, with scheduled generation, a web player, and podcast feeds. </td>
+    </tr>
+    <tr>
         <td> <img src="docs/NoteGen/NoteGen.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
         <td> NoteGen is a cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note. </td>
