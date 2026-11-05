@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/nodetool-ai/nodetool/main/marketing/public/logo.png" alt="NodeTool" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/nodetool-ai/nodetool">NodeTool</a> </td>
+        <td> <a href="https://nodetool.ai/">NodeTool</a> is an open-source, agent-first creative workspace for macOS, Windows and Linux. Its chat agent and node-based workflows can use DeepSeek chat and reasoning models through the DeepSeek API. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
