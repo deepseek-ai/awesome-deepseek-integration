@@ -340,6 +340,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> AIでRSSを強化し、重要な情報を自動的にフィルタリング、要約、プッシュして、情報過多を克服します。 </td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/synrise25/rss-pod/main/docs/assets/rss-pod-logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/synrise25/rss-pod">rss-pod</a> </td>
+        <td> DeepSeek と音声合成を使用して RSS 記事を複数話者の対話型ポッドキャストに変換するセルフホスト型アプリ。定期生成、Web プレーヤー、ポッドキャスト RSS に対応。 </td>
+    </tr>
+    <tr>
         <td> <img src="docs/NoteGen/NoteGen.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
         <td> NoteGenは、AIを使用して記録と執筆を橋渡しし、断片化された知識を読みやすいノートに整理することに専念するクロスプラットフォームのMarkdownノートアプリケーションです。 </td>
