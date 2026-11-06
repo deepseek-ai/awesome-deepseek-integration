@@ -432,6 +432,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> Un juego de enigmas de pensamiento lateral tipo "Sopa de Tortuga" con un anfitrión de IA basado en DeepSeek, disponible para uno o varios jugadores. La IA modera la partida e interactúa con humor, guiando la deducción mediante respuestas de "Sí / No / Irrelevante". Ofrece una experiencia inmersiva con una fuerte atmósfera narrativa, gestión del ritmo y un sistema de pistas para evitar bloqueos. Integra búsqueda vectorial y DeepSeek para evitar la repetición de acertijos e incluye moderación de contenido. Ideal para entrenar la creatividad y como entretenimiento social en línea. </td>
     </tr>
+    <tr>
+        <td width=80><img src="https://avatars.githubusercontent.com/u/265465390?v=4" alt="OneMira AI" width="64" height="auto" /></td>
+        <td><a href="https://github.com/onemira-space/onemira-mcp">OneMira AI</a></td>
+        <td><a href="https://github.com/onemira-space/onemira-mcp">OneMira AI</a> Grabadora de voz con IA sin suscripción y servidor MCP que transmite transcripciones con identificación de hablantes, resúmenes generados por IA y contexto estructurado en Markdown a flujos de trabajo de agentes compatibles con DeepSeek.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
