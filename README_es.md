@@ -46,6 +46,12 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 <table>
     <tr>
+        <td> <img src="docs/kinetaios/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/kinetaios/README.md">KinetAios</a> </td>
+        <td> Un panel de agentes de IA multi-motor y local-first para Windows y macOS. Ejecuta Claude Code, Codex, DeepSeek y un motor ReAct integrado lado a lado en una ventana, con memoria a largo plazo entre motores (SQLite/FTS5), cliente+servidor MCP, más de 40 herramientas de agente e inyección de reglas de proyecto. Sin cuenta ni servidor intermedio: todo permanece en tu máquina. </td>
+    </tr>
+
+    <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>Un asistente de IA de integración de sistema de código abierto para la plataforma Android, que admite el uso casi completo de mcp y es altamente compatible con el sistema Android. El software ofrece alta personalización y bajo umbral de aprendizaje, con herramientas incorporadas para operaciones de archivos, búsquedas, clics automáticos, conversión de formatos y una página web API de DeepSeek integrada.</td>
