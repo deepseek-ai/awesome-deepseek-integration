@@ -400,6 +400,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> One API は LLM API 管理＆キー再配布システムで、OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek など複数のプロバイダーを統一 API で管理できます。シングルバイナリ、Docker 対応、すぐに使えます。</td>
     </tr>
     <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/201689212?s=200&v=4" alt="OneMira AI" width="64" height="auto" /> </td>
+        <td> <a href="https://onemira.com/products/c1">OneMira AI</a> </td>
+        <td> スタンドアロンAIボイスレコーダー（<a href="https://onemira.com/products/c1">OneMira C1</a>）およびローカルコンテキストデスクトップシステム（<a href="https://github.com/onemira-space/onemira-mcp">onemira-mcp</a>）。内蔵ローカルAIと話者識別（Speaker ID）を備え、DeepSeek（DeepSeek-V3 / DeepSeek-R1）のAPIキー連携により議事録・決定事項・タスク・Markdown Wikiを自動生成します。</td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/guyoung/AIMatrices/raw/main/docs/assets/logo/ai-matrices1.png" alt="AIMatrices 图标" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>

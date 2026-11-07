@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/201689212?s=200&v=4" alt="OneMira AI" width="64" height="auto" /> </td>
+        <td> <a href="https://onemira.com/products/c1">OneMira AI</a> </td>
+        <td> Standalone AI voice recorder (<a href="https://onemira.com/products/c1">OneMira C1</a>) and local spoken-context desktop system (<a href="https://github.com/onemira-space/onemira-mcp">onemira-mcp</a>) with built-in Local AI, Speaker ID, and native API key integration for DeepSeek (DeepSeek-V3 / DeepSeek-R1) to generate meeting summaries, decisions, action items, and a compounding Markdown Wiki.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
