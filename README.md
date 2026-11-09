@@ -1310,7 +1310,10 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/informatico-madrid/blackwell-linux-infra-optimizer"> Blackwell Linux Infra Optimizer </a> </td>
         <td> Optimized vLLM stack for NVIDIA Blackwell (SM_120) and Linux Kernel 6.14. Achieving 59.0 t/s on DeepSeek-R1-32B using native FlashInfer backend. </td>
     </tr>
-</table>
+        <td><img src="https://raw.githubusercontent.com/FamousMonsterr/zai-web-search-mcp/main/icon.svg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/FamousMonsterr/zai-web-search-mcp">zai-web-search-mcp</a></td>
+        <td>Web search and page reading for DeepSeek Harness through the official Z.ai (GLM Coding Plan) MCP servers, with vision + zread tools and a live quota chip.</td>
+    </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
