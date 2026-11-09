@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td><img src="docs/dshandroid/assets/logo.png" alt="图标" width="64" height="auto" /></td>
+        <td><a href="https://github.com/kekejiang114514/deepseek-harness-android">DShAndroid</a></td>
+        <td>把 DeepSeek 直接跑在手机上的安卓 Agent 客户端 —— 不需要 Termux、root 或电脑。内置 Agent 循环、工具调用、无障碍操作屏幕、上下文自动压缩和可安装插件。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
