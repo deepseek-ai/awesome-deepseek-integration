@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/openviewmobile/dshd-linux/main/promo/assets/brand.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/openviewmobile/dshd-linux">DSHD for Linux</a></td>
+        <td>官方 DeepSeek Harness 桌面端的 Linux 发行版级打包：AppImage/deb/rpm/Flatpak，APT/DNF 仓库，x86_64/aarch64，支持本地 Office→PDF。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
