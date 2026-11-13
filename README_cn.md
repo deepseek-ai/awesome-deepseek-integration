@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/knovum/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/madebyzan/knovum">Knovum</a> </td>
+        <td> <a href="https://github.com/madebyzan/knovum">Knovum</a> 是基于 Tauri 2 + Rust + Vue 3 构建的 100% MIT 开源、本地优先无限 2D 画布 AI 知识库，原生集成 DeepSeek（对话与视觉）及多种云端/本地模型，结合 SQLite + 内嵌 LanceDB 向量检索、JSON Canvas 互通、可溯源引用以及端侧语音与图像工具。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
