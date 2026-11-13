@@ -620,6 +620,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatrices is a lightweight, high-performance, scalable, and open source AI application rapid building platform designed to provide developers with an efficient and convenient AI application development experience. It integrates multiple advanced technologies and tools to help users quickly build, deploy, and maintain AI applications without having to write complex code from scratch.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/Francis-Xavier-code/dsh-balance-plugin/main/assess/%E9%92%B1%E5%8C%85%E8%AE%BE%E7%BD%AE%E9%A1%B5%E9%9D%A2.png" alt="dsh-balance-plugin icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Francis-Xavier-code/dsh-balance-plugin">dsh-balance-plugin</a> </td>
+        <td>A third-party DeepSeek Harness plugin that monitors your DeepSeek API balance and tracks token usage. Reads the API key automatically from DSH credentials, supports multi-account monitoring, low-balance alerts (CNY/USD thresholds), and a per-day/per-model usage dashboard.</td>
+    </tr>
 </table>
 
 ### RAG frameworks

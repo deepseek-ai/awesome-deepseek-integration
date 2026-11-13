@@ -1005,6 +1005,11 @@
         <td> <a href="https://github.com/sally-suite/open-office-copilot">Open Office Copilot</a> </td>
         <td> Open Office Copilot 是一个开源的 Office 助手，支持 Microsoft Office 和 Google Workspace，基于 AI-Agent。它可以帮助你在 Word 中写作、在 PowerPoint 中生成幻灯片、在 Excel 中分析数据、在 Outlook 里帮你生成邮件等，现在已经集成了 DeepSeek。</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/Francis-Xavier-code/dsh-balance-plugin/main/assess/%E9%92%B1%E5%8C%85%E8%AE%BE%E7%BD%AE%E9%A1%B5%E9%9D%A2.png" alt="dsh-balance-plugin 图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Francis-Xavier-code/dsh-balance-plugin">dsh-balance-plugin</a> </td>
+        <td> DeepSeek Harness 的第三方插件，用于监控 DeepSeek API 余额与统计 Token 用量。自动读取 DSH 凭据中的 API Key，支持多账户监控、低余额提醒（CNY/USD 双阈值）以及按天/按模型的用量面板。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
