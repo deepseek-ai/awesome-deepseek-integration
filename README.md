@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td> <img src="docs/knovum/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/madebyzan/knovum">Knovum</a> </td>
+        <td> <a href="https://github.com/madebyzan/knovum">Knovum</a> is an MIT-licensed, local-first desktop AI knowledge workspace on an infinite 2D canvas (Tauri 2 + Rust + Vue 3). It integrates DeepSeek (chat & vision) alongside local SQLite + embedded LanceDB search, JSON Canvas interoperability, grounded citations, and on-device speech & image tools. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
