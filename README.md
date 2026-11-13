@@ -675,6 +675,7 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
+[DeepSeek to PDF](https://chromewebstore.google.com/detail/ecmcbpjdknbbcfbohfcjjilgkgclgdbc) - Export DeepSeek chats to PDF, Markdown, or JSON. One-click archiver with full formatting and math support.
 ###  <span id="rag">RAG frameworks</span>
 
 <table>
