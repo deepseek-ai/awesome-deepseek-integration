@@ -620,6 +620,12 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatrices is a lightweight, high-performance, scalable, and open source AI application rapid building platform designed to provide developers with an efficient and convenient AI application development experience. It integrates multiple advanced technologies and tools to help users quickly build, deploy, and maintain AI applications without having to write complex code from scratch.</td>
     </tr>
+
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/jincheng3870682453-hash/shepherd-microdemo/main/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/jincheng3870682453-hash/shepherd-microdemo">Shepherd</a></td>
+        <td>A micro demo based on DeepSeek's open-sourced Super-agent prototype: implements the four pieces the article lists as future work &mdash; external watchdog (deterministic rules + numeric-only LLM cortex), credit &times; bait verification for worker reports, budgeted speculative execution, and async ReAct by default. TypeScript, zero runtime deps, 108 tests.</td>
+    </tr>
 </table>
 
 ### RAG frameworks
