@@ -489,6 +489,11 @@
         <td> 一个专为 AI 智能体开发设计的 Rust 语言框架，致力于构建高度可组合、自主运行且具备永久记忆能力的 AI 智能体网络。 </td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/esengine/DeepSeek-Reasonix/studio/docs/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/reasonix/README.md">Reasonix</a> </td>
+        <td> 开源（MIT）的 DeepSeek 原生编程代理：单个 Go 二进制，提供终端界面、桌面应用、浏览器界面，并通过 ACP 接入 Zed 与 JetBrains。缓存优先的上下文让 DeepSeek 前缀缓存跨轮次保持命中；支持计划模式、权限、工作区沙盒、每轮检查点、MCP、Agent Skills 与插件。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://yomo.run/yomo-logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/yomo/README.md">YoMo</a> </td>
         <td> Stateful Serverless LLM Function Calling Framework with Strongly-typed Language Support </td>

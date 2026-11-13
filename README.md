@@ -590,6 +590,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td>A Rust framework for AI agent development, designed to build a highly composable, autonomous, and perpetually memorizing network of AI agents.</td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/esengine/DeepSeek-Reasonix/studio/docs/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/reasonix/README.md">Reasonix</a> </td>
+        <td> An open-source (MIT) coding agent built around DeepSeek: a single Go binary with a terminal UI, a desktop app, a browser UI, and ACP for Zed and JetBrains. Cache-first context keeps the DeepSeek prefix cache warm across turns, with plan mode, permissions, a workspace sandbox, per-turn checkpoints, MCP, Agent Skills and plugins. </td>
+    </tr>
+    <tr>
         <td> <img src="https://www.dreams.fun/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/daydreamsai/daydreams">Daydreams</a> </td>
         <td>Daydreams is a generative crosschain agent framework for executing anything onchain. Autonomous and easy to build on enabling the next generation of agents.</td>
