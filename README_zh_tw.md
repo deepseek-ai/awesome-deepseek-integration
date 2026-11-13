@@ -451,6 +451,11 @@
         <td> 用 AI 賦能 RSS，自動篩選、總結、推送重要資訊，告別資訊過載。 </td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/synrise25/rss-pod/main/docs/assets/rss-pod-logo.png" alt="圖示" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/synrise25/rss-pod">rss-pod</a> </td>
+        <td> 自架 RSS 轉播客工具，可使用 DeepSeek 將文章改寫為多人對話，再透過 TTS 生成音訊，支援定時更新、網頁播放器與 Podcast RSS。 </td>
+    </tr>
+    <tr>
         <td> <img src="docs/NoteGen/NoteGen.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
         <td> NoteGen 是一款跨平台的 Markdown 筆記應用，致力於使用 AI 建立記錄和寫作的橋樑，將碎片化知識整理成一篇可讀的筆記。 </td>
