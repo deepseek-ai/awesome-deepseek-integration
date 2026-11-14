@@ -921,6 +921,12 @@
 
 <table>
     <tr>
+        <td style="font-size: 64px">🧠</td>
+        <td> <a href="https://github.com/simin-yuan/dsh-plain-memory"> 原味记忆（dsh-plain-memory） </a></td>
+        <td> DeepSeek Harness（DSH）的记忆插件。记忆以纯 Markdown 存在用户自己的 Git 仓库里，用线索词加 BM25 在本地召回；零运行时依赖，插件内不调用模型，不起定时器。多窗口状态卡为实验功能，默认关闭。 </td>
+    </tr>
+
+    <tr>
         <td></td>
         <td> <a href="https://github.com/lunary-ai/abso/blob/main/README.md"> Abso </a></td>
         <td> TypeScript SDK 使用 OpenAI 格式与任何 LLM 提供商进行交互。 </td>
