@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td width=80> <img src="docs/openmontage-drama-studio/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/charliewwdev/OpenMontage"> OpenMontage Drama Studio </a> </td>
+        <td> <a href="https://github.com/charliewwdev/OpenMontage"> OpenMontage Drama Studio </a> OpenMontage Drama Studio is an open-source (AGPL-3.0), self-hosted AI short-drama studio. DeepSeek (native provider, configured with DEEPSEEK_API_KEY) writes the script and drives the pipeline that turns a one-line idea into characters, scenes, props, storyboard shots, voice and a final edit. Used for short dramas, viral short videos and e-commerce product ads. Shot video uses Volcengine Seedance (paid API). </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>

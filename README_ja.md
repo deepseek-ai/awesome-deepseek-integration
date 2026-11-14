@@ -452,6 +452,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> は、自律エージェントを構築、実行、および評価するための柔軟で高性能なフレームワークです。ベンチマークテストで最高の成績を収めるだけでなく、このフレームワークは、オープンソースモデルを使用して、データ分析、ファイル処理、詳細な調査などの強力なエージェント機能を提供します。 </td>
     </tr>
 
+    <tr>
+        <td width=80> <img src="docs/openmontage-drama-studio/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/charliewwdev/OpenMontage"> OpenMontage Drama Studio </a> </td>
+        <td> <a href="https://github.com/charliewwdev/OpenMontage"> OpenMontage Drama Studio </a> OpenMontage Drama Studio は、オープンソース（AGPL-3.0）でセルフホスト可能な AI ショートドラマ制作スタジオです。DeepSeek をネイティブにサポートし（DEEPSEEK_API_KEY を設定）、DeepSeek が脚本を書き、一行のアイデアからキャラクター、シーン、小道具、絵コンテとショット、音声、編集までのパイプラインを動かします。ショートドラマ、バイラル短尺動画、EC 商品広告に使えます。ショット動画には Volcengine Seedance（有料 API）を使用します。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

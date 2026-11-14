@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="OpenMontage">
+  <defs>
+    <linearGradient id="g" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7c6cff"/>
+      <stop offset="0.55" stop-color="#5b8cff"/>
+      <stop offset="1" stop-color="#36cfc9"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#0a0b10"/>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#g)"/>
+  <rect x="14" y="18" width="36" height="28" rx="4" fill="#0a0b10" opacity="0.92"/>
+  <path d="M22 26h8l3 12h-8l-3-12zm12 0h8l-3 12h-8l3-12z" fill="#f4f1ff"/>
+  <circle cx="26" cy="40" r="2.2" fill="#b7acff"/>
+  <circle cx="38" cy="40" r="2.2" fill="#b7acff"/>
+  <path d="M18 14h6l2 4h-6l-2-4zm22 0h6l-2 4h-6l2-4z" fill="#0a0b10" opacity="0.55"/>
+</svg>
