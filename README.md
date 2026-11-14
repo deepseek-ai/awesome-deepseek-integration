@@ -580,6 +580,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> Model Context Protocol server for DeepSeek's advanced language models.</td>
     </tr>
     <tr>
+        <td> <img src="https://cdn.jsdelivr.net/npm/simple-icons@14/icons/deepseek.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/claude-code-deepseek-delegator/README.md">Claude Code DeepSeek Delegator</a> </td>
+        <td> MCP server that lets Claude Code delegate heavy-token tasks to DeepSeek. Claude orchestrates; DeepSeek does the heavy lifting at ~1/16th the cost.</td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/superagentxai/superagentX/refs/heads/master/docs/logo/icononly_transparent_nobuffer.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/superagentx/README.md">SuperAgentX</a> </td>
         <td>SuperAgentX: A Lightweight Open Source AI Framework Built for Autonomous Multi-Agent Applications with Artificial General Intelligence (AGI) Capabilities.</td>
