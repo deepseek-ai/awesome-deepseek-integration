@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td style="font-size: 64px">🔊</td>
+        <td> <a href="https://github.com/open-speaker-llm/xiaomi_ai_llm">xiaomi_ai_llm</a> </td>
+        <td> 跑在小米 AI 音箱 MDZ-25-DA（S12A）上的客户端：开灯、天气等仍由小爱原生处理，开放问题由音箱直连 DeepSeek（也支持 GLM、Kimi、MiniMax 及 OpenAI 兼容接口），EdgeTTS 播报，支持免唤醒追问和 DeepSeek 联网搜索。需拆机接串口、建立 SSH。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
