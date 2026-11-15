@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td><img src="docs/Tokeny/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/Tokeny/README.md">Tokeny</a></td>
+        <td>Tokeny is a free-to-download desktop AI agent for Windows, macOS and Linux (closed source, bring your own API key). DeepSeek is a built-in model channel. The agent works in a local workspace folder: it reads and writes files, uses skills to produce PPT, Word and Excel deliverables, calls MCP tools, runs scheduled tasks, and asks for approval before risky operations.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
