@@ -952,6 +952,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a></td>
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a> es una clasificación impulsada por la comunidad donde los mejores prompts llegan a lo más alto.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/vshulcz/deja-vu/main/assets/icon-400.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/vshulcz/deja-vu"> deja-vu </a> </td>
+        <td> Memoria local para agentes de código, construida con las sesiones que ya escribieron en disco. Incluye un plugin para DeepSeek Harness (<code>dsh-deja</code>) que recupera sesiones pasadas de DeepSeek Harness, Claude Code, Codex y más de 30 agentes; no necesita modelo ni clave de API. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

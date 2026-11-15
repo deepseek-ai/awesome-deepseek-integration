@@ -1005,6 +1005,11 @@
         <td> <a href="https://github.com/sally-suite/open-office-copilot">Open Office Copilot</a> </td>
         <td> Open Office Copilot 是一个开源的 Office 助手，支持 Microsoft Office 和 Google Workspace，基于 AI-Agent。它可以帮助你在 Word 中写作、在 PowerPoint 中生成幻灯片、在 Excel 中分析数据、在 Outlook 里帮你生成邮件等，现在已经集成了 DeepSeek。</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/vshulcz/deja-vu/main/assets/icon-400.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/vshulcz/deja-vu"> deja-vu </a> </td>
+        <td> 用编码代理已经写在磁盘上的会话构建的本地记忆。提供 DeepSeek Harness 插件（<code>dsh-deja</code>），可以召回 DeepSeek Harness、Claude Code、Codex 等 30 多个代理的历史会话；不需要模型或 API key。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

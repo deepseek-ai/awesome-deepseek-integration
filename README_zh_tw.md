@@ -1055,6 +1055,11 @@
         <td> Mem0 為 AI 助手提供智慧記憶層，實現個性化互動和持續學習。 </td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/vshulcz/deja-vu/main/assets/icon-400.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/vshulcz/deja-vu"> deja-vu </a> </td>
+        <td> 用編碼代理已經寫在磁碟上的會話建立的本機記憶。提供 DeepSeek Harness 外掛（<code>dsh-deja</code>），可以召回 DeepSeek Harness、Claude Code、Codex 等 30 多個代理的歷史會話；不需要模型或 API key。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://simplismart-public-assets.s3.ap-south-1.amazonaws.com/logos/Logo+Icon+Light.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://simplismart.ai/"> Simplismart AI </a> </td>
         <td> Simplismart 提供無縫的 GenAI 部署，為 LLM、Diffusion 和語音模型提供最快的推理速度。可在 Simplismart Cloud 或您自己的雲端上輕鬆部署 DeepSeek。 </td>

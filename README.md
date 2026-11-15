@@ -1211,6 +1211,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Mem0 enhances AI assistants with an intelligent memory layer, enabling personalized interactions and continuous learning over time. </td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/vshulcz/deja-vu/main/assets/icon-400.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/vshulcz/deja-vu"> deja-vu </a> </td>
+        <td> Local memory for coding agents built from the sessions they already wrote to disk. Ships a DeepSeek Harness plugin (<code>dsh-deja</code>) that recalls past sessions from DeepSeek Harness, Claude Code, Codex and 30 more agents; no model or API key needed. </td>
+    </tr>
+    <tr>
         <td> <img src="https://simplismart-public-assets.s3.ap-south-1.amazonaws.com/logos/Logo+Icon+Light.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://simplismart.ai/"> Simplismart AI </a> </td>
         <td> Simplismart enables seamless GenAI deployments with the fastest inference for LLMs, Diffusion, and Speech models. Deploy Deepseek effortlessly on the Simplismart Cloud or with your own Cloud. </td>
