@@ -543,6 +543,11 @@
 目的是构建大模型领域的基础设施，通过开发多模型管理(SMMF)、Text2SQL效果优化、RAG框架以及优化、Multi-Agents框架协作、AWEL(智能体工作流编排)等多种技术能力，让围绕数据库构建大模型应用更简单，更方便。
  </td>
     </tr>
+    <tr>
+        <td width="80"> <img src="https://raw.githubusercontent.com/pixeltable/pixeltable/main/docs/resources/pixeltable-logo-large.png" alt="Icon" width="64" height="auto" /> </td>
+        <td width="120"> <a href="https://docs.pixeltable.com/howto/providers/working-with-deepseek"> Pixeltable </a> </td>
+        <td> 开源多模态数据基础设施：将 DeepSeek 模型作为增量计算列，运行在由文档、图像、视频和音频组成的表上。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
