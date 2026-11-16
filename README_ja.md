@@ -263,6 +263,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
             FastGPT は大規模言語モデル（LLM）を基盤としたオープンソースAIナレッジベース構築プラットフォームで、DeepSeekやOpenAIなど様々なモデルをサポートしています。データ処理、モデル呼び出し、RAG検索、ビジュアルAIワークフロー設計などの導入即使用可能な機能を提供し、複雑なAIアプリケーションの構築を容易に実現します。
         </td>
    </tr>
+    <tr>
+        <td> <img src="./docs/resumemakeroffer/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://app.resumemakeroffer.com/">ResumeMakerOffer</a> </td>
+        <td>ResumeMakerOfferは、AIを活用した応募書類作成プラットフォームです。AIによる文章生成、レイアウト・デザインの調整、競争力の分析と求人マッチング、プロ仕様のテンプレート選択、複数形式でのエクスポートなど、履歴書の作成・改善を一元的にサポートします。高度なAIモデルを統合し、求職者が応募先に合わせた質の高い履歴書を作成できるよう支援します。</td>
+    </tr>
    <tr>
         <td> <img src="https://cdn.link-ai.tech/doc/CoW%20logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/zhayujie/chatgpt-on-wechat">Chatgpt-on-Wechat</a> </td>
