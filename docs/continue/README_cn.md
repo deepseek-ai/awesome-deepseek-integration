@@ -1,4 +1,4 @@
-<img src="https://github.com/continuedev/continue/blob/main/docs/static/img/logo.png?raw=true" width="64" height="auto" />
+<img src="https://github.com/continuedev/continue/blob/main/docs/logo/light.svg?raw=true" width="64" height="auto" />
 
 # [Continue](https://continue.dev/)
 
@@ -15,26 +15,68 @@
 * `~/.continue/config.yaml` (MacOS/Linux)
 * `%USERPROFILE%\.continue\config.yaml` (Windows)
 
+下面的示例把对话模型和补全模型分开：
+
+* `DeepSeek-V4-Flash` 和 `DeepSeek-V4-Pro` 用于 chat、edit、apply、summarize，可以在 Continue 里按需切换。
+* `DeepSeek FIM` 用于 autocomplete，适合快速、稳定的行内补全。
+
 ```yaml
 name: Local Assistant
 version: 1.0.0
 schema: v1
 models:
-  - name: DeepSeek
+  - name: DeepSeek-V4-Flash
     provider: deepseek
-    model: deepseek-chat
+    model: deepseek-v4-flash
     apiKey: YOUR_DEEPSEEK_API_KEY
-    apiBase: https://api.deepseek.com/beta
+    apiBase: https://api.deepseek.com/
     roles:
       - chat
       - edit
       - apply
       - summarize
+    contextLength: 1000000
+    defaultCompletionOptions:
+      temperature: 0.2
+      maxTokens: 4096
+
+  - name: DeepSeek-V4-Pro
+    provider: deepseek
+    model: deepseek-v4-pro
+    apiKey: YOUR_DEEPSEEK_API_KEY
+    apiBase: https://api.deepseek.com/
+    roles:
+      - chat
+      - edit
+      - apply
+      - summarize
+    contextLength: 1000000
+    defaultCompletionOptions:
+      temperature: 0.2
+      maxTokens: 8192
+
+  - name: DeepSeek FIM
+    provider: deepseek
+    model: deepseek-v4-flash
+    apiKey: YOUR_DEEPSEEK_API_KEY
+    apiBase: https://api.deepseek.com/
+    roles:
       - autocomplete
-    contextLength: 128000
     defaultCompletionOptions:
       temperature: 0.0
-      maxTokens: 256
+      maxTokens: 128
+    autocompleteOptions:
+      disable: false
+      maxPromptTokens: 2048
+      debounceDelay: 300
+      modelTimeout: 5000
+      maxSuffixPercentage: 0.3
+      prefixPercentage: 0.7
+      useCache: true
+      useImports: true
+      useRecentlyEdited: true
+      onlyMyCode: false
+
 context:
   - provider: code
   - provider: docs

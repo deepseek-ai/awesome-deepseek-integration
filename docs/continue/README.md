@@ -1,4 +1,4 @@
-<img src="https://github.com/continuedev/continue/blob/main/docs/static/img/logo.png?raw=true" width="64" height="auto" />
+<img src="https://github.com/continuedev/continue/blob/main/docs/logo/light.svg?raw=true" width="64" height="auto" />
 
 # [Continue](https://continue.dev/)
 
@@ -16,26 +16,68 @@ Modify the `config.yaml` file to add the `DeepSeek` model configuration, replaci
 * `~/.continue/config.yaml` (MacOS/Linux)
 * `%USERPROFILE%\.continue\config.yaml` (Windows)
 
+This example keeps chat models and autocomplete separate:
+
+* `DeepSeek-V4-Flash` and `DeepSeek-V4-Pro` are used for chat, edit, apply, and summarize. You can switch between them in Continue.
+* `DeepSeek FIM` is used for autocomplete. It keeps inline completion fast and focused.
+
 ```yaml
 name: Local Assistant
 version: 1.0.0
 schema: v1
 models:
-  - name: DeepSeek
+  - name: DeepSeek-V4-Flash
     provider: deepseek
-    model: deepseek-chat
+    model: deepseek-v4-flash
     apiKey: YOUR_DEEPSEEK_API_KEY
-    apiBase: https://api.deepseek.com/beta
+    apiBase: https://api.deepseek.com/
     roles:
       - chat
       - edit
       - apply
       - summarize
+    contextLength: 1000000
+    defaultCompletionOptions:
+      temperature: 0.2
+      maxTokens: 4096
+
+  - name: DeepSeek-V4-Pro
+    provider: deepseek
+    model: deepseek-v4-pro
+    apiKey: YOUR_DEEPSEEK_API_KEY
+    apiBase: https://api.deepseek.com/
+    roles:
+      - chat
+      - edit
+      - apply
+      - summarize
+    contextLength: 1000000
+    defaultCompletionOptions:
+      temperature: 0.2
+      maxTokens: 8192
+
+  - name: DeepSeek FIM
+    provider: deepseek
+    model: deepseek-v4-flash
+    apiKey: YOUR_DEEPSEEK_API_KEY
+    apiBase: https://api.deepseek.com/
+    roles:
       - autocomplete
-    contextLength: 128000
     defaultCompletionOptions:
       temperature: 0.0
-      maxTokens: 256
+      maxTokens: 128
+    autocompleteOptions:
+      disable: false
+      maxPromptTokens: 2048
+      debounceDelay: 300
+      modelTimeout: 5000
+      maxSuffixPercentage: 0.3
+      prefixPercentage: 0.7
+      useCache: true
+      useImports: true
+      useRecentlyEdited: true
+      onlyMyCode: false
+
 context:
   - provider: code
   - provider: docs
