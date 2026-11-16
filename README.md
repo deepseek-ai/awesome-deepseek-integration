@@ -929,6 +929,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://www.chatgot.io/"> ChatGOT </a> </td>
         <td> A free AI chatbot assistant for enhancing productivity </td>
     </tr>
+    <tr>
+        <td><img src="./docs/openimmersive_translator/assets/logo-512.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://openimmersive.ai/">OpenImmersive Translator</a></td>
+        <td>Read any web page side by side with its translation. Open-source extension for Chrome, Firefox and Edge. Bring your own DeepL, OpenAI or DeepSeek key.</td>
+    </tr>
 </table>
 
 

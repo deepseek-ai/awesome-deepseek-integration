@@ -783,6 +783,11 @@
         <td> <a href="https://www.chatgot.io/"> ChatGOT </a> </td>
         <td> 一个免费的AI聊天机器人助手，用于提高生产力 </td>
     </tr>
+    <tr>
+        <td><img src="./docs/openimmersive_translator/assets/logo-512.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://openimmersive.ai/">OpenImmersive Translator</a></td>
+        <td>开源双语翻译扩展，网页原文和译文对照显示，支持 Chrome、Firefox、Edge。也可以用自己的 DeepL、OpenAI、DeepSeek key。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
