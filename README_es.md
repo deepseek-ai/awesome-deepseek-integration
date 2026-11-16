@@ -220,6 +220,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     Proporciona concurrencia Swift fácil de usar para chat, streaming, FIM (Fill-in-the-Middle) completions y más.
   </td>
 </tr>
+    <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="Laravel Integration" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-php/deepseek-laravel/blob/master/README.md">Laravel Integration</a> </td>
         <td> Laravel wrapper para el cliente PHP de Deepseek, para una integración perfecta de la API de Deepseek con aplicaciones Laravel.</td>
@@ -270,9 +271,9 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> es una plataforma sin necesidad de programación donde los especialistas en marketing construyen flujos de trabajo de IA agentica para la automatización de salida al mercado, impulsados por cientos de aplicaciones cotidianas como herramientas para tus agentes de IA.</td>
     </tr>
     <tr>
-        <td> <img src="https://github.com/ZGGSONG/STranslate/raw/main/img/favicon.svg" alt="Icono" width="64" height="auto" /> </td>
-        <td> <a href="https://stranslate.zggsong.com/en/">STranslate</a></td>
-        <td> <a href="https://stranslate.zggsong.com/en/">STranslate</a>（Windows） es una herramienta de traducción OCR lista para usar desarrollada por WPF </td>
+        <td> <img src="https://raw.githubusercontent.com/STranslate/STranslate/refs/heads/main/images/favicon.svg" alt="Icono" width="64" height="auto" /> </td>
+        <td> <a href="https://stranslate.zggsong.com/">STranslate</a></td>
+        <td> <a href="https://stranslate.zggsong.com/">STranslate</a>（Windows） es una herramienta de traducción OCR lista para usar desarrollada por WPF </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/5e16beb0-993e-47bf-807e-7c8804b313a2" alt="Asp Client" width="64" height="auto" /> </td>
@@ -307,6 +308,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/README.md"> Alpha Pai </a> </td>
         <td> Asistente de Investigación AI / El portal de información financiera de próxima generación impulsado por IA.<br>Proxy para inversores para asistir a reuniones y tomar notas, así como proporcionar servicios de búsqueda y preguntas y respuestas para información financiera y análisis cuantitativo para investigación de inversiones.</td>
     </tr>
+    <tr>
         <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icono" width="64" height="auto" /> </td>
         <td> <a href="https://www.xark-argo.com">argo</a> </td>
         <td>Descarga y ejecuta localmente modelos Ollama y Huggingface con RAG en Mac/Windows/Linux. También admite API de LLM.</td>
@@ -419,6 +421,16 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> </td>
         <td> <a href="https://github.com/SamYuan1990/i18n-agent-action">i18n-agent-action</a> </td>
         <td> El i18n Agent es una herramienta impulsada por inteligencia artificial diseñada para simplificar y automatizar los flujos de trabajo de internacionalización (i18n) y localización (l10n). Al aprovechar el procesamiento avanzado de lenguaje natural (NLP) y el aprendizaje automático, ayuda a desarrolladores, traductores y equipos de productos a gestionar contenido multilingüe de manera eficiente, eliminando errores manuales y acelerando los despliegues globales. </td>
+    </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/rockbenben/subtitle-translator/main/public/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/rockbenben/subtitle-translator">Subtitle Translator</a></td>
+        <td>Herramienta de traducción de subtítulos por lotes para formatos SRT/ASS/VTT/LRC, compatible con DeepSeek y otras interfaces de LLM y traducción automática.</td>
+    </tr>
+    <tr>
+        <td width=80> <img src="docs/turtlenoir/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
+        <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> Un juego de enigmas de pensamiento lateral tipo "Sopa de Tortuga" con un anfitrión de IA basado en DeepSeek, disponible para uno o varios jugadores. La IA modera la partida e interactúa con humor, guiando la deducción mediante respuestas de "Sí / No / Irrelevante". Ofrece una experiencia inmersiva con una fuerte atmósfera narrativa, gestión del ritmo y un sistema de pistas para evitar bloqueos. Integra búsqueda vectorial y DeepSeek para evitar la repetición de acertijos e incluye moderación de contenido. Ideal para entrenar la creatividad y como entretenimiento social en línea. </td>
     </tr>
 </table>
 
@@ -617,6 +629,12 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 <table>
     <tr>
+        <td><img src="./docs/SelectTranslate/assets/icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://selecttranslate.com/">SelectTranslate</a></td>
+        <td>Extensión de traducción con IA gratuita y abierta, compatible con traducción bilingüe de páginas web, traducción seleccionada por IA (traducción de copias), traducción de introducido y traducción de PDF.
+        </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/9d3f42b8-fcd0-47ab-8b06-1dd0554dd80e" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/immersive_translate/README.md"> Immersive Translate </a> </td>
         <td> Immersive Translate es una extensión de traducción bilingüe para páginas web. </td>
@@ -691,6 +709,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td><a href="https://readfrog.mengxi.work"> 🐸 Read Frog </a></td>
         <td>Traduce y comprende en profundidad cualquier página web con la ayuda de la IA.</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/Rearview/assets/favicon.webp" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="./docs/Rearview/README_es.md"> RearView </a> </td>
+        <td>Rearview es una extensión de gestión del historial del navegador que admite la búsqueda de texto completo del contenido de navegación histórico y convierte el historial de navegación en una base de conocimientos conversacional.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
@@ -728,6 +751,16 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
             <td> <a href="https://code.visualstudio.com/docs/intelligentapps/overview"> AI Toolkit </a> </td>
             <td> AI Toolkit para Visual Studio Code es una extensión integral que permite a desarrolladores e ingenieros de IA construir, probar y desplegar aplicaciones inteligentes utilizando modelos de IA generativa. </td>
         </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/joygqz/commit-genie/refs/heads/main/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=joygqz.commit-genie"> Commit Genie </a> </td>
+        <td> Revisión de código con IA y generador de mensajes de confirmación para VS Code. Revisa automáticamente los cambios de código y genera mensajes de confirmación estándar y relevantes. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/JohnnyZ93/oai-compatible-copilot/blob/main/assets/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
+        <td> Una extensión de código abierto para VS Code para usar proveedores de inferencia compatibles con OpenAI en GitHub Copilot. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

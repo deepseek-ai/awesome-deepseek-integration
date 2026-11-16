@@ -8,7 +8,7 @@
 
 DeepSeek API を人気のソフトウェアに統合します。API キーを取得するには、[DeepSeek Open Platform](https://platform.deepseek.com/)にアクセスしてください。
 
-[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md)/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)/[繁體中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_zh_tw.md)/日本語/[Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md)
+[English](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md) / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md) / [繁體中文](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_zh_tw.md) / 日本語 / [Español](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_es.md)
 </div>
 
 </br>
@@ -231,6 +231,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a>は、マーケターがAIエージェントのためのエージェンティックAIワークフローを構築するためのノーコードプラットフォームであり、数百の毎日のアプリをツールとして使用します。</td>
     </tr>
+<tr>
+        <td> <img src="https://raw.githubusercontent.com/STranslate/STranslate/refs/heads/main/images/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://stranslate.zggsong.com/">STranslate</a></td>
+        <td> <a href="https://stranslate.zggsong.com/">STranslate</a> (Windows) は、WPF を使用して開発された、すぐに使用できる翻訳 OCR ツールです。</td>
+    </tr>
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/assets/favicon1.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/README_ja.md"> Alphaパイ </a> </td>
@@ -240,6 +245,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.xark-argo.com">argo</a> </td>
         <td>ローカルでダウンロードし、Mac、Windows、Linux 上でOllamaとHuggingfaceモデルをRAGで実行します。LLM APIもサポートしています。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://5ire.app/favicon.ico" alt="5ire-logo" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/nanbingxyz/5ire">5ire</a> </td>
+        <td> <a href="https://github.com/nanbingxyz/5ire">5ire</a>はデザインが優れたクロスプラットフォームのオープンソース大型モデルデスクトップインテリジェントアシスタントで、市場に出回っている主流の大型モデルと互換性があり、MCPサーバー、ローカルの知識ベース、プロンプトライブラリ、さらに多くの実用的な機能をサポートしています。</td>
     </tr>
     <tr>
         <td> <img src="https://www.petercat.ai/images/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
@@ -253,6 +263,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
             FastGPT は大規模言語モデル（LLM）を基盤としたオープンソースAIナレッジベース構築プラットフォームで、DeepSeekやOpenAIなど様々なモデルをサポートしています。データ処理、モデル呼び出し、RAG検索、ビジュアルAIワークフロー設計などの導入即使用可能な機能を提供し、複雑なAIアプリケーションの構築を容易に実現します。
         </td>
    </tr>
+    <tr>
+        <td> <img src="./docs/resumemakeroffer/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://app.resumemakeroffer.com/">ResumeMakerOffer</a> </td>
+        <td>ResumeMakerOfferは、AIを活用した応募書類作成プラットフォームです。AIによる文章生成、レイアウト・デザインの調整、競争力の分析と求人マッチング、プロ仕様のテンプレート選択、複数形式でのエクスポートなど、履歴書の作成・改善を一元的にサポートします。高度なAIモデルを統合し、求職者が応募先に合わせた質の高い履歴書を作成できるよう支援します。</td>
+    </tr>
    <tr>
         <td> <img src="https://cdn.link-ai.tech/doc/CoW%20logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/zhayujie/chatgpt-on-wechat">Chatgpt-on-Wechat</a> </td>
@@ -339,6 +354,61 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/SamYuan1990/i18n-agent-action">i18n-agent-action</a> </td>
         <td> i18n Agentは、AIを駆使したツールであり、国際化（i18n）と現地化（l10n）のワークフローを効率化し自動化するように設計されています。先進的な自然言語処理（NLP）と機械学習技術を活用することで、開発者、翻訳者、製品チームが多言語コンテンツを効率的に管理できるよう支援し、人的ミスを排除しつつ全球展開の速度を加速します。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://3min.top/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://3min.top/en">3mintop</a> </td>
+        <td> DeepSeekモデルを活用して、わずか3分で任意のコンテンツを素早く要約し理解できる強力なAIツール。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://cantian.ai/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://cantian.ai/">Cantian AI</a></td>
+        <td>伝統的な東洋文化に基づく深く構造化された知識ベースを活用する、AIネイティブの専用八字占いサービスです。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://obsidian.md/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/TarsLab/obsidian-tars">Obsidian Tars</a></td>
+        <td> Obsidianのノート編集にLLMの会話を統合し、deepseek-reasonerのチェーン・オブ・ソート(CoT)出力をコールアウト形式で表示します。 </td>
+    </tr>
+        <tr>
+        <td> <img src="https://www.chatbotbuilder.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/bobbylkchao/chatbotBuilder">AI Chatbot Builder</a> </td>
+        <td> <a href="www.chatbotbuilder.dev/">Chatbot Builder</a> はオープンソースのプラットフォームで、DeepSeekとOpenAIモデルを統合し、さまざまな対話シナリオに対応したカスタマイズ可能なチャットボットを作成できます。ローコードかつ設定可能な方法で、簡単にインテリジェントな対話体験を構築できます。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://bibigpt.co/icons/lucid/icon_32x32@2x.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> は、ビリビリ動画、YouTube、小紅書、ポッドキャストなどの主要プラットフォームのコンテンツ分析と要約をサポートするAI音声・動画アシスタントで、音声・動画コンテンツの素早い視聴、簡単な検索、効果的な活用を実現します。コンテンツの要約、インタラクティブなQ&A、記事生成などの機能を提供。動画ファイルのアップロード、メモアプリの連携、DeepSeek R1とV3モデルをサポート。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://lobehub.com/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://lobehub.com/ja/docs/usage/providers/deepseek">LobeChat</a> </td>
+        <td> <a href="https://lobehub.com">LobeChat</a> - オープンソースのモダンな AI チャットフレームワーク。DeepSeek R1、ナレッジベース（ファイルアップロード/知識管理/RAG）、マルチモーダル機能（画像認識/音声合成/プラグイン/アーティファクト）に対応。わずか1クリックで、独自の DeepSeek アプリケーションを無料でデプロイ可能。</td>
+    </tr>
+        <tr>
+        <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/ruzhiai_note/README_cn.md">如知AIノート</a> </td>
+        <td>如知AIノートは、AIを活用したインテリジェントな知識管理ツールで、AI検索・探索、AI結果のノート変換、ノート管理・整理、知識の表示・共有など、ワンストップの知識管理・応用サービスを提供します。DeepSeek深層思考モデルを統合し、より安定した、より高品質な出力を提供します。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://www.weiyuai.cn/logo.png" alt="AI Customer Service" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Bytedesk/bytedesk">Bytedesk</a> </td>
+        <td> AI を活用したライブ チャット、電子メール サポート、オムニチャネル カスタマー サービス、チーム IM を備えた、Slack + zendesk/intercom に代わるエンタープライズ IM ソリューション.</td>
+    </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/rockbenben/subtitle-translator/main/public/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/rockbenben/subtitle-translator">Subtitle Translator</a></td>
+        <td>SRT/ASS/VTT/LRC形式に対応したバッチ字幕翻訳ツール。DeepSeekを含む多様なLLMおよび機械翻訳インターフェースと互換性があります。</td>
+    </tr>
+        <tr>
+        <td> <img src="https://raw.githubusercontent.com/songquanpeng/one-api/main/web/default/public/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
+        <td> One API は LLM API 管理＆キー再配布システムで、OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek など複数のプロバイダーを統一 API で管理できます。シングルバイナリ、Docker 対応、すぐに使えます。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/guyoung/AIMatrices/raw/main/docs/assets/logo/ai-matrices1.png" alt="AIMatrices 图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
+        <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
@@ -357,14 +427,14 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td>エージェント間の信頼できる通信のための基本プロトコルフレームワークです。利用者は<a href="https://docs.apro.com/attps">ATTPs</a>のSDKを導入することで、エージェントの登録、検証可能なデータの送信、検証可能なデータの取得などの機能を利用することができます。</td>
     </tr>
     <tr>
-        <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="docs/ruzhiai_note/README_cn.md">如知AIノート</a> </td>
-        <td>如知AIノートは、AIを活用したインテリジェントな知識管理ツールで、AI検索・探索、AI結果のノート変換、ノート管理・整理、知識の表示・共有など、ワンストップの知識管理・応用サービスを提供します。DeepSeek深層思考モデルを統合し、より安定した、より高品質な出力を提供します。</td>
-    </tr>
-    <tr>
         <td> <img src="docs/translate.js/assets/icon.png" alt="图标" width="64" height="auto" /> </td>
         <td> <a href="docs/translate.js/README_ja.md">translate.js</a> </td>
         <td>フロントエンド開発者向けのAI i 18 n、2行のjsはhtmlの全自動翻訳を実現し、数十言語のワンクリック切り替えで、ページを変更する必要がなく、言語プロファイルがなく、数十個の微調整拡張命令をサポートし、SEOに友好的である。また、標準テキスト翻訳APIインタフェースを開放する</td>
+    </tr>
+    <tr>
+        <td width=80> <img src="docs/turtlenoir/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
+        <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> DeepSeekをベースにしたAI司会者によるウミガメのスープ（水平思考パズル）ゲームで、シングルプレイやマルチプレイに対応しています。AIがゲームの進行やツッコミを行い、「はい / いいえ / 無関係」の回答で推理を進めます。没入感のあるゲームプレイ（より強いストーリーの雰囲気とリズム誘導）、ヒント機能、行き詰まり防止メカニズムを提供し、ベクトル検索 + DeepSeek を組み合わせて問題の重複を防ぎ、コンテンツのモデレーション機能も備えています。気軽な脳トレやオンラインでの交流に適しています。 </td>
     </tr>
     <tr>
         <td width=80> <img src="docs/agentUniverse/assets/agentUniverse_logo_s.png" alt="Icon" width="64" height="auto" /> </td>
@@ -386,6 +456,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> は、自律エージェントを構築、実行、および評価するための柔軟で高性能なフレームワークです。ベンチマークテストで最高の成績を収めるだけでなく、このフレームワークは、オープンソースモデルを使用して、データ分析、ファイル処理、詳細な調査などの強力なエージェント機能を提供します。 </td>
     </tr>
+
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
@@ -453,7 +524,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 <table>
     <tr>
         <td> <img src="./docs/solana-agent-kit/assets/sendai-logo.png" alt="Icon" width="128" height="auto" /> </td>
-        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> Solana Agent Kit </a> </td>
+        <td> <a href="https://github.com/sendaifun/solana-agent-kit"> Solana Agent Kit </a> </td>
         <td>AIエージェントをSolanaプロトコルに接続するためのオープンソースツールキット。DeepSeek LLMを使用する任意のエージェントが、60以上のSolanaアクションを自律的に実行できます。</td>
     </tr>
 </table>
@@ -503,6 +574,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <table>
     <tr>
+        <td><img src="./docs/SelectTranslate/assets/icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://selecttranslate.com/">SelectTranslate</a></td>
+        <td>SelectTranslateは、バイリンガルウェブページ翻訳、AI最適翻訳（コピー翻訳）、入力翻訳、PDF翻訳など、革新的で実用的な翻訳機能を備えた、無料かつオープンなAI翻訳拡張機能です。</td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/9d3f42b8-fcd0-47ab-8b06-1dd0554dd80e" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/immersive_translate/README.md"> Immersive Translate </a> </td>
         <td> Immersive Translateは、バイリンガルのウェブページ翻訳プラグインです。 </td>
@@ -525,7 +601,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     <tr>
         <td> <img src="https://static.eudic.net/web/trans/en_trans.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/Lulu Translate/README.md"> Lulu Translate </a> </td>
-        <td> このプラグインは、マウス選択翻訳、段落ごとの比較翻訳、およびPDF文書���訳機能を提供します。DeepSeek AI、Bing、GPT、Googleなどのさまざまな翻訳エンジンを利用できます。 </td>
+        <td> このプラグインは、マウス選択翻訳、段落ごとの比較翻訳、およびPDF文書の翻訳機能を提供します。DeepSeek AI、Bing、GPT、Googleなどのさまざまな翻訳エンジンを利用できます。 </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/Bistutu/FluentRead/raw/refs/heads/main/public/icon/192.png" alt="Icon" width="64" height="auto" /> </td>
@@ -538,7 +614,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td>AIを活用したRSS要約と多次元フィードビューを備えたインテリジェントなRSSリーダーブラウザ拡張機能。コンテンツ理解を強化するためのDeepSeekモデル設定をサポートしています。</td>
     </tr>
     <tr>
-        <td> <img src="./docs/refinereader/assets/refinereader-128.png" alt="Icon" width="64" height="auto" /> </td>
+<td> <img src="./docs/refinereader/assets/refinereader-128.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://refinereader.cuihuaer.com"> Refine Reader </a> </td>
         <td> AI（DeepSeek、OpenAI等）を使用して記事を素早く理解し要約するためのChrome拡張機能。 </td>
     </tr>
@@ -571,6 +647,16 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="http://cdn.docky.ai/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/docky-ai/README_ja.md"> Docky AI </a> </td>
         <td>Docky AI は強力なブラウザ拡張機能で、サイドバーを通じて複数のAIモデルとリアルタイムで会話することができます。複数モデルとの同時交流をサポートし、ウェブページの閲覧、執筆、翻訳、画像作成を支援します</td>
+    </tr>
+        <tr>
+        <td> <img src="./docs/Rearview/assets/favicon.webp" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="./docs/Rearview/README_ja.md"> RearView </a> </td>
+        <td>Rearview はブラウザ履歴管理拡張機能で、履歴ブラウジング内容の全文検索をサポートし、履歴を会話可能な知識ベースに変換します。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://www.chatgot.io/chat/assets/imgs/logo@2x.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://www.chatgot.io/"> ChatGOT </a> </td>
+        <td> 生産性を向上させるための無料のAIチャットボットアシスタント </td>
     </tr>
 </table>
 
@@ -609,6 +695,16 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
             <td> <a href="https://code.visualstudio.com/docs/intelligentapps/overview"> AI Toolkit </a> </td>
             <td> Visual Studio Code 用 AI Toolkit は、開発者や AI エンジニアが生成 AI モデルを使用してインテリジェントなアプリケーションを構築、テスト、およびデプロイすることを可能にする包括的な拡張機能です。 </td>
         </tr>
+        <tr>
+        <td> <img src="https://raw.githubusercontent.com/joygqz/commit-genie/refs/heads/main/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=joygqz.commit-genie"> Commit Genie </a> </td>
+        <td> VS Code 用の AI コードレビューおよびコミットメッセージジェネレーター。コードの変更を自動的にレビューし、意味のある標準的なコミットメッセージを生成します。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/JohnnyZ93/oai-compatible-copilot/blob/main/assets/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
+        <td> GitHub Copilot で OpenAI 互換の推論プロバイダーを使用するためのオープンソースの VS Code 拡張機能です。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
@@ -788,6 +884,16 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://www.godtierprompts.com/logo.jpg" alt="Icon" width="64" height="auto" /></td>
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a></td>
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a> はコミュニティ主導のリーダーボードで、最高のプロンプトが上位に浮上します。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/89342560?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Jeff2Ma/AlfredWorkflow-DeepSeek">DeepSeek Alfred WorkFlow</a> </td>
+        <td> MacのAlfredアプリでDeekSeekのワークフローを素早く呼び出す。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/cbf6193b-fd66-4b88-bcf7-98699becf046" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/sally-suite/open-office-copilot">Open Office Copilot</a> </td>
+        <td> Open Office Copilot は、Microsoft Office と Google Workspace をサポートするオープンソースの Office アシスタントで、AI-Agent をベースにしています。Word での執筆、PowerPoint でのスライド生成、Excel でのデータ分析、Outlook でのメール作成などを支援します。</td>
     </tr>
 </table>
 

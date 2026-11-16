@@ -33,7 +33,7 @@ Navigate to the "AI" tab in Settings and configure the following:
 * Enter your DeepSeek API key in the text field
 * Configure the endpoint URL and model details:
 
-  * URI: `https://api.deepseek.com/v1/`​
+  * URI: `https://api.deepseek.com`​
   * Model: `deepseek-chat`​
   * Temperature: 1.3
 
