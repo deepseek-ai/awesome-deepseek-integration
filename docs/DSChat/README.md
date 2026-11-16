@@ -11,6 +11,9 @@ DeepSeek's official open-source `chat-demo` framework (MIT).
 - **Pinned conversations:** pin chats to a dedicated group at the top of the sidebar.
 - **Message search:** search across all conversations; each matching message is a separate
   result, and a conversation can appear multiple times.
+- **Persona presets:** create, edit, and activate named system prompts.
+- **Cross-session branch graph:** visualize forked conversations and open a session by
+  clicking its node.
 - **Interactive drawer:** the mobile sidebar follows the finger with a proportional mask
   and a settle animation.
 - **Local-first:** chats and attachments stay in IndexedDB; the API key stays in local
