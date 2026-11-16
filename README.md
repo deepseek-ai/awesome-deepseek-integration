@@ -1310,6 +1310,16 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/informatico-madrid/blackwell-linux-infra-optimizer"> Blackwell Linux Infra Optimizer </a> </td>
         <td> Optimized vLLM stack for NVIDIA Blackwell (SM_120) and Linux Kernel 6.14. Achieving 59.0 t/s on DeepSeek-R1-32B using native FlashInfer backend. </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/khmuhtadin/1toolring-mcp/main/assets/logo-400.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/khmuhtadin/1toolring-mcp">1ToolRing</a> </td>
+        <td> Remote MCP server (<code>https://mcp.1toolring.com/mcp</code>, Streamable HTTP, OAuth 2.1 or API key) that gives any MCP-capable agent, including DeepSeek-backed clients, one prepaid key for thousands of pay-per-call tools from third-party providers: live web search, maps and places, shopping and prices, stocks/crypto/FX, scraping, jobs, weather, images and more. The price is shown before every call and failed calls are never charged. Open sign-up with a small starter balance; no subscription. </td>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/khmuhtadin/api-indonesia-examples/main/assets/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/khmuhtadin/api-indonesia-examples">API Indonesia</a> </td>
+        <td> Remote MCP server (<code>https://mcp.apiindonesia.id/mcp</code>, Streamable HTTP, OAuth 2.1 or API key) and REST API for Indonesian public data from official sources: administrative regions down to villages and postal codes, region boundaries, public holidays, prayer times, Hijri dates, schools, universities, hospitals, earthquakes, weather, air quality, exchange rates, minimum wage, QRIS parsing, rupiah formatting, halal and BPOM registries, trademarks and more. Works with any MCP client, so DeepSeek-backed agents can call it. Free credits on sign-up, no card. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
