@@ -1136,6 +1136,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/tencent/AI-Infra-Guard"> AI-Infra-Guard </a> </td>
         <td> Tencent's Hunyuan Security Team - AI infrastructure security assessment tool designed to discover and detect potential security risks in AI systems.</td>
     </tr>
+    <tr>
+        <td> </td>
+        <td> <a href="https://github.com/Kolgrim33/deepseek-cyber-eval"> DeepSeek Cybersecurity Evaluation Suite </a> </td>
+        <td> An open-source benchmark suite for evaluating LLMs, including DeepSeek models, on cybersecurity tasks: vulnerability detection, secure coding, CTF challenges, threat modeling, and incident response, with automated and LLM-as-judge scoring.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
