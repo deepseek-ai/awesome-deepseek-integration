@@ -46,6 +46,11 @@
 ###  <span id="applications">應用</span>
 
 <table>
+    <tr>
+        <td><img src="docs/myassistant/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/myassistant/README_cn.md">My Assistant</a></td>
+        <td>自帶 API 金鑰的大模型聊天客戶端，針對 DeepSeek 逐次調校：難題才走推理模型、依任務分別調參、針對 DeepSeek 的重試策略、任意大小的檔案編輯後逐位元組原樣返回，並有一道檢查確認回覆涵蓋了你訊息裡的每一個問題。網頁版（可安裝）、Google Play、Microsoft Store，20 種語言。</td>
+    </tr>
         <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>

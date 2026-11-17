@@ -46,6 +46,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 <table>
     <tr>
+        <td><img src="docs/myassistant/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/myassistant/README.md">My Assistant</a></td>
+        <td>Un cliente de chat pulido para tu propia clave API, con DeepSeek ajustado en cada llamada: el modelo de razonamiento solo en preguntas difíciles, ajustes por tarea, reintentos específicos del proveedor, ediciones de archivos de cualquier tamaño devueltas byte a byte y una comprobación de que cada parte de tu mensaje fue respondida. Web (instalable), Google Play y Microsoft Store, 20 idiomas.</td>
+    </tr>
+    <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>Un asistente de IA de integración de sistema de código abierto para la plataforma Android, que admite el uso casi completo de mcp y es altamente compatible con el sistema Android. El software ofrece alta personalización y bajo umbral de aprendizaje, con herramientas incorporadas para operaciones de archivos, búsquedas, clics automáticos, conversión de formatos y una página web API de DeepSeek integrada.</td>
