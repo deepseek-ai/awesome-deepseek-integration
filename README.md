@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td><img src="docs/harp/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://hecara.com/en/harp/">Harp<br/>(iOS, iPadOS, Android)</a></td>
+        <td>Harp is a native third-party DeepSeek client for iOS and Android. Bring your own DeepSeek API key for streaming chat, deep thinking with adjustable effort, web search with citations, importing chat.deepseek.com share links, conversation branches and voice. Keys and chats stay on your device.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
