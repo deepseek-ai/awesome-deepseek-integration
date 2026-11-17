@@ -802,6 +802,18 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
 
+###  <span id="providers">プロバイダー</span>
+
+<table>
+    <tr>
+        <td> <img src="docs/dgrid/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/dgrid/README.md">DGrid AI Gateway</a> </td>
+        <td> <a href="https://dgrid.ai/">DGrid AI Gateway</a> は、分散型・オープン・コミュニティ主導の AI 推論ネットワーク上で、200 以上の主要 AI モデルに統一 API でアクセスできるゲートウェイです。DeepSeek の最新ラインナップ（DeepSeek-V4-Pro、DeepSeek-V4-Flash、DeepSeek-R1、DeepSeek-V3.2 など）を完全サポート。API キーを Claude Code、Codex、Cursor に直接設定して利用可能。OpenAI 互換で、自動フォールバック・可観測性・レート制限管理を内蔵。トークン課金制、サブスクリプション不要。</td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
 ###  <span id="others">その他</span>
 
 <table>

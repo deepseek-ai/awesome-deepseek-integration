@@ -1148,6 +1148,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
+    <tr>
+        <td> <img src="docs/dgrid/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/dgrid/README.md">DGrid AI Gateway</a> </td>
+        <td> <a href="https://dgrid.ai/">DGrid AI Gateway</a> provides a single, unified API to access 200+ leading AI models on a decentralized, open, and community-powered inference network — including the full DeepSeek lineup: DeepSeek-V4-Pro, DeepSeek-V4-Flash, DeepSeek-R1, DeepSeek-V3.2, and more. Plug your API key directly into Claude Code, Codex, or Cursor and switch models freely. OpenAI-compatible with automatic fallback, observability, and rate-limit management. Pay per token, no subscription required.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>

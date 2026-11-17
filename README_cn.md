@@ -917,6 +917,18 @@
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
 
+###  <span id="providers">服务商</span>
+
+<table>
+    <tr>
+        <td> <img src="docs/dgrid/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/dgrid/README_cn.md">DGrid AI Gateway</a> </td>
+        <td> <a href="https://dgrid.ai/">DGrid AI Gateway</a> 基于去中心化、开放、社区驱动的 AI 推理网络，提供统一 API 访问 200+ 主流模型，包含 DeepSeek 最新全系列：DeepSeek-V4-Pro、DeepSeek-V4-Flash、DeepSeek-R1、DeepSeek-V3.2 等。API Key 可直接接入 Claude Code、Codex、Cursor。OpenAI 兼容，支持自动故障转移、可观测性与限流管理。按 Token 计费，无需订阅。</td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
 ###  <span id="others">其它</span>
 
 <table>
