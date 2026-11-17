@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td><img src="docs/harp/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://hecara.com/zh/harp/">Harp<br/>(iOS, iPadOS, Android)</a></td>
+        <td>Harp 是一款原生的第三方 DeepSeek iOS / Android 客户端。填入自己的 DeepSeek API Key，即可使用流式对话、可调强度的深度思考、带引用的联网搜索、导入 chat.deepseek.com 分享链接、对话分支和语音输入朗读。密钥和聊天记录只保存在本机。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
