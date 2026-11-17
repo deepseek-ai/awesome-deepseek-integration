@@ -1148,6 +1148,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/offgridai-boost/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://getoffgridai.co/boost/"> Off Grid AI Boost </a> </td>
+        <td> Off Grid AI Boost runs DeepSeek V4.1 Flash, Qwen 3.8 and other open models on Off Grid AI's own GPUs, all behind one OpenAI-compatible key. Your prompts are never stored or trained on, and plans start at $4.99 a month.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
