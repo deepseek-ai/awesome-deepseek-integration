@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td></td>
+        <td> <a href="https://github.com/cieLago-teg/DeepSeekchat-demo">Chat Workspace</a> </td>
+        <td> An MIT-licensed, self-hosted web app based on DeepSeek's chat-demo. Switch between DeepSeek V4 Pro and Flash, send follow-up requests while a research task is running, or try the built-in simulation without API keys. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
