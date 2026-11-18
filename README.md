@@ -1136,6 +1136,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/tencent/AI-Infra-Guard"> AI-Infra-Guard </a> </td>
         <td> Tencent's Hunyuan Security Team - AI infrastructure security assessment tool designed to discover and detect potential security risks in AI systems.</td>
     </tr>
+    <tr>
+        <td> <img src="./docs/genguardx/logo.png"  alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://genguardx.ai"> GenGuardX </a> </td>
+        <td> GenGuardX by Corridor Platforms is an AI governance platform for regulated industries. It tests, approves and monitors GenAI agents, and supports DeepSeek models as the LLM behind agents and as judges in evaluations.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
