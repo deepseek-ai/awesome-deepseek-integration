@@ -470,6 +470,11 @@
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> 基於 DeepSeek 的 AI 主持人海龜湯 / 側向思維解謎產品，可單人或者多人遊玩。AI 進行控場與吐槽，圍繞「是 / 否 / 無關」的問答推進推理；提供沉浸式玩法（更強劇情氛圍與節奏引導）、引導提示與防卡關機制，同時結合向量檢索 + DeepSeek 進行題目去重，並提供內容審核能力。適合輕量腦洞訓練與在線陪玩。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/PapilotAI/papilot/main/public/apple-touch-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/PapilotAI/papilot">Papilot</a> </td>
+        <td> <a href="https://github.com/PapilotAI/papilot">Papilot</a> 是一款採用 MIT 協議免費開源的本地優先 AI 文件與論文工作台（支援 macOS、Windows 與 Linux）。原生整合 DeepSeek 模型，支援直接在編譯後的 PDF 頁面上畫框批註，在隔離的 Git 工作樹中自動改稿，並以渲染後的排版級前後對比逐處審閱合併。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>

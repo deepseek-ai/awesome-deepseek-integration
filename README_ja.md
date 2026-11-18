@@ -404,6 +404,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/PapilotAI/papilot/main/public/apple-touch-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/PapilotAI/papilot">Papilot</a> </td>
+        <td> <a href="https://github.com/PapilotAI/papilot">Papilot</a> は、macOS、Windows、Linux に対応した MIT ライセンスのオープンソース AI ドキュメント・組版ワークベンチです。DeepSeek をネイティブ統合しており、コンパイル済みの PDF に直接注釈を付け、分離された Git ワークツリーで編集を実行し、レンダリングされた PDF の前後差分をレビューしてマージできます。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
