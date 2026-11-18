@@ -1005,6 +1005,11 @@
         <td> <a href="https://github.com/sally-suite/open-office-copilot">Open Office Copilot</a> </td>
         <td> Open Office Copilot 是一个开源的 Office 助手，支持 Microsoft Office 和 Google Workspace，基于 AI-Agent。它可以帮助你在 Word 中写作、在 PowerPoint 中生成幻灯片、在 Excel 中分析数据、在 Outlook 里帮你生成邮件等，现在已经集成了 DeepSeek。</td>
     </tr>
+    <tr>
+        <td> </td>
+        <td> <a href="https://github.com/czj44223-cloud/valley-of-ages">Valley of Ages · 岁月之谷</a> </td>
+        <td> 纯静态、无构建的 Three.js 3D 交互体验：九座程序化纪念碑带你从 1958 感知机走到 AGI，并可在「许愿控制台」用自然语言改变场景。由 DeepSeek V4.1-1017 以许愿式编程构建。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
