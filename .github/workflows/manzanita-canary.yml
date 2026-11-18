@@ -1,0 +1,23 @@
+name: Manzanita Canary
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  apple-silicon:
+    name: Apple Silicon smoke test
+    runs-on: manzanita-standard
+    timeout-minutes: 15
+    steps:
+      - name: Verify runner
+        shell: bash
+        run: |
+          set -euo pipefail
+          test "$(uname -m)" = "arm64"
+          sw_vers
+          sysctl -n machdep.cpu.brand_string
+          xcodebuild -version
+          swift --version
