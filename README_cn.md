@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/PapilotAI/papilot/main/public/apple-touch-icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/PapilotAI/papilot">Papilot</a> </td>
+        <td> <a href="https://github.com/PapilotAI/papilot">Papilot</a> 是一款采用 MIT 协议免费开源的本地优先 AI 文档与论文工作台（支持 macOS、Windows 与 Linux）。原生集成 DeepSeek 模型，支持直接在编译后的 PDF 页面上画框或划选批注，在隔离的 Git 工作树中自动改稿，并以渲染后的排版级前后对比逐处审阅合并。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
