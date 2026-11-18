@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td></td>
+        <td> <a href="https://github.com/cieLago-teg/DeepSeekchat-demo">对话工作台（Chat Workspace）</a> </td>
+        <td> 基于 DeepSeek chat-demo 的 MIT 开源网页应用，可自行部署。支持切换 DeepSeek V4 Pro 和 Flash，在 Agent 调研过程中追加要求，也可以用内置模拟模式体验，无需 API Key。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
