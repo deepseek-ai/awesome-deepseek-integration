@@ -1148,6 +1148,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
+    <tr>
+        <td> <img src="https://aiapi-pro.com/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://aiapi-pro.com"> NovAI </a> </td>
+        <td> NovAI provides unified access to Chinese LLMs including DeepSeek, Qwen, and GLM via an OpenAI-compatible API, with competitive pricing and low-latency endpoints.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
