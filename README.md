@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td></td>
+        <td><a href="https://github.com/Talkvoya/Talkvoya.com">Talkvoya Harness</a></td>
+        <td>Unofficial Android ARM64 client for chat, document tasks, and optional phone controls. Runs DeepSeek Harness in a PRoot userspace, communicates over ACP, and connects Android tools through MCP. Uses a user-provided DeepSeek API key.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
