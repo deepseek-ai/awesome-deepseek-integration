@@ -529,6 +529,11 @@
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，采用开源模型即可实现例如数据分析、文件处理、深度研究等功能。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/edsml-jz2321/dsh-evokit/main/market/icon.svg" alt="dsh-evokit 图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/edsml-jz2321/dsh-evokit">dsh-evokit</a> </td>
+        <td> DeepSeek Harness 的可度量自我改进插件，同时是一个 MCP 服务：对提示词、技能、代码与配置做版本管理，与当前版本做配对实验，只有超过实测噪声、成本和延迟门槛的改动才采纳，再在封存的留出集上确认，确认不通过即回退。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
