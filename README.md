@@ -620,6 +620,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatrices is a lightweight, high-performance, scalable, and open source AI application rapid building platform designed to provide developers with an efficient and convenient AI application development experience. It integrates multiple advanced technologies and tools to help users quickly build, deploy, and maintain AI applications without having to write complex code from scratch.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/edsml-jz2321/dsh-evokit/main/market/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/edsml-jz2321/dsh-evokit">dsh-evokit</a> </td>
+        <td> Measured self-improvement plugin for DeepSeek Harness and MCP server: versions prompts, skills, code and config, runs paired experiments against the current version, adopts a change only when it beats the measured noise, cost and latency gates, then confirms it on a sealed holdout and reverts it if confirmation fails. </td>
+    </tr>
 </table>
 
 ### RAG frameworks
