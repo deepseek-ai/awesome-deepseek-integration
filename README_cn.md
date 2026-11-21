@@ -532,7 +532,7 @@
     <tr>
         <td><img src="https://openagentapi.pages.dev/favicon.svg" alt="Open Agent API 图标" width="64" height="auto" /></td>
         <td><a href="https://github.com/jiangxingfan1-coder/Open-Agent-API">Open Agent API</a></td>
-        <td>开源自托管智能体网关，提供 <a href="https://github.com/jiangxingfan1-coder/Open-Agent-API/blob/main/docs/models.md">DeepSeek API 配置预设</a>，以及可安装的 <a href="https://github.com/jiangxingfan1-coder/Open-Agent-API/tree/7208881d8ce75fce8b88e9f7c076840f8c3cf3ed/integrations/deepseek-harness">DeepSeek Harness 社区工具插件</a>，用于委派任务和查看运行结果。</td>
+        <td>开源自托管智能体网关，提供 <a href="https://github.com/jiangxingfan1-coder/Open-Agent-API/blob/main/docs/models.md">DeepSeek API 配置预设</a>和可直接安装的 <a href="https://github.com/jiangxingfan1-coder/Open-Agent-API/releases/tag/dsh-open-agent-api-v0.1.0#install-the-prebuilt-bundle">DeepSeek Harness 社区插件</a>，用于委派任务和查看运行结果。</td>
     </tr>
 </table>
 
