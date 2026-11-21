@@ -620,6 +620,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatrices is a lightweight, high-performance, scalable, and open source AI application rapid building platform designed to provide developers with an efficient and convenient AI application development experience. It integrates multiple advanced technologies and tools to help users quickly build, deploy, and maintain AI applications without having to write complex code from scratch.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/chunonesoft/open-superagent/main/docs/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/chunonesoft/open-superagent">open-superagent</a> </td>
+        <td>A proactive coding agent built on DeepSeek Harness: @mention it in GitHub, self-hosted GitLab, Feishu or DingTalk and it opens a ticket, works in its own session, and replies in the same conversation with a pull or merge request. A community-maintained fork of dsh-superagent-prototype that adds the GitLab and DingTalk Sources.</td>
+    </tr>
 </table>
 
 ### RAG frameworks
