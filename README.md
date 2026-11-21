@@ -620,6 +620,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatrices is a lightweight, high-performance, scalable, and open source AI application rapid building platform designed to provide developers with an efficient and convenient AI application development experience. It integrates multiple advanced technologies and tools to help users quickly build, deploy, and maintain AI applications without having to write complex code from scratch.</td>
     </tr>
+    <tr>
+        <td><img src="https://openagentapi.pages.dev/favicon.svg" alt="Open Agent API icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/jiangxingfan1-coder/Open-Agent-API">Open Agent API</a></td>
+        <td>An open-source, self-hosted agent gateway with a <a href="https://github.com/jiangxingfan1-coder/Open-Agent-API/blob/main/docs/models.md">DeepSeek API provider preset</a> and an installable <a href="https://github.com/jiangxingfan1-coder/Open-Agent-API/tree/7208881d8ce75fce8b88e9f7c076840f8c3cf3ed/integrations/deepseek-harness">community DeepSeek Harness tool bundle</a> for delegating tasks and inspecting runs.</td>
+    </tr>
 </table>
 
 ### RAG frameworks
