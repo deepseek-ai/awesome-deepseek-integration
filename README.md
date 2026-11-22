@@ -623,7 +623,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td><img src="https://openagentapi.pages.dev/favicon.svg" alt="Open Agent API icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/jiangxingfan1-coder/Open-Agent-API">Open Agent API</a></td>
-        <td>An open-source, self-hosted agent gateway with a <a href="https://github.com/jiangxingfan1-coder/Open-Agent-API/blob/main/docs/models.md">DeepSeek API provider preset</a> and a <a href="https://github.com/jiangxingfan1-coder/Open-Agent-API/releases/tag/dsh-open-agent-api-v0.1.0#install-the-prebuilt-bundle">prebuilt community plugin for DeepSeek Harness</a> for delegating tasks and inspecting runs.</td>
+        <td>An open-source, self-hosted agent gateway with a <a href="https://github.com/jiangxingfan1-coder/Open-Agent-API/blob/main/docs/models.md">DeepSeek API provider preset</a> and a <a href="https://github.com/jiangxingfan1-coder/Open-Agent-API/releases/tag/dsh-open-agent-api-v0.1.1#install-the-prebuilt-bundle">prebuilt community plugin for DeepSeek Harness</a> for delegating tasks and inspecting runs.</td>
     </tr>
 </table>
 
