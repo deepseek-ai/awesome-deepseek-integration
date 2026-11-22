@@ -1005,6 +1005,11 @@
         <td> <a href="https://github.com/sally-suite/open-office-copilot">Open Office Copilot</a> </td>
         <td> Open Office Copilot 是一个开源的 Office 助手，支持 Microsoft Office 和 Google Workspace，基于 AI-Agent。它可以帮助你在 Word 中写作、在 PowerPoint 中生成幻灯片、在 Excel 中分析数据、在 Outlook 里帮你生成邮件等，现在已经集成了 DeepSeek。</td>
     </tr>
+    <tr>
+        <td> <img src="https://orcaagent.dev/orca-icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/echoVic/blade-deepseek">Orca</a> </td>
+        <td> <a href="https://github.com/echoVic/blade-deepseek">Orca</a> 是一个 DeepSeek 原生的终端 Coding Agent（Rust 编写）。支持持久 Goal 模式、多阶段 Workflow 编排、子 Agent、按工具能力分级的审批策略、前缀缓存友好的请求构造，以及 1M token 上下文自动管理。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>

@@ -1310,6 +1310,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/informatico-madrid/blackwell-linux-infra-optimizer"> Blackwell Linux Infra Optimizer </a> </td>
         <td> Optimized vLLM stack for NVIDIA Blackwell (SM_120) and Linux Kernel 6.14. Achieving 59.0 t/s on DeepSeek-R1-32B using native FlashInfer backend. </td>
     </tr>
+    <tr>
+        <td> <img src="https://orcaagent.dev/orca-icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/echoVic/blade-deepseek">Orca</a> </td>
+        <td> <a href="https://github.com/echoVic/blade-deepseek">Orca</a> is a DeepSeek-native terminal coding agent written in Rust. It runs a multi-turn agent loop with persistent goals, multi-stage workflow orchestration, subagents, capability-based approval policies, prefix-cache-friendly prompt construction, and automatic 1M-token context management. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
