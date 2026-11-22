@@ -529,6 +529,11 @@
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
         <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，采用开源模型即可实现例如数据分析、文件处理、深度研究等功能。 </td>
     </tr>
+    <tr>
+        <td><img src="https://openagentapi.pages.dev/favicon.svg" alt="Open Agent API 图标" width="64" height="auto" /></td>
+        <td><a href="https://github.com/jiangxingfan1-coder/Open-Agent-API">Open Agent API</a></td>
+        <td>开源自托管智能体网关，提供 <a href="https://github.com/jiangxingfan1-coder/Open-Agent-API/blob/main/docs/models.md">DeepSeek API 配置预设</a>和可直接安装的 <a href="https://github.com/jiangxingfan1-coder/Open-Agent-API/releases/tag/dsh-open-agent-api-v0.1.1#install-the-prebuilt-bundle">DeepSeek Harness 社区插件</a>，用于委派任务和查看运行结果。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
