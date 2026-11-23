@@ -1310,6 +1310,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/informatico-madrid/blackwell-linux-infra-optimizer"> Blackwell Linux Infra Optimizer </a> </td>
         <td> Optimized vLLM stack for NVIDIA Blackwell (SM_120) and Linux Kernel 6.14. Achieving 59.0 t/s on DeepSeek-R1-32B using native FlashInfer backend. </td>
     </tr>
+    <tr>
+        <td style="font-size: 64px">🧪</td>
+        <td> <a href="https://github.com/evalshift/evalshift-cli/blob/main/docs/faq.md#does-evalshift-work-with-deepseek"> EvalShift </a></td>
+        <td> Open-source CLI that replays an app's test cases or recorded agent runs on two models, for example when moving to or between DeepSeek models, and reports which outputs and tool calls regressed. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
