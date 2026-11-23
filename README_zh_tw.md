@@ -438,7 +438,7 @@
     <tr>
         <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.remio.ai/">remio</a></td>
-        <td> remio 是一個 AI 驅動的個人知識中心，通過自動捕獲瀏覽的網頁內容、解析本地文件並整合個人筆記，構建個性化的知識庫。它支持在個人知識庫中進行搜索和自然語言問答，以提供即時洞察，同時提供智能寫作輔助——適應您的寫作風格，輕鬆簡化起草、潤色和完成內容的過程。remio 採用本地優先儲存設計，優先保護數據隱私，同時集中管理零散信息，以實現最大化的生產力。</td>
+        <td>remio 是為知識工作打造的桌面 AI 代理，可使用 DeepSeek 等模型，結合檔案、網頁、會議與電子郵件進行研究，並建立可編輯的文件、試算表和簡報。</td>
     </tr> 
     <tr>
         <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>

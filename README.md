@@ -460,7 +460,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
     <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
     <td><a href="https://www.remio.ai/">remio</a></td>
-    <td>remio is an AI-powered personal knowledge hub that builds personalized knowledge bases by automatically capturing browsed web content, parsing local files, and integrating personal notes. It enables search and natural language Q&A within your personal knowledge base for instant insights while offering smart writing assistance—adapting to your style to streamline drafting, refining, and completing content with ease. Designed with local-first storage, remio prioritizes data privacy while centralizing fragmented information for maximum productivity.</td>
+    <td>remio is a desktop AI agent for knowledge work. It supports DeepSeek and other models and uses files, webpages, meetings, and emails to help create editable documents, spreadsheets, and presentations.</td>
     </tr> 
     <tr>
     <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
