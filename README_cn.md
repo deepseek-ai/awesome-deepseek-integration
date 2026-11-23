@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td> <img src="docs/morse/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://trymorse.ai/inference/?src=gh-awesomedeepseek">Morse Private Inference</a> </td>
+        <td> 私密的、兼容 OpenAI 的推理 API（也支持 Anthropic Messages 和 Responses 格式），所有层级均零数据留存：提示词和回复从不存储，开源 enclave 可用 <code>npx @askmorse/verify inference.trymorse.ai</code> 自行验证。提供 DeepSeek R1、V3、V3.1、V3.2、V4 Flash、V4 Pro 和 V4.1 Flash，以及 DeepSeek V4.1 Flash 1017 Uncensored（<code>deepseek-ai/deepseek-v4.1-flash-1017-abliterated</code>，1M 上下文）。按量付费，$5 起充。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
