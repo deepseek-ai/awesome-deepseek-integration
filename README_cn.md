@@ -575,6 +575,11 @@
         <td> <a href="https://github.com/TencentCloudADP/Youtu-GraphRAG"> Youtu-GraphRAG </a> </td>
         <td>Youtu-GraphRAG是腾讯优图实验室开源的图检索增强生成新范式，通过Schema连接两个智能体，在图构建、索引和检索上实现垂直统一和认知闭环，以领先的落地级图构建与推理能力推动GraphRAG进入新的阶段。</td>
     </tr>
+    <tr>
+        <td width="80"> <img src="https://apemind.ai/apemind-mark.png" alt="ApeRAG icon" width="64" height="auto"/> </td>
+        <td> <a href="https://github.com/apecloud/ApeRAG"> ApeRAG </a> </td>
+        <td> <a href="https://github.com/apecloud/ApeRAG">ApeRAG</a> 是开源（Apache-2.0）GraphRAG 与混合检索知识库，融合向量、全文、实体归一化知识图谱、摘要与视觉多模态索引，集成 MinerU 文档解析和内置 MCP 服务，是企业级产品 <a href="https://apemind.ai/">ApeMind</a> 的开源内核。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
