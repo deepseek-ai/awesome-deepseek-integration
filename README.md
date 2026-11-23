@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td> <img src="docs/morse/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://trymorse.ai/inference/?src=gh-awesomedeepseek">Morse Private Inference</a> </td>
+        <td> A private, OpenAI-compatible inference API (also Anthropic Messages and Responses formats) with zero data retention on every tier: prompts and replies are never stored, and the open-source enclave can be checked with <code>npx @askmorse/verify inference.trymorse.ai</code>. Serves DeepSeek R1, V3, V3.1, V3.2, V4 Flash, V4 Pro and V4.1 Flash, plus DeepSeek V4.1 Flash 1017 Uncensored (<code>deepseek-ai/deepseek-v4.1-flash-1017-abliterated</code>, 1M context). Pay as you go from $5.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
