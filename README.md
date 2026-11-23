@@ -703,6 +703,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/TencentCloudADP/Youtu-GraphRAG"> Youtu-GraphRAG </a> </td>
         <td>Youtu-GraphRAG proposes a new graph retrieval-augmented generation paradigm which vertically unifies graph construction, indexing and retrieval through schema. It advances GraphRAG towards enterprise-level applications, allowing seamless cross-domain adaptation with minimum human intervention, with (i) a dynamic schema-bounded extraction; (ii) a comprehensive community detection algorithm and (iii) a schema-guided query decomposition for iterative reflection and reasoning.</td>
     </tr>
+    <tr>
+        <td width="80"> <img src="https://apemind.ai/apemind-mark.png" alt="ApeRAG icon" width="64" height="auto"/> </td>
+        <td> <a href="https://github.com/apecloud/ApeRAG"> ApeRAG </a> </td>
+        <td> <a href="https://github.com/apecloud/ApeRAG">ApeRAG</a> is an open-source (Apache-2.0) GraphRAG and hybrid retrieval knowledge base combining vector, full-text, entity-normalized knowledge graph, summary, and vision indexing, with MinerU document parsing and a built-in MCP server. It is the open-source core of <a href="https://apemind.ai/">ApeMind</a>. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
