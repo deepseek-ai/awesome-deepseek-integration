@@ -1148,6 +1148,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/Ahoo-Wang/GodeX/main/design/assets/02-favicon/favicon-128x128.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Ahoo-Wang/GodeX"> GodeX </a> </td>
+        <td> Open-source local gateway that exposes the OpenAI Responses API for Codex-compatible clients and bridges requests to DeepSeek Chat Completions, including tools, streaming, sessions, compatibility diagnostics, and tracing. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
