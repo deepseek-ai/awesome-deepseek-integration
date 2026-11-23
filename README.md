@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/rocketride-org/rocketride-server/c5cde38f4507e81bc58dfd41d4c5d642feb2569a/packages/shared-ui/src/assets/rocketride/rocketride.svg" alt="RocketRide" width="64" height="auto" /> </td>
+        <td> <a href="https://cloud.rocketride.ai/">RocketRide</a> </td>
+        <td>RocketRide is a developer platform for building, deploying, and operating production AI systems, with native DeepSeek API support.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
