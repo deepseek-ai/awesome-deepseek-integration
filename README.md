@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/EthanYoQ/Pagekin/v1.5.3/docs/assets/brand/pagekin-icon-256.png" alt="Pagekin icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/EthanYoQ/Pagekin">Pagekin</a></td>
+        <td>Open-source desktop app for planning and revising long-form fiction. Authors can use their own DeepSeek API key to draft from chapter blueprints and review proposed revisions.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
