@@ -404,6 +404,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
     </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/EthanYoQ/Pagekin/v1.5.3/docs/assets/brand/pagekin-icon-256.png" alt="Pagekin icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/EthanYoQ/Pagekin">Pagekin</a></td>
+        <td>長編小説の構成と推敲を支援するオープンソースのデスクトップアプリです。自身の DeepSeek API キーで章の設計から下書きを作り、修正案を一つずつ確認できます。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
