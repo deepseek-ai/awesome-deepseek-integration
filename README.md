@@ -1310,6 +1310,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/informatico-madrid/blackwell-linux-infra-optimizer"> Blackwell Linux Infra Optimizer </a> </td>
         <td> Optimized vLLM stack for NVIDIA Blackwell (SM_120) and Linux Kernel 6.14. Achieving 59.0 t/s on DeepSeek-R1-32B using native FlashInfer backend. </td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/aazh2026/dsh-specgate/main/assets/icon-180.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/aazh2026/dsh-specgate">dsh-specgate</a> </td>
+        <td> DeepSeek Harness plugin that reports requirement coverage: it scans the working directory for acceptance criteria and reports each one as covered, inferred, untested, or uncovered, with the evidence gap for every uncovered item. Deterministic rules, no LLM call and no network access at runtime. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>

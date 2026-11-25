@@ -1124,6 +1124,11 @@
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a></td>
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a> 是一個由社群驅動的排行榜，讓最優秀的提示詞脫穎而出。</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/aazh2026/dsh-specgate/main/assets/icon-180.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/aazh2026/dsh-specgate">dsh-specgate</a> </td>
+        <td> DeepSeek Harness 外掛，用於回報需求覆蓋率：掃描工作目錄中的驗收標準，逐條回報 covered、inferred、untested 或 uncovered，並給出每條未覆蓋項目的證據落差。採用確定性規則，執行時既不呼叫大型語言模型，也不存取網路。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>

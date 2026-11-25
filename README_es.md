@@ -952,6 +952,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a></td>
         <td> <a href="https://www.godtierprompts.com">God Tier Prompts</a> es una clasificación impulsada por la comunidad donde los mejores prompts llegan a lo más alto.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/aazh2026/dsh-specgate/main/assets/icon-180.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/aazh2026/dsh-specgate">dsh-specgate</a> </td>
+        <td> Complemento de DeepSeek Harness que informa de la cobertura de requisitos: analiza el directorio de trabajo en busca de criterios de aceptación e informa de cada uno como cubierto, inferido, sin probar o sin cubrir, con la brecha de evidencia de cada elemento no cubierto. Reglas deterministas, sin llamadas a LLM ni acceso a la red en tiempo de ejecución. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
