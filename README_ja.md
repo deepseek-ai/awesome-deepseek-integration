@@ -890,6 +890,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/sally-suite/open-office-copilot">Open Office Copilot</a> </td>
         <td> Open Office Copilot は、Microsoft Office と Google Workspace をサポートするオープンソースの Office アシスタントで、AI-Agent をベースにしています。Word での執筆、PowerPoint でのスライド生成、Excel でのデータ分析、Outlook でのメール作成などを支援します。</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/aazh2026/dsh-specgate/main/assets/icon-180.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/aazh2026/dsh-specgate">dsh-specgate</a> </td>
+        <td> 要件カバレッジを報告する DeepSeek Harness プラグイン。作業ディレクトリ内の受け入れ基準を走査し、各項目を covered、inferred、untested、uncovered のいずれかで報告し、未カバーの項目には根拠の欠落を示す。決定的なルールのみを使い、実行時に LLM 呼び出しもネットワークアクセスも行わない。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
