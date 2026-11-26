@@ -1148,6 +1148,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
+    <tr>
+        <td> <img src="https://apivale.com/logo.svg" alt="APIVALE" width="64" height="auto" /> </td>
+        <td> <a href="https://apivale.com/?utm_source=awesome-deepseek-integration&utm_medium=github&utm_campaign=providers"> APIVALE </a> </td>
+        <td> Unified OpenAI- & Anthropic-compatible AI API gateway providing instant pay-as-you-go access to DeepSeek-V4.1 Flash, DeepSeek-V4 Pro, Qwen 3.8 Max, GLM-5.3 Flash & Kimi K3 with PayPal and global cards. See <a href="https://github.com/apivale/apivale-guides">SDK Guides</a>. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
