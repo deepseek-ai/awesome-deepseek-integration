@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/hermoso-ai/hermoso/main/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/hermoso-ai/hermoso">Hermoso</a> </td>
+        <td> An AI marketing agent (MCP server, CLI and REST API) for researching competitor ads, making image and video ads, scheduling social posts and running ad campaigns. DeepSeek V3.1 and DeepSeek R1 are selectable writing models for its text generation, and the hosted MCP server (https://app.hermoso.ai/mcp) works from any MCP client, including agents running on DeepSeek. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
