@@ -1148,6 +1148,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
+    <tr>
+        <td> <img src="https://image.zhongzhuan.chat/2026/09/9e22704b83af.png" alt="Qianliu API" width="64" height="auto" /> </td>
+        <td> <a href="https://www.plusapi.cn/pricing?keyword=deepseek-v4.1-flash">Qianliu API</a> </td>
+        <td> Qianliu API is a pay-as-you-go gateway for DeepSeek V4.1 Flash. Its OpenAI-compatible chat endpoint accepts the model ID <code>deepseek-v4.1-flash</code>, and its public catalog lists input, cached-input and output rates by service group. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
