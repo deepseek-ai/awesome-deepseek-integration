@@ -992,6 +992,11 @@
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
         <td> AI/ML API 讓使用者只需透過一個 API，就能以企業級的方式存取 200 種以上的模型。 這包括 Deepseek R1 和 V3，以及封閉和開源模型。 所有服務的正常運行時間均為 99%，並提供 24/7 全天候的人力支援。</td>
     </tr>
+    <tr>
+        <td> <img src="https://image.zhongzhuan.chat/2026/09/9e22704b83af.png" alt="千流 API" width="64" height="auto" /> </td>
+        <td> <a href="https://www.plusapi.cn/pricing?keyword=deepseek-v4.1-flash">千流 API</a> </td>
+        <td> 千流 API 提供按用量計費的 DeepSeek V4.1 Flash 介面。透過相容 OpenAI 的對話端點可指定模型 <code>deepseek-v4.1-flash</code>，並可在公開目錄查閱各分組的輸入、快取命中輸入與輸出單價。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
