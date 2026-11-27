@@ -29,6 +29,7 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     - [IM アプリケーションプラグイン](#im-アプリケーションプラグイン)
     - [ブラウザ拡張機能](#ブラウザ拡張機能)
     - [VS Code 拡張機能](#vs-code-拡張機能)
+    - [Visual Studio 拡張機能](#visual-studio)
     - [neovim 拡張機能](#neovim-拡張機能)
     - [JetBrains 拡張機能](#jetbrains-拡張機能)
     - [AI コードエディタ](#ai-コードエディタ)
@@ -699,6 +700,18 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://github.com/JohnnyZ93/oai-compatible-copilot/blob/main/assets/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
         <td> GitHub Copilot で OpenAI 互換の推論プロバイダーを使用するためのオープンソースの VS Code 拡張機能です。 </td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
+###  <span id="visual-studio">Visual Studio 拡張機能</span>
+
+<table>
+    <tr>
+        <td> <img src="https://getiolys.com/img/brand-lab/13-code-compass-128.webp" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=iolys.iolys-visual-studio"> iolys </a> </td>
+        <td> Visual Studio 2026 での C# と .NET 開発向け AI コーディングアシスタント。ご自身の API キーで DeepSeek に接続でき、ほかにも多数の AI プロバイダーやツール（Claude、ChatGPT/Codex、Kimi、Kiro、Ollama など）に対応しています。 <a href="https://getiolys.com/providers/deepseek?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome-deepseek-integration">DeepSeek の設定</a>. </td>
     </tr>
 </table>
 

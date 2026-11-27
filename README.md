@@ -29,7 +29,7 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
     - [Office Addin](#office-addin)
     - [Browser Extensions](#browser-extensions)
     - [VS Code Extensions](#vs-code-extensions)
-    - [Visual Studio Extensions](#visual-studio-extensions)
+    - [Visual Studio Extensions](#visual-studio)
     - [neovim Extensions](#neovim-extensions)
     - [JetBrains Extensions](#jetbrains-extensions)
     - [Discord Bots](#discord-bots)
@@ -986,9 +986,14 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
-###  <span id="vs">Visual Studio Extensions</span>
+###  <span id="visual-studio">Visual Studio Extensions</span>
 
 <table>
+    <tr>
+        <td> <img src="https://getiolys.com/img/brand-lab/13-code-compass-128.webp" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=iolys.iolys-visual-studio"> iolys </a> </td>
+        <td> AI coding assistant for Visual Studio 2026 supporting DeepSeek with your own API key, alongside many other AI providers and tools (Claude, ChatGPT/Codex, Kimi, Kiro, Ollama, and more), for C# and .NET development. <a href="https://getiolys.com/providers/deepseek?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome-deepseek-integration">DeepSeek setup</a>. </td>
+    </tr>
     <tr>
         <td> <img src="https://merryyellow.gallerycdn.vsassets.io/extensions/merryyellow/comment2gpt/2.0.5/1739475434185/Microsoft.VisualStudio.Services.Icons.Default" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://marketplace.visualstudio.com/items?itemName=MerryYellow.Comment2GPT"> Comment2GPT </a> </td>

@@ -30,7 +30,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     - [Plugins de aplicaciones de mensajería instantánea](#plugins-de-aplicaciones-de-mensajería-instantánea)
     - [Extensiones para Navegadores](#extensiones-para-navegadores)
     - [Extensiones para VS Code](#extensiones-para-vs-code)
-    - [Extensiones de Visual Studio](#extensiones-de-visual-studio)
+    - [Extensiones de Visual Studio](#visual-studio)
     - [Extensiones de Neovim](#extensiones-de-neovim)
     - [Extensiones de JetBrains](#extensiones-de-jetbrains)
     - [Bots de Discord](#bots-de-discord)
@@ -765,9 +765,14 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
 
-###  <span id="vs">Extensiones de Visual Studio</span>
+###  <span id="visual-studio">Extensiones de Visual Studio</span>
 
 <table>
+    <tr>
+        <td> <img src="https://getiolys.com/img/brand-lab/13-code-compass-128.webp" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=iolys.iolys-visual-studio"> iolys </a> </td>
+        <td> Asistente de programación con IA para C# y .NET en Visual Studio 2026, compatible con DeepSeek mediante tu propia clave API y con muchos otros proveedores y herramientas de IA (Claude, ChatGPT/Codex, Kimi, Kiro, Ollama y más). <a href="https://getiolys.com/providers/deepseek?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome-deepseek-integration">Configuración de DeepSeek</a>. </td>
+    </tr>
     <tr>
         <td> <img src="https://merryyellow.gallerycdn.vsassets.io/extensions/merryyellow/comment2gpt/2.0.5/1739475434185/Microsoft.VisualStudio.Services.Icons.Default" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://marketplace.visualstudio.com/items?itemName=MerryYellow.Comment2GPT"> Comment2GPT </a> </td>
