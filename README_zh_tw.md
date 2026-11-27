@@ -64,7 +64,7 @@
     <tr>
         <td> <img src="docs/eechat/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td> <a href="https://github.com/Lucassssss/eechat">eechat</a></td>
-        <td> 簡潔易用的大型模型本地部署工具，支援開源模型 DeepSeek-R1、DLlama 3、Phi-4、Mistral、Gemma 3 等模型的本地化隱私部署，同時支援遠端大型模型 API 呼叫。</td>
+        <td> 簡潔易用的大型模型本地部署工具，支援開源模型 DeepSeek、DLlama 3、Phi-4、Mistral、Gemma 3 等模型的本地化隱私部署，同時支援遠端大型模型 API 呼叫。</td>
     </tr>
     <tr>
         <td> <img src="docs/aingdesk/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
@@ -100,7 +100,7 @@
     <tr>
         <td> <img src="https://i.imgur.com/FkbmMVG.png" alt="Icon" width="64" height="auto" /></td>
         <td> <a href="https://intellibar.app/">IntelliBar</a></td>
-        <td> IntelliBar 是一款美觀的 Mac 助手，讓您可以在 Mac 上的任何應用中使用先進的模型，例如 DeepSeek R1——例如在郵件應用中編輯電子郵件或在瀏覽器中摘要文章。</td>
+        <td> IntelliBar 是一款美觀的 Mac 助手，讓您可以在 Mac 上的任何應用中使用先進的模型，例如 DeepSeek——例如在郵件應用中編輯電子郵件或在瀏覽器中摘要文章。</td>
     </tr>
     <tr>
         <td> <img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
@@ -377,12 +377,12 @@
     <tr>
         <td> <img src="./docs/TigerGPT/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://ttm.financial/gpt">TigerGPT</a> </td>
-        <td> TigerGPT 是基於 OpenAI 的首款金融 AI 投資助理，由老虎集團開發。TigerGPT 旨在為投資者提供智慧投資決策支援。2025 年 2 月 18 日，TigerGPT 正式整合 DeepSeek-R1 模型，為用戶提供支援深度推理的在線問答服務。</td>
+        <td> TigerGPT 是基於 OpenAI 的首款金融 AI 投資助理，由老虎集團開發。TigerGPT 旨在為投資者提供智慧投資決策支援。2025 年 2 月 18 日，TigerGPT 正式整合 DeepSeek，為用戶提供支援深度推理的在線問答服務。</td>
     </tr>
     <tr>
         <td> <img src="./docs/HIX.AI/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://hix.ai">HIX.AI</a> </td>
-        <td> 免費試用 DeepSeek，享受無限制的 AI 聊天。在 HIX.AI 上使用 DeepSeek R1 進行 AI 聊天、寫作、編碼等。立即體驗下一代 AI 聊天！</td>
+        <td> 免費試用 DeepSeek，享受無限制的 AI 聊天。在 HIX.AI 上使用 DeepSeek 進行 AI 聊天、寫作、編碼等。立即體驗下一代 AI 聊天！</td>
     </tr>
     <tr>
         <td> <img src="https://github.com/sharmt1411/askanywhere/blob/main/icon/Depth_8,_Frame_0explore-%E8%A7%92%E6%A0%87.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
@@ -392,17 +392,17 @@
     <tr>
         <td> <img src="https://github.com/OJZen/1chat/raw/refs/heads/main/doc/assets/icon.ico?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/OJZen/1chat">1chat</a> </td>
-        <td> 一款 iOS 應用，可讓您在本機與 DeepSeek-R1 模型進行聊天。</td>
+        <td> 一款 iOS 應用，可讓您在本機與 DeepSeek 模型進行聊天。</td>
     </tr>
     <tr>
         <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI Chatbot" width="64" height="auto" /> </td>
         <td> <a href="https://chatlabsai.com">Access 250+ text, image LLMs in one app</a> </td>
-        <td> 1AI iOS 聊天機器人整合了 250 多種文本、圖像、語音模型，讓用戶能與包括 DeepSeek R1 和 DeepSeek V3 模型在內的任何模型進行聊天。</td>
+        <td> 1AI iOS 聊天機器人整合了 250 多種文本、圖像、語音模型，讓用戶能與包括 DeepSeek 在內的任何模型進行聊天。</td>
     </tr>
     <tr>
         <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
         <td> <a href="https://popai.pro">PopAi</a> </td>
-        <td> PopAi 推出 DeepSeek R1！享受零延遲與超高速效能，輕鬆切換在線搜索開關。</td>
+        <td> PopAi 推出 DeepSeek！享受零延遲與超高速效能，輕鬆切換在線搜索開關。</td>
     </tr>
     <tr>
         <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
@@ -422,7 +422,7 @@
     <tr>
         <td> <img src="https://www.tensorbounce.com/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td> <a href="https://github.com/jiqi136/DS-AI">LawAgent</a></td>
-        <td> LawAgent 是 Tensorbounce 團隊出品的知識庫結合 AI Agent 的法律 AI 產品，擁有上千萬官方法律相關知識庫數據，也允許客製化的知識庫配置。專業模式利用 DeepSeek-R1 的推理能力，協助使用者進行法律分析、合約審查、文件產生、檔案翻譯及其他法律情境。</td>
+        <td> LawAgent 是 Tensorbounce 團隊出品的知識庫結合 AI Agent 的法律 AI 產品，擁有上千萬官方法律相關知識庫數據，也允許客製化的知識庫配置。專業模式利用 DeepSeek，協助使用者進行法律分析、合約審查、文件產生、檔案翻譯及其他法律情境。</td>
     </tr>
     <tr>
         <td width=80> <img src="docs/AlphaBot/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -432,7 +432,7 @@
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/jiqi136/DS-AI">即時連網AI助手</a></td>
-        <td> AI助手支援DeepSeek-V3.1介面直連最強Claude Code代碼模型，無需網路中轉即可使用（成本直降90%）。 支援圖片、PDF檔案讀取及免費生成圖片；可自訂接入其他AI模型；支援呼叫本地瀏覽器即時聯網檢索海量網頁內容。另提供R1等免費模型選擇。
+        <td> AI助手支援DeepSeek介面直連最強Claude Code代碼模型，無需網路中轉即可使用（成本直降90%）。支援圖片、PDF檔案讀取及免費生成圖片；可自訂接入其他AI模型；支援呼叫本地瀏覽器即時聯網檢索海量網頁內容。
 </td>
 	</tr>
     <tr>
@@ -480,7 +480,7 @@
     <tr>
         <td width=80> <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/mascot_smol.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/huggingface/smolagents/tree/main"> smolagents </a> </td>
-        <td> 建立優質智慧體的最簡單方式。開發者撰寫 Python 程式碼來調用工具並協調其他智慧體。優先支援像 DeepSeek-R1 這樣的開放模型！</td>
+        <td> 建立優質智慧體的最簡單方式。開發者撰寫 Python 程式碼來調用工具並協調其他智慧體。優先支援像 DeepSeek 這樣的開放模型！</td>
     </tr>
     <tr>
         <td><img src="https://yomo.run/yomo-logo.png" alt="Icon" width="64" height="auto" /></td>
@@ -535,7 +535,7 @@
     <tr>
         <td width=80> <img src="docs/BotSharp/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/SciSharp/BotSharp"> BotSharp </a> </td>
-        <td> BotSharp 是一個開源的多智慧體應用開發框架，從簡單的聊天機器人，到多智慧體協作，以及複雜的任務如【Text To Sql】框架都提供了開箱即用的使用方法，可以快速地將大模型的能力接入到現有的業務系統中，並且內建知識庫和會話管理功能等，框架使用 DeepSeek V3 的模型進行了詳細的測試，得益於 DeepSeek V3 的性能，框架的表現不輸其他的閉源模型。 </td>
+        <td> BotSharp 是一個開源的多智慧體應用開發框架，從簡單的聊天機器人，到多智慧體協作，以及複雜的任務如【Text To Sql】框架都提供了開箱即用的使用方法，可以快速地將大模型的能力接入到現有的業務系統中，並且內建知識庫和會話管理功能等，框架使用 DeepSeek 的模型進行了詳細的測試，得益於 DeepSeek 的性能，框架的表現不輸其他的閉源模型。 </td>
     </tr>
      <tr>
         <td width=80> <img src="docs/eino/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -631,7 +631,7 @@
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/8455694b-c52e-40ec-847e-adf6a5ac064f" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Kiln-AI/Kiln"> Kiln </a> </td>
-        <td>生成合成資料集並將 R1 模型蒸餾為自訂微調模型。</td>
+        <td>生成合成資料集並將 DeepSeek 模型蒸餾為自訂微調模型。</td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/192579850?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
@@ -922,7 +922,7 @@
     <tr>
         <td> <img src="https://geneplore.com/img/geneplore_color_logo_circular.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/Geneplore AI/README.md"> Geneplore AI </a> </td>
-        <td> Geneplore AI 運行著最大的 AI Discord 機器人之一，現在搭載 DeepSeek v3 和 R1。 </td>
+        <td> Geneplore AI 運行著最大的 AI Discord 機器人之一，現在搭載 DeepSeek。 </td>
     </tr>
 </table>
 
@@ -990,7 +990,7 @@
     <tr>
         <td> <img src="./docs/aimlapi/aimlapi_logo.png"  alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
-        <td> AI/ML API 讓使用者只需透過一個 API，就能以企業級的方式存取 200 種以上的模型。 這包括 Deepseek R1 和 V3，以及封閉和開源模型。 所有服務的正常運行時間均為 99%，並提供 24/7 全天候的人力支援。</td>
+        <td> AI/ML API 讓使用者只需透過一個 API，就能以企業級的方式存取 200 種以上的模型。這包括 DeepSeek，以及封閉和開源模型。所有服務的正常運行時間均為 99%，並提供 24/7 全天候的人力支援。</td>
     </tr>
 </table>
 
@@ -1082,7 +1082,7 @@
     <tr>
         <td> <img src="http://gptlocalhost.com/wp-content/uploads/2025/01/icon_1024.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://youtu.be/T1my2gqi-7Q"> GPTLocalost </a> </td>
-        <td> 在 Microsoft Word 本地使用 DeepSeek-R1。無推理成本。 </td>
+        <td> 在 Microsoft Word 本地使用 DeepSeek。無推理成本。 </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/suqicloud/wp-ai-chat/raw/main/ic_logo.png" alt="Icon" width="64" height="auto" /> </td>

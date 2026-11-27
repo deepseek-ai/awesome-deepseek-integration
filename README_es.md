@@ -53,7 +53,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <tr>
         <td><img src="docs/eechat/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/Lucassssss/eechat">eechat</a></td>
-        <td>Una herramienta simple y fácil de usar para el despliegue local de modelos de lenguaje grandes, que admite el despliegue local privado de modelos de código abierto como DeepSeek-R1, DLlama 3, Phi-4, Mistral, Gemma 3, etc., y también es compatible con llamadas a API de LLM remotos.</td>
+        <td>Una herramienta simple y fácil de usar para el despliegue local de modelos de lenguaje grandes, que admite el despliegue local privado de modelos de código abierto como DeepSeek, DLlama 3, Phi-4, Mistral, Gemma 3, etc., y también es compatible con llamadas a API de LLM remotos.</td>
     </tr>
     <tr>
         <td><img src="docs/aingdesk/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
@@ -88,7 +88,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <tr>
         <td><img src="https://i.imgur.com/FkbmMVG.png" alt="Icono" width="64" height="auto" /></td>
         <td><a href="https://intellibar.app/">IntelliBar</a></td>
-        <td>IntelliBar es un asistente elegante para Mac que te permite usar modelos avanzados como DeepSeek R1 con cualquier aplicación en tu Mac, por ejemplo: editar correos electrónicos en tu aplicación de correo o resumir artículos en tu navegador.</td>
+        <td>IntelliBar es un asistente elegante para Mac que te permite usar modelos avanzados como DeepSeek con cualquier aplicación en tu Mac, por ejemplo: editar correos electrónicos en tu aplicación de correo o resumir artículos en tu navegador.</td>
     </tr>
     <tr>
         <td><img src="./docs/gptbots/gptbots.png" alt="Icono" width="64" height="auto" /> </td>
@@ -348,12 +348,12 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <tr>
         <td> <img src="./docs/TigerGPT/assets/logo.png" alt="Icono" width="64" height="auto" /> </td>
         <td> <a href="https://ttm.financial/gpt">TigerGPT</a> </td>
-        <td>TigerGPT es el primer asistente de inversión financiera basado en IA de su tipo, desarrollado por Tiger Group. TigerGPT tiene como objetivo proporcionar soporte para la toma de decisiones de inversión inteligente para los inversores. El 18 de febrero de 2025, TigerGPT integró oficialmente el modelo DeepSeek-R1 para proporcionar a los usuarios servicios de preguntas y respuestas en línea que admiten razonamiento profundo. </td>
+        <td>TigerGPT es el primer asistente de inversión financiera basado en IA de su tipo, desarrollado por Tiger Group. TigerGPT tiene como objetivo proporcionar soporte para la toma de decisiones de inversión inteligente para los inversores. El 18 de febrero de 2025, TigerGPT integró oficialmente DeepSeek para proporcionar a los usuarios servicios de preguntas y respuestas en línea que admiten razonamiento profundo. </td>
     </tr>
     <tr>
         <td> <img src="./docs/HIX.AI/assets/logo.svg" alt="Icono" width="64" height="auto" /> </td>
         <td> <a href="https://hix.ai">HIX.AI</a> </td>
-        <td>Prueba DeepSeek gratis y disfruta de chat ilimitado con IA en HIX.AI. Usa DeepSeek R1 para chat con IA, escritura, programación y más. ¡Experimenta el chat de próxima generación con IA ahora!</td>
+        <td>Prueba DeepSeek gratis y disfruta de chat ilimitado con IA en HIX.AI. Usa DeepSeek para chat con IA, escritura, programación y más. ¡Experimenta el chat de próxima generación con IA ahora!</td>
     </tr>
     <tr>
         <td> <img src="https://github.com/sharmt1411/askanywhere/blob/main/icon/Depth_8,_Frame_0explore-%E8%A7%92%E6%A0%87.png?raw=true" alt="Icono" width="64" height="auto" /> </td>
@@ -363,17 +363,17 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <tr>
         <td> <img src="https://github.com/OJZen/1chat/raw/refs/heads/main/doc/assets/icon.ico?raw=true" alt="Icono" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/OJZen/1chat">1chat</a> </td>
-        <td>Una aplicación iOS que te permite chatear con el modelo DeepSeek-R1 localmente.</td>
+        <td>Una aplicación iOS que te permite chatear con el modelo DeepSeek localmente.</td>
     </tr>
     <tr>
         <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI Chatbot" width="64" height="auto" /> </td>
         <td> <a href="https://chatlabsai.com">Accede a más de 250 modelos de texto e imagen LLM en una sola aplicación</a> </td>
-        <td> El chatbot 1AI para iOS integra más de 250 modelos de texto, imagen y voz, permitiendo a los usuarios chatear con cualquier modelo en el mundo, incluyendo los modelos Deepseek R1 y Deepseek V3.</td>
+        <td> El chatbot 1AI para iOS integra más de 250 modelos de texto, imagen y voz, permitiendo a los usuarios chatear con cualquier modelo en el mundo, incluyendo modelos de DeepSeek.</td>
     </tr>
     <tr>
         <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
         <td> <a href="https://popai.pro">PopAi</a> </td>
-        <td>PopAi lanza DeepSeek R1. Disfruta de un rendimiento ultrarrápido sin retrasos con PopAi. Cambia sin problemas la búsqueda en línea activada/desactivada.</td>
+        <td>PopAi lanza DeepSeek. Disfruta de un rendimiento ultrarrápido sin retrasos con PopAi. Cambia sin problemas la búsqueda en línea activada/desactivada.</td>
      </tr>
     <tr>
         <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
@@ -393,12 +393,12 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <tr>
         <td><img src="https://www.tensorbounce.com/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
-        <td>LawAgent es un producto de IA legal desarrollado por el equipo de Tensorbounce, que integra una base de conocimientos con capacidades de Agente IA. Cuenta con un vasto repositorio de decenas de millones de datos oficiales relacionados con el ámbito legal y también permite configuraciones personalizadas de la base de conocimientos. El modo profesional aprovecha las capacidades de razonamiento de DeepSeek-R1 para asistir a los usuarios en análisis legales, revisión de contratos, generación de documentos, traducción de archivos y otros escenarios legales.</td>
+        <td>LawAgent es un producto de IA legal desarrollado por el equipo de Tensorbounce, que integra una base de conocimientos con capacidades de Agente IA. Cuenta con un vasto repositorio de decenas de millones de datos oficiales relacionados con el ámbito legal y también permite configuraciones personalizadas de la base de conocimientos. El modo profesional aprovecha DeepSeek para asistir a los usuarios en análisis legales, revisión de contratos, generación de documentos, traducción de archivos y otros escenarios legales.</td>
     </tr>
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
 <td><a href="https://github.com/jiqi136/DS-AI">Asistente de IA con conexión en tiempo real</a></td>
-<td> BEl asistente de IA admite conexión directa a la interfaz DeepSeek-V3.1 con el potente modelo de código Claude Code, permitiendo su uso sin intermediarios de red (reducción de costes del 90%). Soporta lectura de imágenes y archivos PDF con generación gratuita de imágenes; permite integración personalizada con otros modelos de IA; habilita búsqueda en tiempo real en la web mediante navegador local. Además, ofrece opciones gratuitas como el modelo R1.
+<td> El asistente de IA admite conexión directa a la interfaz de DeepSeek con el potente modelo de código Claude Code, permitiendo su uso sin intermediarios de red (reducción de costes del 90%). Soporta lectura de imágenes y archivos PDF con generación gratuita de imágenes; permite integración personalizada con otros modelos de IA; habilita búsqueda en tiempo real en la web mediante navegador local.
 </td>
 	</tr>
     <tr>
@@ -442,7 +442,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <tr>
         <td width=80> <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/mascot_smol.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/huggingface/smolagents/tree/main"> smolagents </a> </td>
-        <td> La forma más sencilla de construir grandes agentes de IA. Los agentes utilizan código en Python para invocar herramientas y coordinar otros agentes. ¡Soporte prioritario para modelos abiertos como DeepSeek-R1! </td>
+        <td> La forma más sencilla de construir grandes agentes de IA. Los agentes utilizan código en Python para invocar herramientas y coordinar otros agentes. ¡Soporte prioritario para modelos abiertos como DeepSeek! </td>
     </tr>
     <tr>
         <td><img src="https://yomo.run/yomo-logo.png" alt="Icon" width="64" height="auto" /></td>
@@ -497,7 +497,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <tr>
         <td width=80> <img src="docs/BotSharp/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/SciSharp/BotSharp"> BotSharp </a> </td>
-        <td> BotSharp es un marco de desarrollo de aplicaciones multiagente de código abierto. Desde simples chatbots hasta colaboración multiagente y tareas complejas como el marco "Text To SQL", ofrece métodos listos para usar. Permite integrar rápidamente las capacidades de grandes modelos en sistemas empresariales existentes, y cuenta con funciones integradas de gestión de conocimiento y gestión de conversaciones. El marco ha sido probado exhaustivamente con el modelo DeepSeek V3, y gracias al rendimiento de DeepSeek V3, el marco no tiene nada que envidiar a otros modelos propietarios. </td>
+        <td> BotSharp es un marco de desarrollo de aplicaciones multiagente de código abierto. Desde simples chatbots hasta colaboración multiagente y tareas complejas como el marco "Text To SQL", ofrece métodos listos para usar. Permite integrar rápidamente las capacidades de grandes modelos en sistemas empresariales existentes, y cuenta con funciones integradas de gestión de conocimiento y gestión de conversaciones. El marco ha sido probado exhaustivamente con modelos DeepSeek, y gracias a su rendimiento, el marco no tiene nada que envidiar a otros modelos propietarios. </td>
     </tr>
      <tr>
             <td width=80> <img src="docs/eino/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -592,7 +592,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/8455694b-c52e-40ec-847e-adf6a5ac064f" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Kiln-AI/Kiln"> Kiln </a> </td>
-        <td>Genera conjuntos de datos sintéticos y destila modelos R1 en ajustes personalizados.</td>
+        <td>Genera conjuntos de datos sintéticos y destila modelos DeepSeek en ajustes personalizados.</td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/192579850?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
@@ -857,7 +857,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <tr>
         <td> <img src="https://geneplore.com/img/geneplore_color_logo_circular.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/Geneplore AI/README.md"> Geneplore AI </a> </td>
-        <td> Geneplore AI opera uno de los bots de Discord con IA más grandes, ahora con DeepSeek v3 y R1. </td>
+        <td> Geneplore AI opera uno de los bots de Discord con IA más grandes, ahora con DeepSeek. </td>
     </tr>
 </table>
 

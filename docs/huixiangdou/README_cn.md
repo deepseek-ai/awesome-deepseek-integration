@@ -50,7 +50,7 @@ enable_remote = 1
 remote_type = "deepseek"
 remote_api_key = "YOUR-API-KEY"
 remote_llm_max_text_length = 16000
-remote_llm_model = "deepseek-chat"
+remote_llm_model = "deepseek-v4-flash"
 ```
 
 **STEP3.** 运行

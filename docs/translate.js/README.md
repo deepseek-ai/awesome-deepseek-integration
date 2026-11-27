@@ -86,4 +86,3 @@ This is just the use in the most common scenario. In addition, for various frame
 
 # Open-source repository
 https://github.com/xnx3/translate  
-

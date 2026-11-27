@@ -73,7 +73,7 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
     <tr>
         <td><img src="docs/eechat/assets/logo.svg" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/Lucassssss/eechat">eechat</a></td>
-        <td>A simple and user-friendly tool for local deployment of large language models, supporting local private deployment of open-source models such as DeepSeek-R1, DLlama 3, Phi-4, Mistral, Gemma 3, etc., while also supporting remote LLM API calls.</td>
+        <td>A simple and user-friendly tool for local deployment of large language models, supporting local private deployment of open-source models such as DeepSeek, DLlama 3, Phi-4, Mistral, Gemma 3, etc., while also supporting remote LLM API calls.</td>
     </tr>
     <tr>
         <td><img src="https://openrouter.ai/brand/logo-grey.png" alt="Icon" width="64" height="auto" /></td>
@@ -115,7 +115,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td><img src="https://i.imgur.com/FkbmMVG.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://intellibar.app/">IntelliBar</a></td>
-        <td>IntelliBar is a beautiful assistant for the Mac that lets you use advanced models like DeepSeek R1 with any app on your Mac — ex: edit emails in your mail app or summarize articles in your browser.</td>
+        <td>IntelliBar is a beautiful assistant for the Mac that lets you use advanced models like DeepSeek with any app on your Mac — ex: edit emails in your mail app or summarize articles in your browser.</td>
     </tr>
     <tr>
         <td><img src="./docs/gptbots/gptbots.png" alt="Icon" width="64" height="auto" /> </td>
@@ -399,12 +399,12 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td> <img src="./docs/TigerGPT/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://ttm.financial/gpt">TigerGPT</a> </td>
-        <td>TigerGPT is the first financial AI investment assistant of its kind based on OpenAI, developed by Tiger Group. TigerGPT aims to provide intelligent investment decision-making support for investors. On February 18, 2025, TigerGPT officially integrated the DeepSeek-R1 model to provide users with online Q&A services that support deep reasoning. </td>
+        <td>TigerGPT is the first financial AI investment assistant of its kind based on OpenAI, developed by Tiger Group. TigerGPT aims to provide intelligent investment decision-making support for investors. On February 18, 2025, TigerGPT officially integrated DeepSeek to provide users with online Q&A services that support deep reasoning. </td>
     </tr>
     <tr>
         <td> <img src="./docs/HIX.AI/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://hix.ai">HIX.AI</a> </td>
-        <td>Try DeepSeek for free and enjoy unlimited AI chat on HIX.AI. Use DeepSeek R1 for AI chat, writing, coding & more. Experience next-gen AI chat now!</td>
+        <td>Try DeepSeek for free and enjoy unlimited AI chat on HIX.AI. Use DeepSeek for AI chat, writing, coding & more. Experience next-gen AI chat now!</td>
     </tr>
     <tr>
         <td> <img src="https://github.com/sharmt1411/askanywhere/blob/main/icon/Depth_8,_Frame_0explore-%E8%A7%92%E6%A0%87.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
@@ -414,17 +414,17 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td> <img src="https://github.com/OJZen/1chat/raw/refs/heads/main/doc/assets/icon.ico?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/OJZen/1chat">1chat</a> </td>
-        <td>An iOS app that lets you chat with the DeepSeek-R1 model locally.</td>
+        <td>An iOS app that lets you chat with the DeepSeek model locally.</td>
     </tr>
     <tr>
         <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI Chatbot" width="64" height="auto" /> </td>
         <td> <a href="https://chatlabsai.com">Access 250+ text, image LLMs in one app</a> </td>
-        <td> 1AI iOS Chatbot integrates with 250+ text, image, voice models allowing users chat with any model in the world including Deepseek R1 and Deepseek V3 models.</td>
+        <td> 1AI iOS Chatbot integrates with 250+ text, image, voice models allowing users chat with any model in the world including DeepSeek models.</td>
     </tr>
     <tr>
         <td> <img src="./docs/PopAi/assets/logo.svg" alt="PopAi" width="64" height="auto" /> </td>
         <td> <a href="https://popai.pro">PopAi</a> </td>
-        <td>PopAi launches DeepSeek R1!  Enjoy lag-free, lightning-fast performance with PopAi. Seamlessly toggle online search on/off.</td>
+        <td>PopAi launches DeepSeek. Enjoy lag-free, lightning-fast performance with PopAi. Seamlessly toggle online search on/off.</td>
     </tr>
     <tr>
         <td> <img src="https://pot-app.com/logo/icon.svg" alt="Icon" width="64" height="auto" /> </td>
@@ -444,7 +444,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td><img src="https://www.tensorbounce.com/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.tensorbounce.com/">LawAgent</a></td>
-        <td>LawAgent is a legal AI product developed by the Tensorbounce team, integrating a knowledge base with AI Agent capabilities. It boasts a vast repository of tens of millions of official legal-related data points and also allows for custom knowledge base configurations. The professional mode leverages the reasoning abilities of DeepSeek-R1 to assist users in legal analysis, contract review, document generation, file translation, and other legal scenarios.</td>
+        <td>LawAgent is a legal AI product developed by the Tensorbounce team, integrating a knowledge base with AI Agent capabilities. It boasts a vast repository of tens of millions of official legal-related data points and also allows for custom knowledge base configurations. The professional mode leverages DeepSeek to assist users in legal analysis, contract review, document generation, file translation, and other legal scenarios.</td>
     </tr>
     <tr>
         <td width=80> <img src="docs/AlphaBot/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -454,7 +454,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/jiqi136/DS-AI">Real-time Web-Access AI Assistant</a></td>
-        <td>The AI assistant supports direct API access to the strongest Claude Code model via the DeepSeek-V3.1 interface, enabling usage without network relay (costs slashed by 90%). It supports image and PDF file parsing with free image generation capabilities, allows custom integration of other AI models, and enables real-time web searches by connecting to local browsers for vast online content retrieval. Alternatively, free models online content retrieval. Alternatively, free models like R1 are also available.
+        <td>The AI assistant supports direct API access to the strongest Claude Code model via the DeepSeek interface, enabling usage without network relay (costs slashed by 90%). It supports image and PDF file parsing with free image generation capabilities, allows custom integration of other AI models, and enables real-time web searches by connecting to local browsers for vast online content retrieval.
 </td>
     </tr>
     <tr>
@@ -510,7 +510,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td> <img src="https://obsidian.md/favicon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/TarsLab/obsidian-tars">Obsidian Tars</a></td>
-        <td> Integrate LLM conversations into Obsidian's note editing, with deepseek-reasoner's CoT output in callout format. </td>
+        <td> Integrate LLM conversations into Obsidian's note editing, with DeepSeek thinking output in callout format. </td>
     </tr>
     <tr>
         <td> <img src="https://www.chatbotbuilder.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -520,12 +520,12 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td> <img src="https://bibigpt.co/icons/lucid/icon_32x32@2x.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="http://bibigpt.co">BibiGPT</a> </td>
-        <td> <a href="http://bibigpt.co">BibiGPT</a> is an AI audio/video assistant that supports content analysis and summarization from major platforms like Bilibili, YouTube, Xiaohongshu, and podcast platforms, making audio/video content faster to consume, easier to find, and better to use. Features include content summarization, interactive Q&A, and article generation. Supports video file uploads, note-taking app integration, and DeepSeek R1 and V3 models. </td>
+        <td> <a href="http://bibigpt.co">BibiGPT</a> is an AI audio/video assistant that supports content analysis and summarization from major platforms like Bilibili, YouTube, Xiaohongshu, and podcast platforms, making audio/video content faster to consume, easier to find, and better to use. Features include content summarization, interactive Q&A, and article generation. Supports video file uploads, note-taking app integration, and DeepSeek models. </td>
     </tr>
     <tr>
         <td> <img src="https://lobehub.com/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://lobehub.com/docs/usage/providers/deepseek">LobeChat</a> </td>
-        <td> <a href="https://lobehub.com">LobeChat</a> - an open-source, modern-design AI chat framework. Supports DeepSeek R1, Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private DeepSeek application </td>
+        <td> <a href="https://lobehub.com">LobeChat</a> - an open-source, modern-design AI chat framework. Supports DeepSeek, Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private DeepSeek application </td>
     </tr>
     <tr>
         <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
@@ -567,7 +567,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td width=80> <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/mascot_smol.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/huggingface/smolagents/tree/main"> smolagents </a> </td>
-        <td> The simplest way to build great agents. Agents write python code to call tools and orchestrate other agents. Priority support for open models like DeepSeek-R1!  </td>
+        <td> The simplest way to build great agents. Agents write python code to call tools and orchestrate other agents. Priority support for open models like DeepSeek.  </td>
     </tr>
     <tr>
         <td><img src="https://github.com/user-attachments/assets/865634cb-1383-4317-a895-dfcb15f11375" alt="Icon" width="64" height="auto" /></td>
@@ -643,7 +643,7 @@ With these functionalities, the AI assistant can summarize key points within an 
         <tr>
             <td width=80> <img src="docs/BotSharp/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
             <td> <a href="https://github.com/SciSharp/BotSharp"> BotSharp </a> </td>
-            <td> BotSharp is an open-source multi-agent application development framework. From simple chatbots to multi-agent collaboration and complex tasks like the Text To SQL framework, it provides out-of-the-box solutions to quickly integrate large model capabilities into existing business systems. It also includes built-in knowledge base and session management features. The framework has been thoroughly tested with DeepSeek V3 models, and thanks to the performance of DeepSeek V3, the framework's performance is on par with other proprietary models. </td>
+            <td> BotSharp is an open-source multi-agent application development framework. From simple chatbots to multi-agent collaboration and complex tasks like the Text To SQL framework, it provides out-of-the-box solutions to quickly integrate large model capabilities into existing business systems. It also includes built-in knowledge base and session management features. The framework has been thoroughly tested with DeepSeek models, and thanks to DeepSeek's performance, the framework's performance is on par with other proprietary models. </td>
         </tr>
            <tr>
             <td width=80> <img src="docs/eino/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -742,7 +742,7 @@ The purpose is to build infrastructure in the field of large models, through the
     <tr>
         <td> <img src="https://github.com/user-attachments/assets/8455694b-c52e-40ec-847e-adf6a5ac064f" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Kiln-AI/Kiln"> Kiln </a> </td>
-        <td>Generate synthetic datasets and distill R1 models into custom fine-tunes. </td>
+        <td>Generate synthetic datasets and distill DeepSeek models into custom fine-tunes. </td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/192579850?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
@@ -1078,7 +1078,7 @@ The purpose is to build infrastructure in the field of large models, through the
     <tr>
         <td> <img src="https://geneplore.com/img/geneplore_color_logo_circular.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/Geneplore AI/README.md"> Geneplore AI </a> </td>
-        <td> Geneplore AI runs one of the largest AI Discord bots, now with Deepseek v3 and R1. </td>
+        <td> Geneplore AI runs one of the largest AI Discord bots, now with DeepSeek. </td>
     </tr>
 </table>
 
@@ -1146,7 +1146,7 @@ The purpose is to build infrastructure in the field of large models, through the
     <tr>
         <td> <img src="./docs/aimlapi/aimlapi_logo.png"  alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://docs.aimlapi.com/api-references/text-models-llm?utm_source=awesome-deepseek-integrations&utm_medium=github&utm_campaign=integration"> AI/ML API </a> </td>
-        <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes Deepseek R1 and V3, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
+        <td> AI/ML API gives users enterprise-grade access to 200+ models with just one API. This includes DeepSeek, alongside closed and open-source models. All at 99% uptime and with 24/7 human support.</td>
     </tr>
 </table>
 
@@ -1243,7 +1243,7 @@ The purpose is to build infrastructure in the field of large models, through the
     <tr>
         <td> <img src="http://gptlocalhost.com/wp-content/uploads/2025/01/icon_1024.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://youtu.be/T1my2gqi-7Q"> GPTLocalost </a> </td>
-        <td> Use DeepSeek-R1 in Microsoft Word Locally. No inference costs. </td>
+        <td> Use DeepSeek in Microsoft Word Locally. No inference costs. </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/suqicloud/wp-ai-chat/raw/main/ic_logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -1308,7 +1308,7 @@ The purpose is to build infrastructure in the field of large models, through the
     <tr>
 <td></td>
         <td> <a href="https://github.com/informatico-madrid/blackwell-linux-infra-optimizer"> Blackwell Linux Infra Optimizer </a> </td>
-        <td> Optimized vLLM stack for NVIDIA Blackwell (SM_120) and Linux Kernel 6.14. Achieving 59.0 t/s on DeepSeek-R1-32B using native FlashInfer backend. </td>
+        <td> Optimized vLLM stack for NVIDIA Blackwell (SM_120) and Linux Kernel 6.14, achieving high-throughput inference on DeepSeek models using native FlashInfer backend. </td>
     </tr>
 </table>
 

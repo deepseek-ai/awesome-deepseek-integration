@@ -19,7 +19,7 @@ Intialize the DeepSeek LLM
 import { ChatDeepSeek } from "@langchain/deepseek";
 
 const deepseek = new ChatDeepSeek({
-  model: "deepseek-chat",
+  model: "deepseek-v4-flash",
   temperature: 0,
 });
 ```

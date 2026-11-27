@@ -12,7 +12,7 @@ AI Coding with Context Management.
 
 1. Click on the model selection button at bottom right
 2. Click on "DeepSeek API" to automatically fill in API Endpoint
-3. Enter model ID, for example `deepseek-chat` (for DeepSeek V3) or `deepseek-reasoner` (for DeepSeek R1)
+3. Enter model ID, for example `deepseek-v4-flash` or `deepseek-v4-pro`
 4. Enter your API key
 
 ![image](assets/16x_prompt_integration.png)
