@@ -470,6 +470,12 @@
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> 基於 DeepSeek 的 AI 主持人海龜湯 / 側向思維解謎產品，可單人或者多人遊玩。AI 進行控場與吐槽，圍繞「是 / 否 / 無關」的問答推進推理；提供沉浸式玩法（更強劇情氛圍與節奏引導）、引導提示與防卡關機制，同時結合向量檢索 + DeepSeek 進行題目去重，並提供內容審核能力。適合輕量腦洞訓練與在線陪玩。 </td>
     </tr>
+    <tr>
+        <td><img src="docs/duowen/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/duowen/README.md">多問AI</a></td>
+        <td>多問AI（duowen.app，英文品牌 Askmore）是託管式 AI 問答產品，使用者不必自備 API Key。預設一個主模型，可按需打開聯網搜尋和回答核驗；搜尋使用官方 DeepSeek Search，目錄中亦提供 DeepSeek 模型。</td>
+    </tr>
+
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>

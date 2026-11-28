@@ -404,6 +404,12 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
     </tr>
+    <tr>
+        <td><img src="docs/duowen/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/duowen/README.md">多问AI</a></td>
+        <td>多问AI（duowen.app）はホスト型の AI Q&amp;A サービスです。ユーザーは自分の API Key を用意する必要はありません。標準では 1 つの主力モデルで回答し、必要に応じてウェブ検索と回答検証リストを利用できます。検索には公式の DeepSeek Search API を使い、チャット用モデルにも DeepSeek を提供しています。</td>
+    </tr>
+
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
