@@ -435,7 +435,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     <tr>
         <td><img src="docs/duowen/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/duowen/README.md">多问AI</a></td>
-        <td>多问AI (duowen.app, marca en inglés Askmore) es un producto alojado de preguntas y respuestas con IA. Los usuarios no aportan su propia API key. Usa un modelo principal por defecto, con búsqueda web y una lista de verificación de respuestas opcionales. Utiliza DeepSeek para la búsqueda (API oficial DeepSeek Search) y como modelo de chat en el catálogo.</td>
+        <td>多问AI (duowen.app, marca en inglés Askmore) es un producto alojado de preguntas y respuestas con varios modelos. Los usuarios no aportan su propia API key; el uso se cobra en créditos. Puede elegir automáticamente el modelo principal y decidir si hace la misma pregunta a otros modelos, resumir coincidencias y diferencias, y opcionalmente fusionar las respuestas. La búsqueda web se ejecuta cuando hace falta (API oficial DeepSeek Search). Las respuestas incluyen puntos clave desplegables y una comprobación opcional de afirmaciones con fuentes. DeepSeek también está en el catálogo y es el modelo predeterminado para puntos clave y verificación.</td>
     </tr>
 
 </table>

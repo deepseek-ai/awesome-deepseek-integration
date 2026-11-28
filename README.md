@@ -560,7 +560,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td><img src="docs/duowen/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/duowen/README.md">多问AI</a></td>
-        <td>多问AI (duowen.app, English brand Askmore) is a hosted AI Q&A product. Users do not bring their own API keys. It defaults to one main model, with optional web search and an answer-verification checklist, and uses DeepSeek for search (official DeepSeek Search API) as well as a catalog chat model.</td>
+        <td>多问AI (duowen.app, English brand Askmore) is a hosted multi-model Q&A product. Users do not bring their own API keys; usage is billed in credits. It can automatically choose a main model and whether to ask other models the same question, then summarize where the answers agree and differ and optionally merge them. Web search runs when needed (official DeepSeek Search API). Answers include expandable key points and an optional source-check on claims. DeepSeek is also a catalog chat model and the default model for key points and claim verification.</td>
     </tr>
 
 </table>

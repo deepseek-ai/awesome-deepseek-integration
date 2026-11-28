@@ -474,7 +474,7 @@
     <tr>
         <td><img src="docs/duowen/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/duowen/README.md">多问AI</a></td>
-        <td>多问AI（duowen.app，英文品牌 Askmore）是托管式 AI 问答产品，用户不必自备 API Key。默认一个主模型，可按需打开联网搜索和回答核验；搜索使用官方 DeepSeek Search，目录中亦提供 DeepSeek 模型。</td>
+        <td>多问AI（duowen.app，英文品牌 Askmore）是托管式多模型问答产品，用户不必自备 API Key，按点数使用。可自动选择主答模型并决定要不要一起问其他模型，整理各家回答的共同点与分歧（异同分析），并可选融合成一个回答；需要时自动联网搜索（官方 DeepSeek Search API）。回答可展开要点，并可对主张做出处核验。DeepSeek 也作为目录聊天模型，并作为要点与核验的默认模型。</td>
     </tr>
 
 </table>
