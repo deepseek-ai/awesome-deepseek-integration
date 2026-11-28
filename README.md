@@ -484,8 +484,8 @@ With these functionalities, the AI assistant can summarize key points within an 
     </tr>
     <tr>
         <td> <img src="https://mindpal.space/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://mindpal.io">MindPal</a> </td>
-        <td> <a href="https://mindpal.io">MindPal</a> is a platform to build AI Agents and Multi-agent Systems to automate any business processes </td>
+        <td> <a href="https://mindpal.space">MindPal</a> </td>
+        <td> <a href="https://mindpal.space">MindPal</a> is where coaches, consultants, agencies and educators turn their expertise into AI tools, chatbots and multi-agent workflows for their clients, team and audience, with no code. DeepSeek models, including DeepSeek V4 and R1, can be chosen for any agent alongside GPT, Claude and Gemini. </td>
     </tr>
     <tr>
         <td> <img src="https://3min.top/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
