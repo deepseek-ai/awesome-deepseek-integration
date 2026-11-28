@@ -46,6 +46,11 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
 
 <table>
     <tr>
+        <td><img src="docs/Sol-Next/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/Sol-Next/README.md">Sol Next</a></td>
+        <td>Sol Next (`v0.1.0-beta`, Apache-2.0) is an open-source System-0 autonomous Android 10–16 agent (HarmonyOS not supported) with companion research paper, focused on speed and token efficiency (zero-context-bloat skill crystallization, `-90.7%` to `-100%` tokens, BYOK DeepSeek/OpenAI/Ollama, zero embedded keys, Rust stdio MCP server).</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) is a flagship AI client explicitly tailored for watchOS and iOS. It features a watch-first design, aesthetic UI, seamless sync between devices, and deep system integration. Supports multiple models including DeepSeek, redefining AI interaction on your wrist.</td>
