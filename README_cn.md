@@ -42,6 +42,11 @@
 
 <table>
     <tr>
+        <td><img src="docs/Sol-Next/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/Sol-Next/README.md">Sol Next</a></td>
+        <td>Sol Next（`v0.1.0-beta` 第一版公开测试版，Apache-2.0，仅支持 Android 10–16，不支持鸿蒙系统）是聚焦“快与省 Token”的开源 System-0 移动智能体（附同仓学术论文）：支持 System-0 零上下文膨胀技能结晶（`5–200 ms` / 0 Token）、双级界面树压缩（首跑省 90.7% Token）、零内置密钥自由配置 DeepSeek/Ollama 与 Rust MCP Server。</td>
+    </tr>
+    <tr>
         <td><img src="docs/ETOS-LLM-Studio/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/ETOS-LLM-Studio/README.md">ETOS LLM Studio</a></td>
         <td>ETOS LLM Studio (ELS) 是一款专为 watchOS 与 iOS 深度定制的旗舰级 AI 客户端。它拥有“腕上智核”的独立交互体验、极简的律动美学设计以及全端联动的无缝体验。支持 DeepSeek 等多种模型，重塑你手腕上的 AI 交互维度。</td>
