@@ -404,6 +404,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
     </tr>
+    <tr>
+        <td><img src="docs/qduo/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/qduo/README.md">QDuo</a></td>
+        <td><a href="https://github.com/XueshiQiao/qduo">QDuo</a> はオープンソースのネイティブ macOS テキスト選択アクションアプリです。任意のアプリでテキストを選択するとカーソル付近にポップアップが表示され、翻訳・差分付き推敲・解説・読み上げ・カスタムプロンプトを実行してそのまま置換でき、DeepSeek をデフォルトの AI プロバイダーとして内蔵しています。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

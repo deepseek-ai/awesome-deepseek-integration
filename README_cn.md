@@ -471,6 +471,11 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td><img src="docs/qduo/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/qduo/README_cn.md">QDuo</a></td>
+        <td><a href="https://github.com/XueshiQiao/qduo">QDuo</a> 是一款开源的原生 macOS 划词动作弹窗应用。在任意应用里选中文字，光标旁即可弹出翻译、对比后润色、解释、朗读或自定义提示词动作，并将结果直接写回原处；默认内置 DeepSeek 官方 API 接入。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
