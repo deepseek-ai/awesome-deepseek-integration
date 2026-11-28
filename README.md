@@ -557,6 +557,12 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td><img src="docs/duowen/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/duowen/README.md">多问AI</a></td>
+        <td>多问AI (duowen.app, English brand Askmore) is a hosted multi-model Q&A product. Users do not bring their own API keys; usage is billed in credits. It can automatically choose a main model and whether to ask other models the same question, then summarize where the answers agree and differ and optionally merge them. Web search runs when needed (official DeepSeek Search API). Answers include expandable key points and an optional source-check on claims. DeepSeek is also a catalog chat model and the default model for key points and claim verification.</td>
+    </tr>
+
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>

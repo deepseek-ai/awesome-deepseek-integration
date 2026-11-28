@@ -432,6 +432,12 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> Un juego de enigmas de pensamiento lateral tipo "Sopa de Tortuga" con un anfitrión de IA basado en DeepSeek, disponible para uno o varios jugadores. La IA modera la partida e interactúa con humor, guiando la deducción mediante respuestas de "Sí / No / Irrelevante". Ofrece una experiencia inmersiva con una fuerte atmósfera narrativa, gestión del ritmo y un sistema de pistas para evitar bloqueos. Integra búsqueda vectorial y DeepSeek para evitar la repetición de acertijos e incluye moderación de contenido. Ideal para entrenar la creatividad y como entretenimiento social en línea. </td>
     </tr>
+    <tr>
+        <td><img src="docs/duowen/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/duowen/README.md">多问AI</a></td>
+        <td>多问AI (duowen.app, marca en inglés Askmore) es un producto alojado de preguntas y respuestas con varios modelos. Los usuarios no aportan su propia API key; el uso se cobra en créditos. Puede elegir automáticamente el modelo principal y decidir si hace la misma pregunta a otros modelos, resumir coincidencias y diferencias, y opcionalmente fusionar las respuestas. La búsqueda web se ejecuta cuando hace falta (API oficial DeepSeek Search). Las respuestas incluyen puntos clave desplegables y una comprobación opcional de afirmaciones con fuentes. DeepSeek también está en el catálogo y es el modelo predeterminado para puntos clave y verificación.</td>
+    </tr>
+
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

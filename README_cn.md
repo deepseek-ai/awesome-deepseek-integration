@@ -471,6 +471,12 @@
         <td> <a href="https://www.aispire.info">AIspire</a> </td>
         <td> AIspire是一个辅助AI学术写作的全能助手，从学术问题解答、学术灵感发现、文献管理、辅助阅读到全自动化AI辅助写作，让你的科研更精准、更高效。 </td>
     </tr>
+    <tr>
+        <td><img src="docs/duowen/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/duowen/README.md">多问AI</a></td>
+        <td>多问AI（duowen.app，英文品牌 Askmore）是托管式多模型问答产品，用户不必自备 API Key，按点数使用。可自动选择主答模型并决定要不要一起问其他模型，整理各家回答的共同点与分歧（异同分析），并可选融合成一个回答；需要时自动联网搜索（官方 DeepSeek Search API）。回答可展开要点，并可对主张做出处核验。DeepSeek 也作为目录聊天模型，并作为要点与核验的默认模型。</td>
+    </tr>
+
 </table>
 
 <p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
