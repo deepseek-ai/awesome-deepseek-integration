@@ -470,6 +470,11 @@
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> 基於 DeepSeek 的 AI 主持人海龜湯 / 側向思維解謎產品，可單人或者多人遊玩。AI 進行控場與吐槽，圍繞「是 / 否 / 無關」的問答推進推理；提供沉浸式玩法（更強劇情氛圍與節奏引導）、引導提示與防卡關機制，同時結合向量檢索 + DeepSeek 進行題目去重，並提供內容審核能力。適合輕量腦洞訓練與在線陪玩。 </td>
     </tr>
+    <tr>
+        <td><img src="docs/qduo/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/qduo/README_cn.md">QDuo</a></td>
+        <td><a href="https://github.com/XueshiQiao/qduo">QDuo</a> 是一款開源的原生 macOS 劃詞動作彈窗應用。在任意應用中選取文字，游標旁即可彈出翻譯、對比後潤飾、解釋、朗讀或自訂提示詞動作，並將結果直接寫回原處；預設內建 DeepSeek 官方 API 接入。</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>

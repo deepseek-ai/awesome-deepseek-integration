@@ -432,6 +432,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> Un juego de enigmas de pensamiento lateral tipo "Sopa de Tortuga" con un anfitrión de IA basado en DeepSeek, disponible para uno o varios jugadores. La IA modera la partida e interactúa con humor, guiando la deducción mediante respuestas de "Sí / No / Irrelevante". Ofrece una experiencia inmersiva con una fuerte atmósfera narrativa, gestión del ritmo y un sistema de pistas para evitar bloqueos. Integra búsqueda vectorial y DeepSeek para evitar la repetición de acertijos e incluye moderación de contenido. Ideal para entrenar la creatividad y como entretenimiento social en línea. </td>
     </tr>
+    <tr>
+        <td><img src="docs/qduo/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="docs/qduo/README.md">QDuo</a></td>
+        <td><a href="https://github.com/XueshiQiao/qduo">QDuo</a> es una aplicación nativa y de código abierto para macOS de acciones sobre texto seleccionado. Selecciona texto en cualquier app para traducir, pulir con vista de diferencias, explicar, leer en voz alta o ejecutar prompts personalizados junto al cursor, con DeepSeek integrado como proveedor de IA predeterminado.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
